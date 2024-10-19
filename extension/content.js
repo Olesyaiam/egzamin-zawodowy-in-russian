@@ -6,9 +6,7 @@
     const switchSelectors = []
 
     const selectors = {
-        "question": [
-            '#question_form > fieldset'
-        ],
+        "question": "#question_text",
         "others": [
             "td > label"
         ]
@@ -463,18 +461,15 @@
     let emptyRemoved = false;
 
     setInterval(function () {
-        let question_selector = '#question_text'
-
-        if (!document.querySelector(question_selector)) {
-            // Находим шестой узел (childNodes[6] содержит текст вопроса)
+        if (!document.querySelector(selectors['question'])) {
             let fieldset = document.querySelector('#question_form > fieldset');
-            let questionTextNode = fieldset.childNodes[6];
-        
+            let questionTextNode = fieldset.childNodes[5];
+
             // Проверяем, что узел действительно существует и является текстом
             if (questionTextNode && questionTextNode.nodeType === Node.TEXT_NODE) {
                 // Создаем новый элемент div с id="question_text"
                 let div = document.createElement('div');
-                div.id = question_selector.slice(1);
+                div.id = selectors['question'].slice(1);
         
                 // Добавляем текст вопроса в div
                 div.textContent = questionTextNode.textContent.trim();
@@ -486,7 +481,7 @@
 
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
 
-        switchSelectors.concat(selectors['question']).forEach(selector => processSwitch(selector));
+        switchSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {

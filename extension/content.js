@@ -463,8 +463,9 @@
     let emptyRemoved = false;
 
     setInterval(function () {
+        let question_selector = '#question_text'
 
-        if (!document.querySelector('#question_text')) {
+        if (!document.querySelector(question_selector)) {
             // Находим шестой узел (childNodes[6] содержит текст вопроса)
             let fieldset = document.querySelector('#question_form > fieldset');
             let questionTextNode = fieldset.childNodes[6];
@@ -473,7 +474,7 @@
             if (questionTextNode && questionTextNode.nodeType === Node.TEXT_NODE) {
                 // Создаем новый элемент div с id="question_text"
                 let div = document.createElement('div');
-                div.id = 'question_text';
+                div.id = question_selector.slice(1);
         
                 // Добавляем текст вопроса в div
                 div.textContent = questionTextNode.textContent.trim();

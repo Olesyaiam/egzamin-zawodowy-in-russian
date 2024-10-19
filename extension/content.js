@@ -3,38 +3,14 @@
 
     const baseUrl = 'http://145.239.80.201:8081/'
 
-    const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
-    const switchAdditionalPlaceSelectors = [
-        '#learnings-list > div:nth-child(1) > div:nth-child(2)',
-        '#learning-check > div:nth-child(5)'
-    ]
+    const switchSelectors = []
 
-    const selectorLogout = "//a[@href='/wyloguj']"
     const selectors = {
         "question": [
-            '#question-content',
-            '#report-question-content',
-            "#q-result-question",
-            "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[not(contains(@class, 'toggle-switch'))][1]"
+            '#question_form > fieldset'
         ],
         "others": [
-            "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
-            '#a-answer',
-            '#b-answer',
-            '#c-answer',
-            '#report-explanation',
-            '#q-result-explanation',
-            '#learning-success-tr2 > td > div:not([class]):not([id])',
-            '#learning-failure-tr2 > td:first-child',
-            '#learning-failure-tr3 > td:first-child',
-            '#report-a-answer',
-            '#report-b-answer',
-            '#report-c-answer',
-            '#a0',
-            '#a1',
-            '#a2',
-            'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
-            'div.panel-body.card-panel > div.card-body'
+            "td > label"
         ]
     };
 
@@ -85,9 +61,7 @@
         }
     ];
 
-    let registrationDate = null
     let contentCache = {};
-    let favoritesObject = {};
     let switchIds = new Set();
 
     function simpleHash(str) {
@@ -99,69 +73,6 @@
         }
 
         return Math.abs(hash).toString();
-    }
-
-    function loadRegistrationDateAndFavorites() {
-        let xpathResult = document.evaluate(
-            selectorLogout,
-            document,
-            null,
-            XPathResult.FIRST_ORDERED_NODE_TYPE,
-            null
-        );
-
-        if (xpathResult.singleNodeValue) {
-            registrationDate = loadFromCacheRegistrationDate()
-            console.log("The user is logged in. Registration date from the cache: " + registrationDate);
-            favoritesObject = loadFavoritesFromCache()
-
-            fetch('/moje-konto')
-                .then(response => response.text())
-                .then(html => {
-                    let match = html.match(regexRegistrationDate);
-
-                    if (match) {
-                        registrationDate = match[1]
-                        saveToCacheRegistrationDate(registrationDate)
-
-                        if (window.location.pathname === '/moje-konto') {
-                            makeHttpRequest('favorites/getFull', {registration_date: registrationDate}, function (result) {
-                                if (result.favorites_full) {
-                                    createFavoriteQuestionsElement(result.favorites_full)
-                                }
-                            });
-                        } else {
-                            loadFavorites(registrationDate)
-                        }
-                    }
-                })
-                .catch(error => console.error('Error fetching the data:', error));
-        } else {
-            console.log("The user is logged out");
-            registrationDate = null
-            saveToCacheRegistrationDate(registrationDate)
-        }
-    }
-
-    function addMenuItem(menuTitle, menuLink) {
-        const menu = document.getElementById('nav');
-
-        if (!menu) {
-            console.error('Menu element not found');
-            return;
-        }
-
-        const newMenuItem = document.createElement('li');
-        const link = document.createElement('a');
-
-        link.target = "_blank"
-        link.href = menuLink;
-        link.textContent = menuTitle;
-        link.style.fontWeight = 'bold';
-        link.style.animation = 'blink 1s step-start infinite';
-
-        newMenuItem.appendChild(link);
-        menu.prepend(newMenuItem);
     }
 
     function createHint(mouseX, mouseY) {
@@ -229,7 +140,6 @@
         let switchState = loadFromCacheSwitchState()
         localStorage.clear();
         saveToCacheSwitchState(switchState)
-        saveToCacheRegistrationDate(registrationDate)
 
         makeHttpRequest(endpoint, {text: translation}, function (result) {
             console.log(endpoint + " " + translation + ": " + result);
@@ -255,139 +165,6 @@
         };
 
         span.appendChild(link);
-    }
-
-    function createFavoritesEmojiLink(span, text) {
-        const titleAdd = 'Добавить в список сложных';
-        const titleRemove = 'Убрать из списка сложных';
-        const emojiAdded = ' ⭐ ';
-        const emojiNotAdded = ' ☆ ';
-
-        const match = window.location.href.match(/,(\d+)$/);
-        let questionId = match ? match[1] : null;
-        let addedToFavorites = questionId ? localFavoritesFindQuestionId(questionId) : localFavoritesCheckText(text);
-
-        const link = document.createElement('a');
-        let hintText
-
-        if (registrationDate) {
-            hintText = addedToFavorites ? titleRemove : titleAdd;
-            link.href = '#';
-            link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
-
-            link.onclick = (e) => {
-                e.preventDefault();
-                addedToFavorites = !addedToFavorites;
-                link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
-                hintText = addedToFavorites ? titleRemove : titleAdd;
-
-                if (addedToFavorites) {
-                    addToFavoritesIfNotPresent(text, questionId)
-                } else {
-                    removeFromFavorites(text, questionId)
-                }
-            };
-        } else {
-            hintText = 'Для добавления вопроса в "избранные" нужно зарегистрироваться и авторизоваться на этом сайте (никакие личные данные никуда не передаются, в плагине для ведения списка избранных вопросов используется только обезличенный идентификатор вашего аккаунта)'
-            link.href = '/zaloguj'
-            link.target = '_blank'
-            link.innerHTML = emojiNotAdded
-        }
-
-        let hintElement;
-
-        link.onmouseover = (e) => {
-            hintElement = createTextHint(
-                hintText,
-                e.clientX + 10,
-                e.clientY + 10
-            );
-        };
-
-        link.onmouseout = () => {
-            if (hintElement) document.body.removeChild(hintElement);
-        };
-
-        span.appendChild(link);
-    }
-
-    function localFavoritesCheckText(text) {
-        return Object.values(favoritesObject).includes(text);
-    }
-
-    function localFavoritesFindQuestionId(questionId) {
-        if (questionId in favoritesObject) {
-            return favoritesObject[questionId];
-        }
-
-        return null;
-    }
-
-    function localFavoritesAddByQuestionId(questionId, text) {
-        favoritesObject[questionId] = text;
-        console.log('Added to local Favorites: ' + questionId);
-    }
-
-    function localFavoritesRemoveByText(text) {
-        for (let key in favoritesObject) {
-            if (favoritesObject[key] === text) {
-                delete favoritesObject[key];
-                console.log(`'${key}' was removed from Favorites.`);
-            }
-        }
-    }
-
-    function localFavoritesRemoveById(questionId) {
-        if (questionId in favoritesObject) {
-            delete favoritesObject[questionId];
-            console.log('Removed from local Favorites: ' + questionId);
-        }
-    }
-
-    function addToFavoritesIfNotPresent(translation, questionId) {
-        if (questionId) {
-            if (localFavoritesFindQuestionId(questionId)) {
-                console.log('Already is in local Favorites: ' + translation);
-            } else {
-                localFavoritesAddByQuestionId(questionId, translation)
-            }
-        }
-
-        makeHttpRequest(
-            'favorites/add',
-            {question_or_id: (questionId ? questionId : translation), registration_date: registrationDate},
-            function (result) {
-                if (result.error === null) {
-                    console.log('Added to API Favorites: ' + translation);
-                    setFavorites(result)
-                } else {
-                    console.log('Error adding to API Favorites: ' + translation);
-                }
-            }
-        );
-    }
-
-    function removeFromFavorites(text, questionId) {
-        if (questionId) {
-            localFavoritesRemoveById(questionId)
-        } else {
-            localFavoritesRemoveByText(text);
-        }
-
-        let questionOrId = questionId ? questionId : text
-
-        makeHttpRequest(
-            'favorites/remove',
-            {question_or_id: questionOrId, registration_date: registrationDate},
-            function (result) {
-                if (result.error === null) {
-                    console.log('Removed from API Favorites: ' + questionOrId);
-                    setFavorites(result)
-                } else {
-                    console.log('Error removing from API Favorites: ' + questionOrId);
-                }
-            }
-        );
     }
 
     function setSwitchState(event = null) {
@@ -436,12 +213,6 @@
     }
 
     function prepareTranslationElementAndAddToDom(category, element, translation, originalText) {
-        if (category === 'question') {
-            const spanForFavorite = document.createElement('span');
-            createFavoritesEmojiLink(spanForFavorite, originalText);
-            element.appendChild(spanForFavorite);
-        }
-
         const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -538,19 +309,6 @@
         }
 
         return null;
-    }
-
-    function saveFavoritesToCache(favorites) {
-        localStorage.setItem('favorites', JSON.stringify(favorites));
-    }
-
-    function loadFavoritesFromCache() {
-        const jsonData = localStorage.getItem('favorites');
-        const favoritesFromCache = jsonData ? JSON.parse(jsonData) : {}
-        console.log("Favorites from the cache:");
-        console.log(Object.keys(favoritesFromCache));
-
-        return favoritesFromCache;
     }
 
     function translateText(text, callback) {
@@ -702,73 +460,32 @@
         }
     }
 
-    function setFavorites(result) {
-        if (result.error === null && typeof result.favorites === 'object' && result.favorites !== null) {
-            favoritesObject = result.favorites;
-            saveFavoritesToCache(favoritesObject)
-            console.log('Favorites loaded successfully from API:', Object.keys(favoritesObject));
-        } else {
-            console.error('Failed to load favorites from API:', result.error);
-        }
-    }
-
-    function loadFavorites(registrationDate) {
-        makeHttpRequest('favorites/get', {registration_date: registrationDate}, function (result) {
-            if (result.favorites) {
-                setFavorites(result)
-                addMenuItem(
-                    'ИЗБРАННОЕ',
-                    'https://www.teoria.pl/moje-konto'
-                )
-            }
-        });
-    }
-
-    function createFavoriteQuestionsElement(favorites) {
-        const container = document.createElement('div');
-        container.className = 'row'
-        container.appendChild(document.createElement('br'));
-        container.appendChild(document.createElement('br'));
-        container.appendChild(document.createElement('br'));
-
-        const header = document.createElement('h2');
-        header.textContent = 'Мои избранные вопросы';
-        container.appendChild(header);
-        container.appendChild(document.createElement('br'));
-
-        Object.keys(favorites).forEach(question => {
-            const questionHeader = document.createElement('h3');
-            questionHeader.textContent = question;
-            container.appendChild(questionHeader);
-
-            const list = document.createElement('ol');
-            favorites[question].forEach(id => {
-                const listItem = document.createElement('li');
-                const link = document.createElement('a');
-                link.href = `https://www.teoria.pl/pytania-na-prawo-jazdy-z-odpowiedziami/,${id}`;
-                link.textContent = id;
-                link.target = '_blank';
-                listItem.appendChild(link);
-                list.appendChild(listItem);
-            });
-            container.appendChild(list);
-        });
-
-        const container2 = document.createElement('div');
-        container2.className = 'container'
-        container2.appendChild(container);
-        document.body.insertBefore(container2, document.querySelector('body > footer'));
-    }
-
-    loadRegistrationDateAndFavorites()
     let emptyRemoved = false;
 
     setInterval(function () {
-        for (let category in selectors) {
-            selectors[category].forEach(selector => processSelector(selector, category));
+
+        if (!document.querySelector('#question_text')) {
+            // Находим шестой узел (childNodes[6] содержит текст вопроса)
+            let fieldset = document.querySelector('#question_form > fieldset');
+            let questionTextNode = fieldset.childNodes[6];
+        
+            // Проверяем, что узел действительно существует и является текстом
+            if (questionTextNode && questionTextNode.nodeType === Node.TEXT_NODE) {
+                // Создаем новый элемент div с id="question_text"
+                let div = document.createElement('div');
+                div.id = 'question_text';
+        
+                // Добавляем текст вопроса в div
+                div.textContent = questionTextNode.textContent.trim();
+        
+                // Заменяем оригинальный текстовый узел на новый div
+                fieldset.replaceChild(div, questionTextNode);
+            }
         }
 
-        switchAdditionalPlaceSelectors.concat(selectors['question']).forEach(selector => processSwitch(selector));
+        selectors['others'].forEach(selector => processSelector(selector, 'others'));
+
+        switchSelectors.concat(selectors['question']).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {
@@ -781,20 +498,6 @@
         if (videoElement) {
             videoElement.controls = true;
         }
-
-        let imgElement = document.querySelector('img.img-responsive');
-
-        imgElement.addEventListener('click', function () {
-            if (imgElement.requestFullscreen) {
-                imgElement.requestFullscreen();
-            } else if (imgElement.mozRequestFullScreen) {
-                imgElement.mozRequestFullScreen();
-            } else if (imgElement.webkitRequestFullscreen) {
-                imgElement.webkitRequestFullscreen();
-            } else if (imgElement.msRequestFullscreen) {
-                imgElement.msRequestFullscreen();
-            }
-        });
 
         selectorsToRemove.forEach(function (item) {
             let elements = document.querySelectorAll(item.selector);

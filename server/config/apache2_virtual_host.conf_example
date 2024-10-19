@@ -1,7 +1,7 @@
 <VirtualHost *:8081>
-    DocumentRoot /home/user/egzamin-zawodowy-in-russian/server/public
+    DocumentRoot /home/user/GitHub/egzamin-zawodowy-in-russian/server/public
 
-    <Directory /home/user/egzamin-zawodowy-in-russian/server/public>
+    <Directory /home/user/GitHub/egzamin-zawodowy-in-russian/server/public>
         Options -Indexes +FollowSymLinks
         AllowOverride None
         Require all granted

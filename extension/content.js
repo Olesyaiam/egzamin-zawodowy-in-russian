@@ -8,54 +8,16 @@
     const selectors = {
         "question": "#question_text",
         "others": [
+            //"#eztr_pod_pytaniem > div > div > div",
+            "div.wyjasnienie_pytania > div.alert",
             "td > label"
         ]
     };
 
     let selectorsToRemove = [
         {
-            selector: '.right-a.right-a-nl',
+            selector: 'div.wyjasnienie_pytania > div > b > i',
             deleteLevel: 0
-        },
-        {
-            selector: '.google-auto-placed',
-            deleteLevel: 0
-        },
-        {
-            selector: 'iframe',
-            deleteLevel: 0
-        },
-        {
-            selector: 'div > .adsbygoogle',
-            deleteLevel: 1
-        },
-        {
-            selector: '.adsbygoogle',
-            deleteLevel: 0
-        },
-        {
-            selector: '.cc_banner-wrapper',
-            deleteLevel: 0
-        },
-        {
-            selector: '.google-revocation-link-placeholder',
-            deleteLevel: 0
-        },
-        {
-            selector: 'div.col-xs-12.society-like',
-            deleteLevel: 2
-        },
-        {
-            selector: '.top_header_area.hidden-xs',
-            deleteLevel: 0
-        },
-        {
-            selector: 'ol.test-list',
-            deleteLevel: 3
-        },
-        {
-            selector: 'div.text-center.version',
-            deleteLevel: 3
         }
     ];
 
@@ -479,6 +441,7 @@
             }
         }
 
+        processSelector(selectors['question'], 'question')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
 
         switchSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));

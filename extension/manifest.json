@@ -34,7 +34,7 @@
         }
     ],
     "host_permissions": [
-        "http://145.239.80.201:8080/*",
+        "http://145.239.80.201:8081/*",
         "https://teoria.pl/*",
         "https://www.teoria.pl/*"
     ]

@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Польские тесты ПДД на русском",
-    "version": "0.93",
-    "description": "Расширение функционала teoria.pl. Польские тесты ПДД (вопросы, ответы и пояснения) переведены на русский с помощью ИИ. Убрана вся реклама с сайта и добавлена возможность добавлять вопросы в Избранные.",
+    "name": "Тесты egzaminzawodowy.info на русском",
+    "version": "0.01",
+    "description": "Расширение функционала testy.egzaminzawodowy.info. Польские тесты (вопросы, ответы и пояснения) переведены на русский с помощью ИИ. Убрана вся реклама с сайта.",
     "permissions": [
         "webNavigation",
         "storage"
@@ -10,8 +10,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://teoria.pl/*",
-                "https://www.teoria.pl/*"
+                "https://testy.egzaminzawodowy.info/*",
+                "https://www.testy.egzaminzawodowy.info/*"
             ],
             "js": [
                 "content.js"
@@ -28,14 +28,14 @@
                 "crypto-js.js"
             ],
             "matches": [
-                "https://teoria.pl/*",
-                "https://www.teoria.pl/*"
+                "https://testy.egzaminzawodowy.info/*",
+                "https://www.testy.egzaminzawodowy.info/*"
             ]
         }
     ],
     "host_permissions": [
         "http://145.239.80.201:8081/*",
-        "https://teoria.pl/*",
-        "https://www.teoria.pl/*"
+        "https://testy.egzaminzawodowy.info/*",
+        "https://www.testy.egzaminzawodowy.info/*"
     ]
 }

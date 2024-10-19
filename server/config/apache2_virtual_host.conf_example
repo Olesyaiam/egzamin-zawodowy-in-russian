@@ -1,7 +1,7 @@
-<VirtualHost *:8080>
-    DocumentRoot /home/user/polish-driving-exam-tests-prep-in-russian/server/public
+<VirtualHost *:8081>
+    DocumentRoot /home/user/egzamin-zawodowy-in-russian/server/public
 
-    <Directory /home/user/polish-driving-exam-tests-prep-in-russian/server/public>
+    <Directory /home/user/egzamin-zawodowy-in-russian/server/public>
         Options -Indexes +FollowSymLinks
         AllowOverride None
         Require all granted
@@ -11,6 +11,6 @@
         RewriteRule ^ index.php [L]
     </Directory>
 
-    ErrorLog ${APACHE_LOG_DIR}/polish_driving_exam_test_prep_error.log
-    CustomLog ${APACHE_LOG_DIR}/polish_driving_exam_test_prep_access.log combined
+    ErrorLog ${APACHE_LOG_DIR}/egzamin-zawodowy-in-russian.log
+    CustomLog ${APACHE_LOG_DIR}/egzamin-zawodowy-in-russian.log combined
 </VirtualHost>

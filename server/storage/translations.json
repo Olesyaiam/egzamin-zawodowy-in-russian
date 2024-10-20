@@ -118,7 +118,10 @@
             "sodę oczyszczoną": "пищевую соду.",
             "roztwór z gliceryny": "раствор с глицерином",
             "boraks": "боракс",
-            "Kwas azotowy jest stosowany w procesie bielenia szyszek sosnowych ze względu na jego właściwości utleniające, które pozwalają na usunięcie naturalnych barwników z szyszek, czyniąc je jaśniejszymi. Proces ten wymaga użycia substancji chemicznej, która reaguje z pigmentami w szyszkach, a kwas azotowy jest jednym z najczęściej stosowanych środków do tego celu. Pozostałe wymienione substancje (boraks, soda oczyszczona, roztwór z gliceryny) nie mają tak silnych właściwości utleniających, które byłyby potrzebne do skutecznego bielenia szyszek sosnowych": "Азотная кислота используется в процессе отбеливания сосновых шишек из-за своих окислительных свойств, которые позволяют удалять естественные пигменты из шишек, делая их светлее. Этот процесс требует использования химического вещества, которое реагирует с пигментами в шишках, и азотная кислота является одним из наиболее часто используемых средств для этой цели. Остальные перечисленные вещества (боракс, пищевая сода, раствор с глицерином) не обладают такими сильными окислительными свойствами, которые необходимы для эффективного отбеливания сосновых шишек."
+            "Kwas azotowy jest stosowany w procesie bielenia szyszek sosnowych ze względu na jego właściwości utleniające, które pozwalają na usunięcie naturalnych barwników z szyszek, czyniąc je jaśniejszymi. Proces ten wymaga użycia substancji chemicznej, która reaguje z pigmentami w szyszkach, a kwas azotowy jest jednym z najczęściej stosowanych środków do tego celu. Pozostałe wymienione substancje (boraks, soda oczyszczona, roztwór z gliceryny) nie mają tak silnych właściwości utleniających, które byłyby potrzebne do skutecznego bielenia szyszek sosnowych": "Азотная кислота используется в процессе отбеливания сосновых шишек из-за своих окислительных свойств, которые позволяют удалять естественные пигменты из шишек, делая их светлее. Этот процесс требует использования химического вещества, которое реагирует с пигментами в шишках, и азотная кислота является одним из наиболее часто используемых средств для этой цели. Остальные перечисленные вещества (боракс, пищевая сода, раствор с глицерином) не обладают такими сильными окислительными свойствами, которые необходимы для эффективного отбеливания сосновых шишек.",
+            "Do wykonania kompozycji wielkanocnej należy wybrać następujące rośliny:": "Для выполнения пасхальной композиции следует выбрать следующие растения:",
+            "jaskry i hiacynty": "лютики и гиацинты.",
+            "mieczyki i lilie": "гладиолусы и лилии."
         }
     },
     "not_approved": {
@@ -166,6 +169,8 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле."
+        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
+        "słoneczniki i złocienie": "подсолнухи и хризантемы.",
+        "ostróżki i konwalie": "дельфиниумы и ландыши."
     }
 }

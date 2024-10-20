@@ -9,7 +9,9 @@
         "question": "#question_text",
         "comment": '#question_comment',
         "answers": 'td > label',
-        "others": []
+        "others": [
+            'div.answer_block'
+        ]
     };
 
     let selectorsToRemove = [
@@ -471,6 +473,42 @@
                 }
             }
         }
+
+        // Находим все элементы div.widget-content > div.answers_element
+        let answerElements = document.querySelectorAll('div.widget-content > div.answers_element');
+
+        // Проходим по каждому найденному элементу
+        answerElements.forEach(answersElement => {
+            // Проверяем, есть ли уже внутри div.answer_block
+            if (!answersElement.querySelector('div.answer_block')) {
+                // Находим элементы <br> и <table>
+                let brElement = answersElement.querySelector('br');
+                let tableElement = answersElement.querySelector('table.table_answers');
+
+                // Проверяем, что оба элемента найдены
+                if (brElement && tableElement) {
+                    // Создаем новый <div class="answer_block">
+                    let answerBlockDiv = document.createElement('div');
+                    answerBlockDiv.className = 'answer_block';
+
+                    // Получаем все элементы между <br> и <table>
+                    let currentElement = brElement.nextSibling;
+                    while (currentElement && currentElement !== tableElement) {
+                        let nextElement = currentElement.nextSibling; // Сохраняем следующий элемент
+                        answerBlockDiv.appendChild(currentElement); // Перемещаем текущий элемент в answer_block
+                        currentElement = nextElement; // Переходим к следующему элементу
+                    }
+
+                    // Вставляем новый div перед таблицей
+                    answersElement.insertBefore(answerBlockDiv, tableElement);
+                } else {
+                    console.error('Не найдены необходимые элементы: <br> или <table>');
+                }
+            } else {
+                console.log('Этот элемент уже содержит div.answer_block, пропускаем...');
+            }
+        });
+
 
         processSelector(selectors['question'], 'question')
         processSelector(selectors['comment'], 'comment')

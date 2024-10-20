@@ -1,7 +1,6 @@
 {
     "incorrect": {
-        "Które z wymienionych barw nie są względem siebie komplementarne?": "Какие из перечисленных цветов не являются взаимно дополнительными?",
-        "maskowania drutów technicznych": "маскировка технических проводов."
+        "Które z wymienionych barw nie są względem siebie komplementarne?": "Какие из перечисленных цветов не являются взаимно дополнительными?"
     },
     "approved": {
         "others": {
@@ -42,7 +41,8 @@
         "Na słabo oświetlonych parapetach okiennych poleca się ustawiać następujące rośliny doniczkowe:": "На слабо освещенных подоконниках рекомендуется размещать следующие комнатные растения:",
         "juki i agawy": "Юкки и агавы.",
         "aloesy i kalanchoe": "Алоэ и каланхоэ.",
-        "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к основанию.",
-        "przypinania liści do podkładu": "прикрепление листьев к основе."
+        "przypinania liści do podkładu": "прикрепления листьев к подложке.",
+        "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к основе.",
+        "maskowania drutów technicznych": "Маскировки технических проводов."
     }
 }

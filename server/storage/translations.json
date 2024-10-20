@@ -1,8 +1,14 @@
 {
-    "incorrect": {
-    },
+    "incorrect": [],
     "approved": {
+        "others": {
+            "podwójny papier": "двойная бумага."
+        }
     },
     "not_approved": {
+        "karton ze specjalną wkładką": "Картон со специальной вставкой.",
+        "nylonową siatkę": "нейлоновую сетку.",
+        "woreczek foliowy wypełnione gazem": "полиэтиленовый пакет, заполненный газом.",
+        "Zostaw bez odpowiedzi": "Оставь без ответа"
     }
 }

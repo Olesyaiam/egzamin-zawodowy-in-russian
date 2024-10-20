@@ -35,7 +35,7 @@ class TranslationsController extends BaseController
             throw new Exception('Specify "text"');
         }
 
-        $questionContext = $request->input('context_question', '');
+        $questionContext = $request->input('question_context', '');
         $translator = new Translator();
         $prepared = self::prepareText($text);
         $result = $translator->performTranslation($prepared['text'], questionContext: $questionContext);

@@ -45,7 +45,13 @@
             "kostki lodu": "кубики льда.",
             "hydrożele": "гидрогели.",
             "taśmy kauczukowe": "ленты каучуковые.",
-            "Aby zapewnić stały dostęp do wody pojedynczych kwiatów cymbidium, wykorzystuje się fiolki florystyczne. Fiolki te są małymi pojemnikami, które można napełnić wodą i zamocować bezpośrednio przy łodydze kwiatu, zapewniając mu ciągłe nawodnienie. Pozostałe opcje, takie jak kostki lodu, hydrożele, czy taśmy kauczukowe, nie są standardowymi metodami utrzymania wilgotności dla pojedynczych kwiatów w florystyce": "Для обеспечения постоянного доступа к воде отдельных цветов цимбидиума используются флористические пробирки. Эти пробирки являются маленькими контейнерами, которые можно наполнить водой и прикрепить непосредственно к стеблю цветка, обеспечивая ему постоянное увлажнение. Остальные варианты, такие как кубики льда, гидрогели или ленты каучуковые, не являются стандартными методами поддержания влажности для отдельных цветов во флористике."
+            "Aby zapewnić stały dostęp do wody pojedynczych kwiatów cymbidium, wykorzystuje się fiolki florystyczne. Fiolki te są małymi pojemnikami, które można napełnić wodą i zamocować bezpośrednio przy łodydze kwiatu, zapewniając mu ciągłe nawodnienie. Pozostałe opcje, takie jak kostki lodu, hydrożele, czy taśmy kauczukowe, nie są standardowymi metodami utrzymania wilgotności dla pojedynczych kwiatów w florystyce": "Для обеспечения постоянного доступа к воде отдельных цветов цимбидиума используются флористические пробирки. Эти пробирки являются маленькими контейнерами, которые можно наполнить водой и прикрепить непосредственно к стеблю цветка, обеспечивая ему постоянное увлажнение. Остальные варианты, такие как кубики льда, гидрогели или ленты каучуковые, не являются стандартными методами поддержания влажности для отдельных цветов во флористике.",
+            "pinholder": "пинхолдер",
+            "Właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku jest": "Правильным техническим средством для крепления флористической губки в пластиковом, неглубоком контейнере является",
+            "drut spiralny": "проволка спиральная",
+            "Pinholder, znany również jako igłotrzymacz, jest właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku. Umożliwia on stabilne umocowanie gąbki, co jest kluczowe przy tworzeniu kompozycji florystycznych. Pozostałe opcje, takie jak kenzan, clip i drut spiralny, służą innym celom w florystyce i nie są optymalnym wyborem do mocowania gąbki florystycznej w opisanej sytuacji": "Пинхолдер, также известный как иглодержатель, является подходящим техническим средством для закрепления флористической губки в пластиковом, неглубоком контейнере. Он позволяет обеспечить устойчивое крепление губки, что является ключевым при создании флористических композиций. Остальные варианты, такие как кензан, зажим и спиральная проволока, служат другим целям во флористике и не являются оптимальным выбором для крепления флористической губки в описанной ситуации.",
+            "ślimaków": "улиток.",
+            "mszyc": "тлей."
         }
     },
     "not_approved": {
@@ -90,6 +96,11 @@
         "średniowiecza": "средневековья.",
         "renesansu": "ренессанса.",
         "romantyzmu": "романтизма.",
-        "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи"
+        "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
+        "clip": "Зажим",
+        "kenzan": "кензан",
+        "przędziorków": "паутинных клещей.",
+        "Aficydy to środki ochrony roślin służące do zwalczania": "Афицыды - это средства защиты растений, служащие для борьбы.",
+        "mączlików": "мучнистых червецов."
     }
 }

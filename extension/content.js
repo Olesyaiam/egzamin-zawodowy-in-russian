@@ -393,7 +393,6 @@
             let parts = question_with_trash.innerHTML.split('<p class="image_test visible-desktop">');
             let parts2 = parts[0].split('</div>');
             let question = parts2.at(-1);
-            console.log(question)
 
             parts2.pop();
             let newHTML = parts2.join('</div>') + '</div>' + parts[1];

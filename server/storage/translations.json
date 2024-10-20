@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Gałązki jodłowe, zieleń ciętą, czerwone goździki, floret, wstążkę": "Веточки пихтовые, зелень срезанную, красные гвоздики, фоам, ленту."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Kwiatostany anturium, podobnie jak wiele innych delikatnych kwiatów ciętych, wymagają szczególnej ochrony podczas transportu, aby zapobiec ich uszkodzeniu. Pakowanie w karton ze specjalną wkładką jest powszechnie stosowaną metodą, ponieważ zapewnia stabilność kwiatów oraz ochronę przed czynnikami zewnętrznymi, takimi jak nacisk czy zmiany temperatury. Specjalna wkładka może również pomóc w utrzymaniu odpowiedniej wilgotności, co jest kluczowe dla zachowania świeżości kwiatów. Pozostałe opcje, takie jak podwójny papier, nylonowa siatka czy woreczek foliowy wypełnione gazem, nie zapewniają tak kompleksowej ochrony i mogą nie być odpowiednie do długotrwałego transportu kwiatów ciętych, szczególnie tak delikatnych jak anturium": "Соцветия антуриума, так же как и многие другие нежные срезанные цветы, требуют особой защиты во время транспортировки, чтобы предотвратить их повреждение. Упаковка в картон со специальной вставкой является широко используемым методом, поскольку она обеспечивает стабильность цветков и защиту от внешних факторов, таких как давление или изменение температуры. Специальная вставка также может помочь в поддержании нужной влажности, что является ключевым для сохранения свежести цветов. Остальные варианты, такие как двойная бумага, нейлоновая сетка или полиэтиленовый пакет, наполненный газом, не обеспечивают такой комплексной защиты и могут быть не подходящими для длительной транспортировки срезанных цветов, особенно таких деликатных, как антуриум.",
@@ -129,7 +127,9 @@
             "Wybór roślin do kompozycji wielkanocnej powinien uwzględniać rośliny, które są tradycyjnie kojarzone z tym okresem. Jaskry i hiacynty są popularnymi kwiatami wiosennymi, często wykorzystywanymi do dekoracji wielkanocnych ze względu na ich barwne i pachnące kwiaty, które symbolizują odrodzenie i nowe życie. Mieczyki i lilie, choć piękne, są mniej typowe dla tego okresu. Ostróżki i konwalie również kojarzą się z wiosną, ale nie są tak charakterystyczne dla Wielkanocy jak jaskry i hiacynty. Słoneczniki i złocienie to kwiaty letnie, więc nie pasują do tematu": "Выбор растений для пасхальной композиции должен учитывать растения, которые традиционно ассоциируются с этим периодом. Лютики и гиацинты являются популярными весенними цветами, часто используемыми для пасхальных украшений из-за их ярких и ароматных цветов, которые символизируют возрождение и новую жизнь. Гладиолусы и лилии, хотя и красивые, менее типичны для этого периода. Дельфиниумы и ландыши также ассоциируются с весной, но они не так характерны для Пасхи, как лютики и гиацинты. Подсолнухи и хризантемы - это летние цветы, поэтому они не подходят к теме.",
             "Które materiały florystyczne należy wybrać do wykonania wiązanki pogrzebowej?": "Какие флористические материалы следует выбрать для выполнения похоронной композиции?",
             "Fioletowe irysy, zieleń ciętą, kenzan, wstążkę": "Фиолетовые ирисы, срезанную зелень, кэнзан, ленту.",
-            "Gałązki świerkowe, słomiany korpus, susz egzotyczny": "Еловые веточки, соломенный каркас, экзотический сухоцвет."
+            "Gałązki świerkowe, słomiany korpus, susz egzotyczny": "Еловые веточки, соломенный каркас, экзотический сухоцвет.",
+            "Gałązki jodłowe, zieleń ciętą, czerwone goździki, floret, wstążkę": "Еловые ветки, резаную зелень, красные гвоздики, рапиру, ленту.",
+            "Podkład z pędów, zieleń ciętą, białe róże, gąbkę florystyczną, wstążkę": "Подкладка из побегов, срезанную зелень, белые розы, флористическую губку, ленту."
         }
     },
     "not_approved": {
@@ -177,7 +177,6 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "Podkład z pędów, zieleń ciętą, białe róże, gąbkę florystyczną, wstążkę": "Подкладка из побегов, срезанную зелень, белые розы, флористическую губку, ленту."
+        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле."
     }
 }

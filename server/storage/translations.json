@@ -65,7 +65,9 @@
             "rustykalnym": "рустикальном",
             "naturalnym": "натуральном.",
             "romantycznym": "романтическом.",
-            "orientalnym": "восточном."
+            "orientalnym": "восточном.",
+            "W aranżacji wnętrz styl orientalny charakteryzuje się zastosowaniem silnych kontrastów kolorystycznych oraz różnorodnością tekstur i materiałów. Styl ten czerpie inspiracje z kultur Azji, gdzie bogactwo barw i wzorów jest często wykorzystywane do dekoracji wnętrz. Pozostałe wymienione style (naturalny, rustykalny, romantyczny) zazwyczaj opierają się na bardziej stonowanej palecie barw i subtelniejszych kontrastach": "В оформлении интерьеров восточный стиль характеризуется использованием сильных цветовых контрастов и разнообразием текстур и материалов. Этот стиль черпает вдохновение из культур Азии, где богатство расцветок и узоров часто используется для украшения интерьеров. Остальные перечисленные стили (натуральный, сельский, романтический) обычно основываются на более сдержанной палитре расцветок и более тонких контрастах.",
+            "Który materiał roślinny polecany jest do tworzenia kompozycji w stylu formalno-linearnym?": "Какой растительный материал рекомендуется для создания композиций в формально-линеарном стиле?"
         }
     },
     "not_approved": {
@@ -114,6 +116,9 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "W aranżacji wnętrz styl orientalny charakteryzuje się zastosowaniem silnych kontrastów kolorystycznych oraz różnorodnością tekstur i materiałów. Styl ten czerpie inspiracje z kultur Azji, gdzie bogactwo barw i wzorów jest często wykorzystywane do dekoracji wnętrz. Pozostałe wymienione style (naturalny, rustykalny, romantyczny) zazwyczaj opierają się na bardziej stonowanej palecie barw i subtelniejszych kontrastach": "В оформлении интерьеров восточный стиль характеризуется использованием сильных цветовых контрастов и разнообразием текстур и материалов. Этот стиль черпает вдохновение из культур Азии, где богатство расцветок и узоров часто используется для украшения интерьеров. Остальные перечисленные стили (натуральный, сельский, романтический) обычно основываются на более сдержанной палитре расцветок и более тонких контрастах."
+        "Kłosy zbóż, owocostany miechunki, cynie": "Колосья злаков, соплодия физалиса, цинии.",
+        "Trawa niedźwiedzia, tulipany": "Медвежья трава, тюльпаны.",
+        "Paproć skórzasta, gipsówka, róże": "Кожистый папоротник, гипсофила, розы.",
+        "Pędy leszczyny \"Contorta\", strelicje": "Побеги лещины \"Contorta\", стрелиции."
     }
 }

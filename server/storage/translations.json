@@ -122,7 +122,9 @@
             "Do wykonania kompozycji wielkanocnej należy wybrać następujące rośliny:": "Для выполнения пасхальной композиции следует выбрать следующие растения:",
             "jaskry i hiacynty": "лютики и гиацинты.",
             "mieczyki i lilie": "гладиолусы и лилии.",
-            "słoneczniki i złocienie": "подсолнухи и хризантемы."
+            "słoneczniki i złocienie": "подсолнухи и хризантемы.",
+            "ostróżki i konwalie": "дельфиниумы и ландыши.",
+            "Wybór roślin do kompozycji wielkanocnej powinien uwzględniać rośliny, które są tradycyjnie kojarzone z tym okresem. Jaskry i hiacynty są popularnymi kwiatami wiosennymi, często wykorzystywanymi do dekoracji wielkanocnych ze względu na ich barwne i pachnące kwiaty, które symbolizują odrodzenie i nowe życie. Mieczyki i lilie, choć piękne, są mniej typowe dla tego okresu. Ostróżki i konwalie również kojarzą się z wiosną, ale nie są tak charakterystyczne dla Wielkanocy jak jaskry i hiacynty. Słoneczniki i złocienie to kwiaty letnie, więc nie pasują do tematu": "Выбор растений для пасхальной композиции должен учитывать растения, которые традиционно ассоциируются с этим периодом. Лютики и гиацинты являются популярными весенними цветами, часто используемыми для пасхальных украшений из-за их ярких и ароматных цветов, которые символизируют возрождение и новую жизнь. Гладиолусы и лилии, хотя и красивые, менее типичны для этого периода. Дельфиниумы и ландыши также ассоциируются с весной, но они не так характерны для Пасхи, как лютики и гиацинты. Подсолнухи и хризантемы - это летние цветы, поэтому они не подходят к теме."
         }
     },
     "not_approved": {
@@ -170,7 +172,6 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "ostróżki i konwalie": "дельфиниумы и ландыши."
+        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле."
     }
 }

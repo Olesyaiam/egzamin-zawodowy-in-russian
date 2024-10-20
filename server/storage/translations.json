@@ -141,7 +141,9 @@
             "nawozy szybko uwalniające substancje odżywcze": "удобрения, быстро высвобождающие питательные вещества.",
             "środki ochrony roślin służące do zwalczania rdzy": "средства для защиты растений, которые используются для борьбы с ржавчиной.",
             "nawozy stopniowo uwalniające substancje odżywcze": "удобрения, постепенно высвобождающие питательные вещества.",
-            "środki ochrony roślin służące do zwalczania roztoczy": "средства защиты растений, используемые для борьбы с клещами."
+            "środki ochrony roślin służące do zwalczania roztoczy": "средства защиты растений, используемые для борьбы с клещами.",
+            "Osmocote to marka nawozów, które są znane z tego, że stopniowo uwalniają substancje odżywcze. Dzięki specjalnej powłoce, która otacza granulki nawozu, składniki odżywcze są uwalniane powoli, co pozwala na długotrwałe odżywianie roślin bez konieczności częstego stosowania nawozu. Pozostałe opcje nie opisują właściwości produktów Osmocote, ponieważ nie są one ani środkami ochrony roślin, ani nawozami szybko uwalniającymi substancje odżywcze": "Osmocote — это марка удобрений, которые известны тем, что постепенно высвобождают питательные вещества. Благодаря специальной оболочке, которая окружает гранулы удобрения, питательные вещества высвобождаются медленно, что позволяет длительное время питать растения без необходимости частого применения удобрений. Остальные варианты не описывают свойства продуктов Osmocote, так как они не являются ни средствами защиты растений, ни удобрениями, быстро высвобождающими питательные вещества.",
+            "Do tworzenia pionowej kompozycji na stół stosuje się gąbkę florystyczną typu": "Для создания вертикальной композиции на стол используют флористическую губку типа"
         }
     },
     "not_approved": {
@@ -190,6 +192,9 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "Osmocote to marka nawozów, które są znane z tego, że stopniowo uwalniają substancje odżywcze. Dzięki specjalnej powłoce, która otacza granulki nawozu, składniki odżywcze są uwalniane powoli, co pozwala na długotrwałe odżywianie roślin bez konieczności częstego stosowania nawozu. Pozostałe opcje nie opisują właściwości produktów Osmocote, ponieważ nie są one ani środkami ochrony roślin, ani nawozami szybko uwalniającymi substancje odżywcze": "Osmocote — это марка удобрений, которые известны тем, что постепенно высвобождают питательные вещества. Благодаря специальной оболочке, которая окружает гранулы удобрения, питательные вещества высвобождаются медленно, что позволяет длительное время питать растения без необходимости частого применения удобрений. Остальные варианты не описывают свойства продуктов Osmocote, так как они не являются ни средствами защиты растений, ни удобрениями, быстро высвобождающими питательные вещества."
+        "autocorso": "автокорзина",
+        "gabbia": "клетка",
+        "mini deco": "мини деко",
+        "table deco": "столовая деко"
     }
 }

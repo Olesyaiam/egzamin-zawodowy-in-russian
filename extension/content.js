@@ -472,7 +472,6 @@
 
                         // Удаляем comment_with_trash из DOM
                         comment_with_trash.remove();
-                        console.log('Новый элемент добавлен и comment_with_trash удален.');
                     } else {
                         console.log('Элемент #eztr_pod_pytaniem не найден.');
                     }

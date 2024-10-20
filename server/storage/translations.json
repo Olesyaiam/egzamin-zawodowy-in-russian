@@ -157,7 +157,8 @@
             "Usunięcie pylników z lilii podczas przygotowywania wiązanki pogrzebowej jest ważne, ponieważ pyłek z pylników może łatwo przenosić się na płatki kwiatów oraz inne przedmioty, powodując trudne do usunięcia plamy. Ponadto, usunięcie pylników przed otwarciem się kwiatów może pomóc w przedłużeniu świeżości kwiatów, ponieważ zapobiega to ich zapylaniu i przyspieszaniu procesu starzenia. Pozostałe opcje odpowiedzi, takie jak usunięcie wszystkich liści, soku mlecznego z łodyg lub nadmiaru śluzu z łodyg, nie są standardową praktyką przy przygotowywaniu wiązanek pogrzebowych z lilii": "Удаление пыльников из лилий во время подготовки похоронной композиции важно, потому что пыльца из пыльников может легко перемещаться на лепестки цветов и другие предметы, вызывая трудновыводимые пятна. Кроме того, удаление пыльников до раскрытия цветов может помочь в продлении свежести цветов, так как это предотвращает их опыление и ускорение процесса старения. Остальные варианты ответа, такие как удаление всех листьев, молочного сока из стеблей или излишка слизи с стеблей, не являются стандартной практикой при подготовке похоронных композиций из лилий.",
             "Kwiaty": "Цветы.",
             "Gałęziaki": "Веточки.",
-            "Liście": "Листья."
+            "Liście": "Листья.",
+            "Owocostany": "Соплодия."
         }
     },
     "not_approved": {
@@ -207,7 +208,6 @@
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
         "Które części szparaga (": "Какие части спаржи (",
-        "Owocostany": "Плодоносные части.",
         ") wykorzystywane są we florystyce?": ") используются во флористике?"
     }
 }

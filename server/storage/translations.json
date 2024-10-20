@@ -192,8 +192,6 @@
         "Technika": "Техника",
         "jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "применяется для укрепления полых стеблей цветов, таких как герберы, изнутри. Заключается в бережном введении тонкой проволоки внутрь стебля, что предотвращает его сгибание и ломание, а следовательно, продлевает долговечность и эстетику цветов в флористических композициях. Остальные перечисленные техники, такие как рельсоподобное укрепление, оборачивание лентой и маскировка, служат другим целям в флористике и не подходят для укрепления полых стеблей цветов.",
         "Technika drutowania jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "Техника проволочного укрепления используется для укрепления пустых стеблей цветов, таких как герберы, изнутри. Она заключается в аккуратном введении тонкой проволоки внутрь стебля, что предотвращает его изгибание и ломкость, а также продлевает долговечность и эстетичность цветов в флористических композициях. Другие перечисленные техники, такие как рельсоподобное укрепление, обвязывание и маскировка, служат другим целям во флористике и не подходят для укрепления пустых стеблей цветов.",
-        "Poznaniu": "Познань.",
-        "Essen": "Еда.",
         "Na podstawie danych zamieszczonych w tabeli wskaż temperaturę przechowywania w chłodni ściętych frezji": "На основании данных, размещённых в таблице, укажите температуру хранения в холодильнике срезанных фрезий.",
         "poniżej 4,5": "ниже 4,5.",
         "powyżej 7,2": "выше 7,2.",
@@ -224,6 +222,9 @@
         "Które części szparaga (": "Какие части спаржи (",
         ") wykorzystywane są we florystyce?": ") используются во флористике?",
         "szynowania": "рельсоподобного укрепления.",
-        "drutowania": "проволочного укрепления."
+        "drutowania": "проволочного укрепления.",
+        "Poznaniu": "Познань.",
+        "Essen": "Ессена.",
+        "Na podstawie danych zamieszczonych w tabeli, frezje, które są kwiatami typu \"Kłos\", powinny być przechowywane w chłodni w temperaturze 1-2 °C. Jest to zgodne z informacją podaną w tabeli, gdzie w kolumnie \"Temperatura przechowywania w chłodni\" przy typie kwiatostanu \"Kłos\" podana jest wartość \"1-2 °C\"": "На основе данных, размещённых в таблице, фрезии, которые являются цветами типа \"Колос\", должны храниться в холодильной камере при температуре 1-2 °C. Это соответствует информации, указанной в таблице, где в колонке \"Температура хранения в холодильной камере\" для типа соцветия \"Колос\" указано значение \"1-2 °C\"."
     }
 }

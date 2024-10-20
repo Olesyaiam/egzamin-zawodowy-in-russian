@@ -53,7 +53,13 @@
             "ślimaków": "улиток.",
             "mszyc": "тлей.",
             "Aficydy to środki ochrony roślin służące do zwalczania": "Противотлевые препараты - это средства защиты растений, предназначенные для борьбы.",
-            "przędziorków": "паутинных клещей."
+            "przędziorków": "паутинных клещей.",
+            "mączlików": "белокрылок.",
+            "Aficydy to specjalistyczne środki chemiczne lub biologiczne przeznaczone do zwalczania mszyc, które są szkodnikami roślin. Mszyce to małe owady ssące, które mogą powodować znaczne szkody w uprawach roślinnych, zarówno przez bezpośrednie uszkadzanie roślin, jak i przez przenoszenie chorób wirusowych. Aficydy są formułowane tak, aby skutecznie eliminować mszyce, nie powodując przy tym nadmiernych szkód dla roślin, ludzi i środowiska, o ile są stosowane zgodnie z zaleceniami producenta": "Противотлевые препараты - это специализированные химические или биологические средства, предназначенные для борьбы с тлёй, которая является вредителем растений. Тля - это мелкие сосущие насекомые, которые могут причинять значительный вред растениям как за счёт прямого повреждения, так и посредством переноса вирусных заболеваний. Противотлевые препараты формулируются таким образом, чтобы эффективно устранять тлю, не причиняя чрезмерного вреда растениям, людям и окружающей среде, если они применяются в соответствии с рекомендациями производителя.",
+            "Jedwabistą teksturą kwiatów charakteryzuje się": "Шелковистой текстурой цветов характеризуется",
+            "mak": "мак",
+            "anturium": "антуриум.",
+            "konwalia": "ландыш"
         }
     },
     "not_approved": {
@@ -101,6 +107,6 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "mączlików": "мучнистых червецов."
+        "kocanka": "бессмертник"
     }
 }

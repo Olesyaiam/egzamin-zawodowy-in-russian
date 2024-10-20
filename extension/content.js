@@ -389,23 +389,15 @@
 
     setInterval(function () {
         if (!document.querySelector(selectors['question'])) {
-            let fieldset = document.querySelector('#question_form > fieldset');
+            let question_with_trash = document.querySelector('#question_form > fieldset');
+            let parts = question_with_trash.innerHTML.split('<p class="image_test visible-desktop">');
+            let parts2 = parts[0].split('</div>');
+            let question = parts2.at(-1).trim()
+            console.log(question)
 
-            // Перебираем все дочерние узлы fieldset
-            fieldset.childNodes.forEach(node => {
-                // Проверяем, что узел является текстовым и не пустым
-                if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
-                    // Создаем новый элемент div с id="question_text"
-                    let div = document.createElement('div');
-                    div.id = selectors['question'].slice(1);
-
-                    // Добавляем текст узла в div
-                    div.textContent = node.textContent.trim();
-
-                    // Заменяем оригинальный текстовый узел на новый div
-                    fieldset.replaceChild(div, node);
-                }
-            });
+            parts2.pop();
+            let newHTML = parts2.join('</div>') + '</div>' + parts[1];
+            question_with_trash.innerHTML = newHTML;
         }
 
         if (!document.querySelector(selectors['comment'])) {

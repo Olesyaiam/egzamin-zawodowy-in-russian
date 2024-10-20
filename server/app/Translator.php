@@ -204,12 +204,15 @@ class Translator extends Base
         return array_keys($dictionary);
     }
 
-    private static function generatePrompt($text)
+    private static function generatePrompt($text, $questionContext)
     {
         $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
         $comments = [];
         $dictionary = self::generateDictionary($promptData, $text);
         $dictionaryIntro = count($dictionary) ? $promptData['dictionary_intro'] : '';
+        $questionContext = strlen($questionContext) > 0
+            ? 'Фрагмент является одним за вариантов ответа на вопрос из теста, вот он для контекста: "' . $questionContext . '"'
+            : '';
 
         foreach ($promptData['comments'] as $line => $searchList) {
             foreach ($searchList as $search) {
@@ -219,6 +222,7 @@ class Translator extends Base
             }
         }
 
+        $prompt = str_ireplace('%question_context%', $questionContext, $promptData['prompt']);
         $prompt = str_ireplace('%comments%', trim(join(' ', array_keys($comments))), $promptData['prompt']);
         $prompt = str_ireplace('%dictionary_intro%', $dictionaryIntro . PHP_EOL, $prompt);
         $prompt = str_ireplace('%dictionary%', trim(join(PHP_EOL, $dictionary)), $prompt);
@@ -267,7 +271,7 @@ class Translator extends Base
      * @return array
      * @throws Exception
      */
-    public function performTranslation($original, $withCache = true)
+    public function performTranslation($original, $questionContext, $withCache = true)
     {
         $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
         $original = trim(preg_replace('/\s+/', ' ', $original));
@@ -291,7 +295,7 @@ class Translator extends Base
 
             if ($translation === null) {
                 $apiResponse = self::requestOpenAI(
-                    self::generatePrompt($original),
+                    self::generatePrompt($original, questionContext: $questionContext),
                     $original
                 );
 

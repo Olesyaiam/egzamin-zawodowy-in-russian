@@ -503,6 +503,13 @@
 
                     // Вставляем новый div перед таблицей
                     answersElement.insertBefore(answerBlockDiv, tableElement);
+        
+                    // Проверяем, есть ли div.image_test внутри div.answer_block
+                    let imageTestDiv = answerBlockDiv.querySelector('div.image_test');
+                    if (imageTestDiv) {
+                        // Перемещаем div.image_test после answer_block
+                        answersElement.insertBefore(imageTestDiv, answerBlockDiv.nextSibling);
+                    }
                 } else {
                     console.error('Не найдены необходимые элементы: <br> или <table>');
                 }

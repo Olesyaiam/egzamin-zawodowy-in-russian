@@ -133,7 +133,17 @@
             "Wybór materiałów florystycznych do wykonania wiązanki pogrzebowej powinien uwzględniać trwałość, symbolikę oraz estetykę. Gałązki jodłowe są często używane ze względu na ich trwałość i piękny, zielony kolor symbolizujący wieczne życie. Zieleń ciętą dodaje objętości i różnorodności tekstury. Czerwone goździki są symbolem miłości i szacunku, co jest odpowiednie dla okoliczności pogrzebowych. Floret dodaje elegancji, a wstążka jest elementem dekoracyjnym, który może również nieść dodatkowe znaczenie, np. poprzez kolor symbolizujący relację z zmarłym. Pozostałe odpowiedzi zawierają elementy mniej typowe dla wiązanek pogrzebowych lub mniej odpowiednie pod względem symboliki i estetyki": "Выбор флористических материалов для изготовления похоронной композиции должен учитывать долговечность, символику и эстетику. Веточки ели часто используются из-за их прочности и красивого зеленого цвета, символизирующего вечную жизнь. Резаная зелень добавляет объёма и разнообразия текстуры. Красные гвоздики являются символом любви и уважения, что уместно для похоронных обстоятельств. Рапира добавляет элегантности, а лента является декоративным элементом, который также может нести дополнительное значение, например, через цвет, символизирующий связь с покойным. Остальные ответы содержат элементы, менее типичные для похоронных композиций или менее подходящие с точки зрения символики и эстетики.",
             "Które z wymienionych narzędzi stosuje się do wyginania drutów florystycznych?": "Какой из перечисленных инструментов используется для выгибания флористических проволок?",
             "Sekatory gąsienicowe": "Секаторы гусеничные.",
-            "Pęsety lekarskie": "Медицинские пинцеты"
+            "Pęsety lekarskie": "Медицинские пинцеты",
+            "Szczypce okrągłe": "Круглогубцы",
+            "Szczypce nastawcze": "Переставные клещи.",
+            "Szczypce okrągłe są narzędziem stosowanym do wyginania drutów florystycznych, ponieważ ich zaokrąglone końcówki umożliwiają precyzyjne formowanie drutu bez uszkadzania. Pęsety lekarskie, szczypce nastawcze i sekatory gąsienicowe nie są przeznaczone do pracy z delikatnymi materiałami takimi jak druty florystyczne. Szczypce okrągłe zapewniają odpowiednią kontrolę i elastyczność potrzebną do tworzenia ozdób florystycznych": "Круглогубцы являются инструментом, применяемым для сгибания флористических проволок, потому что их закругленные концы позволяют точно формировать проволоку без повреждений. Медицинские пинцеты, переставные клещи и гусеничные секаторы не предназначены для работы с деликатными материалами, такими как флористические проволоки. Круглогубцы обеспечивают надлежащий контроль и гибкость, необходимые для создания флористических украшений.",
+            "Osmocote to": "Osmocote это",
+            "nawozy szybko uwalniające substancje odżywcze": "удобрения, быстро высвобождающие питательные вещества.",
+            "środki ochrony roślin służące do zwalczania rdzy": "средства для защиты растений, которые используются для борьбы с ржавчиной.",
+            "nawozy stopniowo uwalniające substancje odżywcze": "удобрения, постепенно высвобождающие питательные вещества.",
+            "środki ochrony roślin służące do zwalczania roztoczy": "средства защиты растений, используемые для борьбы с клещами.",
+            "Osmocote to marka nawozów, które są znane z tego, że stopniowo uwalniają substancje odżywcze. Dzięki specjalnej powłoce, która otacza granulki nawozu, składniki odżywcze są uwalniane powoli, co pozwala na długotrwałe odżywianie roślin bez konieczności częstego stosowania nawozu. Pozostałe opcje nie opisują właściwości produktów Osmocote, ponieważ nie są one ani środkami ochrony roślin, ani nawozami szybko uwalniającymi substancje odżywcze": "Osmocote — это марка удобрений, которые известны тем, что постепенно высвобождают питательные вещества. Благодаря специальной оболочке, которая окружает гранулы удобрения, питательные вещества высвобождаются медленно, что позволяет длительное время питать растения без необходимости частого применения удобрений. Остальные варианты не описывают свойства продуктов Osmocote, так как они не являются ни средствами защиты растений, ни удобрениями, быстро высвобождающими питательные вещества.",
+            "Do tworzenia pionowej kompozycji na stół stosuje się gąbkę florystyczną typu": "Для создания вертикальной композиции на стол используют флористическую губку типа"
         }
     },
     "not_approved": {
@@ -182,7 +192,9 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "Szczypce okrągłe": "Круглогубцы",
-        "Szczypce nastawcze": "Регулируемые плоскогубцы."
+        "autocorso": "автокорзина",
+        "gabbia": "клетка",
+        "mini deco": "мини деко",
+        "table deco": "столовая деко"
     }
 }

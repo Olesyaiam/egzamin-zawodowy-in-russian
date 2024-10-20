@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Które z wymienionych barw nie są względem siebie komplementarne?": "Какие из перечисленных цветов не являются взаимно дополнительными?"
+        "Które z wymienionych barw nie są względem siebie komplementarne?": "Какие из перечисленных цветов не являются взаимно дополнительными?",
+        "maskowania drutów technicznych": "маскировка технических проводов."
     },
     "approved": {
         "others": {
@@ -42,7 +43,6 @@
         "juki i agawy": "Юкки и агавы.",
         "aloesy i kalanchoe": "Алоэ и каланхоэ.",
         "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к основанию.",
-        "przypinania liści do podkładu": "прикрепление листьев к основе.",
-        "maskowania drutów technicznych": "маскировка технических проводов."
+        "przypinania liści do podkładu": "прикрепление листьев к основе."
     }
 }

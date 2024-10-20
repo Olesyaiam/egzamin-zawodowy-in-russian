@@ -146,7 +146,10 @@
             "Do tworzenia pionowej kompozycji na stół stosuje się gąbkę florystyczną typu": "Для создания вертикальной композиции на стол используют флористическую губку типа",
             "table deco": "table deco.",
             "autocorso": "autocorso.",
-            "mini deco": "мини деко."
+            "mini deco": "мини деко.",
+            "gabbia": "габбия",
+            "Do tworzenia pionowej kompozycji na stół stosuje się gąbkę florystyczną typu gabbia. Gabbia to specjalny rodzaj gąbki florystycznej, która ma kształt walca lub prostopadłościanu i jest przeznaczona do tworzenia wysokich, pionowych kompozycji kwiatowych. Dzięki swojej konstrukcji i właściwościom, gabbia zapewnia stabilność oraz odpowiednie nawodnienie kwiatów w pionowych aranżacjach. Pozostałe wymienione typy gąbek (autocorso, mini deco, table deco) nie są typowo stosowane do tworzenia pionowych kompozycji na stół lub nie są powszechnie znane w florystyce": "Для создания вертикальной композиции на стол применяется флористическая губка типа gabbia. Gabbia — это специальный вид флористической губки, который имеет форму цилиндра или прямоугольного параллелепипеда и предназначен для создания высоких, вертикальных цветочных композиций. Благодаря своей конструкции и свойствам, gabbia обеспечивает стабильность и соответствующее увлажнение цветов в вертикальных аранжировках. Остальные перечисленные типы губок (autocorso, mini deco, table deco) не используются, как правило, для создания вертикальных композиций на стол или не являются широко известными в флористике.",
+            "Wykonując wiązankę pogrzebową z rozwiniętych lilii należy pamiętać, aby usunąć": "Выполняя похоронную композицию из распустившихся лилий, необходимо помнить, чтобы удалить"
         }
     },
     "not_approved": {
@@ -195,6 +198,9 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "gabbia": "клетка"
+        "wszystkie liście": "все листья.",
+        "pylniki": "пыльники.",
+        "sok mleczny z łodyg": "млечный сок из стеблей.",
+        "nadmiar śluzu z łodyg": "избыток слизи со стеблей."
     }
 }

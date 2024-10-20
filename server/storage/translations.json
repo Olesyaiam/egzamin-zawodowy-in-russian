@@ -51,7 +51,8 @@
             "drut spiralny": "проволка спиральная",
             "Pinholder, znany również jako igłotrzymacz, jest właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku. Umożliwia on stabilne umocowanie gąbki, co jest kluczowe przy tworzeniu kompozycji florystycznych. Pozostałe opcje, takie jak kenzan, clip i drut spiralny, służą innym celom w florystyce i nie są optymalnym wyborem do mocowania gąbki florystycznej w opisanej sytuacji": "Пинхолдер, также известный как иглодержатель, является подходящим техническим средством для закрепления флористической губки в пластиковом, неглубоком контейнере. Он позволяет обеспечить устойчивое крепление губки, что является ключевым при создании флористических композиций. Остальные варианты, такие как кензан, зажим и спиральная проволока, служат другим целям во флористике и не являются оптимальным выбором для крепления флористической губки в описанной ситуации.",
             "ślimaków": "улиток.",
-            "mszyc": "тлей."
+            "mszyc": "тлей.",
+            "Aficydy to środki ochrony roślin służące do zwalczania": "Противотлевые препараты - это средства защиты растений, предназначенные для борьбы."
         }
     },
     "not_approved": {
@@ -100,7 +101,6 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "przędziorków": "паутинных клещей.",
-        "Aficydy to środki ochrony roślin służące do zwalczania": "Афицыды - это средства защиты растений, служащие для борьбы.",
         "mączlików": "мучнистых червецов."
     }
 }

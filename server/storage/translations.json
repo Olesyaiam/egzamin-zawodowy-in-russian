@@ -12,7 +12,12 @@
             "Dekoracyjny": "Декоративный.",
             "Kwiaciarnia otrzymała zlecenie wykonania okrągłej wiązanki ze spiralnie ułożonymi łodygami i ozdobną kryzą. Który styl kompozycji wybierze florysta realizując zamówienie?": "Цветочная лавка получила заказ на изготовление круглого букета с спирально уложенными стеблями и декоративным воротником. Какой стиль композиции выберет флорист, выполняя заказ?",
             "Tapa we florystyce stosowana jest do": "Тапа во флористике используется для",
-            "przedłużania zbyt krótkich łodyg": "удлинения слишком коротких стеблей."
+            "przedłużania zbyt krótkich łodyg": "удлинения слишком коротких стеблей.",
+            "maskowania drutów technicznych": "Маскировки технических проволок.",
+            "przypinania liści do podkładu": "прикалывания листьев к подкладке.",
+            "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к подложке.",
+            "Którą z wymienionych technik należy zastosować do wykonania płaskiego kolażu z zasuszonych roślin?": "Какую из перечисленных техник следует применить для выполнения плоского коллажа из засушенных растений?",
+            "Klejenia": "Клеения."
         }
     },
     "not_approved": {
@@ -41,8 +46,8 @@
         "Na słabo oświetlonych parapetach okiennych poleca się ustawiać następujące rośliny doniczkowe:": "На слабо освещенных подоконниках рекомендуется размещать следующие комнатные растения:",
         "juki i agawy": "Юкки и агавы.",
         "aloesy i kalanchoe": "Алоэ и каланхоэ.",
-        "przypinania liści do podkładu": "прикрепления листьев к подложке.",
-        "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к основе.",
-        "maskowania drutów technicznych": "Маскировки технических проводов."
+        "Przedłużania łodyg": "Удлинения стеблей.",
+        "Watowania": "Хлопкового укрепления.",
+        "Mokrej gąbki florystycznej": "Мокрой флористической губки."
     }
 }

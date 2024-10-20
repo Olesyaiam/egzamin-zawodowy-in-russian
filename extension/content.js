@@ -390,12 +390,29 @@
     setInterval(function () {
         if (!document.querySelector(selectors['question'])) {
             let question_with_trash = document.querySelector('#question_form > fieldset');
-            let parts = question_with_trash.innerHTML.split('<p class="image_test visible-desktop">');
-            let parts2 = parts[0].split('</div>');
-            let question = parts2.at(-1);
+            let parts;
 
+            if (question_with_trash.innerHTML.includes('<p class="image_test visible-desktop">')) {
+                parts = question_with_trash.innerHTML.split('<p class="image_test visible-desktop">');
+            } else if (question_with_trash.innerHTML.includes('<div class="image_test">')) {
+                parts = question_with_trash.innerHTML.split('<div class="image_test">');
+            } else {
+                // Для таблицы используем сохранение самого тега <table> и его содержимого
+                parts = question_with_trash.innerHTML.split(/(<table class="table_answers[^>]*>)/);
+            }
+
+            // Разделяем первую часть на блоки с div
+            let parts2 = parts[0].split('</div>');
+            let question = parts2.at(-1); // Получаем вопрос
+
+            // Убираем вопрос, но оставляем остальное содержимое
             parts2.pop();
-            let newHTML = parts2.join('</div>') + '</div>' + parts[1];
+            let newHTML = parts2.join('</div>') + '</div>';
+
+            // Добавляем вторую часть (с тегом <p> или <table>) обратно, не изменяя её
+            if (parts.length > 1) {
+                newHTML += parts.slice(1).join('');
+            }
             question_with_trash.innerHTML = newHTML;
 
             // Очищаем вопрос от HTML-тегов
@@ -404,10 +421,13 @@
             let cleanQuestion = tempDiv.textContent || tempDiv.innerText || '';
 
             // Создаем новый элемент <div> для сохранения очищенного вопроса
+            let xpath = '//*[@id="question_form"]/fieldset//div[b]';
+            let result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+
             let questionDiv = document.createElement('div');
             questionDiv.id = selectors['question'].slice(1);
             questionDiv.textContent = cleanQuestion.trim();
-            document.querySelector('#question_form > fieldset > div.visible-desktop:nth-of-type(4)').appendChild(questionDiv);
+            result.singleNodeValue.appendChild(questionDiv);
         }
 
         if (!document.querySelector(selectors['comment'])) {

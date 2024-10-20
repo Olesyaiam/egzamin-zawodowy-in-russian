@@ -8,9 +8,8 @@
     const selectors = {
         "question": "#question_text",
         "comment": '#question_comment',
-        "others": [
-            'td > label'
-        ]
+        "answers": 'td > label',
+        "others": []
     };
 
     let selectorsToRemove = [
@@ -247,15 +246,6 @@
         return localStorage.getItem('translation_switch_state') === '1';
     }
 
-    function saveToCacheRegistrationDate(registrationDate) {
-        console.log('Save the registration date: "' + registrationDate + '"');
-        localStorage.setItem('registration_date', registrationDate);
-    }
-
-    function loadFromCacheRegistrationDate() {
-        return localStorage.getItem('registration_date');
-    }
-
     function saveTranslateToCache(original, translate) {
         localStorage.setItem(getCacheKey(original), translate);
     }
@@ -270,13 +260,13 @@
         return null;
     }
 
-    function translateText(text, callback) {
+    function translateText(text, questionContext, callback) {
         let cachedTranslation = loadTranslateFromCache(text);
 
         if (cachedTranslation !== null) {
             callback(cachedTranslation);
         } else {
-            makeHttpRequest('translations/get', {text: text}, function (result) {
+            makeHttpRequest('translations/get', {text: text, question_context: questionContext}, function (result) {
                 if (result.translation && result.translation.trim() !== '') {
                     saveTranslateToCache(text, result.translation);
                     saveToCacheEmojiFlag(result.translation, !result.approved);
@@ -338,7 +328,7 @@
         }
     }
 
-    function processSelector(selector) {
+    function processSelector(selector, category) {
         try {
             if (selector.startsWith('/')) {
                 const result = document.evaluate(
@@ -353,12 +343,12 @@
                     const element = result.snapshotItem(i);
 
                     if (element) {
-                        processElement(element, selector);
+                        processElement(element, selector, category);
                     }
                 }
             } else {
                 document.querySelectorAll(selector).forEach(element => {
-                    processElement(element, selector);
+                    processElement(element, selector, category);
                 });
             }
         } catch (error) {
@@ -366,7 +356,7 @@
         }
     }
 
-    function processElement(element, selector) {
+    function processElement(element, selector, category) {
         if (!element.id) {
             element.id = 'random-' + Math.floor(Math.random() * 1000000);
         }
@@ -379,27 +369,18 @@
             if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
                 contentCache[id] = originalTextWithNoTranslate;
 
-                if (id && id.endsWith('-answer')) {
-                    translateText(originalTextWithNoTranslate, function (translatedText) {
-                        element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
-                        const translationElement = element.querySelector('b');
-                        prepareTranslationElementAndAddToDom(translationElement, translatedText);
-                    });
-                } else if (selector.includes('page_title')) {
-                    translateText(originalTextWithNoTranslate, function (translatedText) {
-                        element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
-                        const translationElement = element.querySelector('translation');
-                        prepareTranslationElementAndAddToDom(translationElement, translatedText);
-                    });
-                } else {
-                    let clonedContent = getElementWithTranslation(element);
-                    clonedContent.style.display = 'none';
+                let clonedContent = getElementWithTranslation(element);
+                clonedContent.style.display = 'none';
 
-                    translateText(originalTextWithNoTranslate, function (translatedText) {
-                        clonedContent.innerHTML = '';
-                        prepareTranslationElementAndAddToDom(clonedContent, translatedText);
-                    });
-                }
+                let questionContext = category === 'answers'
+                    ? document.querySelector(selectors['question'])?.textContent.trim() || ''
+                    : '';
+
+
+                translateText(originalTextWithNoTranslate, questionContext, function (translatedText) {
+                    clonedContent.innerHTML = '';
+                    prepareTranslationElementAndAddToDom(clonedContent, translatedText);
+                });
             }
         }
     }
@@ -466,9 +447,10 @@
             }
         }
 
-        processSelector(selectors['question'])
-        processSelector(selectors['comment'])
-        selectors['others'].forEach(selector => processSelector(selector));
+        processSelector(selectors['question'], 'question')
+        processSelector(selectors['comment'], 'comment')
+        processSelector(selectors['answers'], 'answers')
+        selectors['others'].forEach(selector => processSelector(selector, 'others'));
 
         switchAdditionalPlaceSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');

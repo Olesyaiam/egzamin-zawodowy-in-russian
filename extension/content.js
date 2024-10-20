@@ -8,17 +8,16 @@
     const selectors = {
         "question": "#question_text",
         "others": [
-            //"#eztr_pod_pytaniem > div > div > div",
-            "div.wyjasnienie_pytania > div.alert",
-            "td > label"
+            '//div[@class="wyjasnienie_pytania"]//br/following-sibling::text()[1]',
+            'td > label'
         ]
     };
 
     let selectorsToRemove = [
-        {
-            selector: 'div.wyjasnienie_pytania > div > b > i',
-            deleteLevel: 0
-        }
+        // {
+        //     selector: 'div.wyjasnienie_pytania > div > b > i',
+        //     deleteLevel: 0
+        // }
     ];
 
     let contentCache = {};

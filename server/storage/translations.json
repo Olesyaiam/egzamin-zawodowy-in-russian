@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "taśmy kauczukowe": "резиновые ленты"
+    },
     "approved": {
         "others": {
             "Kwiatostany anturium, podobnie jak wiele innych delikatnych kwiatów ciętych, wymagają szczególnej ochrony podczas transportu, aby zapobiec ich uszkodzeniu. Pakowanie w karton ze specjalną wkładką jest powszechnie stosowaną metodą, ponieważ zapewnia stabilność kwiatów oraz ochronę przed czynnikami zewnętrznymi, takimi jak nacisk czy zmiany temperatury. Specjalna wkładka może również pomóc w utrzymaniu odpowiedniej wilgotności, co jest kluczowe dla zachowania świeżości kwiatów. Pozostałe opcje, takie jak podwójny papier, nylonowa siatka czy woreczek foliowy wypełnione gazem, nie zapewniają tak kompleksowej ochrony i mogą nie być odpowiednie do długotrwałego transportu kwiatów ciętych, szczególnie tak delikatnych jak anturium": "Соцветия антуриума, так же как и многие другие нежные срезанные цветы, требуют особой защиты во время транспортировки, чтобы предотвратить их повреждение. Упаковка в картон со специальной вставкой является широко используемым методом, поскольку она обеспечивает стабильность цветков и защиту от внешних факторов, таких как давление или изменение температуры. Специальная вставка также может помочь в поддержании нужной влажности, что является ключевым для сохранения свежести цветов. Остальные варианты, такие как двойная бумага, нейлоновая сетка или полиэтиленовый пакет, наполненный газом, не обеспечивают такой комплексной защиты и могут быть не подходящими для длительной транспортировки срезанных цветов, особенно таких деликатных, как антуриум.",
@@ -66,7 +68,6 @@
         "Essen": "Еда.",
         "Na podstawie danych zamieszczonych w tabeli wskaż temperaturę przechowywania w chłodni ściętych frezji": "На основании данных, размещённых в таблице, укажите температуру хранения в холодильнике срезанных фрезий.",
         "hydrożele": "гидрогели.",
-        "taśmy kauczukowe": "резиновые ленты",
         "Aby zapewnić stały dostęp do wody pojedynczych kwiatów cymbidium, wykorzystuje się fiolki florystyczne. Fiolki te są małymi pojemnikami, które można napełnić wodą i zamocować bezpośrednio przy łodydze kwiatu, zapewniając mu ciągłe nawodnienie. Pozostałe opcje, takie jak kostki lodu, hydrożele, czy taśmy kauczukowe, nie są standardowymi metodami utrzymania wilgotności dla pojedynczych kwiatów w florystyce": "Чтобы обеспечить постоянный доступ к воде для отдельных цветов цимбидиума, используют флористические флаконы. Эти флаконы являются маленькими контейнерами, которые можно наполнить водой и закрепить непосредственно у стебля цветка, обеспечивая ему непрерывное увлажнение. Остальные варианты, такие как льдинки, гидрогели или резиновые ленты, не являются стандартными методами поддержания влажности для отдельных цветов во флористике."
     }
 }

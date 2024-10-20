@@ -211,7 +211,7 @@ class Translator extends Base
         $dictionary = self::generateDictionary($promptData, $text);
         $dictionaryIntro = count($dictionary) ? $promptData['dictionary_intro'] : '';
         $questionContext = strlen($questionContext) > 0
-            ? 'Фрагмент является одним за вариантов ответа на вопрос из теста, вот он для контекста: "' . $questionContext . '"'
+            ? 'Фрагмент является одним за вариантов ответа на вопрос из теста, вот он для контекста: "' . $questionContext . '." '
             : '';
 
         foreach ($promptData['comments'] as $line => $searchList) {

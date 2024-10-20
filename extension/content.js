@@ -204,6 +204,7 @@
         }
 
         if (lastIndex < translation.length) {
+            element.appendChild(document.createElement('br'));
             const remainingText = document.createElement('b');
             remainingText.textContent = translation.substring(lastIndex);
             element.appendChild(remainingText);

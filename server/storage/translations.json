@@ -79,7 +79,13 @@
             "Do form towarzyszących w kompozycji klasyfikują się kwiaty": "К сопутствующим формам в композиции классифицируются цветы",
             "łyszczca wiechowatego": "гипсофилы метельчатой",
             "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объём, цвет или текстуру. Гвоздика ветвистая часто используется как сопутствующая форма из-за своей стойкости, разнообразия цветов и деликатной структуры, которая отлично сочетается с более крупными цветами, такими как лилии или амариллисы. Королевские лилии, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-            "Kompozycja kwiatowa ma 50 cm wysokości i została sporządzona przy zastosowaniu proporcji przedstawionej na rysunku. Jaką wysokość ma naczynie zastosowane w kompozycji?": "Композиция цветочная имеет 50 см в высоту и была составлена с использованием пропорции, представленной на рисунке. Какую высоту имеет сосуд, использованный в композиции?"
+            "Kompozycja kwiatowa ma 50 cm wysokości i została sporządzona przy zastosowaniu proporcji przedstawionej na rysunku. Jaką wysokość ma naczynie zastosowane w kompozycji?": "Композиция цветочная имеет 50 см в высоту и была составлена с использованием пропорции, представленной на рисунке. Какую высоту имеет сосуд, использованный в композиции?",
+            "Aby znaleźć wysokość naczynia, należy zastosować proporcję przedstawioną na rysunku. Całkowita wysokość kompozycji to 5 jednostek proporcji, co w rzeczywistości wynosi 50 cm. Zatem jedna jednostka proporcji to 50 cm \/ 5 = 10 cm. Naczynie na rysunku ma 2 jednostki proporcji, więc jego wysokość to 2 * 10 cm = 20 cm": "Чтобы найти высоту сосуда, следует применить пропорцию, представленную на рисунке. Общая высота композиции составляет 5 единиц пропорции, что в действительности составляет 50 см. Следовательно, одна единица пропорции равняется 50 см \/ 5 = 10 см. Сосуд на рисунке имеет 2 единицы пропорции, значит, его высота составляет 2 * 10 см = 20 см.",
+            "Przedwczesne starzenie się gerber w wazonie spowodowane jest": "Преждевременное старение гербер в вазе вызвано",
+            "łączeniem świeżych kwiatów z przekwitającymi": "соединением свежих цветов с отцветающими.",
+            "częstą wymianą wody w naczyniu": "частой заменой воды в сосуде.",
+            "ukośnym podcinaniem łodyg": "косым подрезанием стеблей.",
+            "stosowaniem środka chemicznego Chrysal Clear": "использованием химического средства Chrysal Clear."
         }
     },
     "not_approved": {
@@ -127,6 +133,7 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле."
+        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
+        "Przedwczesne starzenie się gerber w wazonie jest spowodowane łączeniem świeżych kwiatów z przekwitającymi. Przekwitające kwiaty wydzielają etylen, który przyspiesza proces starzenia się świeżych kwiatów. Częsta wymiana wody, ukośne podcinanie łodyg oraz stosowanie środka chemicznego Chrysal Clear są zalecanymi praktykami mającymi na celu przedłużenie świeżości kwiatów ciętych, a nie przyczynami ich przedwczesnego starzenia": "Преждевременное старение гербер в вазе вызвано сочетанием свежих цветов с увядающими. Увядающие цветы выделяют этилен, который ускоряет процесс старения свежих цветов. Частая замена воды, косое подрезание стеблей и использование химического средства Chrysal Clear являются рекомендуемыми практиками, направленными на продление свежести срезанных цветов, а не причинами их преждевременного старения."
     }
 }

@@ -444,16 +444,33 @@
 
         if (!document.querySelector(selectors['comment'])) {
             let comment_with_trash = document.querySelector('#eztr_pod_pytaniem > div > div > div');
+            
+            if (comment_with_trash && comment_with_trash.innerHTML.trim() !== '') {
+                // Разбиваем содержимое по тегу <br>
+                let parts = comment_with_trash.innerHTML.split('<br>');
 
-            // Разбиваем содержимое по тегу <br>
-            let parts = comment_with_trash.innerHTML.split('<br>');
+                // Берем все, что идет после первого <br>
+                if (parts.length > 1) {
+                    // Собираем все оставшиеся части
+                    let afterBrContent = parts.slice(1).join('<br>');
 
-            // Берем все, что идет после первого <br>
-            if (parts.length > 1) {
-                let afterBrContent = parts.slice(1).join('<br>'); // Собираем все оставшиеся части
-                console.log(afterBrContent); // Выводим или используем результат
-            } else {
-                console.log('Элемент <br> не найден');
+                    // Создаем временный элемент для очистки содержимого от HTML-тегов
+                    let tempDiv = document.createElement('div');
+                    tempDiv.innerHTML = afterBrContent;
+                    let plainText = tempDiv.textContent || tempDiv.innerText || '';
+
+                    // Создаем новый элемент <div> с нужным ID
+                    let newDiv = document.createElement('div');
+                    newDiv.id = selectors['comment'].slice(1);
+                    newDiv.textContent = plainText.trim(); // Добавляем очищенный текст в новый элемент
+
+                    // Добавляем новый элемент последним в comment_with_trash
+                    comment_with_trash.appendChild(newDiv);
+
+                    console.log('Добавлен элемент:', newDiv);
+                } else {
+                    console.log('Элемент <br> не найден');
+                }
             }
         }
 

@@ -171,7 +171,7 @@
         element.prepend(div);
     }
 
-    function prepareTranslationElementAndAddToDom(category, element, translation, originalText) {
+    function prepareTranslationElementAndAddToDom(element, translation) {
         const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -338,7 +338,7 @@
         }
     }
 
-    function processSelector(selector, category) {
+    function processSelector(selector) {
         try {
             if (selector.startsWith('/')) {
                 const result = document.evaluate(
@@ -353,12 +353,12 @@
                     const element = result.snapshotItem(i);
 
                     if (element) {
-                        processElement(element, selector, category);
+                        processElement(element, selector);
                     }
                 }
             } else {
                 document.querySelectorAll(selector).forEach(element => {
-                    processElement(element, selector, category);
+                    processElement(element, selector);
                 });
             }
         } catch (error) {
@@ -366,7 +366,7 @@
         }
     }
 
-    function processElement(element, selector, category) {
+    function processElement(element, selector) {
         if (!element.id) {
             element.id = 'random-' + Math.floor(Math.random() * 1000000);
         }
@@ -383,23 +383,13 @@
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
                         const translationElement = element.querySelector('b');
-                        prepareTranslationElementAndAddToDom(
-                            category,
-                            translationElement,
-                            translatedText,
-                            originalTextWithNoTranslate
-                        );
+                        prepareTranslationElementAndAddToDom(translationElement, translatedText);
                     });
                 } else if (selector.includes('page_title')) {
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
                         const translationElement = element.querySelector('translation');
-                        prepareTranslationElementAndAddToDom(
-                            category,
-                            translationElement,
-                            translatedText,
-                            originalTextWithNoTranslate
-                        );
+                        prepareTranslationElementAndAddToDom(translationElement, translatedText);
                     });
                 } else {
                     let clonedContent = getElementWithTranslation(element);
@@ -407,12 +397,7 @@
 
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         clonedContent.innerHTML = '';
-                        prepareTranslationElementAndAddToDom(
-                            category,
-                            clonedContent,
-                            translatedText,
-                            originalTextWithNoTranslate
-                        );
+                        prepareTranslationElementAndAddToDom(clonedContent, translatedText);
                     });
                 }
             }
@@ -481,9 +466,9 @@
             }
         }
 
-        processSelector(selectors['question'], 'question')
-        processSelector(selectors['comment'], 'comment')
-        selectors['others'].forEach(selector => processSelector(selector, 'others'));
+        processSelector(selectors['question'])
+        processSelector(selectors['comment'])
+        selectors['others'].forEach(selector => processSelector(selector));
 
         switchAdditionalPlaceSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');

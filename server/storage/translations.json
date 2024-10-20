@@ -17,7 +17,9 @@
             "przypinania liści do podkładu": "прикалывания листьев к подкладке.",
             "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к подложке.",
             "Którą z wymienionych technik należy zastosować do wykonania płaskiego kolażu z zasuszonych roślin?": "Какую из перечисленных техник следует применить для выполнения плоского коллажа из засушенных растений?",
-            "Klejenia": "Клеения."
+            "Klejenia": "Клеения.",
+            "Przedłużania łodyg": "Удлинения стеблей.",
+            "Mokrej gąbki florystycznej": "Мокрой флористической губки."
         }
     },
     "not_approved": {
@@ -46,8 +48,6 @@
         "Na słabo oświetlonych parapetach okiennych poleca się ustawiać następujące rośliny doniczkowe:": "На слабо освещенных подоконниках рекомендуется размещать следующие комнатные растения:",
         "juki i agawy": "Юкки и агавы.",
         "aloesy i kalanchoe": "Алоэ и каланхоэ.",
-        "Przedłużania łodyg": "Удлинения стеблей.",
-        "Watowania": "Хлопкового укрепления.",
-        "Mokrej gąbki florystycznej": "Мокрой флористической губки."
+        "Watowania": "Хлопкового укрепления."
     }
 }

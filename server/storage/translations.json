@@ -45,7 +45,9 @@
             "kostki lodu": "кубики льда.",
             "hydrożele": "гидрогели.",
             "taśmy kauczukowe": "ленты каучуковые.",
-            "Aby zapewnić stały dostęp do wody pojedynczych kwiatów cymbidium, wykorzystuje się fiolki florystyczne. Fiolki te są małymi pojemnikami, które można napełnić wodą i zamocować bezpośrednio przy łodydze kwiatu, zapewniając mu ciągłe nawodnienie. Pozostałe opcje, takie jak kostki lodu, hydrożele, czy taśmy kauczukowe, nie są standardowymi metodami utrzymania wilgotności dla pojedynczych kwiatów w florystyce": "Для обеспечения постоянного доступа к воде отдельных цветов цимбидиума используются флористические пробирки. Эти пробирки являются маленькими контейнерами, которые можно наполнить водой и прикрепить непосредственно к стеблю цветка, обеспечивая ему постоянное увлажнение. Остальные варианты, такие как кубики льда, гидрогели или ленты каучуковые, не являются стандартными методами поддержания влажности для отдельных цветов во флористике."
+            "Aby zapewnić stały dostęp do wody pojedynczych kwiatów cymbidium, wykorzystuje się fiolki florystyczne. Fiolki te są małymi pojemnikami, które można napełnić wodą i zamocować bezpośrednio przy łodydze kwiatu, zapewniając mu ciągłe nawodnienie. Pozostałe opcje, takie jak kostki lodu, hydrożele, czy taśmy kauczukowe, nie są standardowymi metodami utrzymania wilgotności dla pojedynczych kwiatów w florystyce": "Для обеспечения постоянного доступа к воде отдельных цветов цимбидиума используются флористические пробирки. Эти пробирки являются маленькими контейнерами, которые можно наполнить водой и прикрепить непосредственно к стеблю цветка, обеспечивая ему постоянное увлажнение. Остальные варианты, такие как кубики льда, гидрогели или ленты каучуковые, не являются стандартными методами поддержания влажности для отдельных цветов во флористике.",
+            "pinholder": "пинхолдер",
+            "Właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku jest": "Правильным техническим средством для крепления флористической губки в пластиковом, неглубоком контейнере является"
         }
     },
     "not_approved": {
@@ -93,8 +95,6 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "pinholder": "пинхолдер",
-        "drut spiralny": "проволка спиральная",
-        "Właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku jest": "Правильным техническим средством для крепления флористической губки в пластиковом, неглубоком контейнере является"
+        "drut spiralny": "проволка спиральная"
     }
 }

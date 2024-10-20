@@ -23,9 +23,9 @@
         ]
     },
     "dictionary_by_search_word": {
-        "przeciwmgł": [
-            "światła przeciwmgłowe przednie: передние противотуманные фары",
-            "tylne światła przeciwmgłowe: задние противотуманные фонари"
+        "pod": [
+            "podłoże: подложка",
+            "podkład: подкладка"
         ],
         "przeciwwskaz": [
             "nie ma żadnych przeciwwskazań: нет никаких запретов",
@@ -37,6 +37,8 @@
         "kwiaciarni": "kwiaciarnia: цветочная лавка",
         "formalno-linearn": "formalno-linearny: формально-линеарный",
         "drutowani": "drutowanie: проволочное укрепление",
-        "szynowani": "szynowanie: рельсоподобное укрепление (szyna - рельс)"
+        "szynowani": "szynowanie: рельсоподобное укрепление (szyna - рельс)",
+        "drut": "drut: проволка",
+        "pinholder": "pinholder: пинхолдер"
     }
 }

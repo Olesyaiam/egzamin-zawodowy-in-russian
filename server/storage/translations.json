@@ -99,7 +99,12 @@
             "strukturalnej": "структурной.",
             "Na rysunku przedstawiono schemat układania wiązanki w stylu angielskim, który charakteryzuje się symetrycznym i promienistym rozmieszczeniem kwiatów oraz równomiernym rozłożeniem kolorów i tekstur. Schemat pokazuje, jak kwiaty są układane wokół centralnego punktu, co jest typowe dla wiązanki angielskiej": "На рисунке представлен схематичный план укладки букета в английском стиле, который характеризуется симметричным и лучеобразным расположением цветов, а также равномерным распределением цветов и текстур. Схема показывает, как цветы укладываются вокруг центральной точки, что типично для английского букета.",
             "Na rysunku przedstawiono schemat układania wiązanki": "На рисунке представлен схематический план укладки цветочной связки.",
-            "Do jesiennej dekoracji stołu należy zastosować": "Для осеннего украшения стола следует использовать"
+            "Do jesiennej dekoracji stołu należy zastosować": "Для осеннего украшения стола следует использовать",
+            "stokrotki i krokusy": "ромашки и крокусы.",
+            "irysy i narcyzy": "ирисы и нарциссы.",
+            "piwonie i mieczyki": "пионы и гладиолусы.",
+            "nawłocie i zatrwiany": "золотарник и лимониум",
+            "Wybór odpowiedzi \"nawłocie i zatrwiany\" jest poprawny, ponieważ te rośliny są charakterystyczne dla jesiennej dekoracji ze względu na ich złociste i purpurowe barwy, które idealnie komponują się z jesienną paletą kolorów. Stokrotki i krokusy są związane z wiosną, piwonie i mieczyki z latem, a irysy i narcyzy również głównie z wiosną, co czyni je nieodpowiednimi do dekoracji stołu jesienią": "Выбор ответа \"золотарник и лимониумы\" является правильным, потому что эти растения характерны для осеннего декора из-за их золотистых и пурпурных расцветок, которые идеально сочетаются с осенней палитрой цветов. Ромашки и крокусы связаны с весной, пионы и гладиолусы - с летом, а ирисы и нарциссы также в основном с весной, что делает их неподходящими для декора стола осенью."
         }
     },
     "not_approved": {
@@ -147,10 +152,6 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "piwonie i mieczyki": "пионы и гладиолусы.",
-        "irysy i narcyzy": "ирисы и нарциссы.",
-        "nawłocie i zatrwiany": "золотарник и статица",
-        "stokrotki i krokusy": "ромашки и крокусы."
+        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле."
     }
 }

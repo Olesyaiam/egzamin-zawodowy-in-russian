@@ -8,7 +8,7 @@
     const selectors = {
         "question": "#question_text",
         "others": [
-            '//div[@class="wyjasnienie_pytania"]//br/following-sibling::text()[1]',
+            '//div[@class="wyjasnienie_pytania"]/div',
             'td > label'
         ]
     };

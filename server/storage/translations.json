@@ -129,7 +129,11 @@
             "Fioletowe irysy, zieleń ciętą, kenzan, wstążkę": "Фиолетовые ирисы, срезанную зелень, кэнзан, ленту.",
             "Gałązki świerkowe, słomiany korpus, susz egzotyczny": "Еловые веточки, соломенный каркас, экзотический сухоцвет.",
             "Gałązki jodłowe, zieleń ciętą, czerwone goździki, floret, wstążkę": "Еловые ветки, резаную зелень, красные гвоздики, рапиру, ленту.",
-            "Podkład z pędów, zieleń ciętą, białe róże, gąbkę florystyczną, wstążkę": "Подкладка из побегов, срезанную зелень, белые розы, флористическую губку, ленту."
+            "Podkład z pędów, zieleń ciętą, białe róże, gąbkę florystyczną, wstążkę": "Подкладка из побегов, срезанную зелень, белые розы, флористическую губку, ленту.",
+            "Wybór materiałów florystycznych do wykonania wiązanki pogrzebowej powinien uwzględniać trwałość, symbolikę oraz estetykę. Gałązki jodłowe są często używane ze względu na ich trwałość i piękny, zielony kolor symbolizujący wieczne życie. Zieleń ciętą dodaje objętości i różnorodności tekstury. Czerwone goździki są symbolem miłości i szacunku, co jest odpowiednie dla okoliczności pogrzebowych. Floret dodaje elegancji, a wstążka jest elementem dekoracyjnym, który może również nieść dodatkowe znaczenie, np. poprzez kolor symbolizujący relację z zmarłym. Pozostałe odpowiedzi zawierają elementy mniej typowe dla wiązanek pogrzebowych lub mniej odpowiednie pod względem symboliki i estetyki": "Выбор флористических материалов для изготовления похоронной композиции должен учитывать долговечность, символику и эстетику. Веточки ели часто используются из-за их прочности и красивого зеленого цвета, символизирующего вечную жизнь. Резаная зелень добавляет объёма и разнообразия текстуры. Красные гвоздики являются символом любви и уважения, что уместно для похоронных обстоятельств. Рапира добавляет элегантности, а лента является декоративным элементом, который также может нести дополнительное значение, например, через цвет, символизирующий связь с покойным. Остальные ответы содержат элементы, менее типичные для похоронных композиций или менее подходящие с точки зрения символики и эстетики.",
+            "Które z wymienionych narzędzi stosuje się do wyginania drutów florystycznych?": "Какой из перечисленных инструментов используется для выгибания флористических проволок?",
+            "Sekatory gąsienicowe": "Секаторы гусеничные.",
+            "Pęsety lekarskie": "Медицинские пинцеты"
         }
     },
     "not_approved": {
@@ -177,6 +181,8 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле."
+        "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
+        "Szczypce okrągłe": "Круглогубцы",
+        "Szczypce nastawcze": "Регулируемые плоскогубцы."
     }
 }

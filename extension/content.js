@@ -3,7 +3,7 @@
 
     const baseUrl = 'http://145.239.80.201:8081/'
 
-    const switchSelectors = []
+    const switchAdditionalPlaceSelectors = []
 
     const selectors = {
         "question": "#question_text",
@@ -444,7 +444,7 @@
         processSelector(selectors['question'], 'question')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
 
-        switchSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));
+        switchAdditionalPlaceSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {

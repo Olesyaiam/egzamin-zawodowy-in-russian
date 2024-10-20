@@ -392,12 +392,23 @@
             let question_with_trash = document.querySelector('#question_form > fieldset');
             let parts = question_with_trash.innerHTML.split('<p class="image_test visible-desktop">');
             let parts2 = parts[0].split('</div>');
-            let question = parts2.at(-1).trim()
+            let question = parts2.at(-1);
             console.log(question)
 
             parts2.pop();
             let newHTML = parts2.join('</div>') + '</div>' + parts[1];
             question_with_trash.innerHTML = newHTML;
+
+            // Очищаем вопрос от HTML-тегов
+            let tempDiv = document.createElement('div');
+            tempDiv.innerHTML = question;
+            let cleanQuestion = tempDiv.textContent || tempDiv.innerText || '';
+
+            // Создаем новый элемент <div> для сохранения очищенного вопроса
+            let questionDiv = document.createElement('div');
+            questionDiv.id = selectors['question'].slice(1);
+            questionDiv.textContent = cleanQuestion.trim();
+            document.querySelector('#question_form > fieldset > div.visible-desktop:nth-of-type(4)').appendChild(questionDiv);
         }
 
         if (!document.querySelector(selectors['comment'])) {

@@ -521,6 +521,12 @@
       background-color: white;
       transition: .4s;
       border-radius: 50%;
+    }
+    input:checked + .switch {
+      background-color: #2196F3;
+    }
+    input:checked + .switch:before {
+      transform: translateX(26px);
     }`;
 
     document.head.appendChild(style);

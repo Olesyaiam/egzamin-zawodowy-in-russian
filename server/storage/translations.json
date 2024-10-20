@@ -10,7 +10,8 @@
             "Formalny": "Формальный.",
             "Wegetatywny": "Вегетативный.",
             "Dekoracyjny": "Декоративный.",
-            "Kwiaciarnia otrzymała zlecenie wykonania okrągłej wiązanki ze spiralnie ułożonymi łodygami i ozdobną kryzą. Który styl kompozycji wybierze florysta realizując zamówienie?": "Цветочная лавка получила заказ на изготовление круглого букета с спирально уложенными стеблями и декоративным воротником. Какой стиль композиции выберет флорист, выполняя заказ?"
+            "Kwiaciarnia otrzymała zlecenie wykonania okrągłej wiązanki ze spiralnie ułożonymi łodygami i ozdobną kryzą. Który styl kompozycji wybierze florysta realizując zamówienie?": "Цветочная лавка получила заказ на изготовление круглого букета с спирально уложенными стеблями и декоративным воротником. Какой стиль композиции выберет флорист, выполняя заказ?",
+            "Tapa we florystyce stosowana jest do": "Така называемая 'tapa' во флористике используется для"
         }
     },
     "not_approved": {
@@ -42,7 +43,6 @@
         "przedłużania zbyt krótkich łodyg": "удлинения слишком коротких стеблей.",
         "przyklejania pinholderów do podłoża": "приклеивания пинхолдеров к основанию.",
         "przypinania liści do podkładu": "прикрепление листьев к основе.",
-        "maskowania drutów technicznych": "маскировка технических проводов.",
-        "Tapa we florystyce stosowana jest do": "Техника \"tapa\" во флористике используется для"
+        "maskowania drutów technicznych": "маскировка технических проводов."
     }
 }

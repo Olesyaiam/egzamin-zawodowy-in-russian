@@ -159,7 +159,13 @@
             "Gałęziaki": "Веточки.",
             "Liście": "Листья.",
             "Owocostany": "Соплодия.",
-            "Które części szparaga (Asparagus) wykorzystywane są we florystyce?": "Какие части спаржи (Asparagus) используются во флористике?"
+            "Które części szparaga (Asparagus) wykorzystywane są we florystyce?": "Какие части спаржи (Asparagus) используются во флористике?",
+            "W florystyce wykorzystuje się różne części roślin, w zależności od ich walorów dekoracyjnych. Szparag (Asparagus), ze względu na swoje delikatne i estetycznie wyglądające gałązki, jest ceniony przede wszystkim za swoje gałęziaki. Gałęziaki szparaga dodają lekkości i objętości kompozycjom kwiatowym, stanowiąc doskonałe tło dla innych kwiatów. Liście, kwiaty, czy owocostany szparaga nie są typowo wykorzystywane we florystyce, głównie ze względu na ich mniej dekoracyjny charakter w porównaniu do gałęziaków": "Во флористике используются различные части растений в зависимости от их декоративных качеств. Спаржа (Asparagus), благодаря своим нежным и эстетично выглядящим веточкам, ценится прежде всего за свои веточки. Веточки спаржи добавляют легкость и объем цветочным композициям, создавая отличное фоновое оформление для других цветов. Листья, цветы или соплодия спаржи обычно не используются во флористике, главным образом из-за их менее декоративного характера по сравнению с веточками.",
+            "Które z wymienionych owoców produkują duże ilości etylenu?": "Какие из перечисленных фруктов производят большие количества этилена?",
+            "Banany": "Бананы.",
+            "Truskawki": "Клубника.",
+            "Arbuzy": "Арбузы.",
+            "Winogrona": "Виноград."
         }
     },
     "not_approved": {
@@ -210,6 +216,6 @@
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
         "Które części szparaga (": "Какие части спаржи (",
         ") wykorzystywane są we florystyce?": ") используются во флористике?",
-        "W florystyce wykorzystuje się różne części roślin, w zależności od ich walorów dekoracyjnych. Szparag (Asparagus), ze względu na swoje delikatne i estetycznie wyglądające gałązki, jest ceniony przede wszystkim za swoje gałęziaki. Gałęziaki szparaga dodają lekkości i objętości kompozycjom kwiatowym, stanowiąc doskonałe tło dla innych kwiatów. Liście, kwiaty, czy owocostany szparaga nie są typowo wykorzystywane we florystyce, głównie ze względu na ich mniej dekoracyjny charakter w porównaniu do gałęziaków": "Во флористике используются различные части растений, в зависимости от их декоративных качеств. Спаржа (Asparagus), благодаря своим нежным и эстетически привлекательным веточкам, ценится прежде всего за свои побеги. Побеги спаржи добавляют легкости и объема цветочным композициям, создавая великолепный фон для других цветов. Листья, цветы или соплодия спаржи обычно не используются во флористике, главным образом из-за их менее декоративного характера по сравнению с побегами."
+        "Banany są znane z produkcji dużych ilości etylenu, gazu, który przyspiesza dojrzewanie owoców. Etylen jest hormonem roślinnym, który pełni kluczową rolę w procesie dojrzewania owoców. Banany, po zerwaniu, kontynuują produkcję etylenu, co sprawia, że dojrzewają szybciej i mogą również przyspieszać dojrzewanie innych owoców znajdujących się w ich pobliżu. Arbuzy, truskawki i winogrona produkują znacznie mniej etylenu niż banany, co czyni odpowiedź \"Banany\" jedyną poprawną w kontekście tego pytania": "Бананы известны производством большого количества этилена, газа, который ускоряет созревание фруктов. Этилен является растительным гормоном, играющим ключевую роль в процессе созревания фруктов. Бананы, после срыва, продолжают производить этилен, что заставляет их созревать быстрее и также может ускорять созревание других фруктов, находящихся поблизости. Арбузы, клубника и виноград производят значительно меньше этилена, чем бананы, что делает ответ \"Бананы\" единственно правильным в контексте этого вопроса."
     }
 }

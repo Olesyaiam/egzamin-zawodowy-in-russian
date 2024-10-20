@@ -113,7 +113,18 @@
             "Technika wicia jest często stosowana w florystyce do tworzenia różnorodnych form dekoracyjnych, w tym dekoracji ślubnych. Pnącze jako dekoracja ślubna może być wykonane przy użyciu techniki wicia, co pozwala na stworzenie elastycznych, naturalnie wyglądających form, które mogą być używane na przykład jako elementy dekoracyjne stołów, krzeseł czy jako część większej kompozycji florystycznej. Pozostałe opcje, takie jak kulka, rożek, czy berło, również mogą być tworzone przy użyciu różnych technik florystycznych, ale technika wicia jest szczególnie odpowiednia do tworzenia form przypominających pnącza ze względu na ich naturalny, swobodny charakter": "Техника плетения часто используется во флористике для создания разнообразных декоративных форм, в том числе свадебных украшений. Вьющиеся растения как свадебное украшение могут быть выполнены с использованием техники плетения, что позволяет создать гибкие, естественно выглядящие формы, которые могут использоваться, например, как декоративные элементы столов, стульев или как часть более крупной флористической композиции. Остальные варианты, такие как шарик, конус или скипетр, также могут быть созданы с использованием различных флористических техник, но техника плетения особенно подходит для создания форм, напоминающих вьющиеся растения, благодаря их естественному, свободному характеру.",
             "Oblicz koszty robocizny związane z wykonaniem kompozycji urodzinowej wiedząc, że stanowią one 30% kosztów zużytych materiałów florystycznych": "Рассчитай затраты на работу, связанные с выполнением композиции на день рождения, зная, что они составляют 30% от стоимости использованных флористических материалов.",
             "Aby obliczyć koszty robocizny, należy najpierw zsumować wartości wszystkich zużytych materiałów florystycznych, a następnie obliczyć 30% tej sumy. Suma wartości materiałów wynosi 232,00 zł, a 30% tej kwoty to 69,60 zł, co jest poprawną odpowiedzią": "Чтобы рассчитать затраты на работу, сначала следует сложить стоимости всех использованных флористических материалов, а затем вычислить 30% от этой суммы. Сумма стоимости материалов составляет 232,00 злотых, а 30% от этой суммы равно 69,60 злотых, что является правильным ответом.",
-            "Do bielenia szyszek sosnowych stosuje się": "Для отбеливания сосновых шишек используют"
+            "Do bielenia szyszek sosnowych stosuje się": "Для отбеливания сосновых шишек используют",
+            "kwas azotowy": "азотная кислота",
+            "sodę oczyszczoną": "пищевую соду.",
+            "roztwór z gliceryny": "раствор с глицерином",
+            "boraks": "боракс",
+            "Kwas azotowy jest stosowany w procesie bielenia szyszek sosnowych ze względu na jego właściwości utleniające, które pozwalają na usunięcie naturalnych barwników z szyszek, czyniąc je jaśniejszymi. Proces ten wymaga użycia substancji chemicznej, która reaguje z pigmentami w szyszkach, a kwas azotowy jest jednym z najczęściej stosowanych środków do tego celu. Pozostałe wymienione substancje (boraks, soda oczyszczona, roztwór z gliceryny) nie mają tak silnych właściwości utleniających, które byłyby potrzebne do skutecznego bielenia szyszek sosnowych": "Азотная кислота используется в процессе отбеливания сосновых шишек из-за своих окислительных свойств, которые позволяют удалять естественные пигменты из шишек, делая их светлее. Этот процесс требует использования химического вещества, которое реагирует с пигментами в шишках, и азотная кислота является одним из наиболее часто используемых средств для этой цели. Остальные перечисленные вещества (боракс, пищевая сода, раствор с глицерином) не обладают такими сильными окислительными свойствами, которые необходимы для эффективного отбеливания сосновых шишек.",
+            "Do wykonania kompozycji wielkanocnej należy wybrać następujące rośliny:": "Для выполнения пасхальной композиции следует выбрать следующие растения:",
+            "jaskry i hiacynty": "лютики и гиацинты.",
+            "mieczyki i lilie": "гладиолусы и лилии.",
+            "słoneczniki i złocienie": "подсолнухи и хризантемы.",
+            "ostróżki i konwalie": "дельфиниумы и ландыши.",
+            "Wybór roślin do kompozycji wielkanocnej powinien uwzględniać rośliny, które są tradycyjnie kojarzone z tym okresem. Jaskry i hiacynty są popularnymi kwiatami wiosennymi, często wykorzystywanymi do dekoracji wielkanocnych ze względu na ich barwne i pachnące kwiaty, które symbolizują odrodzenie i nowe życie. Mieczyki i lilie, choć piękne, są mniej typowe dla tego okresu. Ostróżki i konwalie również kojarzą się z wiosną, ale nie są tak charakterystyczne dla Wielkanocy jak jaskry i hiacynty. Słoneczniki i złocienie to kwiaty letnie, więc nie pasują do tematu": "Выбор растений для пасхальной композиции должен учитывать растения, которые традиционно ассоциируются с этим периодом. Лютики и гиацинты являются популярными весенними цветами, часто используемыми для пасхальных украшений из-за их ярких и ароматных цветов, которые символизируют возрождение и новую жизнь. Гладиолусы и лилии, хотя и красивые, менее типичны для этого периода. Дельфиниумы и ландыши также ассоциируются с весной, но они не так характерны для Пасхи, как лютики и гиацинты. Подсолнухи и хризантемы - это летние цветы, поэтому они не подходят к теме."
         }
     },
     "not_approved": {
@@ -162,9 +173,10 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "boraks": "буракс.",
-        "roztwór z gliceryny": "раствор с глицерином",
-        "sodę oczyszczoną": "пищевую соду.",
-        "kwas azotowy": "азотная кислота"
+        "Które materiały florystyczne należy wybrać do wykonania wiązanki pogrzebowej?": "Какие флористические материалы следует выбрать для выполнения похоронной цветочной связки?",
+        "Gałązki świerkowe, słomiany korpus, susz egzotyczny": "Еловые веточки, соломенный каркас, экзотический сухоцвет.",
+        "Fioletowe irysy, zieleń ciętą, kenzan, wstążkę": "Фиолетовые ирисы, срезанную зелень, кэнзан, ленту.",
+        "Gałązki jodłowe, zieleń ciętą, czerwone goździki, floret, wstążkę": "Веточки пихтовые, зелень срезанную, красные гвоздики, фоам, ленту.",
+        "Podkład z pędów, zieleń ciętą, białe róże, gąbkę florystyczną, wstążkę": "Подкладка из побегов, срезанную зелень, белые розы, флористическую губку, ленту."
     }
 }

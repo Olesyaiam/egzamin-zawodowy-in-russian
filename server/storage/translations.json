@@ -53,7 +53,8 @@
             "ślimaków": "улиток.",
             "mszyc": "тлей.",
             "Aficydy to środki ochrony roślin służące do zwalczania": "Противотлевые препараты - это средства защиты растений, предназначенные для борьбы.",
-            "przędziorków": "паутинных клещей."
+            "przędziorków": "паутинных клещей.",
+            "mączlików": "белокрылок."
         }
     },
     "not_approved": {
@@ -100,7 +101,6 @@
         "romantyzmu": "романтизма.",
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
-        "kenzan": "кензан",
-        "mączlików": "мучнистых червецов."
+        "kenzan": "кензан"
     }
 }

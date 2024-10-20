@@ -10,6 +10,7 @@
         "comment": '#question_comment',
         "answers": 'td > label',
         "others": [
+            'div.friends_area > label > span:first-of-type',
             'div.answer_block'
         ]
     };

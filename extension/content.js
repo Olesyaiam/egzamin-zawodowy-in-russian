@@ -444,7 +444,7 @@
 
         if (!document.querySelector(selectors['comment'])) {
             let comment_with_trash = document.querySelector('#eztr_pod_pytaniem > div > div > div');
-            
+
             if (comment_with_trash && comment_with_trash.innerHTML.trim() !== '') {
                 // Разбиваем содержимое по тегу <br>
                 let parts = comment_with_trash.innerHTML.split('<br>');
@@ -464,10 +464,18 @@
                     newDiv.id = selectors['comment'].slice(1);
                     newDiv.textContent = plainText.trim(); // Добавляем очищенный текст в новый элемент
 
-                    // Добавляем новый элемент последним в comment_with_trash
-                    comment_with_trash.appendChild(newDiv);
+                    // Находим элемент с ID eztr_pod_pytaniem
+                    let eztr_pod_pytaniem = document.querySelector('#eztr_pod_pytaniem');
+                    if (eztr_pod_pytaniem) {
+                        // Добавляем новый элемент последним в eztr_pod_pytaniem
+                        eztr_pod_pytaniem.appendChild(newDiv);
 
-                    console.log('Добавлен элемент:', newDiv);
+                        // Удаляем comment_with_trash из DOM
+                        comment_with_trash.remove();
+                        console.log('Новый элемент добавлен и comment_with_trash удален.');
+                    } else {
+                        console.log('Элемент #eztr_pod_pytaniem не найден.');
+                    }
                 } else {
                     console.log('Элемент <br> не найден');
                 }

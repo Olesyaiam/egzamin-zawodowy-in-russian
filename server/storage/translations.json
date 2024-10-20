@@ -87,7 +87,12 @@
             "ukośnym podcinaniem łodyg": "косым подрезанием стеблей.",
             "stosowaniem środka chemicznego Chrysal Clear": "использованием химического средства Chrysal Clear.",
             "Przedwczesne starzenie się gerber w wazonie jest spowodowane łączeniem świeżych kwiatów z przekwitającymi. Przekwitające kwiaty wydzielają etylen, który przyspiesza proces starzenia się świeżych kwiatów. Częsta wymiana wody, ukośne podcinanie łodyg oraz stosowanie środka chemicznego Chrysal Clear są zalecanymi praktykami mającymi na celu przedłużenie świeżości kwiatów ciętych, a nie przyczynami ich przedwczesnego starzenia": "Преждевременное старение гербер в вазе вызвано сочетанием свежих цветов с увядающими. Увядающие цветы выделяют этилен, который ускоряет процесс старения свежих цветов. Частая замена воды, косое подрезание стеблей и использование химического средства Chrysal Clear являются рекомендуемыми практиками, направленными на продление свежести срезанных цветов, а не причинами их преждевременного старения.",
-            "Florysta otrzymał zlecenie na wykonanie i zamocowanie do betonowej ściany ślubnej girlandy. Do montażu uchwytów powinien zastosować": "Флорист получил заказ на изготовление и крепление к бетонной стене свадебной гирлянды. Для монтажа держателей он должен использовать"
+            "Florysta otrzymał zlecenie na wykonanie i zamocowanie do betonowej ściany ślubnej girlandy. Do montażu uchwytów powinien zastosować": "Флорист получил заказ на изготовление и крепление к бетонной стене свадебной гирлянды. Для монтажа держателей он должен использовать",
+            "wiertarkę": "дрель",
+            "magnes": "магниты.",
+            "tacker": "степлер",
+            "szlifierkę": "шлифовальную машинку.",
+            "Aby zamocować uchwyty do betonowej ściany, potrzebne jest narzędzie, które umożliwi wykonanie otworów w betonie. Wiertarka z odpowiednim wiertłem do betonu jest narzędziem przeznaczonym do tego celu. Magnes nie będzie skuteczny na betonowej ścianie, tacker (zszywacz tapicerski) nie jest przeznaczony do pracy z betonem, a szlifierka służy do obróbki powierzchni, a nie do wykonywania otworów": "Чтобы закрепить держатели на бетонной стене, необходимо инструмент, который позволит выполнить отверстия в бетоне. Дрель с соответствующим сверлом для бетона является инструментом, предназначенным для этой цели. Магнит не будет эффективным на бетонной стене, степлер (мебельный степлер) не предназначен для работы с бетоном, а шлифовальная машина служит для обработки поверхностей, а не для выполнения отверстий."
         }
     },
     "not_approved": {
@@ -136,9 +141,10 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "wiertarkę": "дрель",
-        "tacker": "степлер",
-        "magnes": "магниты.",
-        "szlifierkę": "шлифовальную машинку."
+        "wiedeńskiej": "венской.",
+        "angielskiej": "английской.",
+        "Na rysunku przedstawiono schemat układania wiązanki": "На рисунке представлен схема укладки букета",
+        "strukturalnej": "структурной.",
+        "francuskiej": "французской"
     }
 }

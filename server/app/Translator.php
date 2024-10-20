@@ -223,7 +223,7 @@ class Translator extends Base
         }
 
         $prompt = str_ireplace('%question_context%', $questionContext, $promptData['prompt']);
-        $prompt = str_ireplace('%comments%', trim(join(' ', array_keys($comments))), $promptData['prompt']);
+        $prompt = str_ireplace('%comments%', trim(join(' ', array_keys($comments))), $prompt);
         $prompt = str_ireplace('%dictionary_intro%', $dictionaryIntro . PHP_EOL, $prompt);
         $prompt = str_ireplace('%dictionary%', trim(join(PHP_EOL, $dictionary)), $prompt);
         $prompt = str_ireplace(

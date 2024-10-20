@@ -7,8 +7,8 @@
 
     const selectors = {
         "question": "#question_text",
+        "comment": '#question_comment',
         "others": [
-            '//div[@class="wyjasnienie_pytania"]/div',
             'td > label'
         ]
     };
@@ -442,7 +442,23 @@
             });
         }
 
+        if (!document.querySelector(selectors['comment'])) {
+            let comment_with_trash = document.querySelector('#eztr_pod_pytaniem > div > div > div');
+
+            // Разбиваем содержимое по тегу <br>
+            let parts = comment_with_trash.innerHTML.split('<br>');
+
+            // Берем все, что идет после первого <br>
+            if (parts.length > 1) {
+                let afterBrContent = parts.slice(1).join('<br>'); // Собираем все оставшиеся части
+                console.log(afterBrContent); // Выводим или используем результат
+            } else {
+                console.log('Элемент <br> не найден');
+            }
+        }
+
         processSelector(selectors['question'], 'question')
+        processSelector(selectors['comment'], 'comment')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
 
         switchAdditionalPlaceSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));

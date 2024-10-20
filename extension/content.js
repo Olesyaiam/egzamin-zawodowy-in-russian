@@ -425,20 +425,22 @@
     setInterval(function () {
         if (!document.querySelector(selectors['question'])) {
             let fieldset = document.querySelector('#question_form > fieldset');
-            let questionTextNode = fieldset.childNodes[5];
 
-            // Проверяем, что узел действительно существует и является текстом
-            if (questionTextNode && questionTextNode.nodeType === Node.TEXT_NODE) {
-                // Создаем новый элемент div с id="question_text"
-                let div = document.createElement('div');
-                div.id = selectors['question'].slice(1);
-        
-                // Добавляем текст вопроса в div
-                div.textContent = questionTextNode.textContent.trim();
-        
-                // Заменяем оригинальный текстовый узел на новый div
-                fieldset.replaceChild(div, questionTextNode);
-            }
+            // Перебираем все дочерние узлы fieldset
+            fieldset.childNodes.forEach(node => {
+                // Проверяем, что узел является текстовым и не пустым
+                if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
+                    // Создаем новый элемент div с id="question_text"
+                    let div = document.createElement('div');
+                    div.id = selectors['question'].slice(1);
+
+                    // Добавляем текст узла в div
+                    div.textContent = node.textContent.trim();
+
+                    // Заменяем оригинальный текстовый узел на новый div
+                    fieldset.replaceChild(div, node);
+                }
+            });
         }
 
         processSelector(selectors['question'], 'question')
@@ -487,54 +489,4 @@
             }
         }
     }, 100);
-
-    let style = document.createElement('style');
-    style.type = 'text/css';
-
-    style.innerHTML = `
-    @keyframes blink { 
-        50% { opacity: 0; } 
-    }
-    .breadcumb_area {
-        height: 170px !important;
-    }
-    .breadcumb_section {
-        margin-top: 33px !important;
-    }
-    .toggle-switch {
-      position: relative;
-      display: inline-block;
-      width: 60px;
-      height: 34px;
-    }
-    .switch {
-      position: absolute;
-      cursor: pointer;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background-color: #ccc;
-      transition: .4s;
-      border-radius: 34px;
-    }
-    .switch:before {
-      position: absolute;
-      content: "";
-      height: 26px;
-      width: 26px;
-      left: 4px;
-      bottom: 4px;
-      background-color: white;
-      transition: .4s;
-      border-radius: 50%;
-    }
-    input:checked + .switch {
-      background-color: #2196F3;
-    }
-    input:checked + .switch:before {
-      transform: translateX(26px);
-    }`;
-
-    document.head.appendChild(style);
 })();

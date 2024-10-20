@@ -72,7 +72,11 @@
             "Kłosy zbóż, owocostany miechunki, cynie": "Колосья злаков, соплодия физалиса, цинии.",
             "Trawa niedźwiedzia, tulipany": "Медвежья трава, тюльпаны.",
             "W kompozycjach w stylu formalno-linearnym poszukuje się materiałów, które charakteryzują się wyraźnymi liniami i mogą tworzyć strukturalne, często geometryczne formy. Pędy leszczyny \"Contorta\" ze względu na swoje spiralnie skręcone gałęzie oraz strelicje z ich długimi, sztywnymi i wyrazistymi kwiatostanami idealnie wpisują się w ten styl, oferując silne linie i interesującą formę. Pozostałe opcje zawierają rośliny, które są bardziej miękkie, bujne lub mają tendencję do tworzenia luźniejszych, mniej zdefiniowanych kształtów, co czyni je mniej odpowiednimi do tworzenia kompozycji w stylu formalno-linearnym": "В композициях в стиле формально-линеарном ищутся материалы, которые характеризуются четкими линиями и могут создавать структурные, часто геометрические формы. Побеги лещины \"Contorta\" из-за своих спирально закрученных ветвей и стрелиции с их длинными, жесткими и выразительными соцветиями идеально вписываются в этот стиль, предлагая сильные линии и интересную форму. Остальные варианты содержат растения, которые более мягкие, пышные или имеют тенденцию к созданию более рыхлых, менее определенных форм, что делает их менее подходящими для создания композиций в стиле формально-линеарном.",
-            "Pędy leszczyny \"Contorta\", strelicje": "Побеги лещины \"Contorta\", стрелиции."
+            "Pędy leszczyny \"Contorta\", strelicje": "Побеги лещины \"Contorta\", стрелиции.",
+            "lilii królewskiej": "королевской лилии.",
+            "amarylisa": "амариллиса.",
+            "goździka gałązkowego": "гвоздики ветвистой.",
+            "Do form towarzyszących w kompozycji klasyfikują się kwiaty": "К сопутствующим формам в композиции классифицируются цветы"
         }
     },
     "not_approved": {
@@ -121,10 +125,6 @@
         "clip": "Зажим",
         "kenzan": "кензан",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
-        "goździka gałązkowego": "гвоздики ветвистой.",
-        "lilii królewskiej": "королевской лилии.",
-        "Do form towarzyszących w kompozycji klasyfikują się kwiaty": "К формам, сопутствующим в композиции, классифицируют цветы.",
-        "amarylisa": "амариллиса.",
         "łyszczca wiechowatego": "молинии дернистой"
     }
 }

@@ -166,7 +166,13 @@
             "Truskawki": "Клубника.",
             "Arbuzy": "Арбузы.",
             "Winogrona": "Виноград.",
-            "Banany są znane z produkcji dużych ilości etylenu, gazu, który przyspiesza dojrzewanie owoców. Etylen jest hormonem roślinnym, który pełni kluczową rolę w procesie dojrzewania owoców. Banany, po zerwaniu, kontynuują produkcję etylenu, co sprawia, że dojrzewają szybciej i mogą również przyspieszać dojrzewanie innych owoców znajdujących się w ich pobliżu. Arbuzy, truskawki i winogrona produkują znacznie mniej etylenu niż banany, co czyni odpowiedź \"Banany\" jedyną poprawną w kontekście tego pytania": "Бананы известны производством большого количества этилена, газа, который ускоряет созревание фруктов. Этилен является растительным гормоном, играющим ключевую роль в процессе созревания фруктов. Бананы, после срыва, продолжают производить этилен, что заставляет их созревать быстрее и также может ускорять созревание других фруктов, находящихся поблизости. Арбузы, клубника и виноград производят значительно меньше этилена, чем бананы, что делает ответ \"Бананы\" единственно правильным в контексте этого вопроса."
+            "Banany są znane z produkcji dużych ilości etylenu, gazu, który przyspiesza dojrzewanie owoców. Etylen jest hormonem roślinnym, który pełni kluczową rolę w procesie dojrzewania owoców. Banany, po zerwaniu, kontynuują produkcję etylenu, co sprawia, że dojrzewają szybciej i mogą również przyspieszać dojrzewanie innych owoców znajdujących się w ich pobliżu. Arbuzy, truskawki i winogrona produkują znacznie mniej etylenu niż banany, co czyni odpowiedź \"Banany\" jedyną poprawną w kontekście tego pytania": "Бананы известны производством большого количества этилена, газа, который ускоряет созревание фруктов. Этилен является растительным гормоном, играющим ключевую роль в процессе созревания фруктов. Бананы, после срыва, продолжают производить этилен, что заставляет их созревать быстрее и также может ускорять созревание других фруктов, находящихся поблизости. Арбузы, клубника и виноград производят значительно меньше этилена, чем бананы, что делает ответ \"Бананы\" единственно правильным в контексте этого вопроса.",
+            "Preparaty Flower Freaks służą do": "Препараты Flower Freaks служат для",
+            "zraszania wianków komunijnych": "орошения венков на первое причастие.",
+            "przedłużania trwałości kwiatów ciętych w wazonach": "продления стойкости срезанных цветов в вазах.",
+            "poprawiania estetyki liści roślin w bukietach ślubnych": "улучшения эстетики листьев растений в свадебных букетах.",
+            "umieszczania między kwiatami w celu absorbowania etylenu z powietrza": "размещения между цветами для поглощения этилена из воздуха.",
+            "Preparaty Flower Freaks są specjalnie zaprojektowane do przedłużania trwałości kwiatów ciętych w wazonach poprzez dostarczanie im niezbędnych składników odżywczych i regulowanie pH wody, co pozwala kwiatom dłużej zachować świeżość i estetyczny wygląd. Pozostałe opcje nie odzwierciedlają typowego zastosowania preparatów do pielęgnacji kwiatów ciętych, a informacje na temat preparatów Flower Freaks i ich zastosowania można znaleźć w specjalistycznych źródłach dotyczących florystyki i pielęgnacji roślin": "Препараты Flower Freaks специально разработаны для продления стойкости срезанных цветов в вазах путем снабжения их необходимыми питательными веществами и регулирования pH воды, что позволяет цветам дольше сохранять свежесть и эстетичный вид. Остальные варианты не отражают типичного применения препаратов для ухода за срезанными цветами, а информацию о препаратах Flower Freaks и их использовании можно найти в специализированных источниках по флористике и уходу за растениями."
         }
     },
     "not_approved": {
@@ -217,10 +223,7 @@
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
         "Które części szparaga (": "Какие части спаржи (",
         ") wykorzystywane są we florystyce?": ") используются во флористике?",
-        "zraszania wianków komunijnych": "опрыскивания венков для причастия.",
-        "przedłużania trwałości kwiatów ciętych w wazonach": "продления стойкости срезанных цветов в вазах.",
-        "umieszczania między kwiatami w celu absorbowania etylenu z powietrza": "размещения между цветами для поглощения этилена из воздуха.",
-        "poprawiania estetyki liści roślin w bukietach ślubnych": "улучшения эстетики листьев растений в свадебных букетах.",
-        "Preparaty Flower Freaks służą do": "Препараты Flower Freaks служат для"
+        "szynowania": "рельсоподобного укрепления.",
+        "drutowania": "проволочного укрепления."
     }
 }

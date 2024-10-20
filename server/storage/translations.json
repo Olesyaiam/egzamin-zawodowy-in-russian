@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Które z wymienionych barw nie są względem siebie komplementarne?": "Какие из перечисленных цветов не являются взаимно дополнительными?"
+    },
     "approved": {
         "others": {
             "podwójny papier": "двойная бумага.",
@@ -23,7 +25,6 @@
         "300 x 120 cm": "300 x 120 см",
         "160 x 75 cm": "160 x 75 см",
         "Oblicz wymiary rzeczywiste stołu urodzinowego, który na rysunkach projektowych sporządzonych w skali 1:20 ma 16 cm długości i 7,5 cm szerokości": "Вычислите реальные размеры праздничного стола, который на проектных чертежах, выполненных в масштабе 1:20, имеет длину 16 см и ширину 7,5 см.",
-        "Które z wymienionych barw nie są względem siebie komplementarne?": "Какие из перечисленных цветов не являются взаимно дополнительными?",
         "Żółta i fioletowa": "Жёлтая и фиолетовая.",
         "Niebieska i pomarańczowa": "Синий и оранжевый.",
         "Czerwona i zielona": "Красная и зелёная.",

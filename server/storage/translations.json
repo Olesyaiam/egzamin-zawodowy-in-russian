@@ -49,7 +49,9 @@
             "pinholder": "пинхолдер",
             "Właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku jest": "Правильным техническим средством для крепления флористической губки в пластиковом, неглубоком контейнере является",
             "drut spiralny": "проволка спиральная",
-            "Pinholder, znany również jako igłotrzymacz, jest właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku. Umożliwia on stabilne umocowanie gąbki, co jest kluczowe przy tworzeniu kompozycji florystycznych. Pozostałe opcje, takie jak kenzan, clip i drut spiralny, służą innym celom w florystyce i nie są optymalnym wyborem do mocowania gąbki florystycznej w opisanej sytuacji": "Пинхолдер, также известный как иглодержатель, является подходящим техническим средством для закрепления флористической губки в пластиковом, неглубоком контейнере. Он позволяет обеспечить устойчивое крепление губки, что является ключевым при создании флористических композиций. Остальные варианты, такие как кензан, зажим и спиральная проволока, служат другим целям во флористике и не являются оптимальным выбором для крепления флористической губки в описанной ситуации."
+            "Pinholder, znany również jako igłotrzymacz, jest właściwym środkiem technicznym do mocowania gąbki florystycznej w plastikowym, płytkim pojemniku. Umożliwia on stabilne umocowanie gąbki, co jest kluczowe przy tworzeniu kompozycji florystycznych. Pozostałe opcje, takie jak kenzan, clip i drut spiralny, służą innym celom w florystyce i nie są optymalnym wyborem do mocowania gąbki florystycznej w opisanej sytuacji": "Пинхолдер, также известный как иглодержатель, является подходящим техническим средством для закрепления флористической губки в пластиковом, неглубоком контейнере. Он позволяет обеспечить устойчивое крепление губки, что является ключевым при создании флористических композиций. Остальные варианты, такие как кензан, зажим и спиральная проволока, служат другим целям во флористике и не являются оптимальным выбором для крепления флористической губки в описанной ситуации.",
+            "ślimaków": "улиток.",
+            "mszyc": "тлей."
         }
     },
     "not_approved": {
@@ -97,9 +99,7 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "clip": "Зажим",
         "kenzan": "кензан",
-        "ślimaków": "улиток.",
         "przędziorków": "паутинных клещей.",
-        "mszyc": "тлей.",
         "Aficydy to środki ochrony roślin służące do zwalczania": "Афицыды - это средства защиты растений, служащие для борьбы.",
         "mączlików": "мучнистых червецов."
     }

@@ -1,8 +1,7 @@
 (function () {
     'use strict';
 
-    const baseUrl = 'http://145.239.80.201:8081/'
-
+    const baseUrl = 'https://webscrapp.rocks/egzamin-zawodowy/'
     const switchAdditionalPlaceSelectors = []
 
     const selectors = {

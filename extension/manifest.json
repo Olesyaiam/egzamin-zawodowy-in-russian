@@ -3,7 +3,6 @@
     "name": "Экзаминационные тесты полицеальных школ на русском - egzaminzawodowy.info",
     "version": "1.0.0",
     "description": "Польские тесты (вопросы, ответы и пояснения) профессионально переведены на русский, переводы появятся рядом с оригиналами. Убрана вся реклама с сайта testy.egzaminzawodowy.info.",
-    "permissions": [],
     "content_scripts": [
         {
             "matches": [
@@ -19,17 +18,8 @@
     "background": {
         "service_worker": "background.js"
     },
-    "web_accessible_resources": [
-        {
-            "resources": [],
-            "matches": [
-                "https://testy.egzaminzawodowy.info/*",
-                "https://www.testy.egzaminzawodowy.info/*"
-            ]
-        }
-    ],
     "host_permissions": [
-        "http://145.239.80.201:8081/*",
+        "https://webscrapp.rocks/egzamin-zawodowy/*",
         "https://testy.egzaminzawodowy.info/*",
         "https://www.testy.egzaminzawodowy.info/*"
     ]

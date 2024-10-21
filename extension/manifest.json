@@ -1,12 +1,9 @@
 {
     "manifest_version": 3,
-    "name": "Тесты egzaminzawodowy.info на русском",
+    "name": "Экзаминационные тесты полицеальных школ на русском - egzaminzawodowy.info",
     "version": "1.0.0",
-    "description": "Расширение функционала testy.egzaminzawodowy.info. Польские тесты (вопросы, ответы и пояснения) переведены на русский с помощью ИИ. Убрана вся реклама с сайта.",
-    "permissions": [
-        "webNavigation",
-        "storage"
-    ],
+    "description": "Польские тесты (вопросы, ответы и пояснения) профессионально переведены на русский, переводы появятся рядом с оригиналами. Убрана вся реклама с сайта testy.egzaminzawodowy.info.",
+    "permissions": [],
     "content_scripts": [
         {
             "matches": [

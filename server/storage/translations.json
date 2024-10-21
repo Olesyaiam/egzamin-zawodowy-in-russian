@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Wstawienie łodyg na kilka sekund do wrzątku": "Поместить стебли на несколько секунд в кипяток."
+    },
     "approved": {
         "others": {
             "Kwiatostany anturium, podobnie jak wiele innych delikatnych kwiatów ciętych, wymagają szczególnej ochrony podczas transportu, aby zapobiec ich uszkodzeniu. Pakowanie w karton ze specjalną wkładką jest powszechnie stosowaną metodą, ponieważ zapewnia stabilność kwiatów oraz ochronę przed czynnikami zewnętrznymi, takimi jak nacisk czy zmiany temperatury. Specjalna wkładka może również pomóc w utrzymaniu odpowiedniej wilgotności, co jest kluczowe dla zachowania świeżości kwiatów. Pozostałe opcje, takie jak podwójny papier, nylonowa siatka czy woreczek foliowy wypełnione gazem, nie zapewniają tak kompleksowej ochrony i mogą nie być odpowiednie do długotrwałego transportu kwiatów ciętych, szczególnie tak delikatnych jak anturium": "Соцветия антуриума, так же как и многие другие нежные срезанные цветы, требуют особой защиты во время транспортировки, чтобы предотвратить их повреждение. Упаковка в картон со специальной вставкой является широко используемым методом, поскольку она обеспечивает стабильность цветков и защиту от внешних факторов, таких как давление или изменение температуры. Специальная вставка также может помочь в поддержании нужной влажности, что является ключевым для сохранения свежести цветов. Остальные варианты, такие как двойная бумага, нейлоновая сетка или полиэтиленовый пакет, наполненный газом, не обеспечивают такой комплексной защиты и могут быть не подходящими для длительной транспортировки срезанных цветов, особенно таких деликатных, как антуриум.",
@@ -177,7 +179,9 @@
             "jedynie wiertarka nadaje się do wywiercenia otworów na uchwyty w betonowej ścianie": "Только дрель подходит для сверления отверстий для креплений в бетонной стене.",
             "Do montażu uchwytów w betonowej ścianie należy zastosować wiertarkę": "Для монтажа держателей в бетонной стене следует использовать дрель.",
             "kenzan": "кензан",
-            "clip": "клипса"
+            "clip": "клипса",
+            "Którą z wymienionych metod stosuje się do przedłużenia trwałości goździków użytych do kompozycji we florecie?": "Какой из перечисленных методов используется для продления стойкости гвоздик, используемых в композиции на рапире?",
+            "Częste podcinanie pędów i systematyczne dolewanie wody do gąbki": "Частое подрезание побегов и систематическое доливание воды во флористическую губку."
         }
     },
     "not_approved": {
@@ -210,9 +214,7 @@
         "ostróżkę ogrodową": "дельфиниум садовый.",
         "miodunkę plamistą": "медуницу пеструю.",
         "W pojemniku na cienistym tarasie poleca się posadzić": "В контейнере на тенистой террасе рекомендуется посадить",
-        "Częste podcinanie pędów i systematyczne dolewanie wody do gąbki": "Частое подрезание побегов и систематическое доливание воды во флористическую губку.",
         "Zastosowanie pożywki do gotowych wyrobów florystycznych": "Применение питательной среды для готовых флористических изделий.",
-        "Wstawienie łodyg na kilka sekund do wrzątku": "Поместить стебли на несколько секунд в кипяток.",
         "Zanurzenie końcówek łodyg w gorącej parafinie": "Погружение концов стеблей в горячую парафиновую смесь.",
         "baroku": "барокко.",
         "średniowiecza": "средневековья.",
@@ -230,7 +232,6 @@
         "Rośliny wymagające lekko kwaśnego odczynu gleby najlepiej rosną w pH w zakresie od 5,6 do 6,5. To optymalne warunki dla większości roślin preferujących lekko kwaśne środowisko, co pozwala im na efektywne przyswajanie składników odżywczych. Odpowiedzi \"poniżej 4,5.\", \"7,0-7,2.\" oraz \"powyżej 7,2.\" nie odpowiadają wymaganiom roślin lekko kwaśnych, ponieważ są to zakresy odpowiednio dla bardzo kwaśnych, neutralnych i zasadowych warunków glebowych, które nie są preferowane przez rośliny wymagające lekko kwaśnego odczynu": "Растения, требующие слегка кислой реакции почвы, лучше всего растут при pH в диапазоне от 5,6 до 6,5. Это оптимальные условия для большинства растений, предпочитающих слегка кислую среду, что позволяет им эффективно усваивать питательные вещества. Ответы \"ниже 4,5.\", \"7,0-7,2.\" и \"выше 7,2.\" не отвечают требованиям слегка кислых растений, поскольку это диапазоны соответственно для очень кислых, нейтральных и щелочных условий почвы, которые не предпочитаются растениями, требующими слегка кислой реакции.",
         "Na rysunku przedstawiono technikę wykonania wieńca warszawskiego. Wieniec warszawski charakteryzuje się specyficznym kształtem i układem, który jest widoczny na załączonym rysunku. Pozostałe opcje, takie jak wieniec adwentowy, dożynkowy czy rzymski, mają inne charakterystyczne cechy, które nie pasują do przedstawionego rysunku": "На рисунке представлена техника выполнения варшавского венка. Варшавский венок характеризуется специфической формой и расположением, которые видны на приложенном рисунке. Остальные варианты, такие как венок адвентный, жатвенный или римский, имеют другие характерные черты, которые не соответствуют представленному рисунку.",
         "Aby obliczyć koszt materiałów florystycznych niezbędnych do wykonania girlandy bożonarodzeniowej, należy pomnożyć ilość potrzebnych materiałów przez ich cenę jednostkową i zsumować otrzymane wartości. Po przeprowadzeniu obliczeń dla każdego z materiałów i zsumowaniu ich, otrzymujemy kwotę 103,50 zł. Gałązki jodłowe kosztują 27,00 zł, zielony drut florystyczny na szpulce kosztuje 12,00 zł, susz egzotyczny kosztuje 62,50 zł, a klej na gorąco kosztuje 2,00 zł. Łączny koszt wynosi 103,50 zł, co jest zgodne z podaną odpowiedzią": "Чтобы рассчитать стоимость флористических материалов, необходимых для изготовления рождественской гирлянды, следует умножить количество необходимых материалов на их единичную цену и сложить полученные значения. После проведения расчетов для каждого из материалов и их суммирования, получаем сумму 103,50 злотых. Веточки еловые стоят 27,00 злотых, зелёная флористическая проволка на катушке стоит 12,00 злотых, экзотическая сушка стоит 62,50 злотых, а горячий клей стоит 2,00 злотых. Общая стоимость составляет 103,50 злотых, что соответствует указанному ответу.",
-        "KLUCZ ODPOWIEDZI OSOBNO": "КЛЮЧ ОТВЕТА ОТДЕЛЬНО",
-        "Którą z wymienionych metod stosuje się do przedłużenia trwałości goździków użytych do kompozycji we florecie?": "Какой из перечисленных методов используется для продления стойкости гвоздик, используемых в композиции на рапире?"
+        "KLUCZ ODPOWIEDZI OSOBNO": "КЛЮЧ ОТВЕТА ОТДЕЛЬНО"
     }
 }

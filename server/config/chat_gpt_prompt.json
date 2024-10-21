@@ -29,6 +29,10 @@
         ]
     },
     "dictionary_by_search_word": {
+        "flore": [
+            "floret: рапира",
+            "kompozycja we florecie: композиция на рапире"
+        ],
         "komun": [
             "wianek komunijny: венок на первое причастие",
             "Pierwsza Komunia Święta: Первое Святое Причастие",
@@ -63,7 +67,6 @@
         "pylnik": "pylnik: пыльник",
         "clip": "clip: клипса",
         "owocostan": "owocostan: соплодие",
-        "flore": "floret: рапира",
         "boraks": "boraks: боракс",
         "kompozycj": "kompozycja: композиция",
         "robocizn": "koszty robocizny: затраты на работу",

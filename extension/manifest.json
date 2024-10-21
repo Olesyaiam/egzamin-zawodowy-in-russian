@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Тесты egzaminzawodowy.info на русском",
-    "version": "0.01",
+    "version": "1.0.0",
     "description": "Расширение функционала testy.egzaminzawodowy.info. Польские тесты (вопросы, ответы и пояснения) переведены на русский с помощью ИИ. Убрана вся реклама с сайта.",
     "permissions": [
         "webNavigation",
@@ -24,9 +24,7 @@
     },
     "web_accessible_resources": [
         {
-            "resources": [
-                "crypto-js.js"
-            ],
+            "resources": [],
             "matches": [
                 "https://testy.egzaminzawodowy.info/*",
                 "https://www.testy.egzaminzawodowy.info/*"

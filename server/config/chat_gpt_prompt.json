@@ -58,13 +58,16 @@
             "podłoże: подложка",
             "podkład: подкладка"
         ],
+        "uczep": [
+            "uczep: череда",
+            "uczep rózgowaty: череда ферулолистная"
+        ],
         "kauczuk": [
             "taśma kauczukowa: лента каучуковая",
             "kauczuk: каучук"
         ]
     },
     "dictionary_others": {
-        "uczep": "uczep: череда",
         "pylnik": "pylnik: пыльник",
         "clip": "clip: клипса",
         "owocostan": "owocostan: соплодие",

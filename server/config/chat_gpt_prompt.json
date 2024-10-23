@@ -29,6 +29,10 @@
         ]
     },
     "dictionary_by_search_word": {
+        "pokr": [
+            "pokrój rośliny: строение растения",
+            "charakteryzują się pokrojem: характеризуются строением растения"
+        ],
         "flore": [
             "floret: рапира",
             "kompozycja we florecie: композиция на рапире"

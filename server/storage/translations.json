@@ -195,7 +195,8 @@
             "spryskiwania wianuszków komunijnych": "обрызгивания венков на первое причастие.",
             "zwalczania mszyc na liściach roślin": "борьбы с тлей на листьях растений.",
             "opryskiwania roślin porażonych przez choroby grzybowe": "опрыскивания растений, пораженных грибковыми заболеваниями.",
-            "przedłużania trwałości roślin o zdrewniałych pędach": "продления стойкости растений с одревесневшими побегами."
+            "przedłużania trwałości roślin o zdrewniałych pędach": "продления стойкости растений с одревесневшими побегами.",
+            "Naparstnice i ostróżki charakteryzują się pokrojem": "Наперстянки и дельфиниумы характеризуются формой кроны."
         }
     },
     "not_approved": {
@@ -243,7 +244,6 @@
         "wzniesionym": "возвышенным",
         "rozłożystym": "раскидистым.",
         "strzelistym": "высоким",
-        "łukowatym": "дугообразным.",
-        "Naparstnice i ostróżki charakteryzują się pokrojem": "Наперстянки и дельфиниумы характеризуются формой кроны."
+        "łukowatym": "дугообразным."
     }
 }

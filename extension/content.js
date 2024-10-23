@@ -15,10 +15,14 @@
     };
 
     let selectorsToRemove = [
-        // {
-        //     selector: 'div.wyjasnienie_pytania > div > b > i',
-        //     deleteLevel: 0
-        // }
+        {
+            selector: 'iframe',
+            deleteLevel: 0
+        },
+        {
+            selector: 'ins',
+            deleteLevel: 0
+        }
     ];
 
     let contentCache = {};

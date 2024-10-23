@@ -195,7 +195,11 @@
             "spryskiwania wianuszków komunijnych": "обрызгивания венков на первое причастие.",
             "zwalczania mszyc na liściach roślin": "борьбы с тлей на листьях растений.",
             "opryskiwania roślin porażonych przez choroby grzybowe": "опрыскивания растений, пораженных грибковыми заболеваниями.",
-            "przedłużania trwałości roślin o zdrewniałych pędach": "продления стойкости растений с одревесневшими побегами."
+            "przedłużania trwałości roślin o zdrewniałych pędach": "продления стойкости растений с одревесневшими побегами.",
+            "Naparstnice i ostróżki charakteryzują się pokrojem": "Наперстянки и дельфиниумы характеризуются строением растения",
+            "łukowatym": "дугообразным.",
+            "rozłożystym": "раскидистым.",
+            "wzniesionym": "возвышенным"
         }
     },
     "not_approved": {
@@ -240,9 +244,6 @@
         "Na rysunku przedstawiono technikę wykonania wieńca warszawskiego. Wieniec warszawski charakteryzuje się specyficznym kształtem i układem, który jest widoczny na załączonym rysunku. Pozostałe opcje, takie jak wieniec adwentowy, dożynkowy czy rzymski, mają inne charakterystyczne cechy, które nie pasują do przedstawionego rysunku": "На рисунке представлена техника выполнения варшавского венка. Варшавский венок характеризуется специфической формой и расположением, которые видны на приложенном рисунке. Остальные варианты, такие как венок адвентный, жатвенный или римский, имеют другие характерные черты, которые не соответствуют представленному рисунку.",
         "Aby obliczyć koszt materiałów florystycznych niezbędnych do wykonania girlandy bożonarodzeniowej, należy pomnożyć ilość potrzebnych materiałów przez ich cenę jednostkową i zsumować otrzymane wartości. Po przeprowadzeniu obliczeń dla każdego z materiałów i zsumowaniu ich, otrzymujemy kwotę 103,50 zł. Gałązki jodłowe kosztują 27,00 zł, zielony drut florystyczny na szpulce kosztuje 12,00 zł, susz egzotyczny kosztuje 62,50 zł, a klej na gorąco kosztuje 2,00 zł. Łączny koszt wynosi 103,50 zł, co jest zgodne z podaną odpowiedzią": "Чтобы рассчитать стоимость флористических материалов, необходимых для изготовления рождественской гирлянды, следует умножить количество необходимых материалов на их единичную цену и сложить полученные значения. После проведения расчетов для каждого из материалов и их суммирования, получаем сумму 103,50 злотых. Веточки еловые стоят 27,00 злотых, зелёная флористическая проволка на катушке стоит 12,00 злотых, экзотическая сушка стоит 62,50 злотых, а горячий клей стоит 2,00 злотых. Общая стоимость составляет 103,50 злотых, что соответствует указанному ответу.",
         "KLUCZ ODPOWIEDZI OSOBNO": "КЛЮЧ ОТВЕТА ОТДЕЛЬНО",
-        "wzniesionym": "возвышенным",
-        "rozłożystym": "раскидистым.",
-        "strzelistym": "высоким",
-        "łukowatym": "дугообразным."
+        "strzelistym": "высоким"
     }
 }

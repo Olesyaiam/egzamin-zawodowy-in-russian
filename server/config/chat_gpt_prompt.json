@@ -29,6 +29,10 @@
         ]
     },
     "dictionary_by_search_word": {
+        "łuk": [
+            "łuk: дуга",
+            "łukowaty: дугообразный"
+        ],
         "pokr": [
             "pokrój rośliny: строение растения",
             "charakteryzują się pokrojem: характеризуются строением растения"
@@ -72,6 +76,7 @@
         ]
     },
     "dictionary_others": {
+        "wzniesion": "wzniesiony pokrój: вертикальное строение",
         "ostr": "ostróżka: дельфиниум",
         "naparstn": "naparstnica: наперстянка",
         "strzelist": "strzelisty: высокий и вытянутый вверх",

@@ -106,7 +106,7 @@
         saveToCacheSwitchState(switchState)
 
         makeHttpRequest(endpoint, {text: translation}, function (result) {
-            console.log(endpoint + " " + translation + ": " + result);
+            console.log(endpoint + " " + translation);
         });
     }
 

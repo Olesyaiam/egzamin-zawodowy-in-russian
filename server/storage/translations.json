@@ -373,8 +373,7 @@
             "chromatyczne": "хроматические.",
             "neutralne": "нейтральные.",
             "achromatyczne": "ахроматические.",
-            "Czerwony i niebieski to barwy, które znajdują się w paletach chromatycznych, czyli pełnych spektrum kolorów. Chromatyczne odnosi się do barw występujących w paletach pełnych spektrum kolorów": "Красный и синий — это расцветки, которые находятся в палитрах хроматических, то есть полных спектра цветов. Хроматическое относится к расцветкам, присутствующим в палитрах полных спектра цветов.",
-            "Widoczne na rysunku owoce wytwarzane są przez": "Видимые на рисунке плоды производятся"
+            "Czerwony i niebieski to barwy, które znajdują się w paletach chromatycznych, czyli pełnych spektrum kolorów. Chromatyczne odnosi się do barw występujących w paletach pełnych spektrum kolorów": "Красный и синий — это расцветки, которые находятся в палитрах хроматических, то есть полных спектра цветов. Хроматическое относится к расцветкам, присутствующим в палитрах полных спектра цветов."
         }
     },
     "not_approved": {
@@ -427,6 +426,7 @@
         "mahonię": "магонию.",
         "irgę": "иргу",
         "mirt": "мирт.",
-        "dziurawiec": "зверобой."
+        "dziurawiec": "зверобой.",
+        "Widoczne na rysunku owoce wytwarzane są przez": "Плоды, видимые на рисунке, производятся"
     }
 }

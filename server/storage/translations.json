@@ -228,7 +228,9 @@
             "W stadium wybarwionych ale zamkniętych pąków ścina się": "На стадии окрашенных, но закрытых бутонов срезается",
             "goździki": "гвоздики.",
             "chryzantemy": "хризантемы.",
-            "jaskry": "лютики"
+            "jaskry": "лютики",
+            "zwartnice": "гиппеаструмы",
+            "Zwartnice to rośliny, które charakteryzują się zamkniętymi pąkami, które następnie otwierają się, tworząc kolorowe kwiaty. W stadium zamkniętych pąków, gdy roślina jest jeszcze zielona, należy je ścinać": "Гиппеаструмы — это растения, которые характеризуются закрытыми бутонами, которые затем раскрываются, образуя цветные цветы. На стадии закрытых бутонов, когда растение еще зеленое, их следует срезать."
         }
     },
     "not_approved": {
@@ -277,6 +279,10 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "zwartnice": "амариллисы"
+        "Nephrolepis exaltata w uprawie wymaga": "Nephrolepis exaltata в выращивании требует",
+        "przycinania": "подрезки.",
+        "zraszania": "опрыскивания.",
+        "nabłyszczania": "блеска",
+        "palikowania": "подвязывания к опоре"
     }
 }

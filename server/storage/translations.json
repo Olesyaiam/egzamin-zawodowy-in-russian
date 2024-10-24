@@ -403,7 +403,9 @@
             "Jako element konstrukcyjny wianka komunijnego wykonanego z drobnych kwiatów i zieleni ciętej najczęściej wykorzystuje się": "В качестве конструктивного элемента венка на первое причастие, выполненного из мелких цветов и срезанной зелени, чаще всего используется.",
             "drut grubości 1,5 - 2 mm": "Проволка толщиной 1,5 - 2 мм.",
             "pędy winobluszczu": "Побеги виноградовника",
-            "sznurek o grubym splocie": "Шнурок с крупным плетением."
+            "sznurek o grubym splocie": "Шнурок с крупным плетением.",
+            "pędy wikliny": "побеги ивы",
+            "Drut o grubości 1,5 - 2 mm jest stosowany jako element konstrukcyjny w wiankach komunijnych z drobnych kwiatów i zieleni ciętej, ponieważ jest wystarczająco mocny, by utrzymać kształt wianka, ale jednocześnie wystarczająco cienki, by nie zdominować kompozycji": "Проволока толщиной 1,5 - 2 мм используется в качестве конструктивного элемента в венках на первое причастие из мелких цветов и резаной зелени, поскольку она достаточно прочная, чтобы сохранить форму венка, но в то же время достаточно тонкая, чтобы не доминировать в композиции."
         }
     },
     "not_approved": {
@@ -454,6 +456,6 @@
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
         "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
-        "pędy wikliny": "побеги ивы"
+        "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов."
     }
 }

@@ -234,7 +234,12 @@
             "Nephrolepis exaltata w uprawie wymaga": "Nephrolepis exaltata в выращивании требует",
             "palikowania": "подвязывания к опоре",
             "przycinania": "подрезки.",
-            "zraszania": "опрыскивания."
+            "zraszania": "опрыскивания.",
+            "nabłyszczania": "придания блеска.",
+            "Do obsadzenia kratki na tarasie poleca się": "Для посадки на решетке на террасе рекомендуется",
+            "nasturcję większą": "настурцию большую.",
+            "maczek kalifornijski": "калифорнийский мак.",
+            "werbenę ogrodową": "вербену садовую."
         }
     },
     "not_approved": {
@@ -283,6 +288,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "nabłyszczania": "блеска"
+        "tojeść rozesłaną": "лужайница разостланная"
     }
 }

@@ -4,7 +4,8 @@
         "8 cm x 5 cm": "8 см x 5 см",
         "9 cm x 6 cm": "9 см x 6 см",
         "11 cm x 9 cm": "11 см x 9 см",
-        "22 cm x 18 cm": "22 см x 18 см"
+        "22 cm x 18 cm": "22 см x 18 см",
+        "wyrobowy": "Изделия."
     },
     "approved": {
         "others": {
@@ -325,7 +326,16 @@
             "kontrastowych": "контрастных.",
             "dopełniających": "дополнительных",
             "achromatycznych": "ахроматических.",
-            "Na przedstawionym rysunku widać dwa prostokąty w różnych odcieniach zieleni. Barwy analogiczne to takie, które są obok siebie na kole barw, czyli są podobne, ale różnią się odcieniem lub nasyceniem. W tym przypadku obie zielenie są podobne, więc można je uznać za barwy analogiczne": "На представленном рисунке видно два прямоугольника в различных оттенках зелёного. Аналогичные расцветки — это такие, которые находятся рядом друг с другом на цветовом круге, то есть они похожи, но отличаются оттенком или насыщенностью. В этом случае оба зелёных цвета похожи, поэтому их можно считать аналогичными расцветками."
+            "Na przedstawionym rysunku widać dwa prostokąty w różnych odcieniach zieleni. Barwy analogiczne to takie, które są obok siebie na kole barw, czyli są podobne, ale różnią się odcieniem lub nasyceniem. W tym przypadku obie zielenie są podobne, więc można je uznać za barwy analogiczne": "На представленном рисунке видно два прямоугольника в различных оттенках зелёного. Аналогичные расцветки — это такие, которые находятся рядом друг с другом на цветовом круге, то есть они похожи, но отличаются оттенком или насыщенностью. В этом случае оба зелёных цвета похожи, поэтому их можно считать аналогичными расцветками.",
+            "Kwiatostany anturium przeznaczone na rynek krajowy na czas transportu pakuje się": "Соцветия антуриума, предназначенные для внутреннего рынка, на время транспортировки упаковываются.",
+            "w woreczek foliowy wypełniony gazem": "в полиэтиленовый пакет, заполненный газом.",
+            "w nylonową siatkę": "в нейлоновую сетку.",
+            "w podwójny papier": "в двойную бумагу",
+            "w folię przezroczystą": "в прозрачную пленку.",
+            "Kwiatostany anturium należy zapakować w folię przezroczystą podczas transportu na rynek krajowy, aby zabezpieczyć je przed uszkodzeniami mechanicznymi oraz utratą wilgoci i zapewnienia im odpowiednich warunków do przechowywania": "Соцветия антуриума следует упаковать в прозрачную пленку при транспортировке на внутренний рынок, чтобы защитить их от механических повреждений, потери влаги и обеспечить им соответствующие условия для хранения.",
+            "Do wykonania kryzy prezentowanej na rysunku wykorzystano drut": "Для изготовления декоративного воротника, представленного на рисунке, использовалась проволока.",
+            "techniczny": "технический.",
+            "aluminiowy": "алюминиевый"
         }
     },
     "not_approved": {
@@ -375,10 +385,7 @@
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
-        "Kwiatostany anturium przeznaczone na rynek krajowy na czas transportu pakuje się": "Соцветия антуриума, предназначенные для внутреннего рынка, на время транспортировки упаковываются.",
-        "w nylonową siatkę": "в нейлоновую сетку.",
-        "w woreczek foliowy wypełniony gazem": "в полиэтиленовый пакет, заполненный газом.",
-        "w podwójny papier": "в двойную бумагу",
-        "w folię przezroczystą": "в прозрачную пленку."
+        "miedziany": "медный.",
+        "Drut aluminiowy jest często wykorzystywany w florystyce i dekoracjach ze względu na swoje właściwości. Jest bardzo miękki, co ułatwia formowanie go w różne kształty, a także jest lekki i dekoracyjny dzięki swojej srebrzystej barwie. Na podstawie tych cech można stwierdzić, że drut aluminiowy jest odpowiednim materiałem do wykonania kryzy prezentowanej na rysunku": "Алюминиевая проволка часто используется во флористике и декорациях благодаря своим свойствам. Она очень мягкая, что упрощает её формирование в различные формы, а также лёгкая и декоративная благодаря своему серебристому цвету. На основании этих характеристик можно утверждать, что алюминиевая проволка является подходящим материалом для изготовления декоративного воротника, представленного на рисунке."
     }
 }

@@ -235,7 +235,11 @@
             "palikowania": "подвязывания к опоре",
             "przycinania": "подрезки.",
             "zraszania": "опрыскивания.",
-            "nabłyszczania": "придания блеска."
+            "nabłyszczania": "придания блеска.",
+            "Do obsadzenia kratki na tarasie poleca się": "Для посадки на решетке на террасе рекомендуется",
+            "nasturcję większą": "настурцию большую.",
+            "maczek kalifornijski": "калифорнийский мак.",
+            "werbenę ogrodową": "вербену садовую."
         }
     },
     "not_approved": {
@@ -284,10 +288,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "nasturcję większą": "настурцию большую.",
-        "Do obsadzenia kratki na tarasie poleca się": "Для посадки на решетке на террасе рекомендуется",
-        "werbenę ogrodową": "вербену садовую.",
-        "maczek kalifornijski": "калифорнийский мак.",
         "tojeść rozesłaną": "лужайница разостланная"
     }
 }

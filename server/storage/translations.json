@@ -260,7 +260,10 @@
             "przecinaka": "зубила",
             "piły ręcznej": "ручной пилы.",
             "sekatora jednoręcznego": "секатора одноручного.",
-            "sekatora dwuręcznego": "секатора двуручного."
+            "sekatora dwuręcznego": "секатора двуручного.",
+            "Poprawna odpowiedź, czyli użycie piły ręcznej, wynika z faktu, że konar o takiej średnicy jest zbyt gruby, by udało się go odciąć nożycami ogrodniczymi, a zbyt cienki, by wymagał zastosowania piły łańcuchowej czy mechanicznej. Piła ręczna jest więc najlepszym narzędziem do przecięcia takiego konaru": "Правильный ответ, то есть использование ручной пилы, обусловлен тем, что ветка такой толщины слишком толстая, чтобы её можно было обрезать садовыми ножницами, и слишком тонкая, чтобы требовалось использование цепной или механической пилы. Ручная пила, таким образом, является лучшим инструментом для резки такой ветки.",
+            "Epifitem jest": "Эпифитом является",
+            "fiołek afrykański": "узамбарская фиалка"
         }
     },
     "not_approved": {
@@ -309,6 +312,7 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Poprawna odpowiedź, czyli użycie piły ręcznej, wynika z faktu, że konar o takiej średnicy jest zbyt gruby, by udało się go odciąć nożycami ogrodniczymi, a zbyt cienki, by wymagał zastosowania piły łańcuchowej czy mechanicznej. Piła ręczna jest więc najlepszym narzędziem do przecięcia takiego konaru": "Правильный ответ, то есть использование ручной пилы, обусловлен тем, что ветка такой толщины слишком толстая, чтобы её можно было обрезать садовыми ножницами, и слишком тонкая, чтобы требовалось использование цепной или механической пилы. Ручная пила, таким образом, является лучшим инструментом для резки такой ветки."
+        "aralia japońska": "аралия японская.",
+        "zielistka Sternberga": "зеленчук алоэвидный."
     }
 }

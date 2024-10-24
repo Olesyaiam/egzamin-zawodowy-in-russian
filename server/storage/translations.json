@@ -288,7 +288,14 @@
             "Bellis perennis": "Беллис переннис.",
             "Strelitzia reginae": "Strelitzia reginae.",
             "Dianthus barbatus": "Гвоздика бородатая.",
-            "Corwallaria majalis": "Convallaria majalis"
+            "Corwallaria majalis": "Convallaria majalis",
+            "Strelitzia reginae jest gatunkiem rośliny o charakterystycznych, graficznych kształtach liści i kwiatów, które mogą być wykorzystane w kompozycjach linearno-graficznych. Jest to roślina łatwo dostępna w sklepach ogrodniczych, co ułatwia jej wykorzystanie w projektach florystycznych. Inne gatunki roślin mogą również być stosowane w tego typu kompozycjach, jednak Strelitzia reginae jest jednym z najczęściej wykorzystywanych": "Strelitzia reginae является видом растений с характерными, графическими формами листьев и цветов, которые могут быть использованы в линейно-графических композициях. Это растение легко доступно в садоводческих магазинах, что упрощает его использование в флористических проектах. Другие виды растений также могут применяться в такого рода композициях, однако Strelitzia reginae является одним из самых часто используемых.",
+            "Do cięcia łodyg Hippeastrum należy użyć": "Для обрезки стеблей Гиппеаструма следует использовать",
+            "sekatora": "секатора",
+            "noża": "ножа.",
+            "nożyczek": "ножниц",
+            "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей Гиппеаструма следует использовать нож, так как это позволит произвести точный и чистый срез, который поможет процессу заживления раны.",
+            "Do tworzenia suchych kompozycji stosuje się owoce": "Для создания сухих композиций используют плоды."
         }
     },
     "not_approved": {
@@ -336,6 +343,9 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой."
+        "żółtej z zieloną": "желтой с зеленой.",
+        "chabra bławatka": "василька синего",
+        "jaskra azjatyckiego": "Лютика азиатского.",
+        "rumory adiantowatej": "плоды венериных волос."
     }
 }

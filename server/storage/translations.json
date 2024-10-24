@@ -216,7 +216,9 @@
             "Do wykonania jesiennej kompozycji należy użyć owoców": "Для создания осенней композиции следует использовать фрукты.",
             "miechunki rozdętej i tykwy pospolitej": "физалиса пузырчатого и лагенарии обыкновенной.",
             "wierzby sachalińskiej i derenia białego": "ивы сахалинской и дерена белого.",
-            "trzmieliny Fortune'a i katalpy bignoniowatej": "Бересклета Форчуна и катальпы бигнониевидной."
+            "trzmieliny Fortune'a i katalpy bignoniowatej": "Бересклета Форчуна и катальпы бигнониевидной.",
+            "róży pomarszczonej i sasanki ogrodowej": "розы морщинистой и прострела садового.",
+            "Miechunki rozdętej i tykwy pospolitej są owocami, które występują jesienią. Są one często wykorzystywane do dekoracji i tworzenia kompozycji": "Физалис пузырчатый и лагенария обыкновенная являются плодами, которые встречаются осенью. Они часто используются для декораций и создания композиций."
         }
     },
     "not_approved": {
@@ -265,6 +267,10 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "róży pomarszczonej i sasanki ogrodowej": "розы морщинистой и сон-травы садовой."
+        "9 cm x 6 cm": "9 см x 6 см",
+        "11 cm x 9 cm": "11 см x 9 см",
+        "8 cm x 5 cm": "8 см x 5 см",
+        "22 cm x 18 cm": "22 см x 18 см",
+        "Witryna kwiatowa o wymiarach rzeczywistych 2,2 m x 1,8 m przedstawiona w skali 1:20 będzie miała wymiary": "Витрина цветочная с фактическими размерами 2,2 м x 1,8 м, представленная в масштабе 1:20 будет иметь размеры."
     }
 }

@@ -1,0 +1,52 @@
+Privacy Policy for "Professional Exam Tests in Russian" Extension
+
+1. Data Collection
+Our extension does not collect any personal identifiable information such as name, email, address, or payment details. The extension works by translating content from the website testy.egzaminzawodowy.info to Russian and removing advertisements. All translations happen locally in the browser, and no data is sent to external servers beyond what is necessary for translation purposes.
+
+2. Website Interaction
+The extension modifies the content of testy.egzaminzawodowy.info by adding translations and removing ads. It does not track, store, or share your activity on this or any other websites.
+
+3. Cookies
+The extension itself does not create, store, or manipulate cookies. However, it interacts with cookies already present on testy.egzaminzawodowy.info, which are used by the site for its functionality. The extension does not access, modify, or share cookies for any external purpose.
+
+4. External API Usage
+To provide translations, the extension connects to webscrapp.rocks, which delivers the translated content. No personal data is sent or received during this process.
+
+5. Third-party Access
+We do not sell, share, or provide any user data to third-party companies or services.
+
+6. Data Security
+We prioritize the security of your data by limiting all interactions and processing to your browser. The extension does not store any user data.
+
+7. Changes to this Policy
+Any future updates or changes to this privacy policy will be reflected here. We encourage you to review this page periodically for the latest information.
+
+8. Contact Information
+If you have any questions or concerns about this privacy policy, feel free to contact us at pavelgeveiler@gmail.com.
+
+
+Политика конфиденциальности для расширения "Экзаменационные тесты полицеальных школ на русском"
+
+1. Сбор данных
+Наше расширение не собирает никаких персональных данных, таких как имя, адрес электронной почты, физический адрес или платежные реквизиты. Расширение работает путем перевода контента с сайта testy.egzaminzawodowy.info на русский язык и удаления рекламы. Все переводы выполняются локально в браузере, и никакие данные не отправляются на внешние серверы, за исключением случаев, необходимых для перевода.
+
+2. Взаимодействие с веб-сайтами
+Расширение модифицирует контент сайта testy.egzaminzawodowy.info путем добавления переводов и удаления рекламы. Оно не отслеживает, не сохраняет и не передает информацию о вашей активности на этом или любом другом веб-сайте.
+
+3. Файлы cookie
+Расширение само по себе не создает, не сохраняет и не изменяет файлы cookie. Однако оно взаимодействует с файлами cookie, которые уже существуют на testy.egzaminzawodowy.info, и которые используются сайтом для его функциональности. Расширение не получает доступа, не изменяет и не передает файлы cookie в сторонние сервисы.
+
+4. Использование внешних API
+Для обеспечения перевода расширение подключается к webscrapp.rocks, который предоставляет переведенный контент. В ходе этого процесса не передаются и не обрабатываются никакие персональные данные.
+
+5. Доступ третьих лиц
+Мы не продаем, не передаем и не предоставляем данные пользователей сторонним компаниям или сервисам.
+
+6. Безопасность данных
+Мы придаем большое значение безопасности ваших данных, ограничивая все взаимодействия и обработку только вашим браузером. Расширение не сохраняет никакие данные пользователей.
+
+7. Изменения в политике конфиденциальности
+Любые будущие обновления или изменения этой политики конфиденциальности будут отражены на этой странице. Мы рекомендуем периодически просматривать эту страницу, чтобы быть в курсе последних изменений.
+
+8. Контактная информация
+Если у вас возникли вопросы или сомнения по поводу этой политики конфиденциальности, вы можете связаться с нами по pavelgeveiler@gmail.com.

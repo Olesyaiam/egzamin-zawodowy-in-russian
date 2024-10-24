@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Wstawienie łodyg na kilka sekund do wrzątku": "Поместить стебли на несколько секунд в кипяток."
+        "Wstawienie łodyg na kilka sekund do wrzątku": "Поместить стебли на несколько секунд в кипяток.",
+        "róży pomarszczonej i sasanki ogrodowej": "роза морщинистая и прострел садовый."
     },
     "approved": {
         "others": {
@@ -214,7 +215,8 @@
             "spływającym": "стекающим.",
             "Guzmania charakteryzuje się pokrojem rozłożystym, ponieważ jej liście wyrastają z centralnej rozety, ale zachodzą na siebie i tworzą zwarty krzew": "Гузмания характеризуется строением растения раскидистым, потому что её листья вырастают из центральной розетки, но заходят друг на друга и образуют плотный куст.",
             "Do wykonania jesiennej kompozycji należy użyć owoców": "Для создания осенней композиции следует использовать фрукты.",
-            "miechunki rozdętej i tykwy pospolitej": "физалиса пузырчатого и лагенарии обыкновенной."
+            "miechunki rozdętej i tykwy pospolitej": "физалиса пузырчатого и лагенарии обыкновенной.",
+            "wierzby sachalińskiej i derenia białego": "ивы сахалинской и дерена белого."
         }
     },
     "not_approved": {
@@ -263,8 +265,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "wierzby sachalińskiej i derenia białego": "Сахалинской ивы и белой дерена.",
-        "róży pomarszczonej i sasanki ogrodowej": "роза морщинистая и прострел садовый.",
         "trzmieliny Fortune'a i katalpy bignoniowatej": "Бересклета Форчуна и катальпы бигнониевидной."
     }
 }

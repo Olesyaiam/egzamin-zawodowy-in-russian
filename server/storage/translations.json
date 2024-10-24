@@ -398,7 +398,12 @@
             "Cissus": "Циссус.",
             "Aloes": "Алоэ.",
             "Hibiskus": "Гибискус.",
-            "Syngonium": "Сингониум."
+            "Syngonium": "Сингониум.",
+            "Aloes jest rośliną, która dobrze rośnie w słonecznym miejscu, zatem nadaje się do ustawienia przy oknie od strony południowej, gdzie ma najwięcej światła": "Алоэ является растением, которое хорошо растёт в солнечном месте, поэтому подходит для размещения у окна с южной стороны, где больше всего света.",
+            "Jako element konstrukcyjny wianka komunijnego wykonanego z drobnych kwiatów i zieleni ciętej najczęściej wykorzystuje się": "В качестве конструктивного элемента венка на первое причастие, выполненного из мелких цветов и срезанной зелени, чаще всего используется.",
+            "drut grubości 1,5 - 2 mm": "Проволка толщиной 1,5 - 2 мм.",
+            "pędy winobluszczu": "Побеги виноградовника",
+            "sznurek o grubym splocie": "Шнурок с крупным плетением."
         }
     },
     "not_approved": {
@@ -449,6 +454,6 @@
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
         "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
-        "Aloes jest rośliną, która dobrze rośnie w słonecznym miejscu, zatem nadaje się do ustawienia przy oknie od strony południowej, gdzie ma najwięcej światła": "Алоэ является растением, которое хорошо растёт в солнечном месте, поэтому подходит для размещения у окна с южной стороны, где больше всего света."
+        "pędy wikliny": "побеги ивы"
     }
 }

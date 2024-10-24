@@ -86,6 +86,11 @@
             "wierzba sachalińska: ива сахалинская",
             "wierzba: верба"
         ],
+        "drut": [
+            "drut: проволка",
+            "drut wyrobowy: рукодельная проволока",
+            "drutowanie: проволочное укрепление"
+        ],
         "kauczuk": [
             "taśma kauczukowa: лента каучуковая",
             "kauczuk: каучук"
@@ -126,9 +131,7 @@
         "kryz": "kryza: декоративный воротник",
         "kwiaciarni": "kwiaciarnia: цветочная лавка",
         "formalno-linearn": "formalno-linearny: формально-линеарный",
-        "drutowani": "drutowanie: проволочное укрепление",
         "szynowani": "szynowanie: рельсоподобное укрепление (szyna - рельс)",
-        "drut": "drut: проволка",
         "pinholder": "pinholder: пинхолдер"
     }
 }

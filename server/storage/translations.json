@@ -263,7 +263,12 @@
             "sekatora dwuręcznego": "секатора двуручного.",
             "Poprawna odpowiedź, czyli użycie piły ręcznej, wynika z faktu, że konar o takiej średnicy jest zbyt gruby, by udało się go odciąć nożycami ogrodniczymi, a zbyt cienki, by wymagał zastosowania piły łańcuchowej czy mechanicznej. Piła ręczna jest więc najlepszym narzędziem do przecięcia takiego konaru": "Правильный ответ, то есть использование ручной пилы, обусловлен тем, что ветка такой толщины слишком толстая, чтобы её можно было обрезать садовыми ножницами, и слишком тонкая, чтобы требовалось использование цепной или механической пилы. Ручная пила, таким образом, является лучшим инструментом для резки такой ветки.",
             "Epifitem jest": "Эпифитом является",
-            "fiołek afrykański": "узамбарская фиалка"
+            "fiołek afrykański": "узамбарская фиалка",
+            "zielistka Sternberga": "Хлорофитум хохлатый",
+            "aralia japońska": "аралия японская.",
+            "echmea wstęgowata": "эхмея полосатая.",
+            "Epifitem jest echmea wstęgowata, ponieważ ta roślina jest zdolna do przylegania i rozwijania się na powierzchni innych roślin, a echmea wstęgowata jest właśnie tego typu rośliną": "Эпифитом является эхмея полосатая, поскольку это растение способно прикрепляться и развиваться на поверхности других растений, и эхмея полосатая именно такого типа растение.",
+            "Na rysunku przedstawiono pędy": "На рисунке изображены побеги"
         }
     },
     "not_approved": {
@@ -312,7 +317,9 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "aralia japońska": "аралия японская.",
-        "zielistka Sternberga": "зеленчук алоэвидный."
+        "wierzby sachalińskiej": "ивы сахалинской.",
+        "dereni a kanadyjskiego": "дерена и канадского.",
+        "berberysu pospolitego": "барбариса обыкновенного.",
+        "trzmieliny oskrzydlonej": "бересклета крылатого."
     }
 }

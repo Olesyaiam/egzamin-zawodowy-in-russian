@@ -277,7 +277,12 @@
             "Pojawiająca się na spodniej stronie liści pajęczynka jest objawem żerowania": "Появляющаяся на нижней стороне листьев паутинка является признаком обитания.",
             "ziemiórek": "сциарид.",
             "wciornastków": "трипсов",
-            "Pajęczynki na spodniej stronie liści to wynik żerowania przędziorków, które wykorzystują je do wytwarzania swoich pajęczyn": "Паутинки на нижней стороне листьев - это результат кормления паутинных клещей, которые используют их для создания своих сетей."
+            "Pajęczynki na spodniej stronie liści to wynik żerowania przędziorków, które wykorzystują je do wytwarzania swoich pajęczyn": "Паутинки на нижней стороне листьев - это результат кормления паутинных клещей, которые используют их для создания своих сетей.",
+            "Promieniste ułożenie materiału roślinnego w kompozycji to układ": "Радиальное расположение растительного материала в композиции - это уклад.",
+            "centralny": "центральный",
+            "dynamiczny": "динамичный.",
+            "otwarty": "открытый.",
+            "statyczny": "статичный"
         }
     },
     "not_approved": {
@@ -326,9 +331,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "statyczny": "статическое.",
-        "dynamiczny": "динамичный.",
-        "centralny": "центральный",
-        "otwarty": "открытый."
+        "Promieniste ułożenie materiału roślinnego w kompozycji jest dynamiczne, ponieważ elementy roślinne są ustawione w taki sposób, aby sugerować ruch i dynamikę, a nie statyczność i nieruchomość": "Радиальное расположение растительного материала в композиции является динамичным, поскольку растительные элементы установлены таким образом, чтобы создавать ощущение движения и динамики, а не статичности и неподвижности."
     }
 }

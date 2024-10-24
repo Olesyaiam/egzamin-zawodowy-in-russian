@@ -295,7 +295,9 @@
             "noża": "ножа.",
             "nożyczek": "ножниц",
             "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей Гиппеаструма следует использовать нож, так как это позволит произвести точный и чистый срез, который поможет процессу заживления раны.",
-            "Do tworzenia suchych kompozycji stosuje się owoce": "Для создания сухих композиций используют плоды."
+            "Do tworzenia suchych kompozycji stosuje się owoce": "Для создания сухих композиций используют плоды.",
+            "chabra bławatka": "василька синего",
+            "jaskra azjatyckiego": "Лютика азиатского."
         }
     },
     "not_approved": {
@@ -344,8 +346,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "chabra bławatka": "василька синего",
-        "jaskra azjatyckiego": "Лютика азиатского.",
         "rumory adiantowatej": "плоды венериных волос."
     }
 }

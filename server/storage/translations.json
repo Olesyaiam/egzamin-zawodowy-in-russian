@@ -297,7 +297,9 @@
             "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей Гиппеаструма следует использовать нож, так как это позволит произвести точный и чистый срез, который поможет процессу заживления раны.",
             "Do tworzenia suchych kompozycji stosuje się owoce": "Для создания сухих композиций используют плоды.",
             "chabra bławatka": "василька синего",
-            "jaskra azjatyckiego": "Лютика азиатского."
+            "jaskra azjatyckiego": "Лютика азиатского.",
+            "rumory adiantowatej": "Папоротника адиантовидного.",
+            "czarnuszki damasceńskiej": "чернушки дамасской"
         }
     },
     "not_approved": {
@@ -346,6 +348,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "rumory adiantowatej": "плоды венериных волос."
+        "Czarnuszka damasceńska jest owocem, który jest często wykorzystywany do tworzenia suchych kompozycji ze względu na swoje aromatyczne i lekko korzenne właściwości": "Чернушка дамасская является плодом, который часто используется для создания сухих композиций благодаря своим ароматическим и слегка пряным свойствам."
     }
 }

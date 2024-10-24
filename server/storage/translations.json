@@ -411,7 +411,8 @@
             "nawlekania": "Нанизывания.",
             "drutowania": "проволочного укрепления.",
             "umieszczania w gąbce florystycznej": "размещения в цветочной губке.",
-            "klejenia": "клеения."
+            "klejenia": "клеения.",
+            "Florysta umieszcza candleholder w gąbce florystycznej, ponieważ pozwala to na stabilne utrzymanie elementu w kompozycji. Gąbka florystyczna jest odpowiednio miękka i elastyczna, aby utrzymać elementy kwiatowe, a jednocześnie wystarczająco sztywna, aby utrzymać je na miejscu. Dzięki temu candleholder nie przesuwa się ani nie przewraca w kompozycji, co zapewnia jej trwałość i estetykę": "Флорист размещает подсвечник в флористической губке, так как это позволяет стабильно удерживать элемент в композиции. Флористическая губка достаточно мягкая и эластичная, чтобы удерживать цветочные элементы, а одновременно достаточно жесткая, чтобы удерживать их на месте. Благодаря этому подсвечник не сдвигается и не опрокидывается в композиции, что обеспечивает её прочность и эстетику."
         }
     },
     "not_approved": {
@@ -461,6 +462,8 @@
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
         "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
-        "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов."
+        "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
+        "piłki ręcznej": "гандбола.",
+        "Kliwia pomarańczowa": "Кливия оранжевая."
     }
 }

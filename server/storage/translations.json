@@ -276,7 +276,9 @@
             "Na zdjęciu widoczne są pędy o charakterystycznej budowie, które odpowiadają opisowi pędów trzmieliny oskrzydlonej. Pędy te są grubsze i mają wyraźne \"skrzydełka\" na krawędziach, co jest typowe dla trzmieliny oskrzydlonej. Pozostałe rośliny wymienione w odpowiedziach mają cieńsze pędy bez takich struktur": "На фотографии видны побеги с характерным строением, которые соответствуют описанию побегов бересклета крылатого. Эти побеги более толстые и имеют заметные \"крылышки\" на краях, что типично для бересклета крылатого. Остальные растения, упомянутые в ответах, имеют более тонкие побеги без таких структур.",
             "Pojawiająca się na spodniej stronie liści pajęczynka jest objawem żerowania": "Появляющаяся на нижней стороне листьев паутинка является признаком обитания.",
             "ziemiórek": "сциарид.",
-            "wciornastków": "трипсов"
+            "wciornastków": "трипсов",
+            "Pajęczynki na spodniej stronie liści to wynik żerowania przędziorków, które wykorzystują je do wytwarzania swoich pajęczyn": "Паутинки на нижней стороне листьев - это результат кормления паутинных клещей, которые используют их для создания своих сетей.",
+            "Promieniste ułożenie materiału roślinnego w kompozycji to układ": "Радиальное расположение растительного материала в композиции — это укладка."
         }
     },
     "not_approved": {
@@ -325,6 +327,9 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Pajęczynki na spodniej stronie liści to wynik żerowania przędziorków, które wykorzystują je do wytwarzania swoich pajęczyn": "Паутинки на нижней стороне листьев - это результат кормления паутинных клещей, которые используют их для создания своих сетей."
+        "statyczny": "статическое.",
+        "dynamiczny": "динамичный.",
+        "centralny": "центральный",
+        "otwarty": "открытый."
     }
 }

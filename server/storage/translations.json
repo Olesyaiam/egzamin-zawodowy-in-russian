@@ -239,7 +239,8 @@
             "Do obsadzenia kratki na tarasie poleca się": "Для посадки на решетке на террасе рекомендуется",
             "nasturcję większą": "настурцию большую.",
             "maczek kalifornijski": "калифорнийский мак.",
-            "werbenę ogrodową": "вербену садовую."
+            "werbenę ogrodową": "вербену садовую.",
+            "tojeść rozesłaną": "лужайницу распростёртую."
         }
     },
     "not_approved": {
@@ -287,7 +288,6 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой.",
-        "tojeść rozesłaną": "лужайница разостланная"
+        "żółtej z zieloną": "желтой с зеленой."
     }
 }

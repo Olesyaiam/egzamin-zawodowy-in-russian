@@ -290,6 +290,13 @@ class Translator extends Base
                 'info' => 'A number: no need to translate',
                 'error' => null
             );
+        } elseif (substr($original, -2) === 'cm') {
+            $result = array(
+                'translation' => $original,
+                'approved' => true,
+                'info' => 'Centimeters',
+                'error' => null
+            );
         } else {
             $translation = $withCache ? $this->findInTranslations($original) : null;
 

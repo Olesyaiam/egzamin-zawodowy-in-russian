@@ -299,7 +299,9 @@
             "chabra bławatka": "василька синего",
             "jaskra azjatyckiego": "Лютика азиатского.",
             "rumory adiantowatej": "Папоротника адиантовидного.",
-            "czarnuszki damasceńskiej": "чернушки дамасской"
+            "czarnuszki damasceńskiej": "чернушки дамасской",
+            "Czarnuszka damasceńska jest owocem, który jest często wykorzystywany do tworzenia suchych kompozycji ze względu na swoje aromatyczne i lekko korzenne właściwości": "Чернушка дамасская является плодом, который часто используется для создания сухих композиций благодаря своим ароматическим и слегка пряным свойствам.",
+            "Niewielkiej ilości wody w podłożu wymaga": "Небольшого количества воды в подложке требует"
         }
     },
     "not_approved": {
@@ -348,6 +350,9 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Czarnuszka damasceńska jest owocem, który jest często wykorzystywany do tworzenia suchych kompozycji ze względu na swoje aromatyczne i lekko korzenne właściwości": "Чернушка дамасская является плодом, который часто используется для создания сухих композиций благодаря своим ароматическим и слегка пряным свойствам."
+        "fitonia": "фиттония",
+        "skrzydłokwiat": "Спатифиллум.",
+        "kroton": "Кротон.",
+        "oplątwa": "тилландсия"
     }
 }

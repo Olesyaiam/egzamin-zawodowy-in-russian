@@ -301,7 +301,13 @@
             "rumory adiantowatej": "Папоротника адиантовидного.",
             "czarnuszki damasceńskiej": "чернушки дамасской",
             "Czarnuszka damasceńska jest owocem, który jest często wykorzystywany do tworzenia suchych kompozycji ze względu na swoje aromatyczne i lekko korzenne właściwości": "Чернушка дамасская является плодом, который часто используется для создания сухих композиций благодаря своим ароматическим и слегка пряным свойствам.",
-            "Niewielkiej ilości wody w podłożu wymaga": "Небольшого количества воды в подложке требует"
+            "Niewielkiej ilości wody w podłożu wymaga": "Небольшого количества воды в подложке требует",
+            "oplątwa": "тилландсия",
+            "fitonia": "фиттония",
+            "skrzydłokwiat": "Спатифиллум.",
+            "kroton": "Кротон.",
+            "Oplątwa jest rośliną, która ma zdolność do przystosowania się do warunków niskiej ilości wody w glebie, dzięki specjalnym mechanizmom oszczędzającym wodę. Dlatego wymaga niewielkiej ilości wody w podłożu": "Тилландсия является растением, которое обладает способностью адаптироваться к условиям низкого содержания воды в почве благодаря специальным механизмам экономии воды. Поэтому требует небольшого количества воды в подложке.",
+            "Który z wymienionych kwiatów ma pusty pęd, do środka którego można wprowadzić drut?": "Который из перечисленных цветов имеет пустой стебель, внутрь которого можно ввести проволку?"
         }
     },
     "not_approved": {
@@ -350,9 +356,9 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "fitonia": "фиттония",
-        "skrzydłokwiat": "Спатифиллум.",
-        "kroton": "Кротон.",
-        "oplątwa": "тилландсия"
+        "Hortensja": "Гортензия.",
+        "Goździk": "Гвоздика",
+        "Gerbera": "Гербера",
+        "Róża": "Роза."
     }
 }

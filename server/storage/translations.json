@@ -389,7 +389,10 @@
             "Do rustykalnego bukietu o zimnych barwach kwiatów poleca się": "Для рустикального букета с холодной расцветкой цветов рекомендуется",
             "pełnik ogrodowy": "Лютик садовый",
             "języczkę pomarańczową": "бузульник оранжевый.",
-            "Ostróżka ogrodowa jest polecanym kwiatem do rustykalnego bukietu o zimnych barwach, ze względu na jej charakterystyczne, niebieskofioletowe kwiatostany oraz fakt, że dobrze komponuje się z innymi roślinami w tym stylu": "Дельфиниум садовый является рекомендуемым цветком для деревенского букета холодной расцветки, благодаря её характерным, сине-фиолетовым соцветиям и тому факту, что она хорошо сочетается с другими растениями в этом стиле."
+            "Ostróżka ogrodowa jest polecanym kwiatem do rustykalnego bukietu o zimnych barwach, ze względu na jej charakterystyczne, niebieskofioletowe kwiatostany oraz fakt, że dobrze komponuje się z innymi roślinami w tym stylu": "Дельфиниум садовый является рекомендуемым цветком для деревенского букета холодной расцветки, благодаря её характерным, сине-фиолетовым соцветиям и тому факту, что она хорошо сочетается с другими растениями в этом стиле.",
+            "cantedeskie": "Зантедескию",
+            "frezje": "фрезии.",
+            "alstremerie": "альстромерии."
         }
     },
     "not_approved": {
@@ -440,9 +443,6 @@
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
         "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
-        "cantedeskie": "Зантедескию",
-        "frezje": "фрезии.",
-        "alstremerie": "альстромерии.",
-        "Zgodnie z tabelą na zdjęciu, cantedeskie można schładzać w temperaturze od 4°C do 8°C. Skoro pytanie dotyczy temperatury 6°C, to pasuje ona do zakresu zalecanego dla cantedeski, co czyni tę odpowiedź poprawną": "Согласно таблице на изображении, кандески можно охлаждать при температуре от 4°C до 8°C. Поскольку вопрос касается температуры 6°C, она подходит к рекомендуемому диапазону для кандески, что делает этот ответ правильным."
+        "Zgodnie z tabelą na zdjęciu, cantedeskie można schładzać w temperaturze od 4°C do 8°C. Skoro pytanie dotyczy temperatury 6°C, to pasuje ona do zakresu zalecanego dla cantedeski, co czyni tę odpowiedź poprawną": "Согласно таблице на фотографии, кантыдески можно охлаждать при температуре от 4°C до 8°C. Поскольку вопрос касается температуры 6°C, то она соответствует рекомендованному диапазону для кантыдески, что делает этот ответ правильным."
     }
 }

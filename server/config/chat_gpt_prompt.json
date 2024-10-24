@@ -70,16 +70,19 @@
             "uczep: череда",
             "uczep rózgowaty: череда ферулолистная"
         ],
+        "wzn": [
+            "wznoszący pokrój: вертикальное строение",
+            "wzniesiony pokrój: вертикальное строение"
+        ],
         "kauczuk": [
             "taśma kauczukowa: лента каучуковая",
             "kauczuk: каучук"
         ]
     },
     "dictionary_others": {
-        "wzniesion": "wzniesiony pokrój: вертикальное строение",
         "ostr": "ostróżka: дельфиниум",
         "naparstn": "naparstnica: наперстянка",
-        "strzelist": "strzelisty: высокий и вытянутый вверх",
+        "strzelist": "strzelisty: стреловидный",
         "pylnik": "pylnik: пыльник",
         "clip": "clip: клипса",
         "owocostan": "owocostan: соплодие",

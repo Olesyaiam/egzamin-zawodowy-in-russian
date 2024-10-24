@@ -74,6 +74,10 @@
             "wznoszący pokrój: вертикальное строение",
             "wzniesiony pokrój: вертикальное строение"
         ],
+        "wierzb": [
+            "wierzba sachalińska: ива сахалинская",
+            "wierzba: верба"
+        ],
         "kauczuk": [
             "taśma kauczukowa: лента каучуковая",
             "kauczuk: каучук"
@@ -81,7 +85,6 @@
     },
     "dictionary_others": {
         "tykw": "tykwa pospolita: лагенария обыкновенная",
-        "wierzb": "wierzba: верба",
         "ostr": "ostróżka: дельфиниум",
         "naparstn": "naparstnica: наперстянка",
         "strzelist": "strzelisty: стреловидный",

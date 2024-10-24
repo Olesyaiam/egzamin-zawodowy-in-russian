@@ -254,7 +254,13 @@
             "Picea omorika": "Сербская ель",
             "Picea abies": "Ель обыкновенная.",
             "Abies procera": "Пихта благородная",
-            "Larix europea": "Лиственница европейская"
+            "Larix europea": "Лиственница европейская",
+            "Igły na pędzie Abies procera utrzymują się dłużej niż na innych gatunkach drzew iglastych, ponieważ są one grubsze i mają bardziej trwałe tkanki": "Хвоя на побеге Пихты благородной держится дольше, чем на других видах хвойных деревьев, потому что она более толстая и имеет более прочные ткани.",
+            "Do przecięcia konaru o średnicy 10 cm należy użyć": "Для обрезки ветви диаметром 10 см следует использовать",
+            "przecinaka": "зубила",
+            "piły ręcznej": "ручной пилы.",
+            "sekatora jednoręcznego": "секатора одноручного.",
+            "sekatora dwuręcznego": "секатора двуручного."
         }
     },
     "not_approved": {
@@ -302,6 +308,7 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой."
+        "żółtej z zieloną": "желтой с зеленой.",
+        "Poprawna odpowiedź, czyli użycie piły ręcznej, wynika z faktu, że konar o takiej średnicy jest zbyt gruby, by udało się go odciąć nożycami ogrodniczymi, a zbyt cienki, by wymagał zastosowania piły łańcuchowej czy mechanicznej. Piła ręczna jest więc najlepszym narzędziem do przecięcia takiego konaru": "Правильный ответ, то есть использование ручной пилы, обусловлен тем, что ветка такой толщины слишком толстая, чтобы её можно было обрезать садовыми ножницами, и слишком тонкая, чтобы требовалось использование цепной или механической пилы. Ручная пила, таким образом, является лучшим инструментом для резки такой ветки."
     }
 }

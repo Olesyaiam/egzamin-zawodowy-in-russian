@@ -268,7 +268,11 @@
             "aralia japońska": "аралия японская.",
             "echmea wstęgowata": "эхмея полосатая.",
             "Epifitem jest echmea wstęgowata, ponieważ ta roślina jest zdolna do przylegania i rozwijania się na powierzchni innych roślin, a echmea wstęgowata jest właśnie tego typu rośliną": "Эпифитом является эхмея полосатая, поскольку это растение способно прикрепляться и развиваться на поверхности других растений, и эхмея полосатая именно такого типа растение.",
-            "Na rysunku przedstawiono pędy": "На рисунке изображены побеги"
+            "Na rysunku przedstawiono pędy": "На рисунке изображены побеги",
+            "dereni a kanadyjskiego": "дерена и канадского.",
+            "wierzby sachalińskiej": "ивы сахалинской.",
+            "berberysu pospolitego": "барбариса обыкновенного.",
+            "trzmieliny oskrzydlonej": "бересклета крылатого."
         }
     },
     "not_approved": {
@@ -316,10 +320,6 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой.",
-        "wierzby sachalińskiej": "ивы сахалинской.",
-        "dereni a kanadyjskiego": "дерена и канадского.",
-        "berberysu pospolitego": "барбариса обыкновенного.",
-        "trzmieliny oskrzydlonej": "бересклета крылатого."
+        "żółtej z zieloną": "желтой с зеленой."
     }
 }

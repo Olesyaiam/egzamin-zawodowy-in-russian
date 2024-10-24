@@ -360,7 +360,15 @@
             "kula ziemi otoczona mchem, w której rośnie roślina": "Шар из земли, окружённый мхом, в котором растёт растение.",
             "rodzaj naczynia codziennego użytku": "разновидность сосуда повседневного использования.",
             "płaskie naczynie do uprawy bonsai": "плоский сосуд для выращивания бонсай.",
-            "bambusowe naczynie do sporządzania ikebany": "бамбуковый сосуд для составления икебаны."
+            "bambusowe naczynie do sporządzania ikebany": "бамбуковый сосуд для составления икебаны.",
+            "Kokedama to kula ziemi otoczona mchem, w której rośnie roślina, ponieważ taka jest definicja tej japońskiej metody hodowli roślin": "Кокэдама — это шар земли, окружённый мхом, в котором растёт растение, так как таково определение этого японского метода выращивания растений.",
+            "W jaki sposób należy zamocować zieloną gąbkę do słomianego korpusu wianka?": "Каким образом следует закрепить зеленую флористическую губку на соломенном корпусе венка?",
+            "Owinąć drucianą siatką i za pomocą haftek przymocować do wianka": "Обернуть проволочной сеткой и при помощи крючков прикрепить к венку.",
+            "Przykleić taśmą dwustronną": "Приклеить двусторонней лентой.",
+            "Przykleić klejem na gorąco": "Приклеить горячим клеем.",
+            "Owinąć w całości folią i za pomocą taśmy przymocować do wianka": "Обернуть полностью пленкой и с помощью ленты прикрепить к венку.",
+            "Zieloną gąbkę należy przyciąć do odpowiedniego rozmiaru, następnie owinąć drucianą siatką, która pozwoli na zamocowanie gąbki do wianka za pomocą haftek": "Зелёную флористическую губку нужно подрезать до соответствующего размера, затем обернуть проволочной сеткой, которая позволит прикрепить губку к венку с помощью крючков.",
+            "W kompozycji florystycznej czerwony i niebieski to barwy": "В композиции флористической красный и синий — это расцветки."
         }
     },
     "not_approved": {
@@ -410,6 +418,9 @@
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
-        "Kokedama to kula ziemi otoczona mchem, w której rośnie roślina, ponieważ taka jest definicja tej japońskiej metody hodowli roślin": "Кокэдама — это шар земли, окружённый мхом, в котором растёт растение, так как таково определение этого японского метода выращивания растений."
+        "analogiczne": "аналогичные.",
+        "chromatyczne": "хроматические.",
+        "achromatyczne": "ахроматические.",
+        "neutralne": "нейтральные."
     }
 }

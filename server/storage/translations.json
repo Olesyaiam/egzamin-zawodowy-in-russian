@@ -209,7 +209,9 @@
             "nawieźć roślinę nawozem wieloskładnikowym": "удобрить растение многокомпонентным удобрением.",
             "Aby złagodzić stres i zmniejszyć szok, który może spotkać roślinę podczas cięcia, należy ją obficie podlać. Woda pozwoli również na lepsze ukrwienie kwiatów i przedłuży ich żywotność": "Чтобы смягчить стресс и уменьшить шок, который может испытать растение во время обрезки, его следует обильно полить. Вода также позволит улучшить кровоснабжение цветов и продлить их жизненный цикл.",
             "Do wykonania kompozycji z kwiatów kwitnących w okresie wielkanocnym należy wybrać": "Для выполнения композиции из цветов, цветущих в пасхальный период, необходимо выбрать",
-            "Jaskry i hiacynty są kwiatami, które kwitną w okresie wielkanocnym i są często wykorzystywane do tworzenia kompozycji związanych z tym świętem": "Лютики и гиацинты — это цветы, которые цветут в пасхальный период и часто используются для создания композиций, связанных с этим праздником."
+            "Jaskry i hiacynty są kwiatami, które kwitną w okresie wielkanocnym i są często wykorzystywane do tworzenia kompozycji związanych z tym świętem": "Лютики и гиацинты — это цветы, которые цветут в пасхальный период и часто используются для создания композиций, связанных с этим праздником.",
+            "Guzmania charakteryzuje się pokrojem": "Гузмания характеризуется строением растения",
+            "kolistym": "круглым"
         }
     },
     "not_approved": {
@@ -257,6 +259,8 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой."
+        "żółtej z zieloną": "желтой с зеленой.",
+        "spływającym": "стекающим.",
+        "wznoszącym": "возвышающимся"
     }
 }

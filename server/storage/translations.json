@@ -312,7 +312,20 @@
             "Goździk": "Гвоздика",
             "Róża": "Роза.",
             "Hortensja": "Гортензия.",
-            "Gerbera ma pusty pęd, do środka którego można wprowadzić drut, ponieważ jest to roślina ozdobna, która często jest układana w bukiety i potrzebne są specjalne narzędzia, aby ją uformować": "Гербера имеет полый стебель, внутрь которого можно ввести проволку, поскольку это декоративное растение, которое часто укладывается в букеты, и нужны специальные инструменты, чтобы ее сформировать."
+            "Gerbera ma pusty pęd, do środka którego można wprowadzić drut, ponieważ jest to roślina ozdobna, która często jest układana w bukiety i potrzebne są specjalne narzędzia, aby ją uformować": "Гербера имеет полый стебель, внутрь которого можно ввести проволку, поскольку это декоративное растение, которое часто укладывается в букеты, и нужны специальные инструменты, чтобы ее сформировать.",
+            "Rysunek jest mniejszy niż rzeczywistość w skali 1:40, co oznacza, że każdy centymetr rysunku odpowiada 40 centymetrom w rzeczywistości. 5 cm na rysunku * 40 = 200 cm (2 m) w rzeczywistości": "Рисунок меньше реальности в масштабе 1:40, что означает, что каждый сантиметр рисунка соответствует 40 сантиметрам в реальности. 5 см на рисунке * 40 = 200 см (2 м) в реальности.",
+            "Wieniec adwentowy pochodzi": "Адвентский венок происходит",
+            "z Niemiec": "из Германии.",
+            "z Austrii": "из Австрии.",
+            "z Anglii": "из Англии.",
+            "z Belgii": "из Бельгии.",
+            "Wieniec adwentowy został stworzony w Niemczech w XIX wieku i jest tradycyjnym elementem przygotowań do Bożego Narodzenia": "Адвентский венок был создан в Германии в XIX веке и является традиционным элементом подготовки к Рождеству.",
+            "Na rysunku przedstawiono grupę barw": "На рисунке представлена группа расцветок.",
+            "analogicznych": "Аналогичных.",
+            "kontrastowych": "контрастных.",
+            "dopełniających": "дополнительных",
+            "achromatycznych": "ахроматических.",
+            "Na przedstawionym rysunku widać dwa prostokąty w różnych odcieniach zieleni. Barwy analogiczne to takie, które są obok siebie na kole barw, czyli są podobne, ale różnią się odcieniem lub nasyceniem. W tym przypadku obie zielenie są podobne, więc można je uznać za barwy analogiczne": "На представленном рисунке видно два прямоугольника в различных оттенках зелёного. Аналогичные расцветки — это такие, которые находятся рядом друг с другом на цветовом круге, то есть они похожи, но отличаются оттенком или насыщенностью. В этом случае оба зелёных цвета похожи, поэтому их можно считать аналогичными расцветками."
         }
     },
     "not_approved": {
@@ -362,6 +375,10 @@
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
-        "Rysunek jest mniejszy niż rzeczywistość w skali 1:40, co oznacza, że każdy centymetr rysunku odpowiada 40 centymetrom w rzeczywistości. 5 cm na rysunku * 40 = 200 cm (2 m) w rzeczywistości": "Рисунок меньше реальности в масштабе 1:40, что означает, что каждый сантиметр рисунка соответствует 40 сантиметрам в реальности. 5 см на рисунке * 40 = 200 см (2 м) в реальности."
+        "Kwiatostany anturium przeznaczone na rynek krajowy na czas transportu pakuje się": "Соцветия антуриума, предназначенные для внутреннего рынка, на время транспортировки упаковываются.",
+        "w nylonową siatkę": "в нейлоновую сетку.",
+        "w woreczek foliowy wypełniony gazem": "в полиэтиленовый пакет, заполненный газом.",
+        "w podwójny papier": "в двойную бумагу",
+        "w folię przezroczystą": "в прозрачную пленку."
     }
 }

@@ -406,7 +406,12 @@
             "sznurek o grubym splocie": "Шнурок с крупным плетением.",
             "pędy wikliny": "побеги ивы",
             "Drut o grubości 1,5 - 2 mm jest stosowany jako element konstrukcyjny w wiankach komunijnych z drobnych kwiatów i zieleni ciętej, ponieważ jest wystarczająco mocny, by utrzymać kształt wianka, ale jednocześnie wystarczająco cienki, by nie zdominować kompozycji": "Проволока толщиной 1,5 - 2 мм используется в качестве конструктивного элемента в венках на первое причастие из мелких цветов и резаной зелени, поскольку она достаточно прочная, чтобы сохранить форму венка, но в то же время достаточно тонкая, чтобы не доминировать в композиции.",
-            "Aby obliczyć koszt całkowity wykonania kompozycji, należy zsumować wartość wykorzystanych materiałów florystycznych i doliczyć do nich koszt robocizny, który stanowi 30% wartości tych materiałów. Po dodaniu kosztu materiałów (85,00 zł) i robocizny (25,50 zł) otrzymujemy 110,50 zł, co jest poprawną odpowiedzią": "Чтобы рассчитать полную стоимость выполнения композиции, необходимо сложить стоимость использованных флористических материалов и прибавить к ним затраты на работу, которые составляют 30% от стоимости этих материалов. После добавления стоимости материалов (85,00 злотых) и затрат на работу (25,50 злотых) мы получаем 110,50 злотых, что является правильным ответом."
+            "Aby obliczyć koszt całkowity wykonania kompozycji, należy zsumować wartość wykorzystanych materiałów florystycznych i doliczyć do nich koszt robocizny, który stanowi 30% wartości tych materiałów. Po dodaniu kosztu materiałów (85,00 zł) i robocizny (25,50 zł) otrzymujemy 110,50 zł, co jest poprawną odpowiedzią": "Чтобы рассчитать полную стоимость выполнения композиции, необходимо сложить стоимость использованных флористических материалов и прибавить к ним затраты на работу, которые составляют 30% от стоимости этих материалов. После добавления стоимости материалов (85,00 злотых) и затрат на работу (25,50 злотых) мы получаем 110,50 злотых, что является правильным ответом.",
+            "Mając na wyposażeniu pracowni: drut aluminiowy, klej na gorąco, haftki, pinholder, gąbkę florystyczną, florysta umieści candleholder w kompozycji, stosując technikę": "Имея в оснащении мастерской: алюминиевую проволоку, горячий клей, крючки, пинхолдер, флористическую губку, флорист поместит подсвечник в композицию, используя технику",
+            "nawlekania": "Нанизывания.",
+            "drutowania": "проволочного укрепления.",
+            "umieszczania w gąbce florystycznej": "размещения в цветочной губке.",
+            "klejenia": "клеения."
         }
     },
     "not_approved": {
@@ -441,7 +446,6 @@
         "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
         "szynowania": "рельсоподобного укрепления.",
-        "drutowania": "проволочного укрепления.",
         "Poznaniu": "Познань.",
         "Essen": "Ессена.",
         "Na podstawie danych zamieszczonych w tabeli, frezje, które są kwiatami typu \"Kłos\", powinny być przechowywane w chłodni w temperaturze 1-2 °C. Jest to zgodne z informacją podaną w tabeli, gdzie w kolumnie \"Temperatura przechowywania w chłodni\" przy typie kwiatostanu \"Kłos\" podana jest wartość \"1-2 °C\"": "На основе данных, размещённых в таблице, фрезии, которые являются цветами типа \"Колос\", должны храниться в холодильной камере при температуре 1-2 °C. Это соответствует информации, указанной в таблице, где в колонке \"Температура хранения в холодильной камере\" для типа соцветия \"Колос\" указано значение \"1-2 °C\".",
@@ -457,10 +461,6 @@
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
         "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
-        "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
-        "umieszczania w gąbce florystycznej": "размещения в цветочной губке.",
-        "klejenia": "клеяния.",
-        "nawlekania": "Нанизывания.",
-        "Mając na wyposażeniu pracowni: drut aluminiowy, klej na gorąco, haftki, pinholder, gąbkę florystyczną, florysta umieści candleholder w kompozycji, stosując technikę": "Имея в оснащении мастерской: алюминиевую проволоку, горячий клей, крючки, пинхолдер, флористическую губку, флорист поместит подсвечник в композицию, используя технику"
+        "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов."
     }
 }

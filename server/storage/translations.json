@@ -239,7 +239,10 @@
             "Do obsadzenia kratki na tarasie poleca się": "Для посадки на решетке на террасе рекомендуется",
             "nasturcję większą": "настурцию большую.",
             "maczek kalifornijski": "калифорнийский мак.",
-            "werbenę ogrodową": "вербену садовую."
+            "werbenę ogrodową": "вербену садовую.",
+            "tojeść rozesłaną": "Вербейник монетчатый.",
+            "Nasturcja większa jest rośliną o dekoracyjnych kwiatach, która dobrze rośnie w słońcu i na suchych glebach. Ponadto, jej liście są odpornie na wysychanie i częste podlewanie, co sprawia, że jest łatwa w pielęgnacji. Krata tarasowa to dobry wybór miejsca dla nasturcji, ponieważ pozwoli ona na pełne rozkwitnięcie rośliny i stworzy piękny krajobraz": "Настурция большая — это растение с декоративными цветами, которое хорошо растет на солнце и на сухих почвах. Кроме того, её листья устойчивы к высыханию и частому поливу, что делает её легкой в уходе. Решетка на террасе — хороший выбор места для настурции, так как она позволит растению полностью распуститься и создаст красивый ландшафт.",
+            "Pogięte pędy wytwarza": "Изогнутые побеги создаёт"
         }
     },
     "not_approved": {
@@ -287,6 +290,9 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой."
+        "żółtej z zieloną": "желтой с зеленой.",
+        "Cytisus praecox": "БROOM.",
+        "Acer palmatum": "Acer palmatum.",
+        "Coryłus avellana 'Contorta'": "Corylus avellana 'Contorta'"
     }
 }

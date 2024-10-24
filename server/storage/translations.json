@@ -230,7 +230,11 @@
             "chryzantemy": "хризантемы.",
             "jaskry": "лютики",
             "zwartnice": "гиппеаструмы",
-            "Zwartnice to rośliny, które charakteryzują się zamkniętymi pąkami, które następnie otwierają się, tworząc kolorowe kwiaty. W stadium zamkniętych pąków, gdy roślina jest jeszcze zielona, należy je ścinać": "Гиппеаструмы — это растения, которые характеризуются закрытыми бутонами, которые затем раскрываются, образуя цветные цветы. На стадии закрытых бутонов, когда растение еще зеленое, их следует срезать."
+            "Zwartnice to rośliny, które charakteryzują się zamkniętymi pąkami, które następnie otwierają się, tworząc kolorowe kwiaty. W stadium zamkniętych pąków, gdy roślina jest jeszcze zielona, należy je ścinać": "Гиппеаструмы — это растения, которые характеризуются закрытыми бутонами, которые затем раскрываются, образуя цветные цветы. На стадии закрытых бутонов, когда растение еще зеленое, их следует срезать.",
+            "Nephrolepis exaltata w uprawie wymaga": "Nephrolepis exaltata в выращивании требует",
+            "palikowania": "подвязывания к опоре",
+            "przycinania": "подрезки.",
+            "zraszania": "опрыскивания."
         }
     },
     "not_approved": {
@@ -279,10 +283,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Nephrolepis exaltata w uprawie wymaga": "Nephrolepis exaltata в выращивании требует",
-        "przycinania": "подрезки.",
-        "zraszania": "опрыскивания.",
-        "nabłyszczania": "блеска",
-        "palikowania": "подвязывания к опоре"
+        "nabłyszczania": "блеска"
     }
 }

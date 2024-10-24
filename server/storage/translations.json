@@ -307,7 +307,12 @@
             "skrzydłokwiat": "Спатифиллум.",
             "kroton": "Кротон.",
             "Oplątwa jest rośliną, która ma zdolność do przystosowania się do warunków niskiej ilości wody w glebie, dzięki specjalnym mechanizmom oszczędzającym wodę. Dlatego wymaga niewielkiej ilości wody w podłożu": "Тилландсия является растением, которое обладает способностью адаптироваться к условиям низкого содержания воды в почве благодаря специальным механизмам экономии воды. Поэтому требует небольшого количества воды в подложке.",
-            "Który z wymienionych kwiatów ma pusty pęd, do środka którego można wprowadzić drut?": "Который из перечисленных цветов имеет пустой стебель, внутрь которого можно ввести проволку?"
+            "Który z wymienionych kwiatów ma pusty pęd, do środka którego można wprowadzić drut?": "Который из перечисленных цветов имеет пустой стебель, внутрь которого можно ввести проволку?",
+            "Gerbera": "Гербера",
+            "Goździk": "Гвоздика",
+            "Róża": "Роза.",
+            "Hortensja": "Гортензия.",
+            "Gerbera ma pusty pęd, do środka którego można wprowadzić drut, ponieważ jest to roślina ozdobna, która często jest układana w bukiety i potrzebne są specjalne narzędzia, aby ją uformować": "Гербера имеет полый стебель, внутрь которого можно ввести проволку, поскольку это декоративное растение, которое часто укладывается в букеты, и нужны специальные инструменты, чтобы ее сформировать."
         }
     },
     "not_approved": {
@@ -356,9 +361,7 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Hortensja": "Гортензия.",
-        "Goździk": "Гвоздика",
-        "Gerbera": "Гербера",
-        "Róża": "Роза."
+        "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
+        "Rysunek jest mniejszy niż rzeczywistość w skali 1:40, co oznacza, że każdy centymetr rysunku odpowiada 40 centymetrom w rzeczywistości. 5 cm na rysunku * 40 = 200 cm (2 m) w rzeczywistości": "Рисунок меньше реальности в масштабе 1:40, что означает, что каждый сантиметр рисунка соответствует 40 сантиметрам в реальности. 5 см на рисунке * 40 = 200 см (2 м) в реальности."
     }
 }

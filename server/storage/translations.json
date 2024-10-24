@@ -336,7 +336,14 @@
             "techniczny": "технический.",
             "aluminiowy": "алюминиевый",
             "Drut aluminiowy jest często wykorzystywany w florystyce i dekoracjach ze względu na swoje właściwości. Jest bardzo miękki, co ułatwia formowanie go w różne kształty, a także jest lekki i dekoracyjny dzięki swojej srebrzystej barwie. Na podstawie tych cech można stwierdzić, że drut aluminiowy jest odpowiednim materiałem do wykonania kryzy prezentowanej na rysunku": "Алюминиевая проволка часто используется во флористике и декорациях благодаря своим свойствам. Она очень мягкая, что упрощает её формирование в различные формы, а также лёгкая и декоративная благодаря своему серебристому цвету. На основании этих характеристик можно утверждать, что алюминиевая проволка является подходящим материалом для изготовления декоративного воротника, представленного на рисунке.",
-            "miedziany": "медный."
+            "miedziany": "медный.",
+            "wyrobowy": "Рукодельная.",
+            "Bukiety o wydłużonych kształtach i prostych łodygach najlepiej prezentują się w wazonach": "Букеты вытянутой формы и с прямыми стеблями лучше всего смотрятся в вазах.",
+            "płaskich": "плоских.",
+            "kulistych": "шаровидных.",
+            "wąskich": "узких.",
+            "okrągłych": "круглых.",
+            "Bukiety o wydłużonych kształtach i prostych łodygach najlepiej prezentują się w wazonach wąskich, ponieważ takie wazy utrzymują kwiaty w pionowej pozycji, co podkreśla ich elegancki kształt": "Букеты вытянутых форм и с прямыми стеблями лучше всего смотрятся в узких вазах, поскольку такие вазы поддерживают цветы в вертикальном положении, что подчеркивает их элегантную форму."
         }
     },
     "not_approved": {
@@ -386,6 +393,10 @@
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
-        "wyrobowy": "Заготовочный."
+        "zgodnie z ruchem wskazówek zegara": "по часовой стрелке.",
+        "przeciwnie do ruchu wskazówek zegara": "Против часовой стрелки.",
+        "Krótkie gałązki jodły na wianku ze słomy powinno się układać": "Короткие веточки пихты на венке из соломы следует укладывать.",
+        "w różnych kierunkach": "в разных направлениях.",
+        "przemiennie, raz w jedną, a raz w drugą stronę": "Чередуя, то в одну, то в другую сторону."
     }
 }

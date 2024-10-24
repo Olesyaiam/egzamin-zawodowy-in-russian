@@ -242,7 +242,13 @@
             "werbenę ogrodową": "вербену садовую.",
             "tojeść rozesłaną": "Вербейник монетчатый.",
             "Nasturcja większa jest rośliną o dekoracyjnych kwiatach, która dobrze rośnie w słońcu i na suchych glebach. Ponadto, jej liście są odpornie na wysychanie i częste podlewanie, co sprawia, że jest łatwa w pielęgnacji. Krata tarasowa to dobry wybór miejsca dla nasturcji, ponieważ pozwoli ona na pełne rozkwitnięcie rośliny i stworzy piękny krajobraz": "Настурция большая — это растение с декоративными цветами, которое хорошо растет на солнце и на сухих почвах. Кроме того, её листья устойчивы к высыханию и частому поливу, что делает её легкой в уходе. Решетка на террасе — хороший выбор места для настурции, так как она позволит растению полностью распуститься и создаст красивый ландшафт.",
-            "Pogięte pędy wytwarza": "Изогнутые побеги создаёт"
+            "Pogięte pędy wytwarza": "Изогнутые побеги создаёт",
+            "Cytisus praecox": "Cytisus praecox",
+            "Coryłus avellana 'Contorta'": "Corylus avellana 'Contorta'",
+            "Acer palmatum": "Acer palmatum.",
+            "Cornus alba 'Sibirica'": "Свидина белая 'Сибирика'",
+            "Coryłus avellana 'Contorta' to odmiana leszczyny, która charakteryzuje się nietypowo wygiętymi pędami": "Corylus avellana 'Contorta' — это разновидность лещины, которая характеризуется необычно изогнутыми побегами.",
+            "Wskaż narzędzie do ściskania końców drutu": "Укажите инструмент для сжатия концов проволоки."
         }
     },
     "not_approved": {
@@ -291,8 +297,6 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Cytisus praecox": "БROOM.",
-        "Acer palmatum": "Acer palmatum.",
-        "Coryłus avellana 'Contorta'": "Corylus avellana 'Contorta'"
+        "Narzędziem do ściskania końcówek drutu jest szczypce do zaciskania końcówek kablowych, które są przedstawione na zdjęciu jako odpowiedź B. Pozostałe narzędzia to: A - obcążki do zdejmowania izolacji, C - kombinerki, D - boczne obcinaki": "Инструментом для сжатия концов проволоки являются клещи для обжима кабельных наконечников, которые представлены на фотографии как ответ B. Остальные инструменты: A - кусачки для снятия изоляции, C - пассатижи, D - боковые кусачки."
     }
 }

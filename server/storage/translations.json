@@ -248,7 +248,13 @@
             "Acer palmatum": "Acer palmatum.",
             "Cornus alba 'Sibirica'": "Свидина белая 'Сибирика'",
             "Coryłus avellana 'Contorta' to odmiana leszczyny, która charakteryzuje się nietypowo wygiętymi pędami": "Corylus avellana 'Contorta' — это разновидность лещины, которая характеризуется необычно изогнутыми побегами.",
-            "Wskaż narzędzie do ściskania końców drutu": "Укажите инструмент для сжатия концов проволоки."
+            "Wskaż narzędzie do ściskania końców drutu": "Укажите инструмент для сжатия концов проволоки.",
+            "Narzędziem do ściskania końcówek drutu jest szczypce do zaciskania końcówek kablowych, które są przedstawione na zdjęciu jako odpowiedź B. Pozostałe narzędzia to: A - obcążki do zdejmowania izolacji, C - kombinerki, D - boczne obcinaki": "Инструментом для сжатия концов проволоки являются клещи для обжима кабельных наконечников, которые представлены на фотографии как ответ B. Остальные инструменты: A - кусачки для снятия изоляции, C - пассатижи, D - боковые кусачки.",
+            "W świątecznym stroiku najdłużej będą utrzymywały się igły na pędzie": "В праздничной композиции иглы на побеге будут держаться дольше всего.",
+            "Picea omorika": "Сербская ель",
+            "Picea abies": "Ель обыкновенная.",
+            "Abies procera": "Пихта благородная",
+            "Larix europea": "Лиственница европейская"
         }
     },
     "not_approved": {
@@ -296,7 +302,6 @@
         "niebieskiej z pomarańczową": "синей с оранжевой.",
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
-        "żółtej z zieloną": "желтой с зеленой.",
-        "Narzędziem do ściskania końcówek drutu jest szczypce do zaciskania końcówek kablowych, które są przedstawione na zdjęciu jako odpowiedź B. Pozostałe narzędzia to: A - obcążki do zdejmowania izolacji, C - kombinerki, D - boczne obcinaki": "Инструментом для сжатия концов проволоки являются клещи для обжима кабельных наконечников, которые представлены на фотографии как ответ B. Остальные инструменты: A - кусачки для снятия изоляции, C - пассатижи, D - боковые кусачки."
+        "żółtej z zieloną": "желтой с зеленой."
     }
 }

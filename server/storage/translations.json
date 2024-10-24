@@ -209,7 +209,10 @@
             "Do wykonania kompozycji z kwiatów kwitnących w okresie wielkanocnym należy wybrać": "Для выполнения композиции из цветов, цветущих в пасхальный период, необходимо выбрать",
             "Jaskry i hiacynty są kwiatami, które kwitną w okresie wielkanocnym i są często wykorzystywane do tworzenia kompozycji związanych z tym świętem": "Лютики и гиацинты — это цветы, которые цветут в пасхальный период и часто используются для создания композиций, связанных с этим праздником.",
             "Guzmania charakteryzuje się pokrojem": "Гузмания характеризуется строением растения",
-            "kolistym": "круглым"
+            "kolistym": "круглым",
+            "wznoszącym": "вертикальным.",
+            "spływającym": "стекающим.",
+            "Guzmania charakteryzuje się pokrojem rozłożystym, ponieważ jej liście wyrastają z centralnej rozety, ale zachodzą na siebie i tworzą zwarty krzew": "Гузмания характеризуется строением растения раскидистым, потому что её листья вырастают из центральной розетки, но заходят друг на друга и образуют плотный куст."
         }
     },
     "not_approved": {
@@ -258,7 +261,10 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "spływającym": "стекающим.",
-        "wznoszącym": "возвышающимся"
+        "Do wykonania jesiennej kompozycji należy użyć owoców": "Для создания осенней композиции следует использовать фрукты.",
+        "wierzby sachalińskiej i derenia białego": "Сахалинской ивы и белой дерена.",
+        "miechunki rozdętej i tykwy pospolitej": "физалиса и тыквы обыкновенной.",
+        "róży pomarszczonej i sasanki ogrodowej": "роза морщинистая и прострел садовый.",
+        "trzmieliny Fortune'a i katalpy bignoniowatej": "Бересклета Форчуна и катальпы бигнониевидной."
     }
 }

@@ -222,7 +222,11 @@
             "wierzby sachalińskiej i derenia białego": "ивы сахалинской и дерена белого.",
             "trzmieliny Fortune'a i katalpy bignoniowatej": "Бересклета Форчуна и катальпы бигнониевидной.",
             "róży pomarszczonej i sasanki ogrodowej": "розы морщинистой и прострела садового.",
-            "Miechunki rozdętej i tykwy pospolitej są owocami, które występują jesienią. Są one często wykorzystywane do dekoracji i tworzenia kompozycji": "Физалис пузырчатый и лагенария обыкновенная являются плодами, которые встречаются осенью. Они часто используются для декораций и создания композиций."
+            "Miechunki rozdętej i tykwy pospolitej są owocami, które występują jesienią. Są one często wykorzystywane do dekoracji i tworzenia kompozycji": "Физалис пузырчатый и лагенария обыкновенная являются плодами, которые встречаются осенью. Они часто используются для декораций и создания композиций.",
+            "Witryna kwiatowa o wymiarach rzeczywistych 2,2 m x 1,8 m przedstawiona w skali 1:20 będzie miała wymiary": "Витрина цветочная с фактическими размерами 2,2 м x 1,8 м, представленная в масштабе 1:20 будет иметь размеры.",
+            "Witryna kwiatowa zostanie zmniejszona 20-krotnie, co oznacza, że każdy wymiar zmniejszy się 20-krotnie. Oryginalne wymiary 2,2 m x 1,8 m przeliczone na centymetry to 220 cm x 180 cm. Po zmniejszeniu 20-krotnym wymiary będą wynosić 11 cm x 9 cm": "Витрина с цветами будет уменьшена в 20 раз, что означает, что каждый размер уменьшится в 20 раз. Оригинальные размеры 2,2 м x 1,8 м, переведенные в сантиметры, составляют 220 см x 180 см. После уменьшения в 20 раз размеры будут составлять 11 см x 9 см.",
+            "W stadium wybarwionych ale zamkniętych pąków ścina się": "На стадии окрашенных, но закрытых бутонов срезается",
+            "goździki": "гвоздики."
         }
     },
     "not_approved": {
@@ -271,6 +275,8 @@
         "zielonej z niebieską": "зеленой с синей.",
         "czerwonej z żółtą": "красной с жёлтой.",
         "żółtej z zieloną": "желтой с зеленой.",
-        "Witryna kwiatowa o wymiarach rzeczywistych 2,2 m x 1,8 m przedstawiona w skali 1:20 będzie miała wymiary": "Витрина цветочная с фактическими размерами 2,2 м x 1,8 м, представленная в масштабе 1:20 будет иметь размеры."
+        "jaskry": "лютики",
+        "chryzantemy": "хризантемы.",
+        "zwartnice": "амариллисы"
     }
 }

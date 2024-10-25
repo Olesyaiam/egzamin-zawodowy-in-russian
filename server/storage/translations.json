@@ -417,7 +417,12 @@
             "Przedwczesne starzenie się gerber w wazonie spowodowane jest": "Преждевременное старение гербер в вазоне вызвано",
             "Przedwczesne starzenie się gerber w wazonie jest spowodowane łączeniem świeżych kwiatów z przekwitającymi. Przekwitające kwiaty wydzielają etylen, który przyspiesza proces starzenia się świeżych kwiatów. Częsta wymiana wody, ukośne podcinanie łodyg oraz stosowanie środka chemicznego Chrysal Clear są zalecanymi praktykami mającymi na celu przedłużenie świeżości kwiatów ciętych, a nie przyczynami ich przedwczesnego starzenia": "Преждевременное старение гербер в вазоне вызвано соединением свежих цветов с отцветающими. Отцветающие цветы выделяют этилен, который ускоряет процесс старения свежих цветов. Частая замена воды, косое подрезание стеблей и использование химического средства Chrysal Clear являются рекомендуемыми практиками, направленными на продление свежести срезанных цветов, а не причинами их преждевременного старения.",
             "Na podstawie danych zamieszczonych w tabeli wskaż temperaturę przechowywania w chłodni ściętych frezji": "На основании данных, размещённых в таблице, укажите температуру хранения в холодильнике срезанных фрезий.",
-            "Na podstawie danych zamieszczonych w tabeli, frezje, które są kwiatami typu \"Kłos\", powinny być przechowywane w chłodni w temperaturze 1-2 °C. Jest to zgodne z informacją podaną w tabeli, gdzie w kolumnie \"Temperatura przechowywania w chłodni\" przy typie kwiatostanu \"Kłos\" podana jest wartość \"1-2 °C\"": "На основе данных, размещённых в таблице, фрезии, которые являются цветами типа \"Колос\", должны храниться в холодильной камере при температуре 1-2 °C. Это соответствует информации, указанной в таблице, где в колонке \"Температура хранения в холодильной камере\" для типа соцветия \"Колос\" указано значение \"1-2 °C\"."
+            "Na podstawie danych zamieszczonych w tabeli, frezje, które są kwiatami typu \"Kłos\", powinny być przechowywane w chłodni w temperaturze 1-2 °C. Jest to zgodne z informacją podaną w tabeli, gdzie w kolumnie \"Temperatura przechowywania w chłodni\" przy typie kwiatostanu \"Kłos\" podana jest wartość \"1-2 °C\"": "На основе данных, размещённых в таблице, фрезии, которые являются цветами типа \"Колос\", должны храниться в холодильной камере при температуре 1-2 °C. Это соответствует информации, указанной в таблице, где в колонке \"Температура хранения в холодильной камере\" для типа соцветия \"Колос\" указано значение \"1-2 °C\".",
+            "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
+            "baroku": "барокко.",
+            "romantyzmu": "романтизма.",
+            "renesansu": "ренессанса.",
+            "średniowiecza": "средневековья."
         }
     },
     "not_approved": {
@@ -438,11 +443,6 @@
         "poniżej 4,5": "ниже 4,5.",
         "powyżej 7,2": "выше 7,2.",
         "Gleba przeznaczona do roślin wymagających lekko kwaśnego odczynu ma pH": "Почва, предназначенная для растений, требующих немного кислую реакцию, имеет pH.",
-        "baroku": "барокко.",
-        "średniowiecza": "средневековья.",
-        "renesansu": "ренессанса.",
-        "romantyzmu": "романтизма.",
-        "Przedstawiona na rysunku kompozycja jest charakterystyczna dla epoki": "Представленная на рисунке композиция характерна для эпохи",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
         "szynowania": "рельсоподобного укрепления.",
         "Poznaniu": "Познань.",
@@ -461,6 +461,7 @@
         "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
         "piłki ręcznej": "гандбола.",
         "Kliwia pomarańczowa": "Кливия оранжевая.",
-        "strzelistym": "стреловидным."
+        "strzelistym": "стреловидным.",
+        "Przedstawiona kompozycja kwiatowa w bogato zdobionym wazonie charakteryzuje się przepychem i dynamiką, co jest typowe dla sztuki barokowej. Barok cechował się między innymi rozbudowanymi formami, bogatą ornamentyką i teatralnością, co znajduje odzwierciedlenie w prezentowanej kompozycji": "Представленная цветочная композиция в богато украшенном вазоне характеризуется роскошью и динамикой, что типично для искусства барокко. Барокко характеризовалось, среди прочего, сложными формами, богатой орнаментикой и театральностью, что находит отражение в представленной композиции."
     }
 }

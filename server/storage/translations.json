@@ -5,7 +5,8 @@
         "9 cm x 6 cm": "9 см x 6 см",
         "11 cm x 9 cm": "11 см x 9 см",
         "22 cm x 18 cm": "22 см x 18 см",
-        "adwentowego": "рождественского."
+        "adwentowego": "рождественского.",
+        "dożynkowego": "уборочного"
     },
     "approved": {
         "others": {
@@ -439,7 +440,6 @@
         "poniżej 4,5": "ниже 4,5.",
         "powyżej 7,2": "выше 7,2.",
         "Gleba przeznaczona do roślin wymagających lekko kwaśnego odczynu ma pH": "Почва, предназначенная для растений, требующих немного кислую реакцию, имеет pH.",
-        "dożynkowego": "уборочного",
         "baroku": "барокко.",
         "średniowiecza": "средневековья.",
         "renesansu": "ренессанса.",

@@ -423,7 +423,9 @@
             "romantyzmu": "романтизма.",
             "renesansu": "ренессанса.",
             "średniowiecza": "средневековья.",
-            "Przedstawiona kompozycja kwiatowa w bogato zdobionym wazonie charakteryzuje się przepychem i dynamiką, co jest typowe dla sztuki barokowej. Barok cechował się między innymi rozbudowanymi formami, bogatą ornamentyką i teatralnością, co znajduje odzwierciedlenie w prezentowanej kompozycji": "Представленная цветочная композиция в богато украшенном вазоне характеризуется роскошью и динамикой, что типично для искусства барокко. Барокко характеризовалось, среди прочего, сложными формами, богатой орнаментикой и театральностью, что находит отражение в представленной композиции."
+            "Przedstawiona kompozycja kwiatowa w bogato zdobionym wazonie charakteryzuje się przepychem i dynamiką, co jest typowe dla sztuki barokowej. Barok cechował się między innymi rozbudowanymi formami, bogatą ornamentyką i teatralnością, co znajduje odzwierciedlenie w prezentowanej kompozycji": "Представленная цветочная композиция в богато украшенном вазоне характеризуется роскошью и динамикой, что типично для искусства барокко. Барокко характеризовалось, среди прочего, сложными формами, богатой орнаментикой и театральностью, что находит отражение в представленной композиции.",
+            "poniżej 4,5": "ниже 4,5.",
+            "powyżej 7,2": "выше 7,2."
         }
     },
     "not_approved": {
@@ -441,9 +443,6 @@
         "Technika": "Техника",
         "jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "применяется для укрепления полых стеблей цветов, таких как герберы, изнутри. Заключается в бережном введении тонкой проволоки внутрь стебля, что предотвращает его сгибание и ломание, а следовательно, продлевает долговечность и эстетику цветов в флористических композициях. Остальные перечисленные техники, такие как рельсоподобное укрепление, оборачивание лентой и маскировка, служат другим целям в флористике и не подходят для укрепления полых стеблей цветов.",
         "Technika drutowania jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "Техника проволочного укрепления используется для укрепления пустых стеблей цветов, таких как герберы, изнутри. Она заключается в аккуратном введении тонкой проволоки внутрь стебля, что предотвращает его изгибание и ломкость, а также продлевает долговечность и эстетичность цветов в флористических композициях. Другие перечисленные техники, такие как рельсоподобное укрепление, обвязывание и маскировка, служат другим целям во флористике и не подходят для укрепления пустых стеблей цветов.",
-        "poniżej 4,5": "ниже 4,5.",
-        "powyżej 7,2": "выше 7,2.",
-        "Gleba przeznaczona do roślin wymagających lekko kwaśnego odczynu ma pH": "Почва, предназначенная для растений, требующих немного кислую реакцию, имеет pH.",
         "Silnie ze sobą kontrastujące barwy i powierzchnie dobiera się do aranżacji wnętrza w stylu": "Сильно контрастирующие между собой расцветки и поверхности подбираются для оформления интерьера в стиле.",
         "szynowania": "рельсоподобного укрепления.",
         "Poznaniu": "Познань.",
@@ -462,6 +461,7 @@
         "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
         "piłki ręcznej": "гандбола.",
         "Kliwia pomarańczowa": "Кливия оранжевая.",
-        "strzelistym": "стреловидным."
+        "strzelistym": "стреловидным.",
+        "Gleba przeznaczona do roślin wymagających lekko kwaśnego odczynu ma pH": "Почва, предназначенная для растений, требующих слегка кислой среды, имеет pH."
     }
 }

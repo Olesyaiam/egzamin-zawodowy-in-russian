@@ -460,7 +460,10 @@
             "z metalu": "из металла.",
             "z bambusa": "из бамбука.",
             "z brzozy": "из берёзы.",
-            "z porcelany": "из фарфора."
+            "z porcelany": "из фарфора.",
+            "dwustronnie klejącej": "двусторонней клейкой",
+            "tapa": "тапа.",
+            "wiązanki ślubnej": "свадебной цветочной связки."
         }
     },
     "not_approved": {
@@ -740,6 +743,15 @@
         "liście miłorzębu": "листья гинкго.",
         "owocostany kukurydzy": "Соплодия кукурузы.",
         "pędy głogu": "побеги боярышника.",
-        "Metoda zielnikowa jest techniką suszenia roślin, która jest najczęściej stosowana do liści i innych delikatnych części roślin. Liście miłorzębu są idealne do suszenia tą metodą, ponieważ są płaskie i nie zawierają dużej ilości wilgoci. Natomiast pędy głogu, kwiatostany hortensji oraz owocostany kukurydzy są zbyt masywne i zawierają zbyt dużo wilgoci, co utrudnia ich suszenie metodą zielnikową": "Метод гербария является техникой сушки растений, которая чаще всего применяется для листьев и других деликатных частей растений. Листья гинкго являются идеальными для сушки этим методом, поскольку они плоские и не содержат большого количества влаги. Напротив, побеги боярышника, соцветия гортензии и соплодия кукурузы слишком массивны и содержат слишком много влаги, что затрудняет их сушку методом гербария."
+        "Metoda zielnikowa jest techniką suszenia roślin, która jest najczęściej stosowana do liści i innych delikatnych części roślin. Liście miłorzębu są idealne do suszenia tą metodą, ponieważ są płaskie i nie zawierają dużej ilości wilgoci. Natomiast pędy głogu, kwiatostany hortensji oraz owocostany kukurydzy są zbyt masywne i zawierają zbyt dużo wilgoci, co utrudnia ich suszenie metodą zielnikową": "Метод гербария является техникой сушки растений, которая чаще всего применяется для листьев и других деликатных частей растений. Листья гинкго являются идеальными для сушки этим методом, поскольку они плоские и не содержат большого количества влаги. Напротив, побеги боярышника, соцветия гортензии и соплодия кукурузы слишком массивны и содержат слишком много влаги, что затрудняет их сушку методом гербария.",
+        "kauczukowej": "каучуковой.",
+        "kotwica": "якорь",
+        "Mocując delikatne liście do podkładu wieńca należy użyć taśmy": "Крепя нежные листья к подкладке венка, следует использовать ленту",
+        "Taśma dwustronnie klejąca jest najodpowiedniejszym narzędziem do mocowania delikatnych liści do podkładu wieńca, ponieważ umożliwia precyzyjne i bezpieczne przymocowanie liści, nie niszcząc ich struktury. Kotwica, taśma kauczukowa czy tapa są zbyt masywnymi narzędziami, które mogłyby uszkodzić lub zniszczyć delikatne liście. Dlatego odpowiedź \"dwustronnie klejącej\" jest poprawna": "Двусторонняя клейкая лента является наиболее подходящим инструментом для крепления нежных листьев к подкладке венка, поскольку она позволяет точно и безопасно прикрепить листья, не разрушая их структуру. Якорь, лента каучуковая или так называемая \"тапа\" являются слишком массивными инструментами, которые могли бы повредить или уничтожить нежные листья. Поэтому ответ \"двусторонней клейкой\" является правильным.",
+        "Szpilki ozdobne wykorzystuje się do dekoracji": "Декоративные булавки используются для украшения.",
+        "wieńca dożynkowego": "венка дожинкового.",
+        "palmy wielkanocnej": "пальмы пасхальной.",
+        "girlandy bożonarodzeniowej": "гирлянды рождественской",
+        "Szpilki ozdobne są często używane w florystyce, zwłaszcza przy tworzeniu dekoracji na specjalne okazje. Wiązanka ślubna jest jednym z takich przykładów, gdzie szpilki ozdobne mogą być używane do mocowania kwiatów, liści lub innych elementów dekoracyjnych. W przypadku palmy wielkanocnej, wieńca dożynkowego czy girlandy bożonarodzeniowej, zazwyczaj używa się innych technik mocowania elementów dekoracyjnych, niekoniecznie wymagających użycia szpilek ozdobnych. Dlatego poprawną odpowiedzią jest \"wiązanki ślubnej.\"": "Декоративные булавки часто используются во флористике, особенно при создании украшений для особых случаев. Свадебная цветочная связка является одним из таких примеров, где декоративные булавки могут использоваться для крепления цветов, листьев или других декоративных элементов. В случае пасхальной пальмы, дожинкового венка или рождественской гирлянды обычно используются другие техники крепления декоративных элементов, которые не обязательно требуют использования декоративных булавок. Поэтому правильным ответом является \"свадебной цветочной связки\"."
     }
 }

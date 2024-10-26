@@ -502,7 +502,11 @@
             "płatki groszku pachnącego": "лепестки душистого горошка",
             "owocostany piwonii": "Соплодия пиона.",
             "liście strelicji": "листья стрелитции",
-            "Płatki groszku pachnącego są znane ze swojej jedwabistej struktury. Jest to wynik specyficznej budowy komórek, które tworzą powierzchnię płatka, a także zawartości wody w nich. Szyszki modrzewia, owocostany piwonii czy liście strelicji nie mają takiej struktury, są raczej szorstkie lub skórzaste": "Лепестки душистого горошка известны своей шелковистой структурой. Это результат специфического строения клеток, которые образуют поверхность лепестка, а также содержания воды в них. Шишки лиственницы, соплодия пиона или листья стрелиции не имеют такой структуры, они скорее шероховатые или кожистые."
+            "Płatki groszku pachnącego są znane ze swojej jedwabistej struktury. Jest to wynik specyficznej budowy komórek, które tworzą powierzchnię płatka, a także zawartości wody w nich. Szyszki modrzewia, owocostany piwonii czy liście strelicji nie mają takiej struktury, są raczej szorstkie lub skórzaste": "Лепестки душистого горошка известны своей шелковистой структурой. Это результат специфического строения клеток, которые образуют поверхность лепестка, а также содержания воды в них. Шишки лиственницы, соплодия пиона или листья стрелиции не имеют такой структуры, они скорее шероховатые или кожистые.",
+            "Które z wymienionych roślin poleca się do tworzenia kompozycji florystycznych w barokowym pałacu?": "Какие из перечисленных растений рекомендуются для создания флористических композиций в барочном дворце?",
+            "Strelicje": "Стрелитции.",
+            "Anturium": "Антуриум.",
+            "Piwonie są poprawną odpowiedzią, ponieważ są to rośliny, które były często wykorzystywane w okresie baroku w kompozycjach florystycznych. Ich pełne, okazałe kwiaty i intensywne kolory idealnie wpisywały się w estetykę baroku, która charakteryzowała się przepychem i bogactwem form. Dodatkowo, piwonie były popularne w Europie w tym okresie, co czyniło je łatwo dostępnymi do tworzenia kompozycji. Inne wymienione rośliny, takie jak strelicje czy anturium, nie były typowe dla stylu barokowego": "Пионы являются правильным ответом, поскольку это растения, которые часто использовались в период барокко в флористических композициях. Их полные, великолепные цветы и интенсивные цвета идеально вписывались в эстетику барокко, которая характеризовалась роскошью и богатством форм. Кроме того, пионы были популярны в Европе в этот период, что делало их легко доступными для создания композиций. Другие упомянутые растения, такие как стрелитция или антуриум, не были типичны для барочного стиля."
         }
     },
     "not_approved": {
@@ -795,9 +799,6 @@
         "Zanurza się w ciepłej parafinie": "Погружают в тёплую парафину.",
         "W jaki sposób zabezpiecza się pojedyncze kwiaty anturium na czas transportu?": "Каким образом обеспечивается защита отдельных цветков антуриума во время транспортировки?",
         "Kwiaty anturium są zabezpieczane na czas transportu poprzez umieszczenie ich w plastikowych fiolkach, które zawierają odżywczy roztwór. Ta metoda pozwala na utrzymanie świeżości i wilgotności kwiatów, a także chroni je przed uszkodzeniami mechanicznymi. Zanurzanie kwiatów w ciepłej parafinie czy wodzie mogłoby prowadzić do ich gnicia, a szklane probówki są zbyt delikatne i ryzykowne do transportu": "Цветы антуриума защищаются на время транспортировки путем помещения их в пластиковые пробирки, которые содержат питательный раствор. Этот метод позволяет сохранить свежесть и влажность цветов, а также защищает их от механических повреждений. Погружение цветов в теплую парафиновую или воду могло бы привести к их гниению, а стеклянные пробирки слишком хрупкие и рискованны для транспортировки.",
-        "Które z wymienionych roślin poleca się do tworzenia kompozycji florystycznych w barokowym pałacu?": "Какие из перечисленных растений рекомендуются для создания флористических композиций в барочном дворце?",
-        "Strelicje": "Стрелитции.",
-        "Piwonie są poprawną odpowiedzią, ponieważ są to rośliny, które były często wykorzystywane w okresie baroku w kompozycjach florystycznych. Ich pełne, okazałe kwiaty i intensywne kolory idealnie wpisywały się w estetykę baroku, która charakteryzowała się przepychem i bogactwem form. Dodatkowo, piwonie były popularne w Europie w tym okresie, co czyniło je łatwo dostępnymi do tworzenia kompozycji. Inne wymienione rośliny, takie jak strelicje czy anturium, nie były typowe dla stylu barokowego": "Пионы являются правильным ответом, поскольку это растения, которые часто использовались в период барокко в флористических композициях. Их полные, великолепные цветы и интенсивные цвета идеально вписывались в эстетику барокко, которая характеризовалась роскошью и богатством форм. Кроме того, пионы были популярны в Европе в этот период, что делало их легко доступными для создания композиций. Другие упомянутые растения, такие как стрелитция или антуриум, не были типичны для барочного стиля.",
         "żelaza": "железа.",
         "fosforu": "Фосфора.",
         "potasu": "калия.",
@@ -890,7 +891,6 @@
         "Наперстянки и дельфиниумы характеризуются своей формой": "Napierstjanki i delfiniumy charakteryzują się swoją formą.",
         "веточки лиственницы, четыре свечи, лента, экзотические сухофрукты": "Gałązki modrzewia, cztery świece, wstążka, egzotyczne suszone owoce.",
         "Закаливание растений – процедура, выполняемая": "Закаливание растений — процедура, выполняемая",
-        "Какие из упомянутых выше растений рекомендуются для подвесных контейнеров из-за их свисающих побегов?": "Które z wymienionych wyżej roślin zaleca się do pojemników wiszących ze względu na ich zwisające pędy?",
-        "Anturium": "Антуриум."
+        "Какие из упомянутых выше растений рекомендуются для подвесных контейнеров из-за их свисающих побегов?": "Które z wymienionych wyżej roślin zaleca się do pojemników wiszących ze względu na ich zwisające pędy?"
     }
 }

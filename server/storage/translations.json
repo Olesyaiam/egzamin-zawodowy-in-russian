@@ -451,7 +451,8 @@
             "południowym": "южном",
             "afrykańskim": "африканском",
             "proszek rozpuszczalny w wodzie": "порошок, растворимый в воде.",
-            "granule rozpuszczalne w wodzie": "гранулы, растворимые в воде."
+            "granule rozpuszczalne w wodzie": "гранулы, растворимые в воде.",
+            "gąbka florystyczna": "флористическая губка"
         }
     },
     "not_approved": {
@@ -699,6 +700,17 @@
         "w zawieszanych pojemnikach": "в подвесных контейнерах.",
         "w wiklinowych koszach": "в плетёных корзинах из лозы.",
         "w płytkich misach": "в неглубоких чашах.",
-        "Kaktusy mają stosunkowo płytki system korzeniowy, który najlepiej rozwija się w płaskich pojemnikach. Wysokie i wąskie pojemniki mogą prowadzić do gnicia korzeni, ponieważ woda będzie się gromadzić na dnie. Wiklinowe kosze nie są odpowiednie, ponieważ mogą przepuszczać wilgoć, co nie jest korzystne dla kaktusów. Zawieszone pojemniki nie są zalecane, ponieważ utrudniają kontrolę warunków wzrostu": "Кактусы имеют относительно мелкую корневую систему, которая лучше всего развивается в плоских контейнерах. Высокие и узкие контейнеры могут привести к гниению корней, поскольку вода будет скапливаться на дне. Плетёные корзины не подходят, поскольку могут пропускать влагу, что неблагоприятно для кактусов. Подвесные контейнеры не рекомендуются, так как они затрудняют контроль условий роста."
+        "Kaktusy mają stosunkowo płytki system korzeniowy, który najlepiej rozwija się w płaskich pojemnikach. Wysokie i wąskie pojemniki mogą prowadzić do gnicia korzeni, ponieważ woda będzie się gromadzić na dnie. Wiklinowe kosze nie są odpowiednie, ponieważ mogą przepuszczać wilgoć, co nie jest korzystne dla kaktusów. Zawieszone pojemniki nie są zalecane, ponieważ utrudniają kontrolę warunków wzrostu": "Кактусы имеют относительно мелкую корневую систему, которая лучше всего развивается в плоских контейнерах. Высокие и узкие контейнеры могут привести к гниению корней, поскольку вода будет скапливаться на дне. Плетёные корзины не подходят, поскольку могут пропускать влагу, что неблагоприятно для кактусов. Подвесные контейнеры не рекомендуются, так как они затрудняют контроль условий роста.",
+        "siatka florystyczna": "флористическая сетка",
+        "kula styropianowa": "шар из пенопласта",
+        "Środkiem technicznym do wykonania kompozycji flower box jest": "Средством техническим для выполнения композиции flower box является",
+        "naczynie z wodą": "Сосуд с водой.",
+        "Gąbka florystyczna jest podstawowym narzędziem stosowanym w florystyce do tworzenia różnego rodzaju kompozycji, w tym flower boxów. Dzięki swojej porowatej strukturze, gąbka jest w stanie zatrzymać wodę, co zapewnia odpowiednie nawodnienie dla kwiatów. Pozwala też na stabilne umieszczenie roślin w wybranej przez florystę pozycji. Pozostałe odpowiedzi nie są poprawne, ponieważ nie spełniają tych funkcji": "Флористическая губка является основным инструментом, используемым во флористике для создания различных видов композиций, включая цветочные боксы. Благодаря своей пористой структуре, губка способна удерживать воду, что обеспечивает надлежащее увлажнение для цветов. Она также позволяет устойчиво разместить растения в выбранной флористом позиции. Остальные ответы неправильные, поскольку не выполняют эти функции.",
+        "drażniący": "Раздражающий.",
+        "szkodliwy": "вредный.",
+        "żrący": "едкий.",
+        "Piktogram przedstawiony na rysunku oznacza, że produkt jest": "Пиктограмма, изображенная на рисунке, обозначает, что продукт является",
+        "toksyczny": "токсичный",
+        "Piktogram przedstawiony na zdjęciu to czarny krzyż na białym tle z literą Xi. Jest to oznaczenie stosowane w Unii Europejskiej do klasyfikacji substancji chemicznych, które oznacza, że produkt jest drażniący. Odpowiedź \"drażniący.\" jest zatem poprawna zgodnie z europejskimi standardami oznaczania substancji chemicznych": "Пиктограмма, представленная на фотографии, — это черный крест на белом фоне с буквой Xi. Это обозначение, используемое в Европейском Союзе для классификации химических веществ, которое означает, что продукт является раздражающим. Ответ \"раздражающий\" является, следовательно, правильным в соответствии с европейскими стандартами обозначения химических веществ."
     }
 }

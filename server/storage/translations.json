@@ -481,7 +481,11 @@
             "w Wrocławiu": "в Вроцлаве.",
             "w Kielcach": "в Кельцах.",
             "Targi Ogrodnicze Gardenia odbywają się corocznie": "Садоводческая ярмарка Gardenia проводится ежегодно.",
-            "Cytrusy, palmy i oleandry polecane są do wnętrz w stylu": "Цитрусовые, пальмы и олеандры рекомендуются для интерьеров в стиле."
+            "Cytrusy, palmy i oleandry polecane są do wnętrz w stylu": "Цитрусовые, пальмы и олеандры рекомендуются для интерьеров в стиле.",
+            "wijące się pędy": "вьющиеся побеги",
+            "kolczaste owocostany": "колючие соплодия.",
+            "szyszkowate kwiatostany": "шишковидные соцветия",
+            "zwisające, dzbankowate liście": "свисающие, кувшиновидные листья."
         }
     },
     "not_approved": {
@@ -829,10 +833,6 @@
         "Frezje są odpowiednie do wykonania małego bukietu komunijnego w mikrofonie florystycznym ze względu na ich delikatny wygląd i subtelną woń, które są idealne dla tego typu okoliczności. Są one stosunkowo małe, co pozwala na precyzyjne układanie bukietu. Dodatkowo, frezje są dostępne w wielu kolorach, co umożliwia dopasowanie do stroju komunijnego. Wreszcie, są one trwałe, co jest ważne dla bukietów, które mają przetrwać cały dzień": "Фрезии подходят для выполнения небольшого букета на первое причастие в микрофоне флористическом из-за их нежного вида и тонкого аромата, которые идеально подходят для этого типа обстоятельств. Они относительно маленькие, что позволяет на точную укладку букета. Кроме того, фрезии доступны во многих цветах, что позволяет подобрать к наряду на первое причастие. Наконец, они долговечны, что важно для букетов, которые должны продержаться весь день.",
         "Barwy pochodne powstają w wyniku zmieszania ze sobą barw": "Производные расцветки образуются в результате смешивания между собой расцветок.",
         "Barwy pochodne w teorii kolorów powstają przez mieszanie ze sobą barw podstawowych. W modelu barw RGB, do których należy czerwony i żółty, ich połączenie daje barwę pochodną - pomarańczową. Pozostałe odpowiedzi są nieprawidłowe, ponieważ żółty z zielonym daje jasnozielony, zielony z niebieskim daje błękitny, a niebieski z pomarańczowym nie tworzy konkretnej barwy pochodnej": "Производные расцветки в теории цветов получаются путем смешивания между собой основных расцветок. В модели цветов RGB, к которым относятся красный и желтый, их соединение дает производную расцветку - оранжевую. Остальные ответы неправильны, поскольку желтый с зеленым дает светло-зеленый, зеленый с синим дает голубой, а синий с оранжевым не создают конкретной производной расцветки.",
-        "kolczaste owocostany": "колючие соплодия.",
-        "wijące się pędy": "вьющиеся побеги",
-        "szyszkowate kwiatostany": "шишковидные соцветия",
-        "zwisające, dzbankowate liście": "свисающие, кувшиновидные листья.",
         "Banksje, które są rodzajem roślin z rodziny proteaceae, charakteryzują się unikalnymi kwiatostanami przypominającymi szyszki. Te kwiatostany składają się z wielu małych kwiatów zebranych razem, które tworzą efektowną i dekoracyjną całość. Opcje dotyczące kolczastych owocostanów, wijących się pędów czy zwisających, dzbankowatych liści nie są typowe dla banksji. Dlatego poprawna odpowiedź to \"szyszkowate kwiatostany.\"": "Банксии, которые являются родом растений из семейства протейных, характеризуются уникальными соцветиями, напоминающими шишки. Эти соцветия состоят из множества маленьких цветов, собранных вместе, которые создают эффектное и декоративное целое. Варианты относительно колючих соплодий, вьющихся побегов или свисающих, кувшинчатых листьев не характерны для банксии. Поэтому правильный ответ - \"шишковидные соцветия\".",
         "Plastelina florystyczna służy do": "Флористический пластилин служит для",
         "mocowania suchych elementów do gładkich powierzchni": "крепления сухих элементов к гладким поверхностям.",

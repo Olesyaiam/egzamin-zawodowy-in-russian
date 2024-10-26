@@ -449,7 +449,9 @@
             "sprzedawcę": "продавца.",
             "producenta": "производителя.",
             "południowym": "южном",
-            "afrykańskim": "африканском"
+            "afrykańskim": "африканском",
+            "proszek rozpuszczalny w wodzie": "порошок, растворимый в воде.",
+            "granule rozpuszczalne w wodzie": "гранулы, растворимые в воде."
         }
     },
     "not_approved": {
@@ -690,8 +692,6 @@
         "Na rysunku przedstawiono gąbkę florystyczną typu": "На рисунке представлена флористическая губка типа",
         "Na zdjęciu widoczna jest gąbka florystyczna, która ma kształt i strukturę przypominającą klatkę, co jest charakterystyczne dla gąbek typu \"gabbia\". Pozostałe odpowiedzi nie pasują do przedstawionego obiektu: \"clip\" to zazwyczaj klips, \"mini deco\" sugeruje mniejszy dekoracyjny element, a \"table deco\" to dekoracja stołowa": "На фото видна флористическая губка, которая имеет форму и структуру, напоминающую клетку, что характерно для губок типа \"gabbia\". Остальные ответы не подходят к представленному объекту: \"clip\" обычно означает клипсу, \"mini deco\" предполагает меньший декоративный элемент, а \"table deco\" — это столовая декорация.",
         "Symbol WG na opakowaniu środków ochrony roślin oznacza": "Символ WG на упаковке средств защиты растений означает",
-        "proszek rozpuszczalny w wodzie": "порошок, растворимый в воде.",
-        "granule rozpuszczalne w wodzie": "гранулы, растворимые в воде.",
         "granule do sporządzania zawiesiny wodnej": "гранулы для приготовления водной суспензии.",
         "proszek do sporządzania zawiesiny wodnej": "порошок для приготовления водной суспензии.",
         "Symbol WG na opakowaniu środków ochrony roślin oznacza \"granule do sporządzania zawiesiny wodnej\". Oznacza to, że produkt jest dostarczany w formie granul, które są przeznaczone do rozpuszczenia w wodzie i stworzenia zawiesiny. Zawiesina ta jest następnie stosowana do ochrony roślin. Inne symbole, takie jak WP, oznaczają różne formy produktu i metody przygotowania": "Символ WG на упаковке средств защиты растений означает \"гранулы для приготовления водной суспензии\". Это означает, что продукт поставляется в форме гранул, которые предназначены для растворения в воде и создания суспензии. Эта суспензия затем применяется для защиты растений. Другие символы, такие как WP, означают различные формы продукта и методы приготовления."

@@ -452,7 +452,8 @@
             "afrykańskim": "африканском",
             "proszek rozpuszczalny w wodzie": "порошок, растворимый в воде.",
             "granule rozpuszczalne w wodzie": "гранулы, растворимые в воде.",
-            "gąbka florystyczna": "флористическая губка"
+            "gąbka florystyczna": "флористическая губка",
+            "toksyczny": "токсичный"
         }
     },
     "not_approved": {
@@ -710,7 +711,6 @@
         "szkodliwy": "вредный.",
         "żrący": "едкий.",
         "Piktogram przedstawiony na rysunku oznacza, że produkt jest": "Пиктограмма, изображенная на рисунке, обозначает, что продукт является",
-        "toksyczny": "токсичный",
         "Piktogram przedstawiony na zdjęciu to czarny krzyż na białym tle z literą Xi. Jest to oznaczenie stosowane w Unii Europejskiej do klasyfikacji substancji chemicznych, które oznacza, że produkt jest drażniący. Odpowiedź \"drażniący.\" jest zatem poprawna zgodnie z europejskimi standardami oznaczania substancji chemicznych": "Пиктограмма, представленная на фотографии, — это черный крест на белом фоне с буквой Xi. Это обозначение, используемое в Европейском Союзе для классификации химических веществ, которое означает, что продукт является раздражающим. Ответ \"раздражающий\" является, следовательно, правильным в соответствии с европейскими стандартами обозначения химических веществ."
     }
 }

@@ -440,7 +440,11 @@
             "szynowania": "рельсоподобного укрепления.",
             "taśmowania": "обмотки",
             "maskowania": "Маскировки",
-            "Technika drutowania jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "Техника проволочного укрепления используется для укрепления пустых стеблей цветов, таких как герберы, изнутри. Она заключается в аккуратном введении тонкой проволоки внутрь стебля, что предотвращает его изгибание и ломкость, а также продлевает долговечность и эстетичность цветов в флористических композициях. Другие перечисленные техники, такие как рельсоподобное укрепление, обвязывание и маскировка, служат другим целям во флористике и не подходят для укрепления пустых стеблей цветов."
+            "Technika drutowania jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "Техника проволочного укрепления используется для укрепления пустых стеблей цветов, таких как герберы, изнутри. Она заключается в аккуратном введении тонкой проволоки внутрь стебля, что предотвращает его изгибание и ломкость, а также продлевает долговечность и эстетичность цветов в флористических композициях. Другие перечисленные техники, такие как рельсоподобное укрепление, обвязывание и маскировка, служат другим целям во флористике и не подходят для укрепления пустых стеблей цветов.",
+            "z 10 części": "из 10 частей",
+            "z 12 części": "из 12 частей.",
+            "z 8 części": "из 8 частей.",
+            "z 14 części": "из 14 частей."
         }
     },
     "not_approved": {
@@ -666,11 +670,12 @@
         "Какой из следующих приемов следует использовать для создания плоского коллажа из засушенных растений?": "Której z poniższych technik należy użyć do stworzenia płaskiego kolażu z suszonych roślin?",
         "Представленная на рисунке композиция характерна для эпохи": "Представленная на рисунке композиция характерна для эпохи.",
         "Рекомендуется высаживать в контейнере на тенистой террасе": "Рекомендуется высаживать в контейнере на тенистой террасе.",
-        "z 8 części": "из 8 частей.",
         "Z ilu części składa się koło barw wg J. Ittena?": "Из скольких частей состоит цветовой круг по Й. Иттену?",
-        "z 12 części": "из 12 частей.",
-        "z 10 części": "из 10 частей",
-        "z 14 części": "из 14 частей.",
-        "Koło barw według Johanna Ittena składa się z 12 części. Są to trzy kolory podstawowe: czerwony, żółty, niebieski, trzy kolory pochodne: pomarańczowy, fioletowy, zielony oraz sześć kolorów pośrednich. Itten, szwajcarski malarz i teoretyk sztuki, stworzył to koło barw jako narzędzie do nauki i zrozumienia zasad harmonii kolorów": "Круг цветов по Йоханнесу Иттену состоит из 12 частей. Это три основных цвета: красный, жёлтый, синий, три дополнительных цвета: оранжевый, фиолетовый, зелёный, а также шесть промежуточных цветов. Иттен, швейцарский художник и теоретик искусства, создал этот круг цветов как инструмент для изучения и понимания принципов гармонии цветов."
+        "Koło barw według Johanna Ittena składa się z 12 części. Są to trzy kolory podstawowe: czerwony, żółty, niebieski, trzy kolory pochodne: pomarańczowy, fioletowy, zielony oraz sześć kolorów pośrednich. Itten, szwajcarski malarz i teoretyk sztuki, stworzył to koło barw jako narzędzie do nauki i zrozumienia zasad harmonii kolorów": "Круг цветов по Йоханнесу Иттену состоит из 12 частей. Это три основных цвета: красный, жёлтый, синий, три дополнительных цвета: оранжевый, фиолетовый, зелёный, а также шесть промежуточных цветов. Иттен, швейцарский художник и теоретик искусства, создал этот круг цветов как инструмент для изучения и понимания принципов гармонии цветов.",
+        "producenta": "производителя.",
+        "sprzedawcę": "продавца.",
+        "pośrednika": "посредника.",
+        "Hartowanie roślin to zabieg wykonywany przez": "Закаливание растений — это процедура, выполняемая с помощью",
+        "Hartowanie roślin to proces, który polega na stopniowym przyzwyczajaniu roślin do trudniejszych warunków środowiskowych, takich jak niska temperatura czy silne nasłonecznienie. Zabieg ten jest wykonywany przez producenta, ponieważ to on hoduje rośliny i ma bezpośredni wpływ na warunki, w jakich one rosną. Pośrednik, nabywca czy sprzedawca nie mają możliwości wykonania tego zabiegu, gdyż nie mają bezpośredniego kontaktu z rośliną w odpowiednim etapie jej wzrostu i rozwoju": "Закаливание растений — это процесс, который заключается в постепенном приучении растений к более сложным условиям окружающей среды, таким как низкая температура или сильное солнечное освещение. Эта процедура выполняется производителем, поскольку именно он выращивает растения и имеет непосредственное влияние на условия, в которых они растут. Посредник, покупатель или продавец не имеют возможности выполнить эту процедуру, так как не имеют непосредственного контакта с растением на соответствующем этапе его роста и развития."
     }
 }

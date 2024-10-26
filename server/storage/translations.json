@@ -496,7 +496,12 @@
             "w wiklinowych koszach": "в плетёных корзинах из лозы.",
             "w zawieszanych pojemnikach": "в подвесных контейнерах.",
             "w wysokich i wąskich pojemnikach": "в высоких и узких контейнерах.",
-            "Kaktusy mają stosunkowo płytki system korzeniowy, który najlepiej rozwija się w płaskich pojemnikach. Wysokie i wąskie pojemniki mogą prowadzić do gnicia korzeni, ponieważ woda będzie się gromadzić na dnie. Wiklinowe kosze nie są odpowiednie, ponieważ mogą przepuszczać wilgoć, co nie jest korzystne dla kaktusów. Zawieszone pojemniki nie są zalecane, ponieważ utrudniają kontrolę warunków wzrostu": "Кактусы имеют относительно мелкую корневую систему, которая лучше всего развивается в плоских контейнерах. Высокие и узкие контейнеры могут привести к гниению корней, поскольку вода будет скапливаться на дне. Плетёные корзины не подходят, поскольку могут пропускать влагу, что неблагоприятно для кактусов. Подвесные контейнеры не рекомендуются, так как они затрудняют контроль условий роста."
+            "Kaktusy mają stosunkowo płytki system korzeniowy, który najlepiej rozwija się w płaskich pojemnikach. Wysokie i wąskie pojemniki mogą prowadzić do gnicia korzeni, ponieważ woda będzie się gromadzić na dnie. Wiklinowe kosze nie są odpowiednie, ponieważ mogą przepuszczać wilgoć, co nie jest korzystne dla kaktusów. Zawieszone pojemniki nie są zalecane, ponieważ utrudniają kontrolę warunków wzrostu": "Кактусы имеют относительно мелкую корневую систему, которая лучше всего развивается в плоских контейнерах. Высокие и узкие контейнеры могут привести к гниению корней, поскольку вода будет скапливаться на дне. Плетёные корзины не подходят, поскольку могут пропускать влагу, что неблагоприятно для кактусов. Подвесные контейнеры не рекомендуются, так как они затрудняют контроль условий роста.",
+            "Jedwabistą strukturę posiadają": "Шелковистую структуру имеют",
+            "szyszki modrzewia": "шишки лиственницы.",
+            "płatki groszku pachnącego": "лепестки душистого горошка",
+            "owocostany piwonii": "Соплодия пиона.",
+            "liście strelicji": "листья стрелитции"
         }
     },
     "not_approved": {
@@ -774,10 +779,6 @@
         "Szpilki ozdobne wykorzystuje się do dekoracji": "Декоративные булавки используются для украшения.",
         "wieńca dożynkowego": "венка дожинкового.",
         "Szpilki ozdobne są często używane w florystyce, zwłaszcza przy tworzeniu dekoracji na specjalne okazje. Wiązanka ślubna jest jednym z takich przykładów, gdzie szpilki ozdobne mogą być używane do mocowania kwiatów, liści lub innych elementów dekoracyjnych. W przypadku palmy wielkanocnej, wieńca dożynkowego czy girlandy bożonarodzeniowej, zazwyczaj używa się innych technik mocowania elementów dekoracyjnych, niekoniecznie wymagających użycia szpilek ozdobnych. Dlatego poprawną odpowiedzią jest \"wiązanki ślubnej.\"": "Декоративные булавки часто используются во флористике, особенно при создании украшений для особых случаев. Свадебная цветочная связка является одним из таких примеров, где декоративные булавки могут использоваться для крепления цветов, листьев или других декоративных элементов. В случае пасхальной пальмы, дожинкового венка или рождественской гирлянды обычно используются другие техники крепления декоративных элементов, которые не обязательно требуют использования декоративных булавок. Поэтому правильным ответом является \"свадебной цветочной связки\".",
-        "Jedwabistą strukturę posiadają": "Шелковистую структуру имеют",
-        "liście strelicji": "листья стрелитции",
-        "owocostany piwonii": "Соплодия пиона.",
-        "płatki groszku pachnącego": "лепестки душистого горошка",
         "Płatki groszku pachnącego są znane ze swojej jedwabistej struktury. Jest to wynik specyficznej budowy komórek, które tworzą powierzchnię płatka, a także zawartości wody w nich. Szyszki modrzewia, owocostany piwonii czy liście strelicji nie mają takiej struktury, są raczej szorstkie lub skórzaste": "Лепестки душистого горошка известны своей шелковистой структурой. Это результат специфического строения клеток, которые образуют поверхность лепестка, а также содержания воды в них. Шишки лиственницы, соплодия пиона или листья стрелиции не имеют такой структуры, они скорее шероховатые или кожистые.",
         "mufka": "муфта",
         "Pochodzący z początku XX wieku bukiet ślubny wykonany z płatków mieczyka to": "Букет невесты, происходящий из начала XX века и выполненный из лепестков гладиолуса, это",
@@ -862,7 +863,6 @@
         "Poprawna odpowiedź to \"gałązki świerku, cztery świece, wstążkę, drut na szpulce, słomiany korpus.\" ponieważ tradycyjny wieniec adwentowy wykonuje się z gałązek świerku, które są mocowane do słomianego korpusu za pomocą drutu. Cztery świece symbolizują cztery tygodnie adwentu, a wstążka dodaje dekoracyjności. Pozostałe odpowiedzi zawierają materiały, które nie są typowe dla tradycyjnego wieńca adwentowego": "Правильный ответ: \"веточки ели, четыре свечи, лента, проволока на катушке, соломенное основание,\" потому что традиционный адвентовый венок изготавливается из веточек ели, которые крепятся к соломенному основанию с помощью проволоки. Четыре свечи символизируют четыре недели адвента, а лента добавляет декоративности. Остальные ответы содержат материалы, которые не являются типичными для традиционного адвентового венка.",
         "nabywcę": "покупателя.",
         "Nasturcje i fuksje": "Настурции и фуксии.",
-        "szyszki modrzewia": "шишки лиственницы.",
         "sekatory": "Секаторы.",
         "porządek elementów w kompozycji": "порядок элементов в композиции.",
         "Mikrofon florystyczny można zastosować do wykonania dekoracji ślubnej typu": "Флористический микрофон можно использовать для создания свадебного украшения типа",

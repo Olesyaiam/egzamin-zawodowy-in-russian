@@ -456,7 +456,11 @@
             "toksyczny": "токсичный",
             "skręcania drutu aluminiowego": "скручивания алюминиевой проволоки.",
             "cięcia drutu technicznego": "резки технической проволки.",
-            "przycinania łodyg roślin sztucznych": "подрезания стеблей искусственных растений."
+            "przycinania łodyg roślin sztucznych": "подрезания стеблей искусственных растений.",
+            "z metalu": "из металла.",
+            "z bambusa": "из бамбука.",
+            "z brzozy": "из берёзы.",
+            "z porcelany": "из фарфора."
         }
     },
     "not_approved": {
@@ -729,11 +733,13 @@
         "Kreszowania": "Плиссировки.",
         "Którą technikę florystyczną przedstawiono na rysunku?": "Какую флористическую технику изображено на рисунке?",
         "Na zdjęciu widać technikę florystyczną polegającą na wzmacnianiu łodyg kwiatów za pomocą cienkich drucików lub patyczków, co jest znane jako szynowanie. Technika ta jest stosowana, aby zapewnić wsparcie dla łodyg, które mogą być zbyt słabe, aby utrzymać ciężar kwiatów lub aby nadać im pożądany kształt": "На фото видно флористическую технику, заключающуюся в укреплении стеблей цветов с помощью тонких проволочек или палочек, что известно как рельсоподобное укрепление. Эта техника применяется для обеспечения поддержки стеблей, которые могут быть слишком слабыми, чтобы удерживать вес цветов, или чтобы придать им желаемую форму.",
-        "z brzozy": "из берёзы.",
-        "z porcelany": "из фарфора.",
-        "z metalu": "из металла.",
-        "z bambusa": "из бамбука.",
         "Do kompozycji stosowanych w przestronnych i nowoczesnych wnętrzach dobiera się pojemniki wykonane": "Для композиций, используемых в просторных и современных интерьерах, подбираются ёмкости, изготовленные",
-        "Pojemniki wykonane z metalu są często wybierane do nowoczesnych, przestronnych wnętrz ze względu na ich minimalistyczny i industrialny charakter. Metal jest materiałem trwałym i łatwym w utrzymaniu czystości, co jest ważne w miejscach publicznych. Dodatkowo, metaliczne pojemniki mogą być wykonane w różnych kształtach i rozmiarach, co pozwala na ich dopasowanie do różnorodnych przestrzeni. Wreszcie, metal jest materiałem uniwersalnym, który łatwo łączy się z innymi materiałami, takimi jak szkło czy drewno, co pozwala na tworzenie spójnych kompozycji": "Контейнеры, выполненные из металла, часто выбираются для современных, просторных интерьеров из-за их минималистичного и индустриального характера. Металл является долговечным материалом, который легко поддерживать в чистоте, что важно в общественных местах. Кроме того, металлические контейнеры могут быть выполнены в различных формах и размерах, что позволяет их адаптировать к разнообразным пространствам. Наконец, металл является универсальным материалом, который легко сочетается с другими материалами, такими как стекло или дерево, что позволяет создавать согласованные композиции."
+        "Pojemniki wykonane z metalu są często wybierane do nowoczesnych, przestronnych wnętrz ze względu na ich minimalistyczny i industrialny charakter. Metal jest materiałem trwałym i łatwym w utrzymaniu czystości, co jest ważne w miejscach publicznych. Dodatkowo, metaliczne pojemniki mogą być wykonane w różnych kształtach i rozmiarach, co pozwala na ich dopasowanie do różnorodnych przestrzeni. Wreszcie, metal jest materiałem uniwersalnym, który łatwo łączy się z innymi materiałami, takimi jak szkło czy drewno, co pozwala na tworzenie spójnych kompozycji": "Контейнеры, выполненные из металла, часто выбираются для современных, просторных интерьеров из-за их минималистичного и индустриального характера. Металл является долговечным материалом, который легко поддерживать в чистоте, что важно в общественных местах. Кроме того, металлические контейнеры могут быть выполнены в различных формах и размерах, что позволяет их адаптировать к разнообразным пространствам. Наконец, металл является универсальным материалом, который легко сочетается с другими материалами, такими как стекло или дерево, что позволяет создавать согласованные композиции.",
+        "Metodą zielnikową można suszyć": "Методом гербаризации можно сушить",
+        "kwiatostany hortensji": "Соцветия гортензии.",
+        "liście miłorzębu": "листья гинкго.",
+        "owocostany kukurydzy": "Соплодия кукурузы.",
+        "pędy głogu": "побеги боярышника.",
+        "Metoda zielnikowa jest techniką suszenia roślin, która jest najczęściej stosowana do liści i innych delikatnych części roślin. Liście miłorzębu są idealne do suszenia tą metodą, ponieważ są płaskie i nie zawierają dużej ilości wilgoci. Natomiast pędy głogu, kwiatostany hortensji oraz owocostany kukurydzy są zbyt masywne i zawierają zbyt dużo wilgoci, co utrudnia ich suszenie metodą zielnikową": "Метод гербария является техникой сушки растений, которая чаще всего применяется для листьев и других деликатных частей растений. Листья гинкго являются идеальными для сушки этим методом, поскольку они плоские и не содержат большого количества влаги. Напротив, побеги боярышника, соцветия гортензии и соплодия кукурузы слишком массивны и содержат слишком много влаги, что затрудняет их сушку методом гербария."
     }
 }

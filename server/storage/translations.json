@@ -474,7 +474,8 @@
             "proporcje w kompozycji": "пропорции в композиции.",
             "stopień nasycenia barw": "степень насыщенности расцветок",
             "Piwonie": "Пионы.",
-            "Aksamitki": "Бархатцы."
+            "Aksamitki": "Бархатцы.",
+            "Na podstawie danych zawartych w tabeli oblicz koszt robocizny wykonania kompozycji w naczyniu": "На основании данных, содержащихся в таблице, рассчитайте затраты на работу по созданию композиции в сосуде."
         }
     },
     "not_approved": {
@@ -801,7 +802,6 @@
         "wachlarz": "веер.",
         "boa": "свадебного букета.",
         "Mikrofon florystyczny to specjalistyczne narzędzie używane w florystyce do tworzenia różnego rodzaju dekoracji. Jego kształt i konstrukcja pozwalają na stworzenie dekoracji w formie wachlarza, gdzie kwiaty są układane w sposób symetryczny i równomierny. Pozostałe opcje, takie jak mufka, szarfa czy boa, odnoszą się do innych typów dekoracji, które wymagają innego podejścia i narzędzi": "Микрофон флористический — это специализированный инструмент, используемый в флористике для создания различных видов украшений. Его форма и конструкция позволяют создавать украшения в виде веера, где цветы укладываются симметрично и равномерно. Остальные варианты, такие как муфта, лента или боа, относятся к другим типам украшений, которые требуют другого подхода и инструментов.",
-        "Na podstawie danych zawartych w tabeli oblicz koszt robocizny wykonania kompozycji w naczyniu": "На основании данных, содержащихся в таблице, рассчитайте затраты на работу по созданию композиции в сосуде.",
         "Koszt robocizny oblicza się, odejmując od całkowitego kosztu wykonania kompozycji sumę kosztów materiałów. W tym przypadku, po odjęciu sumy kosztów materiałów od całkowitego kosztu, otrzymujemy koszt robocizny równy 32,70 zł": "Затраты на работу вычисляются путем вычитания из общей стоимости выполнения композиции суммы затрат на материалы. В этом случае, после вычитания суммы затрат на материалы из общей стоимости, получаем затраты на работу в размере 32,70 злотых."
     }
 }

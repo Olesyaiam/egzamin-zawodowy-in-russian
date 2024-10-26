@@ -475,7 +475,8 @@
             "stopień nasycenia barw": "степень насыщенности расцветок",
             "Piwonie": "Пионы.",
             "Aksamitki": "Бархатцы.",
-            "Na podstawie danych zawartych w tabeli oblicz koszt robocizny wykonania kompozycji w naczyniu": "На основании данных, содержащихся в таблице, рассчитайте затраты на работу по созданию композиции в сосуде."
+            "Na podstawie danych zawartych w tabeli oblicz koszt robocizny wykonania kompozycji w naczyniu": "На основании данных, содержащихся в таблице, рассчитайте затраты на работу по созданию композиции в сосуде.",
+            "w Poznaniu": "в Познани."
         }
     },
     "not_approved": {
@@ -814,6 +815,12 @@
         "jarzębina i ligustr": "Рябина и бирючина",
         "ognik i pigwowiec": "Огненный кустарник и айва.",
         "ognik i jarzębina": "Пираканта и рябина.",
-        "Odpowiedź \"ognik i jarzębina.\" jest poprawna, ponieważ owoce obu tych roślin są pomarańczowe. Ognik to krzew, który w okresie dojrzewania owoców ma kolor pomarańczowy. Jarzębina to drzewo, które również produkuje pomarańczowe owoce. Natomiast ligustr i pigwowiec nie mają pomarańczowych owoców": "Ответ \"пираканта и рябина\" является правильным, потому что плоды обоих этих растений оранжевые. Пираканта – это кустарник, который в период созревания плодов имеет оранжевый цвет. Рябина – это дерево, которое также производит оранжевые плоды. Тогда как бирючина и айва не имеют оранжевых плодов."
+        "Odpowiedź \"ognik i jarzębina.\" jest poprawna, ponieważ owoce obu tych roślin są pomarańczowe. Ognik to krzew, który w okresie dojrzewania owoców ma kolor pomarańczowy. Jarzębina to drzewo, które również produkuje pomarańczowe owoce. Natomiast ligustr i pigwowiec nie mają pomarańczowych owoców": "Ответ \"пираканта и рябина\" является правильным, потому что плоды обоих этих растений оранжевые. Пираканта – это кустарник, который в период созревания плодов имеет оранжевый цвет. Рябина – это дерево, которое также производит оранжевые плоды. Тогда как бирючина и айва не имеют оранжевых плодов.",
+        "Chrysal Glory to specjalny spray stosowany w florystyce do zabezpieczania kwiatów i liści przed utratą wilgoci. Działa poprzez tworzenie na powierzchni rośliny cienkiej, niewidocznej warstwy, która zapobiega parowaniu wody. Stosowany jest między innymi do spryskiwania wianuszków komunijnych, aby zachowały one świeżość przez dłuższy czas. Nie ma on właściwości zwalczania szkodników czy chorób roślin": "Chrysal Glory - это специальный спрей, применяемый в флористике для защиты цветов и листьев от потери влаги. Он действует путем создания на поверхности растения тонкого, невидимого слоя, который предотвращает испарение воды. Применяется, среди прочего, для опрыскивания венков на первое причастие, чтобы они оставались свежими дольше. Он не обладает свойствами борьбы с вредителями или заболеваниями растений.",
+        "w Kielcach": "в Кельцах.",
+        "w Wrocławiu": "в Вроцлаве.",
+        "w Krakowie": "в Кракове",
+        "Targi Ogrodnicze Gardenia odbywają się corocznie": "Садоводческая ярмарка Gardenia проводится ежегодно.",
+        "Targi Ogrodnicze Gardenia są jednym z najważniejszych wydarzeń ogrodniczych w Polsce, które odbywają się corocznie na terenie Międzynarodowych Targów Poznańskich. Poznań jest znany z organizacji różnorodnych targów i wystaw o zasięgu krajowym i międzynarodowym. Dlatego odpowiedź \"w Poznaniu\" jest poprawna": "Садоводческая выставка Gardenia является одним из самых важных событий в области садоводства в Польше, она ежегодно проводится на территории Международных выставок в Познани. Познань известен организацией разнообразных ярмарок и выставок национального и международного уровня. Поэтому ответ \"в Познани\" является правильным."
     }
 }

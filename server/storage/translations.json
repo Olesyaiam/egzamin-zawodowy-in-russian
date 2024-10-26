@@ -453,7 +453,9 @@
             "proszek rozpuszczalny w wodzie": "порошок, растворимый в воде.",
             "granule rozpuszczalne w wodzie": "гранулы, растворимые в воде.",
             "gąbka florystyczna": "флористическая губка",
-            "toksyczny": "токсичный"
+            "toksyczny": "токсичный",
+            "skręcania drutu aluminiowego": "скручивания алюминиевой проволоки.",
+            "cięcia drutu technicznego": "резки технической проволки."
         }
     },
     "not_approved": {
@@ -711,6 +713,10 @@
         "szkodliwy": "вредный.",
         "żrący": "едкий.",
         "Piktogram przedstawiony na rysunku oznacza, że produkt jest": "Пиктограмма, изображенная на рисунке, обозначает, что продукт является",
-        "Piktogram przedstawiony na zdjęciu to czarny krzyż na białym tle z literą Xi. Jest to oznaczenie stosowane w Unii Europejskiej do klasyfikacji substancji chemicznych, które oznacza, że produkt jest drażniący. Odpowiedź \"drażniący.\" jest zatem poprawna zgodnie z europejskimi standardami oznaczania substancji chemicznych": "Пиктограмма, представленная на фотографии, — это черный крест на белом фоне с буквой Xi. Это обозначение, используемое в Европейском Союзе для классификации химических веществ, которое означает, что продукт является раздражающим. Ответ \"раздражающий\" является, следовательно, правильным в соответствии с европейскими стандартами обозначения химических веществ."
+        "Piktogram przedstawiony na zdjęciu to czarny krzyż na białym tle z literą Xi. Jest to oznaczenie stosowane w Unii Europejskiej do klasyfikacji substancji chemicznych, które oznacza, że produkt jest drażniący. Odpowiedź \"drażniący.\" jest zatem poprawna zgodnie z europejskimi standardami oznaczania substancji chemicznych": "Пиктограмма, представленная на фотографии, — это черный крест на белом фоне с буквой Xi. Это обозначение, используемое в Европейском Союзе для классификации химических веществ, которое означает, что продукт является раздражающим. Ответ \"раздражающий\" является, следовательно, правильным в соответствии с европейскими стандартами обозначения химических веществ.",
+        "przycinania zdrewniałych pędów": "подрезки одревесневших побегов.",
+        "Szczypce o okrągłych końcówkach stosuje się do": "Клещи с круглыми концами применяются для",
+        "przycinania łodyg roślin sztucznych": "подрезания стеблей искусственных растений.",
+        "Szczypce o okrągłych końcówkach, nazywane również szczypcami do drutu, są zaprojektowane specjalnie do manipulowania drutem, a nie do cięcia czy przycinania. Ich okrągłe końcówki umożliwiają łatwe skręcanie drutu, w tym przypadku aluminiowego, bez ryzyka uszkodzenia. Pozostałe odpowiedzi są niepoprawne, ponieważ nie odnoszą się do właściwego zastosowania tych szczypiec": "Круглогубцы, называемые также щипцами для проволоки, специально предназначены для манипуляции проволокой, а не для резки или подрезки. Их круглые концы позволяют легко скручивать проволоку, в данном случае алюминиевую, без риска повреждения. Остальные ответы являются неправильными, поскольку не относятся к правильному использованию этих щипцов."
     }
 }

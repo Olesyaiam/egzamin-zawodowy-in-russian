@@ -8,8 +8,8 @@ current_pos = 0
 
 
 def replace_template(text):
-    # Шаблон для поиска {{любая строка|'''ТЕКСТ'''|любые данные}} и Замена на '''ТЕКСТ'''
-    return re.sub(r"\{\{.*?\|\s*'''([^']*?)'''\s*\|.*?\}\}", r"'''\1'''", text)
+    # Шаблон для поиска {{любая строка|ТЕКСТ|любые данные}} и Замена на ТЕКСТ
+    return re.sub(r"\{\{[^|]*?\|\s*([^|]*?)\s*\|[^|]*?\}\}", r"\1", text)
 
 
 def extract_latin_name(text):
@@ -97,19 +97,22 @@ for first_char in os.listdir(root_dir):
                 elif not latin_name or len(latin_name) == 0:
                     print('No LATIN')
                     continue
+                elif not (latin_name[0].isupper() and 'A' <= latin_name[0] <= 'Z'):
+                    raise Exception(latin_name)
 
                 print(ru_name)
                 print(latin_name)
 
-                json_data = {
-                    'latin': latin_name,
-                    'pl': None,
-                    'ru': ru_name,
-                }
-
                 # Формируем путь для сохранения JSON-файла
                 json_file_path = os.path.join(output_dir, f"{latin_name}.json")
 
-                # Записываем JSON в файл
-                with open(json_file_path, 'w', encoding='utf-8') as json_file:
-                    json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+                if not os.path.exists(json_file_path):
+                    json_data = {
+                        'latin': latin_name,
+                        'pl': None,
+                        'ru': ru_name,
+                    }
+
+                    # Записываем JSON в файл
+                    with open(json_file_path, 'w', encoding='utf-8') as json_file:
+                        json.dump(json_data, json_file, ensure_ascii=False, indent=4)

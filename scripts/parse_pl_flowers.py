@@ -9,6 +9,17 @@ input_dir = 'data/pl'
 output_dir = 'data/pl_parsed'
 
 
+def clean_plant_name(name):
+    # Ищем первую заглавную букву в строке
+    for idx, char in enumerate(name):
+        if char.isupper():
+            # Возвращаем подстроку, начиная с первой заглавной буквы
+            return name[idx:].strip()
+
+    # Если заглавная буква не найдена, возвращаем исходную строку
+    return name.strip()
+
+
 def get_latin_name_from_html(soup):
     # Находим все элементы по селектору table > tbody > tr > td
     elements = soup.select('table > tbody > tr > td')
@@ -41,11 +52,13 @@ def process_file(file_path, output_dir):
         # Загружаем содержимое HTML-файла
         soup = BeautifulSoup(file, 'html.parser')
 
-        latin_name = get_latin_name_from_html(soup)
+        latin_name = clean_plant_name(get_latin_name_from_html(soup))
         pl_name = soup.select_one('div.iboxt-1').get_text(strip=True)
 
         if not pl_name:
             raise Exception(file_path)
+
+        pl_name = clean_plant_name(pl_name)
 
         print()
         print('====>>>')

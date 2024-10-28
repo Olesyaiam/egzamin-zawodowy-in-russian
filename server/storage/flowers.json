@@ -1,0 +1,36 @@
+{
+    "digitalis": {
+        "pl": "naparstnica",
+        "ru": null,
+        "pl_wiki": "Naparstnica",
+        "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Digitalis_grandiflora_Sturm34.jpg/500px-Digitalis_grandiflora_Sturm34.jpg",
+        "our_img": "digitalis.jpg",
+        "pl_more": [
+            "naparstnicach",
+            "naparstnicami",
+            "naparstnicom",
+            "naparstnicy",
+            "naparstnicą",
+            "naparstnice",
+            "naparstnicę",
+            "naparstnic"
+        ]
+    },
+    "delphinium": {
+        "pl": "ostróżka",
+        "ru": null,
+        "pl_wiki": "Ostróżka",
+        "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Delphinium_grandiflorum_472.jpg/500px-Delphinium_grandiflorum_472.jpg",
+        "our_img": "delphinium.jpg",
+        "pl_more": [
+            "ostróżkami",
+            "ostróżkach",
+            "ostróżkom",
+            "ostróżki",
+            "ostróżce",
+            "ostróżek",
+            "ostróżką",
+            "ostróżkę"
+        ]
+    }
+}

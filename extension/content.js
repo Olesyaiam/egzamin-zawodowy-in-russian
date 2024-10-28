@@ -190,8 +190,9 @@
     
         // Проход по ключам объекта images
         Object.keys(images).forEach((key) => {
-            const keyRegex = new RegExp(`\\b(${key})\\b`, 'gi');
-            originalText = originalText.replace(keyRegex, '<b>$1</b>');
+            const keyRegex = new RegExp(`\\b(${key})\\b`, 'gi'); // Регулярное выражение для поиска ключевого слова
+            const imageUrl = images[key]; // URL изображения для ключевого слова
+            originalText = originalText.replace(keyRegex, `<a href="${imageUrl}" target="_blank">$1</a>`); // Замена ключевого слова на <a>
         });
     
         // Обновляем содержимое original_element с выделенными жирным словами

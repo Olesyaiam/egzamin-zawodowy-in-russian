@@ -59,12 +59,12 @@ class TranslationsController extends BaseController
         $flowerDatabase = json_decode(file_get_contents(__DIR__ . '/../../../storage/flowers.json'), true);
 
         foreach ($flowerDatabase as $flowerInfo) {
-            if (array_key_exists('our_img', $flowerInfo) and $flowerInfo['our_img']) {
+            if (array_key_exists('our_img', $flowerInfo) && $flowerInfo['our_img']) {
                 $words = array_key_exists('pl_more', $flowerInfo) ? $flowerInfo['pl_more'] : array();
                 $words[] = $flowerInfo['pl'];
 
                 foreach ($words as $word) {
-                    if (stripos($polishText, $word)) {
+                    if (stripos($polishText, $word) !== false) {
                         $results[$word] = self::IMAGES_BASE_URL . $flowerInfo['our_img'];
                     }
                 }

@@ -36,7 +36,7 @@ def generate_prompt(polish_names):
 ===
 {words}
 ===
-Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
+Nie tłumacz nazwy, użyj nazwy, którą ci dałem. Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
 {
 "nazwa rośliny 1": ["nazwa rośliny 1 w dopełniaczu", "nazwa rośliny 1 w celowniku", "nazwa rośliny 1 w bierniku", "nazwa rośliny 1 w narzędniku", "nazwa rośliny 1 w miejscowniku"],"nazwa rośliny 2": ["nazwa rośliny 2 w dopełniaczu", "nazwa rośliny 2 w celowniku", "nazwa rośliny 2 w bierniku", "nazwa rośliny 2 w narzędniku", "nazwa rośliny 2 w miejscowniku"],
 ...,
@@ -49,7 +49,7 @@ def generate_prompt_mnoga(polish_names):
 ===
 {words}
 ===
-Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
+Nie tłumacz nazwy, użyj nazwy, którą ci dałem. Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
 {
     "nazwa rośliny 1": ["nazwa rośliny 1 w mianowniku (liczba mnoga)", "nazwa rośliny 1 w dopełniaczu (liczba mnoga)", "nazwa rośliny 1 w celowniku (liczba mnoga)", "nazwa rośliny 1 w bierniku (liczba mnoga)", "nazwa rośliny 1 w narzędniku (liczba mnoga)", "nazwa rośliny 1 w miejscowniku (liczba mnoga)"],
 ...
@@ -65,7 +65,7 @@ def request_openai(prompt):
     }
 
     data = {
-        "model": "gpt-4o",
+        "model": "gpt-4o-mini",
         "messages": [
             {"role": "system", "content": "Jesteś polskim lingwistą."},
             {"role": "user", "content": prompt}
@@ -96,7 +96,7 @@ def show_statistics(directory: str):
                 # Проверяем наличие ключа 'pl_variations2'
                 data = json.load(f)
 
-                if 'pl_variations2' in data or data['pl'] == data['latin']:
+                if 'pl_variations2' in data:
                     exists += 1
                 else:
                     not_exists += 1
@@ -133,11 +133,21 @@ def find_and_update_json(directory: str, mianownik: str, pl_variations2: []):
 
                     return
 
-    raise Exception(mianownik + ' not found')
+    print(mianownik + ' not found')
+
+    return
+
+
+def is_list_of_strings(variable):
+    # Проверяем, что это список
+    if isinstance(variable, list):
+        # Проверяем, что все элементы списка — строки
+        return all(isinstance(item, str) for item in variable)
+    return False
 
 
 # Функция для сбора польских названий и отправки запросов
-def collect_polish_names(directory, group_size=13):
+def collect_polish_names(directory, group_size=5):
     polish_names = []
 
     # Обход всех файлов в директории
@@ -149,7 +159,7 @@ def collect_polish_names(directory, group_size=13):
                 data = json.load(f)
 
                 # Если ключа pl_variations2 нет, добавляем в список
-                if 'pl_variations2' not in data and data['pl'] != data['latin']:
+                if 'pl_variations2' not in data:
                     polish_names.append(data['pl'])
 
                     # Когда собрана группа из 50 слов, делаем запрос
@@ -168,10 +178,14 @@ def collect_polish_names(directory, group_size=13):
                             raise Exception('not valid JSON')
 
                         for mianownik, others in parsed_data.items():
+                            if not is_list_of_strings(others):
+                                raise Exception(others)
+
                             find_and_update_json(directory, mianownik, others)
 
                         show_statistics(directory)
                         polish_names = []  # Очищаем список для следующей группы
+
 
 if __name__ == "__main__":
     directory = "data/pl_parsed"  # Укажите путь к вашей папке

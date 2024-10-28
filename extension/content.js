@@ -16,6 +16,10 @@
 
     let selectorsToRemove = [
         {
+            selector: '#question_form > fieldset > div.alert.alert-error.visible-desktop',
+            deleteLevel: 0
+        },
+        {
             selector: 'iframe',
             deleteLevel: 0
         },

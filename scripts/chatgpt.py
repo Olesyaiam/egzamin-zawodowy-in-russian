@@ -36,7 +36,7 @@ def generate_prompt(polish_names):
 ===
 {words}
 ===
-Nie tłumacz nazwy, użyj nazwy, którą ci dałem. Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
+Nie tłumacz nazwy, użyj nazwy, którą ci dałem. Nie dodawaj poziomów zagnieżdżenia, rób tylko to, o co cię prosiłem. Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
 {
 "nazwa rośliny 1": ["nazwa rośliny 1 w dopełniaczu", "nazwa rośliny 1 w celowniku", "nazwa rośliny 1 w bierniku", "nazwa rośliny 1 w narzędniku", "nazwa rośliny 1 w miejscowniku"],"nazwa rośliny 2": ["nazwa rośliny 2 w dopełniaczu", "nazwa rośliny 2 w celowniku", "nazwa rośliny 2 w bierniku", "nazwa rośliny 2 w narzędniku", "nazwa rośliny 2 w miejscowniku"],
 ...,
@@ -49,7 +49,7 @@ def generate_prompt_mnoga(polish_names):
 ===
 {words}
 ===
-Nie tłumacz nazwy, użyj nazwy, którą ci dałem. Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
+Nie tłumacz nazwy, użyj nazwy, którą ci dałem. Nie dodawaj poziomów zagnieżdżenia, rób tylko to, o co cię prosiłem. Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
 {
     "nazwa rośliny 1": ["nazwa rośliny 1 w mianowniku (liczba mnoga)", "nazwa rośliny 1 w dopełniaczu (liczba mnoga)", "nazwa rośliny 1 w celowniku (liczba mnoga)", "nazwa rośliny 1 w bierniku (liczba mnoga)", "nazwa rośliny 1 w narzędniku (liczba mnoga)", "nazwa rośliny 1 w miejscowniku (liczba mnoga)"],
 ...

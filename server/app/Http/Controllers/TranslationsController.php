@@ -47,7 +47,7 @@ class TranslationsController extends BaseController
         }
 
         $started = microtime(true);
-        $result['images'] = self::findCorrespondingFlowerImages($prepared);
+        $result['images'] = self::findCorrespondingFlowerImages($prepared['text']);
         $result['images_time'] = round(microtime(true) - $started, 2);
 
         return $this->response($result);

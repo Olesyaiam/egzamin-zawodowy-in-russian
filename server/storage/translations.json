@@ -515,7 +515,10 @@
             "Florysta realizując zamówienie na wykonanie tradycyjnego wieńca adwentowego zastosuje następujące materiały florystyczne:": "Флорист, выполняя заказ на изготовление традиционного адвентового венка, применит следующие материалы для флористики:",
             "Szpilki ozdobne wykorzystuje się do dekoracji": "Декоративные булавки используются для украшения.",
             "Ile maksymalnie pojemników o długości 40 cm należy ustawić na stole o wymiarach 200 cm x 70 cm, aby uzyskać kompozycję w postaci podłużnego, pojedynczego rzędu umieszczonego wzdłuż dłuższego boku?": "Сколько максимально контейнеров длиной 40 см следует разместить на столе размером 200 см x 70 см, чтобы получить композицию в виде продольного, одиночного ряда, размещенного вдоль длинной стороны?",
-            "Poprawna odpowiedź to \"5 pojemników\", ponieważ długość stołu wynosi 200 cm, a pojemnik ma długość 40 cm, więc na długości stołu zmieści się 5 pojemników": "Правильный ответ - \"5 контейнеров\", потому что длина стола составляет 200 см, а контейнер имеет длину 40 см, поэтому на длине стола поместится 5 контейнеров."
+            "Poprawna odpowiedź to \"5 pojemników\", ponieważ długość stołu wynosi 200 cm, a pojemnik ma długość 40 cm, więc na długości stołu zmieści się 5 pojemników": "Правильный ответ - \"5 контейнеров\", потому что длина стола составляет 200 см, а контейнер имеет длину 40 см, поэтому на длине стола поместится 5 контейнеров.",
+            "Kwiaty odgrywające rolę tła w kompozycji zaliczane są do form": "Цветы, играющие роль фона в композиции, относятся к формам.",
+            "królewskich": "королевских.",
+            "dominujących": "доминирующих"
         }
     },
     "not_approved": {
@@ -809,11 +812,8 @@
         "azotu": "азота.",
         "Przebarwianie liści na kolor sinoczerwony jest typowym objawem niedoboru": "Изменение окраски листьев на сине-красный цвет является типичным признаком дефицита.",
         "Przebarwianie liści na kolor sinoczerwony jest typowym objawem niedoboru fosforu, ponieważ ten pierwiastek odgrywa kluczową rolę w procesie fotosyntezy, który jest odpowiedzialny za zielony kolor liści. Brak fosforu powoduje zaburzenia w tym procesie, co skutkuje zmianą koloru liści. Inne objawy niedoboru fosforu to opóźniony wzrost i dojrzewanie roślin": "Изменение окраски листьев на сине-красный цвет является типичным признаком недостатка фосфора, поскольку этот элемент играет ключевую роль в процессе фотосинтеза, который отвечает за зелёный цвет листьев. Недостаток фосфора вызывает нарушения в этом процессе, что приводит к изменению цвета листьев. Другие признаки недостатка фосфора включают задержку роста и созревания растений.",
-        "królewskich": "королевских.",
         "szlachetnych": "благородных",
         "wypełniających": "заполняющих.",
-        "dominujących": "доминирующих",
-        "Kwiaty odgrywające rolę tła w kompozycji zaliczane są do form": "Цветы, играющие роль фона в композиции, относятся к формам.",
         "Kwiaty odgrywające rolę tła w kompozycji kwiatowej są zaliczane do form wypełniających, ponieważ ich głównym zadaniem jest wypełnienie przestrzeni i stworzenie tła dla kwiatów dominujących. Nie są one punktem centralnym uwagi, ale służą jako uzupełnienie i podkreślenie piękna kwiatów głównych. Formy szlachetne, dominujące czy królewskie odnoszą się do roli kwiatów, które są punktem centralnym kompozycji, a nie tłem": "Цветы, играющие роль фона в цветочной композиции, относятся к заполняющим формам, так как их главная задача заключается в заполнении пространства и создании фона для доминирующих цветов. Они не являются центральным объектом внимания, но служат дополнением и подчёркивают красоту главных цветов. Благородные, доминирующие или королевские формы относятся к роли цветов, которые являются центральной точкой композиции, а не фоном.",
         "szarfa": "лента",
         "wachlarz": "веер.",

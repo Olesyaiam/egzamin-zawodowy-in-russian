@@ -32,13 +32,29 @@ def clean_and_parse_json(response_text):
 
 # Функция для генерации промпта
 def generate_prompt(polish_names):
-    words = "\n".join(polish_names)
-    return f"""Proszę o odmianę przez przypadki (Dopełniacz, Celownik, Biernik, Narzędnik, Miejscownik) dla następujących nazw roślin:
+    return """Proszę o odmianę przez przypadki (Dopełniacz, Celownik, Biernik, Narzędnik, Miejscownik) dla następujących nazw roślin:
 ===
 {words}
 ===
 Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
-["nazwa rośliny 1": ["nazwa rośliny 1 w dopełniaczu", "nazwa rośliny 1 w celowniku", "nazwa rośliny 1 w bierniku", "nazwa rośliny 1 w narzędniku", "nazwa rośliny 1 w miejscowniku"],"nazwa rośliny 2": ["nazwa rośliny 2 w dopełniaczu", "nazwa rośliny 2 w celowniku", "nazwa rośliny 2 w bierniku", "nazwa rośliny 2 w narzędniku", "nazwa rośliny 2 w miejscowniku"], ..., "nazwa rośliny {len(polish_names)}": ["nazwa rośliny {len(polish_names)} w dopełniaczu", "nazwa rośliny {len(polish_names)} w celowniku", "nazwa rośliny {len(polish_names)} w bierniku", "nazwa rośliny {len(polish_names)} w narzędniku", "nazwa rośliny {len(polish_names)} w miejscowniku"]]"""
+{
+"nazwa rośliny 1": ["nazwa rośliny 1 w dopełniaczu", "nazwa rośliny 1 w celowniku", "nazwa rośliny 1 w bierniku", "nazwa rośliny 1 w narzędniku", "nazwa rośliny 1 w miejscowniku"],"nazwa rośliny 2": ["nazwa rośliny 2 w dopełniaczu", "nazwa rośliny 2 w celowniku", "nazwa rośliny 2 w bierniku", "nazwa rośliny 2 w narzędniku", "nazwa rośliny 2 w miejscowniku"],
+...,
+"nazwa rośliny {len}": ["nazwa rośliny {len} w dopełniaczu", "nazwa rośliny {len} w celowniku", "nazwa rośliny {len} w bierniku", "nazwa rośliny {len} w narzędniku", "nazwa rośliny {len} w miejscowniku"]
+}""".replace('{words}', "\n".join(polish_names)).replace('{len}', str(len(polish_names)))
+
+
+def generate_prompt_mnoga(polish_names):
+    return """Proszę o odmianę przez przypadki w liczbie mnogiej (Mianownik, Dopełniacz, Celownik, Biernik, Narzędnik, Miejscownik) dla następujących nazw roślin:
+===
+{words}
+===
+Odpowiedź wyłącznie w formacie valid JSON o następującej strukturze:
+{
+    "nazwa rośliny 1": ["nazwa rośliny 1 w mianowniku (liczba mnoga)", "nazwa rośliny 1 w dopełniaczu (liczba mnoga)", "nazwa rośliny 1 w celowniku (liczba mnoga)", "nazwa rośliny 1 w bierniku (liczba mnoga)", "nazwa rośliny 1 w narzędniku (liczba mnoga)", "nazwa rośliny 1 w miejscowniku (liczba mnoga)"],
+...
+"nazwa rośliny {len}": ["nazwa rośliny {len} w mianowniku (liczba mnoga)", "nazwa rośliny {len} w dopełniaczu (liczba mnoga)", "nazwa rośliny {len} w celowniku (liczba mnoga)", "nazwa rośliny {len} w bierniku (liczba mnoga)", "nazwa rośliny {len} w narzędniku (liczba mnoga)", "nazwa rośliny {len} w miejscowniku (liczba mnoga)"]
+}""".replace('{words}', "\n".join(polish_names)).replace('{len}', str(len(polish_names)))
 
 
 # Функция для отправки запроса к OpenAI API через requests
@@ -77,8 +93,10 @@ def show_statistics(directory: str):
 
             # Чтение содержимого JSON-файла
             with open(file_path, 'r', encoding='utf-8') as f:
-                # Проверяем наличие ключа 'pl_variations'
-                if 'pl_variations' in json.load(f):
+                # Проверяем наличие ключа 'pl_variations2'
+                data = json.load(f)
+
+                if 'pl_variations2' in data or data['pl'] == data['latin']:
                     exists += 1
                 else:
                     not_exists += 1
@@ -90,7 +108,7 @@ def show_statistics(directory: str):
     print()
 
 
-def find_and_update_json(directory: str, mianownik: str, pl_variations: []):
+def find_and_update_json(directory: str, mianownik: str, pl_variations2: []):
     for root, dirs, files in os.walk(directory):
         for file in files:
             file_path = os.path.join(root, file)
@@ -100,11 +118,11 @@ def find_and_update_json(directory: str, mianownik: str, pl_variations: []):
                 data = json.load(f)
 
                 if data['pl'] == mianownik:
-                    # Проверяем наличие ключа 'pl_variations'
-                    if 'pl_variations' in data:
+                    # Проверяем наличие ключа 'pl_variations2'
+                    if 'pl_variations2' in data:
                         raise Exception('Already exists: ' + file_path)
                     # Добавляем новый ключ и значение
-                    data['pl_variations'] = pl_variations
+                    data['pl_variations2'] = pl_variations2
 
                     # Перезаписываем файл с обновленными данными
                     with open(file_path, 'w', encoding='utf-8') as f_write:
@@ -119,7 +137,7 @@ def find_and_update_json(directory: str, mianownik: str, pl_variations: []):
 
 
 # Функция для сбора польских названий и отправки запросов
-def collect_polish_names(directory, group_size=50):
+def collect_polish_names(directory, group_size=13):
     polish_names = []
 
     # Обход всех файлов в директории
@@ -130,13 +148,13 @@ def collect_polish_names(directory, group_size=50):
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
-                # Если ключа pl_variations нет, добавляем в список
-                if 'pl_variations' not in data:
+                # Если ключа pl_variations2 нет, добавляем в список
+                if 'pl_variations2' not in data and data['pl'] != data['latin']:
                     polish_names.append(data['pl'])
 
                     # Когда собрана группа из 50 слов, делаем запрос
                     if len(polish_names) >= group_size:
-                        prompt = generate_prompt(polish_names)
+                        prompt = generate_prompt_mnoga(polish_names)
                         print(f"Сгенерированный промпт:\n{prompt}\n")
 
                         # Отправляем запрос к OpenAI

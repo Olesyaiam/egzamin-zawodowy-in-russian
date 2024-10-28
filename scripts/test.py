@@ -9,7 +9,12 @@ current_pos = 0
 
 def replace_template(text):
     # Шаблон для поиска {{любая строка|ТЕКСТ|любые данные}} и Замена на ТЕКСТ
-    return re.sub(r"\{\{[^|]*?\|\s*([^|]*?)\s*\|[^|]*?\}\}", r"\1", text)
+    return re.sub(r"\{\{[^|]*?\|\s*([^|]*?)\s*\|[^|]*?\}\}", r"\1", text).strip()
+
+
+def replace_template2(text):
+    # Шаблон для поиска {{любая строка|ТЕКСТ}} и Замена на ТЕКСТ
+    return re.sub(r"\{\{[^|]*?\|\s*([^|]*?)\}\}", r"\1", text).strip()
 
 
 def extract_latin_name(text):
@@ -44,75 +49,76 @@ for first_char in os.listdir(root_dir):
                 with open(file_path, 'r', encoding='utf-8') as file:
                     for line in file:
                         lines.append(line.strip())
-            except Exception as e:
-                print(f"Ошибка при чтении файла {file_path}: {e}")
 
-            if lines[0].startswith("#REDIRECT") or lines[0].startswith("#перенаправление"):
-                continue
+                if lines[0].startswith("#REDIRECT") or lines[0].startswith("#перенаправление"):
+                    continue
 
-            new_lines = []
+                new_lines = []
 
-            for line in lines:
-                if line.startswith("}}"):
-                    new_lines.append("}}")
-                    new_lines.append(replace_template(line[2:]))
-                else:
-                    new_lines.append(replace_template(line))
+                for line in lines:
+                    if line.startswith("}}"):
+                        new_lines.append("}}")
+                        new_lines.append(replace_template(line[2:]))
+                    else:
+                        new_lines.append(replace_template(line))
 
-            taxon_lines = {}
-            taxon_lines_started = False
-
-            for line in new_lines:
-                if not taxon_lines_started and line == '{{Таксон':
-                    taxon_lines_started = True
-                elif taxon_lines_started and line == '}}':
-                    break
-                else:
-                    if ' = ' in line:
-                        key_value = line.split(' = ')
-                        taxon_lines[key_value[0].strip()[1:].strip()] = key_value[1].strip()
-
-            if 'regnum' in taxon_lines and taxon_lines['regnum'] == 'Растения':
-                print()
-                print()
-                print(file_path)
-
-                latin_name = ''
-                ru_name = ''
-
-                if 'latin' in taxon_lines and isinstance(taxon_lines['latin'], str):
-                    latin_name = taxon_lines['latin'].strip()
+                taxon_lines = {}
+                taxon_lines_started = False
 
                 for line in new_lines:
-                    if line.startswith("'''"):
-                        ru_name = line.split("'''")[1].strip()
-                        print(ru_name)
-                        print('===')
+                    if not taxon_lines_started and line == '{{Таксон':
+                        taxon_lines_started = True
+                    elif taxon_lines_started and line == '}}':
+                        break
+                    else:
+                        if ' = ' in line:
+                            key_value = line.split(' = ')
+                            taxon_lines[key_value[0].strip()[1:].strip()] = key_value[1].strip()
 
-                        if len(latin_name) == 0:
-                            latin_name = extract_latin_name(line)
+                if 'regnum' in taxon_lines and taxon_lines['regnum'] == 'Растения':
+                    print()
+                    print()
+                    print(file_path)
 
-                if len(ru_name) == 0:
-                    raise Exception('No RU')
-                elif not latin_name or len(latin_name) == 0:
-                    print('No LATIN')
-                    continue
-                elif not (latin_name[0].isupper() and 'A' <= latin_name[0] <= 'Z'):
-                    raise Exception(latin_name)
+                    latin_name = ''
+                    ru_name = ''
 
-                print(ru_name)
-                print(latin_name)
+                    if 'latin' in taxon_lines and isinstance(taxon_lines['latin'], str):
+                        latin_name = replace_template2(taxon_lines['latin'])
 
-                # Формируем путь для сохранения JSON-файла
-                json_file_path = os.path.join(output_dir, f"{latin_name}.json")
+                    for line in new_lines:
+                        if line.startswith("'''"):
+                            ru_name = line.split("'''")[1].strip()
+                            print(ru_name)
+                            print('===')
 
-                if not os.path.exists(json_file_path):
-                    json_data = {
-                        'latin': latin_name,
-                        'pl': None,
-                        'ru': ru_name,
-                    }
+                            if len(latin_name) == 0:
+                                latin_name = extract_latin_name(line)
 
-                    # Записываем JSON в файл
-                    with open(json_file_path, 'w', encoding='utf-8') as json_file:
-                        json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+                    if len(ru_name) == 0:
+                        raise Exception('No RU')
+                    elif not latin_name or len(latin_name) == 0:
+                        print('No LATIN')
+                        continue
+                    elif not (latin_name[0].isupper() and 'A' <= latin_name[0] <= 'Z'):
+                        raise Exception(latin_name)
+
+                    print(ru_name)
+                    print(latin_name)
+
+                    # Формируем путь для сохранения JSON-файла
+                    json_file_path = os.path.join(output_dir, f"{latin_name}.json")
+
+                    if not os.path.exists(json_file_path):
+                        json_data = {
+                            'latin': latin_name,
+                            'pl': None,
+                            'ru': ru_name,
+                        }
+
+                        # Записываем JSON в файл
+                        with open(json_file_path, 'w', encoding='utf-8') as json_file:
+                            json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+            except Exception as e:
+                with open('exceptions.txt', 'a', encoding='utf-8') as file:
+                    file.write(filename + ': ' + str(e) + "\n")

@@ -537,7 +537,27 @@
 
     function intervalSelectorsToRemove() {
         selectorsToRemove.forEach(function (item) {
-            let elements = document.querySelectorAll(item.selector);
+            let elements;
+        
+            // Проверяем, является ли селектор XPath
+            if (item.selector.startsWith('/')) {
+                // Используем XPath
+                const xpathResult = document.evaluate(
+                    item.selector,
+                    document,
+                    null,
+                    XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
+                    null
+                );
+        
+                elements = [];
+                for (let i = 0; i < xpathResult.snapshotLength; i++) {
+                    elements.push(xpathResult.snapshotItem(i));
+                }
+            } else {
+                // Используем обычный селектор
+                elements = document.querySelectorAll(item.selector);
+            }
 
             elements.forEach(function (element) {
                 let elementToRemove = element;

@@ -66,6 +66,7 @@ class TranslationsController extends BaseController
                 foreach ($words as $word) {
                     if (stripos($polishText, $word) !== false) {
                         $results[$word] = self::IMAGES_BASE_URL . $flowerInfo['our_img'];
+                        $polishText = str_ireplace($word, '', $polishText);
                     }
                 }
             }

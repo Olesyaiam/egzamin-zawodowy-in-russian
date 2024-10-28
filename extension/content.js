@@ -176,7 +176,7 @@
         element.prepend(div);
     }
 
-    function prepareTranslationElementAndAddToDom(element, translation) {
+    function prepareTranslationElementAndAddToDom(original_element, translation_element, translation) {
         const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -184,7 +184,7 @@
         while ((match = regex.exec(translation)) !== null) {
             const beforeMatch = document.createElement('b');
             beforeMatch.textContent = translation.substring(lastIndex, match.index);
-            element.appendChild(beforeMatch);
+            translation_element.appendChild(beforeMatch);
 
             const link = document.createElement('a');
             link.href = signsImagesBasePath + match[1].toUpperCase() + '.png';
@@ -201,16 +201,16 @@
             link.onmouseout = () => {
                 if (hintElement) document.body.removeChild(hintElement);
             };
-            element.appendChild(link);
+            translation_element.appendChild(link);
 
             lastIndex = regex.lastIndex;
         }
 
         if (lastIndex < translation.length) {
-            element.appendChild(document.createElement('br'));
+            translation_element.appendChild(document.createElement('br'));
             const remainingText = document.createElement('b');
             remainingText.textContent = translation.substring(lastIndex);
-            element.appendChild(remainingText);
+            translation_element.appendChild(remainingText);
         }
 
         const span = document.createElement('span');
@@ -223,8 +223,8 @@
             span.innerHTML = ' ✅';
         }
 
-        element.classList.add('translation');
-        element.appendChild(span);
+        translation_element.classList.add('translation');
+        translation_element.appendChild(span);
 
         setSwitchState()
     }
@@ -350,12 +350,12 @@
                     const element = result.snapshotItem(i);
 
                     if (element) {
-                        processElement(element, selector, category);
+                        processElement(element, category);
                     }
                 }
             } else {
                 document.querySelectorAll(selector).forEach(element => {
-                    processElement(element, selector, category);
+                    processElement(element, category);
                 });
             }
         } catch (error) {
@@ -363,7 +363,7 @@
         }
     }
 
-    function processElement(element, selector, category) {
+    function processElement(element, category) {
         if (!element.id) {
             element.id = 'random-' + Math.floor(Math.random() * 1000000);
         }
@@ -386,7 +386,7 @@
 
                 translateText(originalTextWithNoTranslate, questionContext, function (translatedText) {
                     clonedContent.innerHTML = '';
-                    prepareTranslationElementAndAddToDom(clonedContent, translatedText);
+                    prepareTranslationElementAndAddToDom(element, clonedContent, translatedText);
                 });
             }
         }

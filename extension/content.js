@@ -583,6 +583,7 @@
         intervalComment();
         intervalAnswers();
         createSwitchIfNotExists(selectors['question']);
+        processSelector(selectors['answer_block'], 'answer_block')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
     }, 100);
 

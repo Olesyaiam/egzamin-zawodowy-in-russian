@@ -147,11 +147,15 @@
 
     function setSwitchState(event = null) {
         let switchIsOn = event ? event.target.checked : loadFromCacheSwitchState();
-        let switchElement = document.getElementById("switch_on_off");
 
-        if (switchElement) {
-            switchElement.checked = switchIsOn
-        }
+        selectors['switch'].forEach(selector => {
+            let id = 'switch-' + selector.length;
+            let switchElement = document.getElementById(id);
+
+            if (switchElement) {
+                switchElement.checked = switchIsOn
+            }
+        });
 
         document.querySelectorAll('.translation').forEach(element => {
             element.style.display = switchIsOn ? 'block' : 'none';

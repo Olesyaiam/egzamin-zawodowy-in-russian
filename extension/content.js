@@ -176,7 +176,7 @@
         element.prepend(div);
     }
 
-    function prepareTranslationElementAndAddToDom(original_element, translation_element, translation) {
+    function prepareTranslationElementAndAddToDom(original_element, translation_element, translation, images) {
         const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -268,22 +268,15 @@
     }
 
     function translateText(text, questionContext, callback) {
-        let cachedTranslation = loadTranslateFromCache(text);
-
-        if (cachedTranslation !== null) {
-            callback(cachedTranslation);
-        } else {
-            makeHttpRequest('translations/get', {text: text, question_context: questionContext}, function (result) {
-                if (result.translation && result.translation.trim() !== '') {
-                    saveTranslateToCache(text, result.translation);
-                    saveToCacheEmojiFlag(result.translation, !result.approved);
-                    callback(result.translation);
-                } else {
-                    console.log('Invalid translation received for: ' + text);
-                    callback('Ошибка: не получилось перевести.', false);
-                }
-            });
-        }
+        makeHttpRequest('translations/get', {text: text, question_context: questionContext}, function (result) {
+            if (result.translation && result.translation.trim() !== '') {
+                saveToCacheEmojiFlag(result.translation, !result.approved);
+                callback(result.translation, result.images);
+            } else {
+                console.log('Invalid translation received for: ' + text);
+                callback('Ошибка: не получилось перевести.', []);
+            }
+        });
     }
 
     function getElementWithTranslation(originalElement) {
@@ -384,9 +377,9 @@
                     : '';
 
 
-                translateText(originalTextWithNoTranslate, questionContext, function (translatedText) {
+                translateText(originalTextWithNoTranslate, questionContext, function (translatedText, images) {
                     clonedContent.innerHTML = '';
-                    prepareTranslationElementAndAddToDom(element, clonedContent, translatedText);
+                    prepareTranslationElementAndAddToDom(element, clonedContent, translatedText, images);
                 });
             }
         }

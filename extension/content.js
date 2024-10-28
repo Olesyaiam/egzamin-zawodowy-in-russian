@@ -2,8 +2,6 @@
     'use strict';
 
     const baseUrl = 'https://webscrapp.rocks/egzamin-zawodowy/'
-    const switchAdditionalPlaceSelectors = []
-
     const selectors = {
         "question": "#question_text",
         "comment": '#question_comment',
@@ -34,7 +32,6 @@
     ];
 
     let contentCache = {};
-    let switchIds = new Set();
 
     function simpleHash(str) {
         let hash = 0;
@@ -141,47 +138,17 @@
 
     function setSwitchState(event = null) {
         let switchIsOn = event ? event.target.checked : loadFromCacheSwitchState();
+        let switchElement = document.getElementById("switch_on_off");
 
-        switchIds.forEach(id => {
-            let switchElement = document.getElementById(id);
-
-            if (switchElement) {
-                switchElement.checked = switchIsOn
-            }
-        });
+        if (switchElement) {
+            switchElement.checked = switchIsOn
+        }
 
         document.querySelectorAll('.translation').forEach(element => {
             element.style.display = switchIsOn ? 'block' : 'none';
         });
 
         saveToCacheSwitchState(switchIsOn)
-    }
-
-    function createAndInsertToggleSwitch(element, id) {
-        const div = document.createElement('div');
-        div.className = 'toggle-switch';
-        div.style.display = 'block';
-
-        div.style.marginLeft = '0px';
-        div.style.marginRight = '5px';
-        div.style.marginTop = '5px';
-        div.style.marginBottom = '0px';
-
-        const input = document.createElement('input');
-        input.type = 'checkbox';
-        input.id = id;
-        input.hidden = true;
-        input.checked = loadFromCacheSwitchState()
-        switchIds.add(id);
-        input.addEventListener('change', setSwitchState);
-
-        const label = document.createElement('label');
-        label.setAttribute('for', id);
-        label.className = 'switch';
-
-        div.appendChild(input);
-        div.appendChild(label);
-        element.prepend(div);
     }
 
     function prepareTranslationElementAndAddToDom(original_element, translation_element, translation, images) {
@@ -321,8 +288,8 @@
         return clonedContent
     }
 
-    function processSwitch(selector) {
-        let id = 'toggle-switch-' + selector.length
+    function createSwitchIfNotExists(selector) {
+        let id = 'switch_on_off'
         let switchElement = document.getElementById(id);
 
         if (!switchElement) {
@@ -345,7 +312,12 @@
             }
 
             if (element) {
-                createAndInsertToggleSwitch(element, id);
+                const input = document.createElement('input');
+                input.type = 'checkbox';
+                input.id = id;
+                input.checked = loadFromCacheSwitchState()
+                input.addEventListener('change', setSwitchState);
+                element.insertAdjacentElement('beforebegin', input);
             }
         }
     }
@@ -542,7 +514,7 @@
         processSelector(selectors['answers'], 'answers')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
 
-        switchAdditionalPlaceSelectors.concat([selectors['question']]).forEach(selector => processSwitch(selector));
+        createSwitchIfNotExists(selectors['question'])
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {

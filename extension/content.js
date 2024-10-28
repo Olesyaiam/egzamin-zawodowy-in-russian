@@ -6,6 +6,7 @@
         "question": "#question_text",
         "comment": '#question_comment',
         "answers": 'td > label',
+        "answer_block": 'div.answer_block',
         "others": [
             'div.friends_area > label > span:first-of-type',
             'div.answer_block'
@@ -15,6 +16,10 @@
     let selectorsToRemove = [
         {
             selector: 'a.facebook_share',
+            deleteLevel: 0
+        },
+        {
+            selector: '//table[@width="100%" and count(@*) = 1]',
             deleteLevel: 0
         },
         {
@@ -395,9 +400,7 @@
         }
     }
 
-    let emptyRemoved = false;
-
-    setInterval(function () {
+    function intervalQuestion() {
         if (!document.querySelector(selectors['question'])) {
             let question_with_trash = document.querySelector('#question_form > fieldset');
 
@@ -443,6 +446,10 @@
             }
         }
 
+        processSelector(selectors['question'], 'question')
+    }
+
+    function intervalComment() {
         if (!document.querySelector(selectors['comment'])) {
             let comment_with_trash = document.querySelector('#eztr_pod_pytaniem > div > div > div');
 
@@ -482,13 +489,17 @@
             }
         }
 
+        processSelector(selectors['comment'], 'comment')
+    }
+
+    function intervalAnswers() {
         // Находим все элементы div.widget-content > div.answers_element
         let answerElements = document.querySelectorAll('div.widget-content > div.answers_element');
 
         // Проходим по каждому найденному элементу
         answerElements.forEach(answersElement => {
             // Проверяем, есть ли уже внутри div.answer_block
-            if (!answersElement.querySelector('div.answer_block')) {
+            if (!answersElement.querySelector(selectors['answer_block'])) {
                 // Находим элементы <br> и <table>
                 let brElement = answersElement.querySelector('br');
                 let tableElement = answersElement.querySelector('table.table_answers');
@@ -510,7 +521,7 @@
                     // Вставляем новый div перед таблицей
                     answersElement.insertBefore(answerBlockDiv, tableElement);
         
-                    // Проверяем, есть ли div.image_test внутри div.answer_block
+                    // Проверяем, есть ли div.image_test внутри answer_block
                     let imageTestDiv = answerBlockDiv.querySelector('div.image_test');
                     if (imageTestDiv) {
                         // Перемещаем div.image_test после answer_block
@@ -519,31 +530,13 @@
                 } else {
                     console.error('Не найдены необходимые элементы: <br> или <table>');
                 }
-            } else {
-                console.log('Этот элемент уже содержит div.answer_block, пропускаем...');
             }
         });
 
-
-        processSelector(selectors['question'], 'question')
-        processSelector(selectors['comment'], 'comment')
         processSelector(selectors['answers'], 'answers')
-        selectors['others'].forEach(selector => processSelector(selector, 'others'));
+    }
 
-        createSwitchIfNotExists(selectors['question'])
-        const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
-
-        if (consentButton && !consentButton.classList.contains('clicked')) {
-            consentButton.classList.add('clicked');
-            consentButton.click();
-        }
-
-        let videoElement = document.getElementById('video');
-
-        if (videoElement) {
-            videoElement.controls = true;
-        }
-
+    function intervalSelectorsToRemove() {
         selectorsToRemove.forEach(function (item) {
             let elements = document.querySelectorAll(item.selector);
 
@@ -563,15 +556,15 @@
                 }
             });
         });
+    }
 
-        if (!emptyRemoved) {
-            let elementToRemove = document.querySelector('section.breadcumb_area + *');
-
-            if (elementToRemove) {
-                elementToRemove.parentNode.removeChild(elementToRemove);
-                emptyRemoved = true;
-            }
-        }
+    setInterval(function () {
+        intervalSelectorsToRemove();
+        intervalQuestion();
+        intervalComment();
+        intervalAnswers();
+        createSwitchIfNotExists(selectors['question']);
+        selectors['others'].forEach(selector => processSelector(selector, 'others'));
     }, 100);
 
     let style = document.createElement('style');

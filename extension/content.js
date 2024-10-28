@@ -3,11 +3,16 @@
 
     const baseUrl = 'https://webscrapp.rocks/egzamin-zawodowy/'
     const selectors = {
-        "question": "#question_text",
-        "comment": '#question_comment',
-        "answers": 'td > label',
-        "answer_block": 'div.answer_block',
-        "others": [
+        'question': '#question_text',
+        'comment': '#question_comment',
+        'answer': 'td > label',
+        'answer_block': 'div.answer_block',
+        'switch': [
+            '#question_text',
+            'div.span12'
+            // 'div.answer_block'
+        ],
+        'others': [
             'div.friends_area > label > span:first-of-type'
         ]
     };
@@ -292,54 +297,61 @@
         return clonedContent
     }
 
-    function createSwitchIfNotExists(selector) {
-        let id = 'switch_on_off'
-        let switchElement = document.getElementById(id);
-
-        if (!switchElement) {
-            let element;
-
-            if (selector.startsWith('/')) {
-                const xpathResult = document.evaluate(
-                    selector,
-                    document,
-                    null,
-                    XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
-                    null
-                );
-
-                if (xpathResult.snapshotLength > 0) {
-                    element = xpathResult.snapshotItem(0);
+    function createSwitchesIfNotExist() {
+        selectors['switch'].forEach(selector => {
+            let id = 'switch-' + selector.length;
+            let switchElement = document.getElementById(id);
+    
+            if (!switchElement) {
+                let element = null;
+    
+                // Если селектор начинается с '/', считаем его XPath
+                if (selector.startsWith('/')) {
+                    const xpathResult = document.evaluate(
+                        selector,
+                        document,
+                        null,
+                        XPathResult.FIRST_ORDERED_NODE_TYPE,
+                        null
+                    );
+    
+                    if (xpathResult.singleNodeValue) {
+                        element = xpathResult.singleNodeValue;
+                    }
+                } else {
+                    // Иначе считаем его обычным CSS-селектором
+                    element = document.querySelector(selector);
                 }
-            } else {
-                element = document.querySelector(selector);
-            }
+    
+                // Если элемент найден, добавляем переключатель
+                if (element) {
+                    const div = document.createElement('div');
+                    div.className = 'toggle-switch';
+                    div.style.display = 'block';
+                    div.style.marginLeft = '0px';
+                    div.style.marginRight = '5px';
+                    div.style.marginTop = '5px';
+                    div.style.marginBottom = '0px';
 
-            if (element) {
-                const div = document.createElement('div');
-                div.className = 'toggle-switch';
-                div.style.display = 'block';
-                div.style.marginLeft = '0px';
-                div.style.marginRight = '5px';
-                div.style.marginTop = '5px';
-                div.style.marginBottom = '0px';
-        
-                const input = document.createElement('input');
-                input.style.opacity = '0';
-                input.type = 'checkbox';
-                input.id = id;
-                input.checked = loadFromCacheSwitchState()
-                input.addEventListener('change', setSwitchState);
-        
-                const label = document.createElement('label');
-                label.setAttribute('for', id);
-                label.className = 'switch';
-        
-                div.appendChild(input);
-                div.appendChild(label);
-                element.insertAdjacentElement('beforebegin', div);
+                    const input = document.createElement('input');
+                    input.style.opacity = '0'; // Делаем чекбокс невидимым
+                    input.type = 'checkbox';
+                    input.id = id;
+                    input.checked = loadFromCacheSwitchState();
+                    input.addEventListener('change', setSwitchState);
+
+                    const label = document.createElement('label');
+                    label.setAttribute('for', id);
+                    label.className = 'switch';
+
+                    div.appendChild(input);
+                    div.appendChild(label);
+
+                    // Добавляем переключатель перед найденным элементом
+                    element.insertAdjacentElement('beforebegin', div);
+                }
             }
-        }
+        });
     }
 
     function processSelector(selector, category) {
@@ -386,7 +398,7 @@
                 let clonedContent = getElementWithTranslation(element);
                 clonedContent.style.display = 'none';
 
-                let questionContext = category === 'answers'
+                let questionContext = category === 'answer'
                     ? document.querySelector(selectors['question'])?.textContent.trim() || ''
                     : '';
 
@@ -491,7 +503,7 @@
         processSelector(selectors['comment'], 'comment')
     }
 
-    function intervalAnswers() {
+    function intervalAnswer() {
         // Находим все элементы div.widget-content > div.answers_element
         let answerElements = document.querySelectorAll('div.widget-content > div.answers_element');
 
@@ -532,7 +544,7 @@
             }
         });
 
-        processSelector(selectors['answers'], 'answers')
+        processSelector(selectors['answer'], 'answer')
     }
 
     function intervalSelectorsToRemove() {
@@ -581,8 +593,8 @@
         intervalSelectorsToRemove();
         intervalQuestion();
         intervalComment();
-        intervalAnswers();
-        createSwitchIfNotExists(selectors['question']);
+        intervalAnswer();
+        createSwitchesIfNotExist();
         processSelector(selectors['answer_block'], 'answer_block')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
     }, 100);

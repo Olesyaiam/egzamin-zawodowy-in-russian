@@ -16,6 +16,10 @@
 
     let selectorsToRemove = [
         {
+            selector: 'a.facebook_share',
+            deleteLevel: 0
+        },
+        {
             selector: '#question_form > fieldset > div.alert.alert-error.visible-desktop',
             deleteLevel: 0
         },

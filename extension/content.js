@@ -181,6 +181,19 @@
         let lastIndex = 0;
         let match;
 
+        // Подготовка оригинального элемента
+        let originalText = original_element.innerHTML;
+    
+        // Проход по ключам объекта images
+        Object.keys(images).forEach((key) => {
+            const keyRegex = new RegExp(`\\b(${key})\\b`, 'gi');
+            originalText = originalText.replace(keyRegex, '<b>$1</b>');
+        });
+    
+        // Обновляем содержимое original_element с выделенными жирным словами
+        original_element.innerHTML = originalText;
+    
+        // Обработка translation_element (остается без изменений)
         while ((match = regex.exec(translation)) !== null) {
             const beforeMatch = document.createElement('b');
             beforeMatch.textContent = translation.substring(lastIndex, match.index);
@@ -226,7 +239,7 @@
         translation_element.classList.add('translation');
         translation_element.appendChild(span);
 
-        setSwitchState()
+        setSwitchState();
     }
 
     function getCacheKey(originalText) {

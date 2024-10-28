@@ -9,6 +9,8 @@ use Illuminate\Http\Request;
 
 class TranslationsController extends BaseController
 {
+    protected const IMAGES_BASE_URL = 'https://raw.githubusercontent.com/Olesyaiam/egzamin-zawodowy-in-russian/main/server/public/images/flowers/';
+
     private static function prepareText(string $text)
     {
         if (preg_match('/^([0-9A-F]\.\s)(.*)$/', $text, $matches)) {
@@ -44,7 +46,32 @@ class TranslationsController extends BaseController
             $result['translation'] = $prepared['prefix'] . $result['translation'];
         }
 
+        $started = microtime(true);
+        $result['images'] = self::findCorrespondingFlowerImages($prepared);
+        $result['images_time'] = round(microtime(true) - $started, 2);
+
         return $this->response($result);
+    }
+
+    private static function findCorrespondingFlowerImages($polishText)
+    {
+        $results = array();
+        $flowerDatabase = json_decode(file_get_contents(__DIR__ . '/../../../storage/flowers.json'), true);
+
+        foreach ($flowerDatabase as $flowerInfo) {
+            if (array_key_exists('our_img', $flowerInfo) and $flowerInfo['our_img']) {
+                $words = array_key_exists('pl_more', $flowerInfo) ? $flowerInfo['pl_more'] : array();
+                $words[] = $flowerInfo['pl'];
+
+                foreach ($words as $word) {
+                    if (stripos($polishText, $word)) {
+                        $results[$word] = self::IMAGES_BASE_URL . $flowerInfo['our_img'];
+                    }
+                }
+            }
+        }
+
+        return $results;
     }
 
     /**

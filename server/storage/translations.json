@@ -513,7 +513,9 @@
             "Do wykonania małego bukietu komunijnego w mikrofonie florystycznym najodpowiedniejsze będą": "Для создания небольшого букета на Первое Причастие во флористическом микрофоне наиболее подходящими будут",
             "W jaki sposób zabezpiecza się pojedyncze kwiaty anturium na czas transportu?": "Каким образом обеспечивается защита отдельных цветков антуриума во время транспортировки?",
             "Florysta realizując zamówienie na wykonanie tradycyjnego wieńca adwentowego zastosuje następujące materiały florystyczne:": "Флорист, выполняя заказ на изготовление традиционного адвентового венка, применит следующие материалы для флористики:",
-            "Szpilki ozdobne wykorzystuje się do dekoracji": "Декоративные булавки используются для украшения."
+            "Szpilki ozdobne wykorzystuje się do dekoracji": "Декоративные булавки используются для украшения.",
+            "Ile maksymalnie pojemników o długości 40 cm należy ustawić na stole o wymiarach 200 cm x 70 cm, aby uzyskać kompozycję w postaci podłużnego, pojedynczego rzędu umieszczonego wzdłuż dłuższego boku?": "Сколько максимально контейнеров длиной 40 см следует разместить на столе размером 200 см x 70 см, чтобы получить композицию в виде продольного, одиночного ряда, размещенного вдоль длинной стороны?",
+            "Poprawna odpowiedź to \"5 pojemników\", ponieważ długość stołu wynosi 200 cm, a pojemnik ma długość 40 cm, więc na długości stołu zmieści się 5 pojemników": "Правильный ответ - \"5 контейнеров\", потому что длина стола составляет 200 см, а контейнер имеет длину 40 см, поэтому на длине стола поместится 5 контейнеров."
         }
     },
     "not_approved": {
@@ -899,6 +901,10 @@
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
         "gałązki jemioły, cztery świece, wstążkę, susz, egzotyczny, gąbkę florystyczną": "веточки омелы, четыре свечи, ленту, сухоцвет, экзотический, флористическую губку.",
         "Frezje są zazwyczaj koloru białego co ładnie będzie wyglądało w bukieciku komunijnym": "Фрезии обычно белого цвета, что будет хорошо смотреться в букете на Первое Причастие.",
-        "Pytanie brzmi małego bukietu komunijnego w mikrofonie.tylko frezja ma na tyle drobne kwiaty aby można było wykonać wskazana kompozycje": "Вопрос заключается в маленьком букетике для Первого Причастия в микрофоне. Только фрезия имеет настолько мелкие цветы, чтобы можно было выполнить указанную композицию."
+        "Pytanie brzmi małego bukietu komunijnego w mikrofonie.tylko frezja ma na tyle drobne kwiaty aby można było wykonać wskazana kompozycje": "Вопрос заключается в маленьком букетике для Первого Причастия в микрофоне. Только фрезия имеет настолько мелкие цветы, чтобы можно было выполнить указанную композицию.",
+        "2 pojemniki": "2 контейнера.",
+        "10 pojemników": "10 контейнеров.",
+        "1 pojemnik": "1 контейнер.",
+        "5 pojemników": "5 контейнеров."
     }
 }

@@ -8,8 +8,7 @@
         "answers": 'td > label',
         "answer_block": 'div.answer_block',
         "others": [
-            'div.friends_area > label > span:first-of-type',
-            'div.answer_block'
+            'div.friends_area > label > span:first-of-type'
         ]
     };
 

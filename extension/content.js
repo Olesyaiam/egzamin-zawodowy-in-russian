@@ -312,12 +312,28 @@
             }
 
             if (element) {
+                const div = document.createElement('div');
+                div.className = 'toggle-switch';
+                div.style.display = 'block';
+                div.style.marginLeft = '0px';
+                div.style.marginRight = '5px';
+                div.style.marginTop = '5px';
+                div.style.marginBottom = '0px';
+        
                 const input = document.createElement('input');
+                input.style.opacity = '0';
                 input.type = 'checkbox';
                 input.id = id;
                 input.checked = loadFromCacheSwitchState()
                 input.addEventListener('change', setSwitchState);
-                element.insertAdjacentElement('beforebegin', input);
+        
+                const label = document.createElement('label');
+                label.setAttribute('for', id);
+                label.className = 'switch';
+        
+                div.appendChild(input);
+                div.appendChild(label);
+                element.insertAdjacentElement('beforebegin', div);
             }
         }
     }

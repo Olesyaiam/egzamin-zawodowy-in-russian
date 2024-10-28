@@ -9,8 +9,8 @@
         'answer_block': 'div.answer_block',
         'switch': [
             '#question_text',
-            'div.span12'
-            // 'div.answer_block'
+            'div.span12',
+            'div.answer_block'
         ],
         'others': [
             'div.friends_area > label > span:first-of-type'

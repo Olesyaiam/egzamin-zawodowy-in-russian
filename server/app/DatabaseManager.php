@@ -43,7 +43,11 @@ class DatabaseManager extends Base
             return strlen($b) - strlen($a);
         });
 
-        file_put_contents($this->storagePath . '/' . $filename, json_encode($cache), JSON_UNESCAPED_UNICODE);
+        file_put_contents(
+            $this->storagePath . '/' . $this->filenameCache,
+            json_encode($cache),
+            JSON_UNESCAPED_UNICODE
+        );
 
         return $cache;
     }

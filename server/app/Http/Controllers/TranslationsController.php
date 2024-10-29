@@ -47,8 +47,11 @@ class TranslationsController extends BaseController
 
         $started = microtime(true);
         $databaseManager = new DatabaseManager();
-        $result['images'] = $databaseManager->findFlowerImages($prepared['text']);
-        $result['images_time'] = round(microtime(true) - $started, 2);
+        $flowerImagesAndTimes = $databaseManager->findFlowerImages($prepared['text']);
+        $result['images'] = $flowerImagesAndTimes[0];
+        $result['images_time_full'] = round(microtime(true) - $started, 2);
+        $result['images_time_file'] = $flowerImagesAndTimes[1];
+        $result['images_time_search'] = $flowerImagesAndTimes[2];
 
         return $this->response($result);
     }

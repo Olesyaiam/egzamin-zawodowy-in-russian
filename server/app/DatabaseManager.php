@@ -11,16 +11,17 @@ class DatabaseManager extends Base
     public function findFlowerImages($polishText)
     {
         $results = array();
-        $cache = $this->loadCacheGenerateIfNotExists();
+        $cacheAndTime = $this->loadCacheGenerateIfNotExists();
+        $startTime = microtime(true);
 
-        foreach ($cache as $flowerName => $imageFilename) {
+        foreach ($cacheAndTime[0] as $flowerName => $imageFilename) {
             if (stripos($polishText, $flowerName) !== false) {
                 $results[$flowerName] = self::IMAGES_BASE_URL . $imageFilename;
                 $polishText = str_ireplace($flowerName, '', $polishText);
             }
         }
 
-        return $results;
+        return array($results, $cacheAndTime[1], round(microtime(true) - $startTime, 2));
     }
 
     private function generateCache(): array
@@ -54,8 +55,12 @@ class DatabaseManager extends Base
 
     private function loadCacheGenerateIfNotExists(): array
     {
+        $startTime = microtime(true);
         $cache = $this->load($this->filenameCache);
 
-        return count($cache) > 0 ? $cache : $this->generateCache();
+        return array(
+            count($cache) > 0 ? $cache : $this->generateCache(),
+            round(microtime(true) - $startTime, 2)
+        );
     }
 }

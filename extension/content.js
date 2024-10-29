@@ -41,6 +41,7 @@
     ];
 
     let contentCache = {};
+    let switchIds = new Set();
 
     function simpleHash(str) {
         let hash = 0;
@@ -148,8 +149,7 @@
     function setSwitchState(event = null) {
         let switchIsOn = event ? event.target.checked : loadFromCacheSwitchState();
 
-        selectors['switch'].forEach(selector => {
-            let id = 'switch-' + selector.length;
+        switchIds.forEach(id => {
             let switchElement = document.getElementById(id);
 
             if (switchElement) {
@@ -303,32 +303,34 @@
 
     function createSwitchesIfNotExist() {
         selectors['switch'].forEach(selector => {
-            let id = 'switch-' + selector.length;
-            let switchElement = document.getElementById(id);
-    
-            if (!switchElement) {
-                let element = null;
-    
-                // Если селектор начинается с '/', считаем его XPath
-                if (selector.startsWith('/')) {
-                    const xpathResult = document.evaluate(
-                        selector,
-                        document,
-                        null,
-                        XPathResult.FIRST_ORDERED_NODE_TYPE,
-                        null
-                    );
-    
-                    if (xpathResult.singleNodeValue) {
-                        element = xpathResult.singleNodeValue;
-                    }
-                } else {
-                    // Иначе считаем его обычным CSS-селектором
-                    element = document.querySelector(selector);
+            let elementBaseId = `switch_${selector.length}_`
+            let elements = [];
+
+            // Если селектор начинается с '/', считаем его XPath
+            if (selector.startsWith('/')) {
+                const xpathResult = document.evaluate(
+                    selector,
+                    document,
+                    null,
+                    XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
+                    null
+                );
+
+                for (let i = 0; i < xpathResult.snapshotLength; i++) {
+                    elements.push(xpathResult.snapshotItem(i));
                 }
-    
-                // Если элемент найден, добавляем переключатель
-                if (element) {
+            } else {
+                // Иначе считаем его обычным CSS-селектором
+                elements = document.querySelectorAll(selector);
+            }
+
+            elements.forEach((element, selectorElementIndex) => {
+                // Генерация ID для каждого элемента, чтобы у каждого был уникальный ID
+                let elementSpecificId = `${elementBaseId}_${selectorElementIndex}`;
+
+                // Проверяем, существует ли переключатель с таким уникальным ID
+                if (!document.getElementById(elementSpecificId)) {
+                    // Создаем переключатель
                     const div = document.createElement('div');
                     div.className = 'toggle-switch';
                     div.style.display = 'block';
@@ -340,12 +342,12 @@
                     const input = document.createElement('input');
                     input.style.opacity = '0'; // Делаем чекбокс невидимым
                     input.type = 'checkbox';
-                    input.id = id;
+                    input.id = elementSpecificId;
                     input.checked = loadFromCacheSwitchState();
                     input.addEventListener('change', setSwitchState);
 
                     const label = document.createElement('label');
-                    label.setAttribute('for', id);
+                    label.setAttribute('for', elementSpecificId);
                     label.className = 'switch';
 
                     div.appendChild(input);
@@ -353,8 +355,9 @@
 
                     // Добавляем переключатель перед найденным элементом
                     element.insertAdjacentElement('beforebegin', div);
+                    switchIds.add(elementSpecificId);
                 }
-            }
+            });
         });
     }
 

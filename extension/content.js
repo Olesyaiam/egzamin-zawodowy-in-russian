@@ -9,7 +9,6 @@
         'answer_block': 'div.answer_block',
         'switch': [
             '#question_text',
-            'div.span12',
             'div.answer_block'
         ],
         'others': [

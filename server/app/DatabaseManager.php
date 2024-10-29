@@ -13,9 +13,9 @@ class DatabaseManager extends Base
         $results = array();
         $cache = $this->loadCacheGenerateIfNotExists();
 
-        foreach ($cache as $flowerName => $flowerName) {
+        foreach ($cache as $flowerName => $imageFilename) {
             if (stripos($polishText, $flowerName) !== false) {
-                $results[$flowerName] = self::IMAGES_BASE_URL . $flowerName;
+                $results[$flowerName] = self::IMAGES_BASE_URL . $imageFilename;
                 $polishText = str_ireplace($flowerName, '', $polishText);
             }
         }
@@ -43,15 +43,15 @@ class DatabaseManager extends Base
             return strlen($b) - strlen($a);
         });
 
-        file_put_contents($this->filenameCache, json_encode($cache));
+        file_put_contents($this->storagePath . '/' . $filename, json_encode($cache), JSON_UNESCAPED_UNICODE);
 
         return $cache;
     }
 
     private function loadCacheGenerateIfNotExists(): array
     {
-        return file_exists($this->filenameCache)
-            ? json_decode(file_get_contents($this->filenameCache), true)
-            : $this->generateCache();
+        $cache = $this->load($this->filenameCache);
+
+        return count($cache) > 0 ? $cache : $this->generateCache();
     }
 }

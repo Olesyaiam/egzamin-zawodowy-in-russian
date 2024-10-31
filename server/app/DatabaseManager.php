@@ -15,7 +15,7 @@ class DatabaseManager extends Base
         $startTime = microtime(true);
 
         foreach ($cacheAndTime[0] as $flowerName => $imageFilename) {
-            if (stripos($polishText, $flowerName) !== false) {
+            if (mb_stripos($polishText, $flowerName) !== false) {
                 $results[$flowerName] = self::IMAGES_BASE_URL . $imageFilename;
                 $polishText = str_ireplace($flowerName, '', $polishText);
             }

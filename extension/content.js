@@ -220,6 +220,10 @@
             console.log('Text too long to translate, length:', text.length);
             callback('Ошибка: текст слишком длинный для перевода.', []);
             return;
+        } else if (text.includes('githubusercontent')) {
+            console.log('Text contains "githubusercontent", length:', text.length);
+            callback('Text contains "githubusercontent', []);
+            return;
         }
 
         makeHttpRequest('translations/get', {text: text, question_context: questionContext}, function (result) {

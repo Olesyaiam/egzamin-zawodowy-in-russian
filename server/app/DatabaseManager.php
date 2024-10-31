@@ -29,8 +29,9 @@ class DatabaseManager extends Base
         $flowers = $this->load();
         $cache = array();
 
-        foreach ($flowers as $flowerInfo) {
+        foreach ($flowers as $flowerNameLatin => $flowerInfo) {
             if (array_key_exists('our_img', $flowerInfo) && $flowerInfo['our_img']) {
+                $cache[$flowerNameLatin] = $flowerInfo['our_img'];
                 $words = array_key_exists('pl_more', $flowerInfo) ? $flowerInfo['pl_more'] : array();
                 $words[] = $flowerInfo['pl'];
 

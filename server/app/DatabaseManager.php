@@ -13,11 +13,12 @@ class DatabaseManager extends Base
         $results = array();
         $cacheAndTime = $this->loadCacheGenerateIfNotExists();
         $startTime = microtime(true);
+        $polishTextLower = mb_strtolower($polishText);
 
         foreach ($cacheAndTime[0] as $flowerName => $imageFilename) {
-            if (mb_stripos($polishText, $flowerName) !== false) {
+            if (mb_stripos($polishTextLower, $flowerName) !== false) {
                 $results[$flowerName] = self::IMAGES_BASE_URL . $imageFilename;
-                $polishText = str_ireplace($flowerName, '', $polishText);
+                $polishTextLower = str_ireplace($flowerName, '', $polishTextLower);
             }
         }
 

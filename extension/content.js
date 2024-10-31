@@ -122,7 +122,6 @@
     }
 
     function prepareTranslationElementAndAddToDom(original_element, translation_element, translation, images) {
-        const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
 
@@ -139,32 +138,6 @@
         // Обновляем содержимое original_element с выделенными жирным словами
         original_element.innerHTML = originalText;
     
-        // Обработка translation_element (остается без изменений)
-        while ((match = regex.exec(translation)) !== null) {
-            const beforeMatch = document.createElement('b');
-            beforeMatch.textContent = translation.substring(lastIndex, match.index);
-            translation_element.appendChild(beforeMatch);
-
-            const link = document.createElement('a');
-            link.href = signsImagesBasePath + match[1].toUpperCase() + '.png';
-            link.textContent = match[1];
-
-            let hintElement;
-
-            link.onmouseover = (e) => {
-                const mouseX = e.clientX + 10;
-                const mouseY = e.clientY + 10;
-                hintElement = createImgHint(link.href, mouseX, mouseY);
-            };
-
-            link.onmouseout = () => {
-                if (hintElement) document.body.removeChild(hintElement);
-            };
-            translation_element.appendChild(link);
-
-            lastIndex = regex.lastIndex;
-        }
-
         if (lastIndex < translation.length) {
             translation_element.appendChild(document.createElement('br'));
             const remainingText = document.createElement('b');

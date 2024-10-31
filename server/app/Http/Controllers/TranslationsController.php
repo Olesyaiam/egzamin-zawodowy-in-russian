@@ -30,6 +30,7 @@ class TranslationsController extends BaseController
      */
     public function getTranslation(Request $request)
     {
+        $started = microtime(true);
         $text = $request->input('text', null);
 
         if (!$text) {
@@ -45,13 +46,16 @@ class TranslationsController extends BaseController
             $result['translation'] = $prepared['prefix'] . $result['translation'];
         }
 
-        $started = microtime(true);
+        $imagesStarted = microtime(true);
         $databaseManager = new DatabaseManager();
         $flowerImagesAndTimes = $databaseManager->findFlowerImages($prepared['text']);
         $result['images'] = $flowerImagesAndTimes[0];
-        $result['images_time_full'] = round(microtime(true) - $started, 2);
-        $result['images_time_file'] = $flowerImagesAndTimes[1];
-        $result['images_time_search'] = $flowerImagesAndTimes[2];
+        $result['time'] = array(
+            'full' => round(microtime(true) - $started, 2),
+            'images_time_full' => round(microtime(true) - $imagesStarted, 2),
+            'images_time_file' => $flowerImagesAndTimes[1],
+            'images_time_search' => $flowerImagesAndTimes[2]
+        );
 
         return $this->response($result);
     }

@@ -53,48 +53,6 @@
         return Math.abs(hash).toString();
     }
 
-    function createHint(mouseX, mouseY) {
-        const hintDiv = document.createElement('div');
-
-        hintDiv.style.position = 'fixed';
-        hintDiv.style.top = mouseY + 'px';
-        hintDiv.style.left = mouseX + 'px';
-        hintDiv.style.zIndex = '1000';
-        hintDiv.style.border = '1px solid black';
-        hintDiv.style.backgroundColor = 'white';
-        hintDiv.style.padding = '5px';
-        hintDiv.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
-        document.body.appendChild(hintDiv);
-
-        return hintDiv
-    }
-
-    function createImgHint(src, mouseX, mouseY) {
-        let hintDiv = createHint(mouseX, mouseY)
-
-        const img = document.createElement('img');
-        img.src = src;
-        img.style.width = '200px';
-        img.style.height = 'auto';
-
-        hintDiv.appendChild(img);
-
-        return hintDiv;
-    }
-
-    function createTextHint(text, mouseX, mouseY) {
-        let hintDiv = createHint(mouseX, mouseY)
-        hintDiv.style.pointerEvents = 'none';
-        hintDiv.style.maxWidth = '400px';
-        hintDiv.style.wordWrap = 'break-word';
-
-        const textNode = document.createElement('span');
-        textNode.textContent = text;
-        hintDiv.appendChild(textNode);
-
-        return hintDiv;
-    }
-
     function makeHttpRequest(endpoint, data, callback) {
         const url = baseUrl + endpoint;
         const requestData = {

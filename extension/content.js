@@ -216,6 +216,12 @@
     }
 
     function translateText(text, questionContext, callback) {
+        if (text.length > 3000) {
+            console.log('Text too long to translate, length:', text.length);
+            callback('Ошибка: текст слишком длинный для перевода.', []);
+            return;
+        }
+
         makeHttpRequest('translations/get', {text: text, question_context: questionContext}, function (result) {
             if (result.translation && result.translation.trim() !== '') {
                 saveToCacheEmojiFlag(result.translation, !result.approved);

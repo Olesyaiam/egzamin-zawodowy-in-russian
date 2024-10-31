@@ -16,7 +16,7 @@ class DatabaseManager extends Base
         $polishTextLower = mb_strtolower($polishText);
 
         foreach ($cacheAndTime[0] as $flowerName => $imageFilename) {
-            if (mb_stripos($polishTextLower, $flowerName) !== false) {
+            if (stripos($polishTextLower, $flowerName) !== false) {
                 $results[$flowerName] = self::IMAGES_BASE_URL . $imageFilename;
                 $polishTextLower = str_ireplace($flowerName, '', $polishTextLower);
             }

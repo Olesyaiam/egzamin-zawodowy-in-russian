@@ -126,9 +126,12 @@
         let originalText = original_element.innerHTML;
 
         Object.keys(images).forEach((key) => {
-            const keyRegex = new RegExp(`\\b(${key})\\b`, 'gi');
+            // Используем улучшенное регулярное выражение
+            const keyRegex = new RegExp(`(?<![\\p{L}\\d])${key}(?![\\p{L}\\d])`, 'giu');
             const imageUrl = images[key];
-            originalText = originalText.replace(keyRegex, `<a href="#" class="image-link" data-image="${imageUrl}">$1</a>`);
+            originalText = originalText.replace(keyRegex, (match) => {
+                return `<a href="#" class="image-link" data-image="${imageUrl}">${match}</a>`;
+            });
         });
 
         original_element.innerHTML = originalText;

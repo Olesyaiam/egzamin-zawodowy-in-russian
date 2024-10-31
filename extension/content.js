@@ -123,21 +123,37 @@
 
     function prepareTranslationElementAndAddToDom(original_element, translation_element, translation, images) {
         let lastIndex = 0;
-        let match;
-
-        // Подготовка оригинального элемента
         let originalText = original_element.innerHTML;
-    
-        // Проход по ключам объекта images
+
         Object.keys(images).forEach((key) => {
-            const keyRegex = new RegExp(`\\b(${key})\\b`, 'gi'); // Регулярное выражение для поиска ключевого слова
-            const imageUrl = images[key]; // URL изображения для ключевого слова
-            originalText = originalText.replace(keyRegex, `<a href="${imageUrl}" target="_blank">$1</a>`); // Замена ключевого слова на <a>
+            const keyRegex = new RegExp(`\\b(${key})\\b`, 'gi');
+            const imageUrl = images[key];
+            originalText = originalText.replace(keyRegex, `<a href="#" class="image-link" data-image="${imageUrl}">$1</a>`);
         });
-    
-        // Обновляем содержимое original_element с выделенными жирным словами
+
         original_element.innerHTML = originalText;
-    
+
+        // Добавление подсказок с изображениями при наведении на ссылки
+        const links = original_element.querySelectorAll('.image-link');
+        links.forEach((link) => {
+            let hintElement;
+
+            link.onmouseover = (e) => {
+                const mouseX = e.clientX + 10;
+                const mouseY = e.clientY + 10;
+                const imageUrl = link.getAttribute('data-image');
+                hintElement = createImgHint(imageUrl, mouseX, mouseY);
+            };
+
+            link.onmouseout = () => {
+                if (hintElement) {
+                    document.body.removeChild(hintElement);
+                    hintElement = null;
+                }
+            };
+        });
+
+        // Остальная часть функции
         if (lastIndex < translation.length) {
             translation_element.appendChild(document.createElement('br'));
             const remainingText = document.createElement('b');
@@ -468,7 +484,7 @@
 
                     // Вставляем новый div перед таблицей
                     answersElement.insertBefore(answerBlockDiv, tableElement);
-        
+
                     // Проверяем, есть ли div.image_test внутри answer_block
                     let imageTestDiv = answerBlockDiv.querySelector('div.image_test');
                     if (imageTestDiv) {
@@ -487,7 +503,7 @@
     function intervalSelectorsToRemove() {
         selectorsToRemove.forEach(function (item) {
             let elements;
-        
+
             // Проверяем, является ли селектор XPath
             if (item.selector.startsWith('/')) {
                 // Используем XPath
@@ -498,7 +514,7 @@
                     XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
                     null
                 );
-        
+
                 elements = [];
                 for (let i = 0; i < xpathResult.snapshotLength; i++) {
                     elements.push(xpathResult.snapshotItem(i));
@@ -540,6 +556,25 @@
     style.type = 'text/css';
 
     style.innerHTML = `
+    .image-link {
+        position: relative;
+        text-decoration: underline;
+    }
+    .image-link .tooltip {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 1000;
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 5px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .image-link:hover .tooltip img {
+        max-width: 100px;
+        height: auto;
+    }
     .toggle-switch {
       position: relative;
       display: inline-block;
@@ -576,4 +611,33 @@
     }`;
 
     document.head.appendChild(style);
+
+    window.createHint = function(mouseX, mouseY) {
+        const hintDiv = document.createElement('div');
+
+        hintDiv.style.position = 'fixed';
+        hintDiv.style.top = mouseY + 'px';
+        hintDiv.style.left = mouseX + 'px';
+        hintDiv.style.zIndex = '1000';
+        hintDiv.style.border = '1px solid black';
+        hintDiv.style.backgroundColor = 'white';
+        hintDiv.style.padding = '5px';
+        hintDiv.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
+        document.body.appendChild(hintDiv);
+
+        return hintDiv;
+    };
+
+    window.createImgHint = function(src, mouseX, mouseY) {
+        let hintDiv = createHint(mouseX, mouseY);
+
+        const img = document.createElement('img');
+        img.src = src;
+        img.style.width = '400px';
+        img.style.height = 'auto';
+
+        hintDiv.appendChild(img);
+
+        return hintDiv;
+    };
 })();

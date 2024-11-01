@@ -49,7 +49,6 @@ class TranslationsController extends BaseController
         $result = $translator->performTranslation(
             $prepared['text'],
             $flowerTranslations,
-            questionContext:
             $questionContext
         );
 

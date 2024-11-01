@@ -46,9 +46,9 @@ class DatabaseManager extends Base
             foreach ($polishFlowerNames as $polishFlowerName) {
                 $cache[$polishFlowerName] = array(
                     $flowerInfo['ru'],
-                    $flowerInfo['wiki_pl'],
+                    $flowerInfo['pl_wiki'],
                     $flowerInfo['our_img'],
-                    // $flowerInfo['wiki_ru']
+                    // $flowerInfo['ru_wiki']
                 );
             }
         }

@@ -8,21 +8,29 @@ class DatabaseManager extends Base
     protected string $filenameCache = 'flowers_cache.json';
     protected const IMAGES_BASE_URL = 'https://raw.githubusercontent.com/Olesyaiam/egzamin-zawodowy-in-russian/main/server/public/images/flowers/';
 
-    public function findFlowerImages($polishText)
+    public function findFlowers($polishText)
     {
-        $results = array();
+        $results = array('flowers' => array());
         $cacheAndTime = $this->loadCacheGenerateIfNotExists();
-        $startTime = microtime(true);
+        $searchStartTime = microtime(true);
         $polishTextLower = mb_strtolower($polishText);
 
-        foreach ($cacheAndTime[0] as $flowerName => $imageFilename) {
+        foreach ($cacheAndTime[0] as $flowerName => $flowerShortInfo) {
             if (stripos($polishTextLower, $flowerName) !== false) {
-                $results[$flowerName] = self::IMAGES_BASE_URL . $imageFilename;
+                $results['flowers'][$flowerName] = array(
+                    'ru' => $flowerShortInfo[0],
+                    'wiki_pl' => 'https://pl.wikipedia.org/wiki/' . $flowerShortInfo[1],
+                    'img' => $flowerShortInfo[$flowerName][2] ? self::IMAGES_BASE_URL . $flowerShortInfo[2] : null
+                );
+
                 $polishTextLower = str_ireplace($flowerName, '', $polishTextLower);
             }
         }
 
-        return array($results, $cacheAndTime[1], round(microtime(true) - $startTime, 2));
+        $results['time_file'] = $cacheAndTime[1];
+        $results['time_search'] = round(microtime(true) - $searchStartTime, 2);
+
+        return $results;
     }
 
     private function generateCache(): array
@@ -31,14 +39,17 @@ class DatabaseManager extends Base
         $cache = array();
 
         foreach ($flowers as $flowerNameLatin => $flowerInfo) {
-            if (array_key_exists('our_img', $flowerInfo) && $flowerInfo['our_img']) {
-                $cache[$flowerNameLatin] = $flowerInfo['our_img'];
-                $words = array_key_exists('pl_more', $flowerInfo) ? $flowerInfo['pl_more'] : array();
-                $words[] = $flowerInfo['pl'];
+            $cache[$flowerNameLatin] = $flowerInfo['our_img'];
+            $polishFlowerNames = array_key_exists('pl_more', $flowerInfo) ? $flowerInfo['pl_more'] : array();
+            $polishFlowerNames[] = $flowerInfo['pl'];
 
-                foreach ($words as $word) {
-                    $cache[$word] = $flowerInfo['our_img'];
-                }
+            foreach ($polishFlowerNames as $polishFlowerName) {
+                $cache[$polishFlowerName] = array(
+                    $flowerInfo['ru'],
+                    $flowerInfo['wiki_pl'],
+                    $flowerInfo['our_img'],
+                    // $flowerInfo['wiki_ru']
+                );
             }
         }
 

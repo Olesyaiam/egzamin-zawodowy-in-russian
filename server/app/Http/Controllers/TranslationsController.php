@@ -40,21 +40,23 @@ class TranslationsController extends BaseController
         $questionContext = $request->input('question_context', '');
         $translator = new Translator();
         $prepared = self::prepareText($text);
+        $databaseManager = new DatabaseManager();
+        $flowers = $databaseManager->findFlowers($prepared['text']);
         $result = $translator->performTranslation($prepared['text'], questionContext: $questionContext);
 
         if ($result['translation']) {
             $result['translation'] = $prepared['prefix'] . $result['translation'];
         }
 
-        $imagesStarted = microtime(true);
-        $databaseManager = new DatabaseManager();
-        $flowerImagesAndTimes = $databaseManager->findFlowerImages($prepared['text']);
-        $result['images'] = $flowerImagesAndTimes[0];
+        $result['images'] = array_filter(array_map(function ($info) {
+            return $info['img'];
+        }, $flowers['flowers']));
+
+        $result['flowers'] = $flowers;
         $result['time'] = array(
             'full' => round(microtime(true) - $started, 2),
-            'images_time_full' => round(microtime(true) - $imagesStarted, 2),
-            'images_time_file' => $flowerImagesAndTimes[1],
-            'images_time_search' => $flowerImagesAndTimes[2]
+            'images_time_file' => $flowers['time_file'],
+            'images_time_search' => $flowers['time_search']
         );
 
         return $this->response($result);

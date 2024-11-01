@@ -56,10 +56,7 @@ class TranslationsController extends BaseController
             $result['translation'] = $prepared['prefix'] . $result['translation'];
         }
 
-        $result['images'] = array_filter(array_map(function ($info) {
-            return $info['img'];
-        }, $flowers['flowers']));
-
+        $result['flowers'] = $flowers['flowers'];
         $result['time'] = array(
             'full' => round(microtime(true) - $started, 2),
             'images_time_file' => $flowers['time_file'],

@@ -536,7 +536,13 @@
             "Zanurza się w ciepłej parafinie": "Погружают в тёплую парафину.",
             "Umieszcza się w szklanych probówkach": "Помещают в стеклянные пробирки.",
             "Umieszcza się w plastikowych fiolkach": "Размещают в пластиковых флористических пробирках.",
-            "wachlarz": "веер."
+            "wachlarz": "веер.",
+            "na ukos pod węzłem": "Наискось под узлом.",
+            "proste pod węzłem": "Прямо под узлом.",
+            "proste nad węzłem": "Прямо над узлом.",
+            "na ukos nad węzłem": "Наискось над узлом.",
+            "Piktogram przedstawiony na rysunku oznacza, że produkt jest": "Пиктограмма, изображенная на рисунке, обозначает, что продукт является",
+            "szkodliwy": "вредный."
         }
     },
     "not_approved": {
@@ -780,9 +786,7 @@
         "naczynie z wodą": "Сосуд с водой.",
         "Gąbka florystyczna jest podstawowym narzędziem stosowanym w florystyce do tworzenia różnego rodzaju kompozycji, w tym flower boxów. Dzięki swojej porowatej strukturze, gąbka jest w stanie zatrzymać wodę, co zapewnia odpowiednie nawodnienie dla kwiatów. Pozwala też na stabilne umieszczenie roślin w wybranej przez florystę pozycji. Pozostałe odpowiedzi nie są poprawne, ponieważ nie spełniają tych funkcji": "Флористическая губка является основным инструментом, используемым во флористике для создания различных видов композиций, включая цветочные боксы. Благодаря своей пористой структуре, губка способна удерживать воду, что обеспечивает надлежащее увлажнение для цветов. Она также позволяет устойчиво разместить растения в выбранной флористом позиции. Остальные ответы неправильные, поскольку не выполняют эти функции.",
         "drażniący": "Раздражающий.",
-        "szkodliwy": "вредный.",
         "żrący": "едкий.",
-        "Piktogram przedstawiony na rysunku oznacza, że produkt jest": "Пиктограмма, изображенная на рисунке, обозначает, что продукт является",
         "Piktogram przedstawiony na zdjęciu to czarny krzyż na białym tle z literą Xi. Jest to oznaczenie stosowane w Unii Europejskiej do klasyfikacji substancji chemicznych, które oznacza, że produkt jest drażniący. Odpowiedź \"drażniący.\" jest zatem poprawna zgodnie z europejskimi standardami oznaczania substancji chemicznych": "Пиктограмма, представленная на фотографии, — это черный крест на белом фоне с буквой Xi. Это обозначение, используемое в Европейском Союзе для классификации химических веществ, которое означает, что продукт является раздражающим. Ответ \"раздражающий\" является, следовательно, правильным в соответствии с европейскими стандартами обозначения химических веществ.",
         "Szczypce o okrągłych końcówkach, nazywane również szczypcami do drutu, są zaprojektowane specjalnie do manipulowania drutem, a nie do cięcia czy przycinania. Ich okrągłe końcówki umożliwiają łatwe skręcanie drutu, w tym przypadku aluminiowego, bez ryzyka uszkodzenia. Pozostałe odpowiedzi są niepoprawne, ponieważ nie odnoszą się do właściwego zastosowania tych szczypiec": "Круглогубцы, называемые также щипцами для проволоки, специально предназначены для манипуляции проволокой, а не для резки или подрезки. Их круглые концы позволяют легко скручивать проволоку, в данном случае алюминиевую, без риска повреждения. Остальные ответы являются неправильными, поскольку не относятся к правильному использованию этих щипцов.",
         "Gąbkę florystyczną": "Флористическую губку.",
@@ -832,11 +836,7 @@
         "szarfa": "лента",
         "Mikrofon florystyczny to specjalistyczne narzędzie używane w florystyce do tworzenia różnego rodzaju dekoracji. Jego kształt i konstrukcja pozwalają na stworzenie dekoracji w formie wachlarza, gdzie kwiaty są układane w sposób symetryczny i równomierny. Pozostałe opcje, takie jak mufka, szarfa czy boa, odnoszą się do innych typów dekoracji, które wymagają innego podejścia i narzędzi": "Микрофон флористический — это специализированный инструмент, используемый в флористике для создания различных видов украшений. Его форма и конструкция позволяют создавать украшения в виде веера, где цветы укладываются симметрично и равномерно. Остальные варианты, такие как муфта, лента или боа, относятся к другим типам украшений, которые требуют другого подхода и инструментов.",
         "Koszt robocizny oblicza się, odejmując od całkowitego kosztu wykonania kompozycji sumę kosztów materiałów. W tym przypadku, po odjęciu sumy kosztów materiałów od całkowitego kosztu, otrzymujemy koszt robocizny równy 32,70 zł": "Затраты на работу вычисляются путем вычитания из общей стоимости выполнения композиции суммы затрат на материалы. В этом случае, после вычитания суммы затрат на материалы из общей стоимости, получаем затраты на работу в размере 32,70 злотых.",
-        "na ukos pod węzłem": "Наискось под узлом.",
-        "proste nad węzłem": "Прямо над узлом.",
-        "na ukos nad węzłem": "Наискось над узлом.",
         "Podczas zbioru kwiatów wykonuje się cięcie": "Во время сбора цветов выполняется срезка.",
-        "proste pod węzłem": "Прямо под узлом.",
         "Podczas zbioru kwiatów cięcie wykonuje się na ukos nad węzłem, ponieważ pozwala to na lepsze pobieranie wody przez roślinę, co jest kluczowe dla jej dalszego rozwoju. Cięcie na ukos zwiększa powierzchnię, przez którą roślina może pobierać wodę. Dodatkowo, cięcie nad węzłem stymuluje roślinę do tworzenia nowych pędów": "Во время сбора цветов срез выполняется наискосок над узлом, поскольку это позволяет растению лучше поглощать воду, что является ключевым для его дальнейшего развития. Срез наискосок увеличивает площадь, через которую растение может поглощать воду. Кроме того, срез над узлом стимулирует растение к образованию новых побегов.",
         "ligustr i pigwowiec": "Бирючина и айва.",
         "Pomarańczowe owoce mają": "Оранжевые плоды имеют",

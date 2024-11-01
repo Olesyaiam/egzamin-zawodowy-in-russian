@@ -49,11 +49,9 @@ class DatabaseManager extends Base
             $polishFlowerNames[] = $flowerInfo['pl'];
 
             foreach ($polishFlowerNames as $polishFlowerName) {
-                $cache[$polishFlowerName] = array(
-                    $flowerInfo['ru'],
-                    $flowerInfo['pl_wiki'],
-                    array_key_exists('our_img', $flowerInfo) ? $flowerInfo['our_img'] : null
-                );
+                if ($polishFlowerName != $flowerNameLatin) {
+                    $cache[$polishFlowerName] = $cache[$flowerNameLatin];
+                }
             }
         }
 

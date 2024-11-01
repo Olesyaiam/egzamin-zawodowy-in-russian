@@ -522,7 +522,8 @@
             "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанных сиреней, необходимо в соответствии с флористическим искусством освежить, используя",
             "piły \"lisi ogon\"": "пилы \"лисьий хвост\"",
             "noża florystycznego": "флористического ножа.",
-            "ostrych nożyczek": "острых ножниц."
+            "ostrych nożyczek": "острых ножниц.",
+            "szczypce płaskie": "Плоскогубцы."
         }
     },
     "not_approved": {
@@ -939,7 +940,6 @@
         "laur": "лавр",
         "rozmaryn": "розмарин",
         "nożyce kwiaciarskie": "Флористические ножницы.",
-        "szczypce płaskie": "Плоскогубцы.",
         "mączniaka prawdziwego": "мучнистой росы.",
         "sekator grzechotkowy": "Секатор с храповым механизмом",
         "rdzy róży": "ржавчины розы.",

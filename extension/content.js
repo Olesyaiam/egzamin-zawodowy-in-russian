@@ -126,11 +126,20 @@
         let originalText = original_element.innerHTML;
 
         Object.keys(images).forEach((key) => {
-            // Используем улучшенное регулярное выражение
             const keyRegex = new RegExp(`(?<![\\p{L}\\d])${key}(?![\\p{L}\\d])`, 'giu');
             const imageUrl = images[key];
-            originalText = originalText.replace(keyRegex, (match) => {
-                return `<a href="#" class="image-link" data-image="${imageUrl}">${match}</a>`;
+
+            // Разбиваем текст на сегменты, используя HTML-теги как разделители
+            originalText = originalText.replace(/(<[^>]+>|[^<]+)/g, (segment) => {
+                // Если сегмент является HTML-тегом, возвращаем его без изменений
+                if (segment.startsWith('<') && segment.endsWith('>')) {
+                    return segment;
+                }
+
+                // В противном случае выполняем замену по ключевому слову
+                return segment.replace(keyRegex, (match) => {
+                    return `<a href="#" class="image-link" data-image="${imageUrl}">${match}</a>`;
+                });
             });
         });
 

@@ -524,7 +524,8 @@
             "noża florystycznego": "флористического ножа.",
             "ostrych nożyczek": "острых ножниц.",
             "szczypce płaskie": "Плоскогубцы.",
-            "Do skręcania grubych drutów przy wykonywaniu konstrukcji florystycznych stosuje się": "Для скручивания толстых проволок при выполнении флористических конструкций используется"
+            "Do skręcania grubych drutów przy wykonywaniu konstrukcji florystycznych stosuje się": "Для скручивания толстых проволок при выполнении флористических конструкций используется",
+            "zszywacz tapicerski": "мебельный степлер."
         }
     },
     "not_approved": {
@@ -1067,7 +1068,6 @@
         "Którym materiałem należy zabezpieczyć bukiet okolicznościowy na czas transportu w upalny dzień?": "Какой материал следует использовать для защиты букета на время транспортировки в жаркий день?",
         "promienisty układ łodyg i wiązanie pojedyncze": "лучеобразный уклад стеблей и одиночная связка.",
         "Miedziany": "Медный.",
-        "zszywacz tapicerski": "Степлер для обивки.",
         "antraknozy róży": "антракноза розы.",
         "Zielony na kołku": "Зелёный на колышке.",
         "hydrofity": "Гидрофиты.",
@@ -1255,6 +1255,7 @@
         "aloes, azalia i kordylina": "алоэ, азалия и кордилина.",
         "begonia królewska, bluszcz i fitonia": "бегония королевская, плющ и фиттония.",
         "bugenwilla, kalanchoe i nolina": "бугенвиллея, каланхоэ и нолина.",
-        "paprocie, palmy, dziurawce": "папоротники, пальмы, зверобои."
+        "paprocie, palmy, dziurawce": "папоротники, пальмы, зверобои.",
+        "sekatora ogrodniczego": "садовых секаторов."
     }
 }

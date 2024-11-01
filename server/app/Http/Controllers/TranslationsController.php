@@ -42,7 +42,16 @@ class TranslationsController extends BaseController
         $prepared = self::prepareText($text);
         $databaseManager = new DatabaseManager();
         $flowers = $databaseManager->findFlowers($prepared['text']);
-        $result = $translator->performTranslation($prepared['text'], questionContext: $questionContext);
+        $flowerTranslations = array_filter(array_map(function ($info) {
+            return $info['ru'];
+        }, $flowers['flowers']));
+
+        $result = $translator->performTranslation(
+            $prepared['text'],
+            $flowerTranslations,
+            questionContext:
+            $questionContext
+        );
 
         if ($result['translation']) {
             $result['translation'] = $prepared['prefix'] . $result['translation'];
@@ -52,7 +61,6 @@ class TranslationsController extends BaseController
             return $info['img'];
         }, $flowers['flowers']));
 
-        $result['flowers'] = $flowers;
         $result['time'] = array(
             'full' => round(microtime(true) - $started, 2),
             'images_time_file' => $flowers['time_file'],

@@ -176,7 +176,7 @@ class Translator extends Base
         return preg_replace_callback('/\b([А-ЯA-Z]-\d+[A-Za-zА-Яа-я]?)/u', $replacement, $text);
     }
 
-    private static function generateDictionary(array $promptData, string $text)
+    private static function generateDictionary(array $promptData, string $text, array $flowerTranslations)
     {
         $dictionary = [];
         $searchAndUpdate = function ($searchWord, $phrase) use (&$dictionary, $text) {
@@ -201,14 +201,18 @@ class Translator extends Base
             $searchAndUpdate($searchWord, $phrase);
         }
 
+        foreach ($flowerTranslations as $key => $value) {
+            $dictionary["$key: $value"] = null;
+        }
+
         return array_keys($dictionary);
     }
 
-    private static function generatePrompt($text, $questionContext)
+    private static function generatePrompt($text, $questionContext, $flowerTranslations)
     {
         $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
         $comments = [];
-        $dictionary = self::generateDictionary($promptData, $text);
+        $dictionary = self::generateDictionary($promptData, $text, $flowerTranslations);
         $dictionaryIntro = count($dictionary) ? $promptData['dictionary_intro'] : '';
         $questionContext = strlen($questionContext) > 0
             ? 'Фрагмент является одним за вариантов ответа на вопрос из теста, вот он для контекста: "' . $questionContext . '." '
@@ -271,7 +275,7 @@ class Translator extends Base
      * @return array
      * @throws Exception
      */
-    public function performTranslation($original, $questionContext, $withCache = true)
+    public function performTranslation($original, $questionContext, $flowerTranslations, $withCache = true)
     {
         $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
         $original = trim(preg_replace('/\s+/', ' ', $original));
@@ -302,7 +306,11 @@ class Translator extends Base
 
             if ($translation === null) {
                 $apiResponse = self::requestOpenAI(
-                    self::generatePrompt($original, questionContext: $questionContext),
+                    self::generatePrompt(
+                        $original,
+                        $questionContext,
+                        $flowerTranslations
+                    ),
                     $original
                 );
 

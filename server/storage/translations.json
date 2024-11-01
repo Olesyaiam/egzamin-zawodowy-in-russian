@@ -535,7 +535,8 @@
             "Zanurza się w ciepłej wodzie": "Погружают в теплую воду.",
             "Zanurza się w ciepłej parafinie": "Погружают в тёплую парафину.",
             "Umieszcza się w szklanych probówkach": "Помещают в стеклянные пробирки.",
-            "Umieszcza się w plastikowych fiolkach": "Размещают в пластиковых флористических пробирках."
+            "Umieszcza się w plastikowych fiolkach": "Размещают в пластиковых флористических пробирках.",
+            "wachlarz": "веер."
         }
     },
     "not_approved": {
@@ -829,7 +830,6 @@
         "wypełniających": "заполняющих.",
         "Kwiaty odgrywające rolę tła w kompozycji kwiatowej są zaliczane do form wypełniających, ponieważ ich głównym zadaniem jest wypełnienie przestrzeni i stworzenie tła dla kwiatów dominujących. Nie są one punktem centralnym uwagi, ale służą jako uzupełnienie i podkreślenie piękna kwiatów głównych. Formy szlachetne, dominujące czy królewskie odnoszą się do roli kwiatów, które są punktem centralnym kompozycji, a nie tłem": "Цветы, играющие роль фона в цветочной композиции, относятся к заполняющим формам, так как их главная задача заключается в заполнении пространства и создании фона для доминирующих цветов. Они не являются центральным объектом внимания, но служат дополнением и подчёркивают красоту главных цветов. Благородные, доминирующие или королевские формы относятся к роли цветов, которые являются центральной точкой композиции, а не фоном.",
         "szarfa": "лента",
-        "wachlarz": "веер.",
         "boa": "свадебного букета.",
         "Mikrofon florystyczny to specjalistyczne narzędzie używane w florystyce do tworzenia różnego rodzaju dekoracji. Jego kształt i konstrukcja pozwalają na stworzenie dekoracji w formie wachlarza, gdzie kwiaty są układane w sposób symetryczny i równomierny. Pozostałe opcje, takie jak mufka, szarfa czy boa, odnoszą się do innych typów dekoracji, które wymagają innego podejścia i narzędzi": "Микрофон флористический — это специализированный инструмент, используемый в флористике для создания различных видов украшений. Его форма и конструкция позволяют создавать украшения в виде веера, где цветы укладываются симметрично и равномерно. Остальные варианты, такие как муфта, лента или боа, относятся к другим типам украшений, которые требуют другого подхода и инструментов.",
         "Koszt robocizny oblicza się, odejmując od całkowitego kosztu wykonania kompozycji sumę kosztów materiałów. W tym przypadku, po odjęciu sumy kosztów materiałów od całkowitego kosztu, otrzymujemy koszt robocizny równy 32,70 zł": "Затраты на работу вычисляются путем вычитания из общей стоимости выполнения композиции суммы затрат на материалы. В этом случае, после вычитания суммы затрат на материалы из общей стоимости, получаем затраты на работу в размере 32,70 злотых.",

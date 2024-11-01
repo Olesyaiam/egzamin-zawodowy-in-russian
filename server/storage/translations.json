@@ -3,7 +3,8 @@
         "8 cm x 5 cm": "8 см x 5 см",
         "9 cm x 6 cm": "9 см x 6 см",
         "11 cm x 9 cm": "11 см x 9 см",
-        "22 cm x 18 cm": "22 см x 18 см"
+        "22 cm x 18 cm": "22 см x 18 см",
+        "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной долговечности."
     },
     "approved": {
         "others": {
@@ -528,7 +529,10 @@
             "zszywacz tapicerski": "мебельный степлер.",
             "sekator grzechotkowy": "Секатор с храповым механизмом",
             "nożyce kwiaciarskie": "Флористические ножницы.",
-            "Na rysunku przedstawiono kompozycję wykonaną zgodnie z zasadą złotego podziału. Ile wynosi jej wysokość (c), jeśli a = 30 cm?": "На рисунке представлена ​​композиция, выполненная в соответствии с принципом золотого сечения. Какова её высота (c), если a = 30 см?"
+            "Na rysunku przedstawiono kompozycję wykonaną zgodnie z zasadą złotego podziału. Ile wynosi jej wysokość (c), jeśli a = 30 cm?": "На рисунке представлена ​​композиция, выполненная в соответствии с принципом золотого сечения. Какова её высота (c), если a = 30 см?",
+            "Przenawożenie azotem w trakcie uprawy skutkuje": "Чрезмерное удобрение азотом в процессе выращивания приводит к",
+            "zahamowaniem wzrostu rośliny i jasnozielonym zabarwieniem liści": "замедлением роста растения и ярко-зелёной окраской листьев.",
+            "chlorozą międzyżyłkową na starszych liściach": "хлорозом межжилковым на старых листьях."
         }
     },
     "not_approved": {
@@ -929,9 +933,6 @@
         "Rogi obfitości i porcelanowe naczynia o etruskiej ornamentyce": "Рога изобилия и фарфоровые сосуды с этрусским орнаментом.",
         "Świerk, wilczomlecz, jemioła": "Ель, молочай, омела.",
         "zasychaniem brzegów liści i obniżeniem odporności na niekorzystne warunki": "засыханием краёв листьев и понижением устойчивости к неблагоприятным условиям.",
-        "zahamowaniem wzrostu rośliny i jasnozielonym zabarwieniem liści": "замедлением роста растения и ярко-зелёной окраской листьев.",
-        "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной долговечности.",
-        "chlorozą międzyżyłkową na starszych liściach": "хлорозом межжилковым на старых листьях.",
         "równoległy układ łodyg i wiązanie podwójne": "параллельный уклад стеблей и двойное связывание.",
         "Lilak, konwalia, lilia": "Сирень, ландыш, лилия.",
         "równoległy układ łodyg i wiązanie pojedyncze": "параллельный уклад стеблей и одиночная связывание.",
@@ -1034,7 +1035,6 @@
         "Które pojemniki najlepiej nadają się do wnętrz barokowych?": "Какие контейнеры лучше всего подходят для барочных интерьеров?",
         "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображен лист фатсии японской?",
         "Bukiet spiralny charakteryzuje": "Спиральный букет характеризует",
-        "Przenawożenie azotem w trakcie uprawy skutkuje": "Чрезмерное удобрение азотом в процессе выращивания приводит к",
         "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
         "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на плане сверху, выполненном в масштабе 1:10, имеет выставочный стенд, длина которого в действительности составляет 4 м, а ширина 2 м?",
         "Rośliny którego zestawu mają białe kwiaty?": "Растения какого набора имеют белые цветы?",

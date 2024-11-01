@@ -531,7 +531,11 @@
             "Na rysunku przedstawiono kompozycję wykonaną zgodnie z zasadą złotego podziału. Ile wynosi jej wysokość (c), jeśli a = 30 cm?": "На рисунке представлена ​​композиция, выполненная в соответствии с принципом золотого сечения. Какова её высота (c), если a = 30 см?",
             "Przenawożenie azotem w trakcie uprawy skutkuje": "Чрезмерное удобрение азотом в процессе выращивания приводит к",
             "zahamowaniem wzrostu rośliny i jasnozielonym zabarwieniem liści": "замедлением роста растения и ярко-зелёной окраской листьев.",
-            "chlorozą międzyżyłkową na starszych liściach": "хлорозом межжилковым на старых листьях."
+            "chlorozą międzyżyłkową na starszych liściach": "хлорозом межжилковым на старых листьях.",
+            "Zanurza się w ciepłej wodzie": "Погружают в теплую воду.",
+            "Zanurza się w ciepłej parafinie": "Погружают в тёплую парафину.",
+            "Umieszcza się w szklanych probówkach": "Помещают в стеклянные пробирки.",
+            "Umieszcza się w plastikowych fiolkach": "Размещают в пластиковых флористических пробирках."
         }
     },
     "not_approved": {
@@ -814,10 +818,6 @@
         "We florystyce złoty podział określa": "Во флористике золотое сечение определяет",
         "wielkość arkuszy papieru": "величину листов бумаги.",
         "Złoty podział to matematyczny koncept stosowany w wielu dziedzinach sztuki i designu, w tym w florystyce, do tworzenia estetycznie przyjemnych proporcji. W kontekście kompozycji kwiatowych, złoty podział może pomóc w określeniu, gdzie umieścić poszczególne elementy, tak aby były harmonijnie zbalansowane. Nie ma to związku ze stopniem nasycenia barw, wielkością arkuszy papieru, ani porządkiem elementów w kompozycji": "Золотое сечение — это математическая концепция, используемая во многих областях искусства и дизайна, в том числе во флористике, для создания эстетически приятных пропорций. В контексте цветочных композиций, золотое сечение может помочь определить, где разместить отдельные элементы, чтобы они были гармонично сбалансированы. Это не связано со степенью насыщенности расцветки, размером листов бумаги или порядком элементов в композиции.",
-        "Zanurza się w ciepłej wodzie": "Погружают в теплую воду.",
-        "Umieszcza się w szklanych probówkach": "Помещают в стеклянные пробирки.",
-        "Umieszcza się w plastikowych fiolkach": "Размещают в пластиковых флористических пробирках.",
-        "Zanurza się w ciepłej parafinie": "Погружают в тёплую парафину.",
         "Kwiaty anturium są zabezpieczane na czas transportu poprzez umieszczenie ich w plastikowych fiolkach, które zawierają odżywczy roztwór. Ta metoda pozwala na utrzymanie świeżości i wilgotności kwiatów, a także chroni je przed uszkodzeniami mechanicznymi. Zanurzanie kwiatów w ciepłej parafinie czy wodzie mogłoby prowadzić do ich gnicia, a szklane probówki są zbyt delikatne i ryzykowne do transportu": "Цветы антуриума защищаются на время транспортировки путем помещения их в пластиковые пробирки, которые содержат питательный раствор. Этот метод позволяет сохранить свежесть и влажность цветов, а также защищает их от механических повреждений. Погружение цветов в теплую парафиновую или воду могло бы привести к их гниению, а стеклянные пробирки слишком хрупкие и рискованны для транспортировки.",
         "żelaza": "железа.",
         "fosforu": "Фосфора.",

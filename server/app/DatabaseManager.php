@@ -47,7 +47,7 @@ class DatabaseManager extends Base
                 $cache[$polishFlowerName] = array(
                     $flowerInfo['ru'],
                     $flowerInfo['pl_wiki'],
-                    $flowerInfo['our_img'],
+                    array_key_exists('our_img', $flowerInfo) ? $flowerInfo['our_img'] : null,
                     // $flowerInfo['ru_wiki']
                 );
             }

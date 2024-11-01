@@ -39,7 +39,12 @@ class DatabaseManager extends Base
         $cache = array();
 
         foreach ($flowers as $flowerNameLatin => $flowerInfo) {
-            $cache[$flowerNameLatin] = $flowerInfo['our_img'];
+            $cache[$flowerNameLatin] = array(
+                $flowerInfo['ru'],
+                $flowerInfo['pl_wiki'],
+                array_key_exists('our_img', $flowerInfo) ? $flowerInfo['our_img'] : null
+            );
+
             $polishFlowerNames = array_key_exists('pl_more', $flowerInfo) ? $flowerInfo['pl_more'] : array();
             $polishFlowerNames[] = $flowerInfo['pl'];
 
@@ -47,8 +52,7 @@ class DatabaseManager extends Base
                 $cache[$polishFlowerName] = array(
                     $flowerInfo['ru'],
                     $flowerInfo['pl_wiki'],
-                    array_key_exists('our_img', $flowerInfo) ? $flowerInfo['our_img'] : null,
-                    // $flowerInfo['ru_wiki']
+                    array_key_exists('our_img', $flowerInfo) ? $flowerInfo['our_img'] : null
                 );
             }
         }

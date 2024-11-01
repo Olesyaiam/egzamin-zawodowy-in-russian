@@ -3,8 +3,7 @@
         "8 cm x 5 cm": "8 см x 5 см",
         "9 cm x 6 cm": "9 см x 6 см",
         "11 cm x 9 cm": "11 см x 9 см",
-        "22 cm x 18 cm": "22 см x 18 см",
-        "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной долговечности."
+        "22 cm x 18 cm": "22 см x 18 см"
     },
     "approved": {
         "others": {
@@ -1256,6 +1255,7 @@
         "begonia królewska, bluszcz i fitonia": "бегония королевская, плющ и фиттония.",
         "bugenwilla, kalanchoe i nolina": "бугенвиллея, каланхоэ и нолина.",
         "paprocie, palmy, dziurawce": "папоротники, пальмы, зверобои.",
-        "sekatora ogrodniczego": "садовых секаторов."
+        "sekatora ogrodniczego": "садовых секаторов.",
+        "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости."
     }
 }

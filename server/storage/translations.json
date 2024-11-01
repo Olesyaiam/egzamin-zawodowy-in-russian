@@ -524,7 +524,11 @@
             "noża florystycznego": "флористического ножа.",
             "ostrych nożyczek": "острых ножниц.",
             "szczypce płaskie": "Плоскогубцы.",
-            "Do skręcania grubych drutów przy wykonywaniu konstrukcji florystycznych stosuje się": "Для скручивания толстых проволок при выполнении флористических конструкций используется"
+            "Do skręcania grubych drutów przy wykonywaniu konstrukcji florystycznych stosuje się": "Для скручивания толстых проволок при выполнении флористических конструкций используется",
+            "zszywacz tapicerski": "мебельный степлер.",
+            "sekator grzechotkowy": "Секатор с храповым механизмом",
+            "nożyce kwiaciarskie": "Флористические ножницы.",
+            "Na rysunku przedstawiono kompozycję wykonaną zgodnie z zasadą złotego podziału. Ile wynosi jej wysokość (c), jeśli a = 30 cm?": "На рисунке представлена ​​композиция, выполненная в соответствии с принципом золотого сечения. Какова её высота (c), если a = 30 см?"
         }
     },
     "not_approved": {
@@ -940,9 +944,7 @@
         "oliwkę": "оливку.",
         "laur": "лавр",
         "rozmaryn": "розмарин",
-        "nożyce kwiaciarskie": "Флористические ножницы.",
         "mączniaka prawdziwego": "мучнистой росы.",
-        "sekator grzechotkowy": "Секатор с храповым механизмом",
         "rdzy róży": "ржавчины розы.",
         "epifity": "эпифиты.",
         "Storczyk, róża, bluszcz, azalia": "Орхидея, роза, плющ, азалия.",
@@ -1036,7 +1038,6 @@
         "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
         "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на плане сверху, выполненном в масштабе 1:10, имеет выставочный стенд, длина которого в действительности составляет 4 м, а ширина 2 м?",
         "Rośliny którego zestawu mają białe kwiaty?": "Растения какого набора имеют белые цветы?",
-        "Na rysunku przedstawiono kompozycję wykonaną zgodnie z zasadą złotego podziału. Ile wynosi jej wysokość (c), jeśli a = 30 cm?": "На рисунке представлена ​​композиция, выполненная в соответствии с принципом золотого сечения. Какова её высота (c), если a = 30 см?",
         "Na rysunku przedstawiono wieniec, którym w starożytności nagradzano zwycięzców igrzysk. Do jego wykonania zastosowano": "На рисунке изображён венок, которым в древности награждали победителей игр. Для его изготовления применяли",
         "Do dekoracji bukietu ślubnego florysta planuje użyć białych perełek. Jaki rodzaj drutu florystycznego powinien zastosować do ich nanizania?": "Для декорации свадебного букета флорист планирует использовать белые бусины. Какой вид флористической проволоки следует использовать для их нанизывания?",
         "Na suche i słoneczne stanowisko najlepiej polecić": "На сухое и солнечное место лучше всего порекомендовать",
@@ -1067,7 +1068,6 @@
         "Którym materiałem należy zabezpieczyć bukiet okolicznościowy na czas transportu w upalny dzień?": "Какой материал следует использовать для защиты букета на время транспортировки в жаркий день?",
         "promienisty układ łodyg i wiązanie pojedyncze": "лучеобразный уклад стеблей и одиночная связка.",
         "Miedziany": "Медный.",
-        "zszywacz tapicerski": "Степлер для обивки.",
         "antraknozy róży": "антракноза розы.",
         "Zielony na kołku": "Зелёный на колышке.",
         "hydrofity": "Гидрофиты.",
@@ -1255,6 +1255,7 @@
         "aloes, azalia i kordylina": "алоэ, азалия и кордилина.",
         "begonia królewska, bluszcz i fitonia": "бегония королевская, плющ и фиттония.",
         "bugenwilla, kalanchoe i nolina": "бугенвиллея, каланхоэ и нолина.",
-        "paprocie, palmy, dziurawce": "папоротники, пальмы, зверобои."
+        "paprocie, palmy, dziurawce": "папоротники, пальмы, зверобои.",
+        "sekatora ogrodniczego": "садовых секаторов."
     }
 }

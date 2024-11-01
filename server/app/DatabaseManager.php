@@ -20,7 +20,7 @@ class DatabaseManager extends Base
                 $results['flowers'][$flowerName] = array(
                     'ru' => $flowerShortInfo[0],
                     'wiki_pl' => 'https://pl.wikipedia.org/wiki/' . $flowerShortInfo[1],
-                    'img' => $flowerShortInfo[$flowerName][2] ? self::IMAGES_BASE_URL . $flowerShortInfo[2] : null
+                    'img' => $flowerShortInfo[2] ? self::IMAGES_BASE_URL . $flowerShortInfo[2] : null
                 );
 
                 $polishTextLower = str_ireplace($flowerName, '', $polishTextLower);

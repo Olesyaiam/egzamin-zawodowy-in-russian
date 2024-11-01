@@ -154,6 +154,13 @@
                     hintElement = null;
                 }
             };
+
+            // Добавляем обработчик клика, чтобы открыть изображение в новой вкладке
+            link.onclick = (e) => {
+                e.preventDefault();
+                const imageUrl = link.getAttribute('data-image');
+                window.open(imageUrl, '_blank');
+            };
         });
 
         // Остальная часть функции

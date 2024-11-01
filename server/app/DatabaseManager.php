@@ -61,8 +61,7 @@ class DatabaseManager extends Base
 
         file_put_contents(
             $this->storagePath . '/' . $this->filenameCache,
-            json_encode($cache),
-            JSON_UNESCAPED_UNICODE
+            json_encode($cache, JSON_UNESCAPED_UNICODE)
         );
 
         return $cache;

@@ -17,13 +17,17 @@ class DatabaseManager extends Base
 
         foreach ($cacheAndTime[0] as $flowerName => $flowerShortInfo) {
             if (stripos($polishTextLower, $flowerName) !== false) {
-                $results['flowers'][$flowerName] = array(
-                    'ru' => $flowerShortInfo[0],
-                    'wiki_pl' => 'https://pl.wikipedia.org/wiki/' . $flowerShortInfo[1],
-                    'img' => $flowerShortInfo[2] ? self::IMAGES_BASE_URL . $flowerShortInfo[2] : null
-                );
+                $regex = '/(?<![\p{L}\d])' . preg_quote($flowerName, '/') . '(?![\p{L}\d])/ui';
 
-                $polishTextLower = str_ireplace($flowerName, '', $polishTextLower);
+                if (preg_match($regex, $polishTextLower)) {
+                    $results['flowers'][$flowerName] = array(
+                        'ru' => $flowerShortInfo[0],
+                        'wiki_pl' => 'https://pl.wikipedia.org/wiki/' . $flowerShortInfo[1],
+                        'img' => $flowerShortInfo[2] ? self::IMAGES_BASE_URL . $flowerShortInfo[2] : null
+                    );
+
+                    $polishTextLower = preg_replace($regex, '', $polishTextLower);
+                }
             }
         }
 

@@ -582,7 +582,12 @@
             "rdzy róży": "ржавчины розы.",
             "antraknozy róży": "антракноза розы.",
             "mączniaka prawdziwego": "мучнистой росы.",
-            "czarnej plamistości róży": "чёрной пятнистости розы."
+            "czarnej plamistości róży": "чёрной пятнистости розы.",
+            "Czarne plamistości róży to choroba wywołana przez grzyba Diplocarpon rosae, który powoduje pojawienie się okrągłych, czarnobrązowych plamek na liściach, co w konsekwencji prowadzi do żółknięcia i opadania liści": "Чёрная пятнистость розы - это болезнь, вызванная грибом Diplocarpon rosae, который вызывает появление круглых, чёрно-коричневых пятен на листьях, что в итоге приводит к пожелтению и опадению листьев.",
+            "Pinholder": "Пинхолдер.",
+            "Kenzan": "Кензан.",
+            "Siatka miedziana": "Медная сетка.",
+            "Candleholder": "Подсвечник."
         }
     },
     "not_approved": {
@@ -647,10 +652,6 @@
         "była cięższa": "была тяжелее.",
         "zwiększyła swoją objętość": "увеличила свой объем.",
         "dostarczyć wodę kwiatom": "доставить воду цветам.",
-        "Kenzan": "Кензан.",
-        "Siatka miedziana": "Медная сетка.",
-        "Candleholder": "Подсвечник.",
-        "Pinholder": "Пинхолдер.",
         "usunąć z niej powietrze": "удалить из неё воздух.",
         "Bukiet spiralny charakteryzuje": "Спиральный букет характеризует",
         "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
@@ -801,7 +802,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?",
-        "Czarne plamistości róży to choroba wywołana przez grzyba Diplocarpon rosae, który powoduje pojawienie się okrągłych, czarnobrązowych plamek na liściach, co w konsekwencji prowadzi do żółknięcia i opadania liści": "Чёрная пятнистость розы - это болезнь, вызванная грибом Diplocarpon rosae, который вызывает появление круглых, чёрно-коричневых пятен на листьях, что в итоге приводит к пожелтению и опадению листьев."
+        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?"
     }
 }

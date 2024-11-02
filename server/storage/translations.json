@@ -594,7 +594,11 @@
             "Alstroemeria": "Альстрёмерия.",
             "Lilium": "Лилия.",
             "Hippeastrum": "Гиппеаструм.",
-            "Ornithogalum": "Птицемлечник."
+            "Ornithogalum": "Птицемлечник.",
+            "Ring z gąbki do żywych roślin i drut wyrobowy": "Кольцо из губки для живых растений и рукодельная проволока.",
+            "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",
+            "Ring ze styropianu i plastelina florystyczna": "Кольцо из пенополистирола и флористический пластилин.",
+            "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке."
         }
     },
     "not_approved": {
@@ -642,10 +646,6 @@
         "Plastelinowa": "Пластилиновая.",
         "Kauczukowa": "Каучуковая.",
         "szyszki świerkowe": "шишки еловые.",
-        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке.",
-        "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",
-        "Ring ze styropianu i plastelina florystyczna": "Кольцо из пенополистирола и флористический пластилин.",
-        "Ring z gąbki do żywych roślin i drut wyrobowy": "Кольцо из губки для живых растений и рукодельная проволока.",
         "obraz z kwiatów i liści": "картина из цветов и листьев.",
         "kompozycję przestrzenną": "пространственную композицию.",
         "wianek komunijny": "венок на первое причастие",

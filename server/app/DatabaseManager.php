@@ -31,7 +31,7 @@ class DatabaseManager extends Base
             }
         }
 
-        $results['time_file'] = $cacheAndTime[1];
+        $results['time_file'] = $cacheAndTime['time'];
         $results['time_search'] = round(microtime(true) - $searchStartTime, 2);
 
         return $results;
@@ -84,8 +84,10 @@ class DatabaseManager extends Base
 
     private function loadCacheGenerateIfNotExists(): array
     {
+        $startTime = microtime(true);
         $cache = $this->load($this->filenameCache);
+        $timeArray = array('time' => round(microtime(true) - $startTime, 2));
 
-        return $cache ? $cache : $this->generateCache();
+        return $cache ? $cache + $timeArray : $this->generateCache();
     }
 }

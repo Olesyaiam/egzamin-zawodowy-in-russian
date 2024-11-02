@@ -54,7 +54,7 @@
     }
 
     function makeHttpRequest(endpoint, data, callback) {
-        const url = baseUrl + endpoint;
+        const url = baseUrl + endpoint + `?timestamp=${Date.now()}`;;
         const requestData = {
             action: 'makeHttpRequest',
             url: url,
@@ -121,13 +121,13 @@
         saveToCacheSwitchState(switchIsOn)
     }
 
-    function prepareTranslationElementAndAddToDom(original_element, translation_element, translation, images) {
+    function prepareTranslationElementAndAddToDom(original_element, translation_element, translation, flowers) {
         let lastIndex = 0;
         let originalText = original_element.innerHTML;
 
-        Object.keys(images).forEach((key) => {
+        Object.keys(flowers).forEach((key) => {
             const keyRegex = new RegExp(`(?<![\\p{L}\\d])${key}(?![\\p{L}\\d])`, 'giu');
-            const imageUrl = images[key];
+            const flowerData = flowers[key]; // Получаем объект с 'wiki_pl' и 'img'
 
             // Разбиваем текст на сегменты, используя HTML-теги как разделители
             originalText = originalText.replace(/(<[^>]+>|[^<]+)/g, (segment) => {
@@ -138,7 +138,7 @@
 
                 // В противном случае выполняем замену по ключевому слову
                 return segment.replace(keyRegex, (match) => {
-                    return `<a href="#" class="image-link" data-image="${imageUrl}">${match}</a>`;
+                    return `<a href="${flowerData.wiki_pl}" class="image-link" data-image="${flowerData.img}" target="_blank">${match}</a>`;
                 });
             });
         });
@@ -167,8 +167,7 @@
             // Добавляем обработчик клика, чтобы открыть изображение в новой вкладке
             link.onclick = (e) => {
                 e.preventDefault();
-                const imageUrl = link.getAttribute('data-image');
-                window.open(imageUrl, '_blank');
+                window.open(link.getAttribute('href'), '_blank');
             };
         });
 
@@ -248,7 +247,7 @@
         makeHttpRequest('translations/get', {text: text, question_context: questionContext}, function (result) {
             if (result.translation && result.translation.trim() !== '') {
                 saveToCacheEmojiFlag(result.translation, !result.approved);
-                callback(result.translation, result.images);
+                callback(result.translation, result.flowers);
             } else {
                 console.log('Invalid translation received for: ' + text);
                 callback('Ошибка: не получилось перевести.', []);
@@ -385,9 +384,9 @@
                     : '';
 
 
-                translateText(originalTextWithNoTranslate, questionContext, function (translatedText, images) {
+                translateText(originalTextWithNoTranslate, questionContext, function (translatedText, flowers) {
                     clonedContent.innerHTML = '';
-                    prepareTranslationElementAndAddToDom(element, clonedContent, translatedText, images);
+                    prepareTranslationElementAndAddToDom(element, clonedContent, translatedText, flowers);
                 });
             }
         }

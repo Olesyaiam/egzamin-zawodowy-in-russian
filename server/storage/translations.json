@@ -1,5 +1,5 @@
 {
-    "incorrect": {},
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -376,7 +376,15 @@
             "Z ilu części składa się koło barw wg J. Ittena?": "Из скольких частей состоит цветовой круг по Й. Иттену?",
             "Podczas zbioru kwiatów wykonuje się cięcie": "Во время сбора цветов выполняется срезка.",
             "Szynowania": "Рельсоподобного укрепления.",
-            "Skręcania": "Кручения."
+            "Skręcania": "Кручения.",
+            "W jaki sposób zabezpiecza się pojedyncze kwiaty anturium na czas transportu?": "Каким образом защищают отдельные цветы антуриума во время транспортировки?",
+            "Zanurza się w ciepłej parafinie": "Погружается в теплый парафин.",
+            "Kwiaty anturium są zabezpieczane na czas transportu poprzez umieszczenie ich w plastikowych fiolkach, które zawierają odżywczy roztwór. Ta metoda pozwala na utrzymanie świeżości i wilgotności kwiatów, a także chroni je przed uszkodzeniami mechanicznymi. Zanurzanie kwiatów w ciepłej parafinie czy wodzie mogłoby prowadzić do ich gnicia, a szklane probówki są zbyt delikatne i ryzykowne do transportu": "Цветы антуриума защищаются на время транспортировки путем помещения их в пластиковые флористические пробирки, которые содержат питательный раствор. Этот метод позволяет сохранять свежесть и влажность цветов, а также защищает их от механических повреждений. Погружение цветов в теплую парафиновую или водную среду могло бы привести к их гниению, а стеклянные пробирки слишком хрупки и рискованны для транспортировки.",
+            "szyszki modrzewia": "шишки лиственницы.",
+            "płatki groszku pachnącego": "лепестки душистого горошка.",
+            "liście strelicji": "листья стрелиции.",
+            "Płatki groszku pachnącego są znane ze swojej jedwabistej struktury. Jest to wynik specyficznej budowy komórek, które tworzą powierzchnię płatka, a także zawartości wody w nich. Szyszki modrzewia, owocostany piwonii czy liście strelicji nie mają takiej struktury, są raczej szorstkie lub skórzaste": "Лепестки душистого горошка известны своей шелковистой структурой. Это результат специфического строения клеток, которые образуют поверхность лепестка, а также содержания воды в них. Шишки лиственницы, соплодия пиона или листья стрелиции не имеют такой структуры, они скорее шероховатые или кожистые.",
+            "Mocując delikatne liście do podkładu wieńca należy użyć taśmy": "Крепя нежные листья к подкладке венка, следует использовать ленту"
         }
     },
     "not_approved": {
@@ -616,7 +624,6 @@
         "Metodą zielnikową można suszyć": "Методом гербаризации можно сушить",
         "kauczukowej": "каучуковой.",
         "kotwica": "якорь",
-        "Mocując delikatne liście do podkładu wieńca należy użyć taśmy": "Крепя нежные листья к подкладке венка, следует использовать ленту",
         "Taśma dwustronnie klejąca jest najodpowiedniejszym narzędziem do mocowania delikatnych liści do podkładu wieńca, ponieważ umożliwia precyzyjne i bezpieczne przymocowanie liści, nie niszcząc ich struktury. Kotwica, taśma kauczukowa czy tapa są zbyt masywnymi narzędziami, które mogłyby uszkodzić lub zniszczyć delikatne liście. Dlatego odpowiedź \"dwustronnie klejącej\" jest poprawna": "Двусторонняя клейкая лента является наиболее подходящим инструментом для крепления нежных листьев к подкладке венка, поскольку она позволяет точно и безопасно прикрепить листья, не разрушая их структуру. Якорь, лента каучуковая или так называемая \"тапа\" являются слишком массивными инструментами, которые могли бы повредить или уничтожить нежные листья. Поэтому ответ \"двусторонней клейкой\" является правильным.",
         "wieńca dożynkowego": "венка дожинкового.",
         "mufka": "муфта",
@@ -721,10 +728,10 @@
         "Bukietu ślubnego": "Свадебного букета.",
         "Wieńca adwentowego": "Адвентового венка.",
         "Wianka komunijnego": "Венка на первое причастие.",
-        "z fioletowymi w stosunku 1/2 do 1/2": "с фиолетовыми в соотношении 1/2 к 1/2.",
-        "z czerwonymi w stosunku 1/4 do 3/4": "с красными в соотношении 1/4 к 3/4.",
+        "z fioletowymi w stosunku 1\/2 do 1\/2": "с фиолетовыми в соотношении 1\/2 к 1\/2.",
+        "z czerwonymi w stosunku 1\/4 do 3\/4": "с красными в соотношении 1\/4 к 3\/4.",
         "szyszki świerkowe": "шишки еловые.",
-        "z fioletowymi w stosunku 1/4 do 3/4": "с фиолетовыми в соотношении 1/4 к 3/4.",
+        "z fioletowymi w stosunku 1\/4 do 3\/4": "с фиолетовыми в соотношении 1\/4 к 3\/4.",
         "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке.",
         "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",
         "Ring ze styropianu i plastelina florystyczna": "Кольцо из пенополистирола и флористический пластилин.",
@@ -915,6 +922,7 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "boa": "боа.",
-        "Zanurza się w ciepłej parafinie": "Погружается в теплый парафин."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
+        "Zostaw bez odpowiedzi": "Оставить без ответа"
     }
 }

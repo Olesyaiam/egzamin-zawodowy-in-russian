@@ -469,7 +469,8 @@
             "ognik i jarzębina": "пираканта и рябина",
             "jarzębina i ligustr": "рябина и бирючина",
             "ligustr i pigwowiec": "бирючина и айвочка",
-            "ognik i pigwowiec": "пираканта и айвочка"
+            "ognik i pigwowiec": "пираканта и айвочка",
+            "Odpowiedź \"ognik i jarzębina.\" jest poprawna, ponieważ owoce obu tych roślin są pomarańczowe. Ognik to krzew, który w okresie dojrzewania owoców ma kolor pomarańczowy. Jarzębina to drzewo, które również produkuje pomarańczowe owoce. Natomiast ligustr i pigwowiec nie mają pomarańczowych owoców": "Ответ \"пираканта и рябина.\" является правильным, потому что плоды обоих этих растений оранжевые. Пираканта — это кустарник, который в период созревания плодов имеет оранжевый цвет. Рябина — это дерево, которое также производит оранжевые плоды. Однако бирючина и айвочка не имеют оранжевых плодов."
         }
     },
     "not_approved": {
@@ -748,6 +749,8 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Odpowiedź \"ognik i jarzębina.\" jest poprawna, ponieważ owoce obu tych roślin są pomarańczowe. Ognik to krzew, który w okresie dojrzewania owoców ma kolor pomarańczowy. Jarzębina to drzewo, które również produkuje pomarańczowe owoce. Natomiast ligustr i pigwowiec nie mają pomarańczowych owoców": "Ответ \"пираканта и рябина.\" является правильным, потому что плоды обоих этих растений оранжевые. Пираканта — это кустарник, который в период созревания плодов имеет оранжевый цвет. Рябина — это дерево, которое также производит оранжевые плоды. Однако бирючина и айвочка не имеют оранжевых плодов."
+        "Winogrona i porzeczki": "Виноград и смородина.",
+        "Wiśnie i czereśnie": "Вишня и черешня.",
+        "Truskawki i jagody": "Земляника ананасная и ягоды."
     }
 }

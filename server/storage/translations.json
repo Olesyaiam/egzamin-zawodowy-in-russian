@@ -536,7 +536,17 @@
             "z czerwonymi w stosunku 1\/2 do 1\/2": "с красными в отношении 1\/2 к 1\/2.",
             "z fioletowymi w stosunku 1\/2 do 1\/2": "с фиолетовыми в соотношении 1\/2 к 1\/2.",
             "W kompozycji o kolorach komplementarnych, kwiaty żółte należy połączyć z fioletowymi w stosunku 1\/4 do 3\/4, ponieważ fioletowy jest kolorem komplementarnym dla żółtego. Stosunek 1\/4 do 3\/4 zapewnia równowagę między kolorami i tworzy harmonijną kompozycję": "В композиции с комплементарными цветами, жёлтые цветы следует комбинировать с фиолетовыми в соотношении 1\/4 к 3\/4, потому что фиолетовый является комплементарным цветом к жёлтому. Соотношение 1\/4 к 3\/4 обеспечивает баланс между цветами и создаёт гармоничную композицию.",
-            "Który środek techniczny najlepiej wybrać do wykonania niewielkiej dekoracji zawieszanej na brzegu ławki kościelnej?": "Какое техническое средство лучше всего выбрать для создания небольшой декорации, подвешиваемой на край церковной скамьи?"
+            "Który środek techniczny najlepiej wybrać do wykonania niewielkiej dekoracji zawieszanej na brzegu ławki kościelnej?": "Какое техническое средство лучше всего выбрать для создания небольшой декорации, подвешиваемой на край церковной скамьи?",
+            "Garnet": "Гранат.",
+            "Mikrofon": "Микрофон.",
+            "Floret": "Рапира.",
+            "Clip": "Клипса.",
+            "Clip jest najlepszym środkiem technicznym do wykonania niewielkiej dekoracji zawieszonej na brzegu ławki kościelnej, ponieważ jest to klips, który można łatwo zamocować na dowolnym przedmiocie": "Клипса является наилучшим техническим средством для выполнения небольшой декорации, подвешенной на краю церковной скамьи, поскольку это клипса, которую можно легко закрепить на любом предмете.",
+            "Rośliny którego zestawu mają białe kwiaty?": "Растения какого набора имеют белые цветы?",
+            "Brzoza, magnolia, pigwowiec": "Берёза, магнолия, айвочка.",
+            "Lilak, konwalia, lilia": "Сирень, ландыш, лилия.",
+            "Mak, rudbekia, jaśminowiec": "Мак, рудбекия, чубушник.",
+            "Zawilec, lilia, forsycja": "Ветреница, лилия, форзиция."
         }
     },
     "not_approved": {
@@ -606,10 +616,7 @@
         "Tekturowym papierem": "Картонной бумагой.",
         "Kryzą z organzy": "Декоративным воротником из органзы.",
         "tkania": "ткачества.",
-        "Clip": "Клипса.",
         "gąbki florystycznej": "флористической губки.",
-        "Mikrofon": "Микрофон.",
-        "Garnet": "Гранат.",
         "była cięższa": "была тяжелее.",
         "zwiększyła swoją objętość": "увеличила свой объем.",
         "dostarczyć wodę kwiatom": "доставить воду цветам.",
@@ -621,7 +628,6 @@
         "Bukiet spiralny charakteryzuje": "Спиральный букет характеризует",
         "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
         "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на плане сверху, выполненном в масштабе 1:10, имеет выставочный стенд, длина которого в действительности составляет 4 м, а ширина 2 м?",
-        "Rośliny którego zestawu mają białe kwiaty?": "Растения какого набора имеют белые цветы?",
         "Na rysunku przedstawiono wieniec, którym w starożytności nagradzano zwycięzców igrzysk. Do jego wykonania zastosowano": "На рисунке изображён венок, которым в древности награждали победителей игр. Для его изготовления применяли",
         "Do dekoracji bukietu ślubnego florysta planuje użyć białych perełek. Jaki rodzaj drutu florystycznego powinien zastosować do ich nanizania?": "Для декорации свадебного букета флорист планирует использовать белые бусины. Какой вид флористической проволоки следует использовать для их нанизывания?",
         "Która taśma stosowana jest w technice watowania?": "Какая лента используется в технике обертывания ватой?",
@@ -653,7 +659,6 @@
         "groszek pachnący": "душистый горошек.",
         "warstwowania": "Слоения",
         "watowania": "обёртывания ватой.",
-        "Floret": "Рапира.",
         "Roślina po przycięciu uwalnia szkodliwe dla innych roślin substancje, dlatego nie należy jej umieszczać w wazonie z innymi. Zamieszczony opis dotyczy": "Растение после подрезки выделяет вредные для других растений вещества, поэтому не следует помещать его в вазон с другими. Приведённое описание касается",
         "niska temperatura": "низкая температура.",
         "intensywne nasłonecznienie": "интенсивное солнечное освещение.",
@@ -775,6 +780,7 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?"
+        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?",
+        "Poprawna odpowiedź to \"Lilak, konwalia, lilia.\", ponieważ są to rośliny należące do zestawu roślin ozdobnych, które charakteryzują się białymi kwiatami": "Правильный ответ: \"Сирень, ландыш, лилия.\", потому что это растения, относящиеся к набору декоративных растений, которые характеризуются белыми цветками."
     }
 }

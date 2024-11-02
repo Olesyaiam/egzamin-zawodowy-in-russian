@@ -54,7 +54,7 @@
     }
 
     function makeHttpRequest(endpoint, data, callback) {
-        const url = baseUrl + endpoint + `?timestamp=${Date.now()}`;;
+        const url = baseUrl + endpoint;
         const requestData = {
             action: 'makeHttpRequest',
             url: url,

@@ -620,7 +620,16 @@
             "sosny, krokusa, dalii": "сосны, шафран, георгина",
             "dyni, kraspedii, hortensji": "тыквы, краспедии, гортензии.",
             "słonecznika, floksa, miskanta": "подсолнечника, флокса, мискантуса.",
-            "Który zestaw roślin należy wybrać do kompozycji florystycznej w stylu wegetatywnym?": "Какой набор растений следует выбрать для флористической композиции в вегетативном стиле?"
+            "Który zestaw roślin należy wybrać do kompozycji florystycznej w stylu wegetatywnym?": "Какой набор растений следует выбрать для флористической композиции в вегетативном стиле?",
+            "Gerbery, róże, stokrotki": "Гербера, роза, маргаритка.",
+            "Rudbekie, nawłocie, floksy": "Рудбекия, золотарник, флокс.",
+            "Lewkonie, róże, strelicje": "Левкой, розы, стрелиция.",
+            "Anturia, maki, floksy": "Антуриум, мак, флокс.",
+            "W pozycji naturalnej suszy się": "В естественном положении сушится.",
+            "koszyczki kocanek": "корзинки бессмертника",
+            "groszek pachnący": "душистый горошек.",
+            "szyszki świerkowe": "шишки еловые.",
+            "trawę pampasową": "кортадерия."
         }
     },
     "not_approved": {
@@ -660,7 +669,6 @@
         "Legendę i wymiary kompozycji podane w skali": "Легенда и размеры композиции указаны в масштабе.",
         "Legendę z podaną liczbą poszczególnych elementów i skalę": "Легенду с указанным количеством отдельных элементов и масштаб.",
         "Legendę z podaną liczbą poszczególnych elementów i wymiary rzeczywiste kompozycji": "Легенду с указанным количеством отдельных элементов и реальные размеры композиции.",
-        "szyszki świerkowe": "шишки еловые.",
         "obraz z kwiatów i liści": "картина из цветов и листьев.",
         "kompozycję przestrzenną": "пространственную композицию.",
         "wianek komunijny": "венок на первое причастие",
@@ -682,7 +690,6 @@
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
         "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
         "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна с северной экспозицией?",
-        "W pozycji naturalnej suszy się": "В естественном положении сушится.",
         "Z roślin zasuszonych metodą zielnikową florysta może wykonać": "Из растений, высушенных гербарным методом, флорист может выполнить",
         "W celu wykonania okrągłej kompozycji w pojemniku z zasuszonych roślin florysta powinien zastosować technikę": "Для создания круглой композиции в контейнере из засушенных растений флорист должен применить технику.",
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
@@ -691,7 +698,6 @@
         "Którym materiałem należy zabezpieczyć bukiet okolicznościowy na czas transportu w upalny dzień?": "Какой материал следует использовать для защиты букета на время транспортировки в жаркий день?",
         "Miedziany": "Медный.",
         "Zielony na kołku": "Зелёный на колышке.",
-        "groszek pachnący": "душистый горошек.",
         "warstwowania": "Слоения",
         "watowania": "обёртывания ватой.",
         "Roślina po przycięciu uwalnia szkodliwe dla innych roślin substancje, dlatego nie należy jej umieszczać w wazonie z innymi. Zamieszczony opis dotyczy": "Растение после подрезки выделяет вредные для других растений вещества, поэтому не следует помещать его в вазон с другими. Приведённое описание касается",
@@ -815,11 +821,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Gerbery, róże, stokrotki": "Гербера, роза, маргаритка.",
-        "Anturia, maki, floksy": "Антуриум, мак, флокс.",
-        "Lewkonie, róże, strelicje": "Левкой, розы, стрелиция.",
-        "Rudbekie, nawłocie, floksy": "Рудбекия, золотарник, флокс.",
-        "trawę pampasową": "кортадерия.",
         "Róża, lewkonia, mak": "Роза, левкой, мак.",
         "Świerk, wilczomlecz, jemioła": "Ель, молочай, омела.",
         "Chryzantema, nefrolepis, świerk": "Хризантема, нефролепис, ель.",
@@ -840,7 +841,6 @@
         "Mak, róża, lilia, aspidistra": "Мак, роза, лилия, аспидистра.",
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
         "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
-        "koszyczki kocanek": "корзинки бессмертника",
         "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина."
     }
 }

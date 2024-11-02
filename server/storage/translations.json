@@ -571,7 +571,11 @@
             "Wieńca adwentowego": "Адвентового венка.",
             "Wianka komunijnego": "Венка на первое причастие.",
             "Do wykonania której kompozycji najlepiej zastosować złociszki, kocanki i kwiatostany traw?": "Для выполнения какой композиции лучше всего использовать мелкий сухоцвет, бессмертник и соцветия злаков?",
-            "Złociszki, kocanki i kwiatostany traw są typowymi elementami używanymi do zdobienia palm wileńskich, stąd to właśnie ta kompozycja jest najlepszym wyborem": "Мелкий сухоцвет, бессмертник и соцветия злаков являются типичными элементами, используемыми для украшения виленских пальм, поэтому именно эта композиция является наилучшим выбором."
+            "Złociszki, kocanki i kwiatostany traw są typowymi elementami używanymi do zdobienia palm wileńskich, stąd to właśnie ta kompozycja jest najlepszym wyborem": "Мелкий сухоцвет, бессмертник и соцветия злаков являются типичными элементами, используемыми для украшения виленских пальм, поэтому именно эта композиция является наилучшим выбором.",
+            "Które rodzaje wyrobów florystycznych wykonywane są jako dekoracje pogrzebowe?": "Какие виды флористических изделий изготавливаются в качестве похоронных украшений?",
+            "Pnącze i wianek": "Вьющиеся растения и венок.",
+            "Korsarz i wiązanka angielska": "Корсаж и английская цветочная связка.",
+            "Poduszka i wieniec warszawski": "Подушка и венок варшавский."
         }
     },
     "not_approved": {
@@ -619,9 +623,7 @@
         "Maskująca": "Маскирующая.",
         "Plastelinowa": "Пластилиновая.",
         "Kauczukowa": "Каучуковая.",
-        "Korsarz i wiązanka angielska": "Корсаж и английская цветочная связка.",
         "Naręcze i wodospad": "Объятие и водопад.",
-        "Poduszka i wieniec warszawski": "Подушка и венок варшавский.",
         "szyszki świerkowe": "шишки еловые.",
         "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке.",
         "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",
@@ -653,7 +655,6 @@
         "Która taśma stosowana jest w technice watowania?": "Какая лента используется в технике обертывания ватой?",
         "Które elementy musi zawierać rysunek techniczny stanowiący część dokumentacji projektowej?": "Какие элементы должен содержать технический рисунок, являющийся частью проектной документации?",
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
-        "Które rodzaje wyrobów florystycznych wykonywane są jako dekoracje pogrzebowe?": "Какие виды флористических изделий изготавливаются в качестве похоронных украшений?",
         "Przedstawiona na rysunku roślina to": "Представленное на рисунке растение — это",
         "Który zestaw roślin należy wybrać do kompozycji florystycznej w stylu wegetatywnym?": "Какой набор растений следует выбрать для флористической композиции в вегетативном стиле?",
         "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
@@ -671,7 +672,6 @@
         "promienisty układ łodyg i wiązanie pojedyncze": "лучеобразный уклад стеблей и одиночная связка.",
         "Miedziany": "Медный.",
         "Zielony na kołku": "Зелёный на колышке.",
-        "Pnącze i wianek": "Вьющиеся растения и венок.",
         "groszek pachnący": "душистый горошек.",
         "warstwowania": "Слоения",
         "watowania": "обёртывания ватой.",

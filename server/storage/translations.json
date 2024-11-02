@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Którą technikę florystyczną przedstawiono na rysunku?": "Какую флористическую технику изображено на рисунке?"
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -499,7 +501,16 @@
             "kula styropianowa": "шар из пенопласта",
             "Gąbka florystyczna jest podstawowym narzędziem stosowanym w florystyce do tworzenia różnego rodzaju kompozycji, w tym flower boxów. Dzięki swojej porowatej strukturze, gąbka jest w stanie zatrzymać wodę, co zapewnia odpowiednie nawodnienie dla kwiatów. Pozwala też na stabilne umieszczenie roślin w wybranej przez florystę pozycji. Pozostałe odpowiedzi nie są poprawne, ponieważ nie spełniają tych funkcji": "Флористическая губка является основным инструментом, используемым в флористике для создания различных композиций, включая флауэрбоксы. Благодаря своей пористой структуре, губка способна удерживать воду, что обеспечивает надлежащее увлажнение для цветов. Она также позволяет стабильно разместить растения в выбранной флористом позиции. Остальные ответы неверны, поскольку они не выполняют этих функций.",
             "Na zdjęciu widoczna jest gąbka florystyczna, która ma kształt i strukturę przypominającą klatkę, co jest charakterystyczne dla gąbek typu \"gabbia\". Pozostałe odpowiedzi nie pasują do przedstawionego obiektu: \"clip\" to zazwyczaj klips, \"mini deco\" sugeruje mniejszy dekoracyjny element, a \"table deco\" to dekoracja stołowa": "На фото видна флористическая губка, которая имеет форму и структуру, напоминающую клетку, что характерно для губок типа \"gabbia\". Остальные ответы не подходят к представленному объекту: \"clip\" обычно означает клипсу, \"mini deco\" предполагает меньший декоративный элемент, а \"table deco\" — это столовая декорация.",
-            "Podczas zbioru kwiatów cięcie wykonuje się na ukos nad węzłem, ponieważ pozwala to na lepsze pobieranie wody przez roślinę, co jest kluczowe dla jej dalszego rozwoju. Cięcie na ukos zwiększa powierzchnię, przez którą roślina może pobierać wodę. Dodatkowo, cięcie nad węzłem stymuluje roślinę do tworzenia nowych pędów": "Во время сбора цветов срез выполняется наискосок над узлом, поскольку это позволяет растению лучше поглощать воду, что является ключевым для его дальнейшего развития. Срез наискосок увеличивает площадь, через которую растение может поглощать воду. Кроме того, срез над узлом стимулирует растение к образованию новых побегов."
+            "Podczas zbioru kwiatów cięcie wykonuje się na ukos nad węzłem, ponieważ pozwala to na lepsze pobieranie wody przez roślinę, co jest kluczowe dla jej dalszego rozwoju. Cięcie na ukos zwiększa powierzchnię, przez którą roślina może pobierać wodę. Dodatkowo, cięcie nad węzłem stymuluje roślinę do tworzenia nowych pędów": "Во время сбора цветов срез выполняется наискосок над узлом, поскольку это позволяет растению лучше поглощать воду, что является ключевым для его дальнейшего развития. Срез наискосок увеличивает площадь, через которую растение может поглощать воду. Кроме того, срез над узлом стимулирует растение к образованию новых побегов.",
+            "owocostany piwonii": "Соплодия пиона.",
+            "ostróżki": "дельфиниум.",
+            "agapanty": "агапантус",
+            "Cynie i dalie": "Циннии и георгины.",
+            "Truskawki i jagody": "Клубника и черника.",
+            "szlachetnych": "благородных",
+            "wypełniających": "заполняющих.",
+            "kamelia": "камелия.",
+            "Pochodzący z początku XX wieku bukiet ślubny wykonany z płatków mieczyka to": "Букет невесты, выполненный из лепестков шпажника и происходящий из начала XX века, это"
         }
     },
     "not_approved": {
@@ -524,9 +535,6 @@
         "oświadczenia o rozwiązaniu umowy o pracę": "заявления о расторжении трудового договора.",
         "Pracodawca, który rozwiązał umowę o pracę zobowiązany jest do niezwłocznego wydania pracownikowi": "Работодатель, который расторг трудовой договор, обязан незамедлительно выдать работнику",
         "eztr_pytanie_zdjecie { display:inline-block;height:280px;width:336px } @media (max-width: 767px) { .eztr_pytanie_zdjecie { display: none; } } (adsbygoogle = window.adsbygoogle || []).push({});": "Извините, но этот текст не связан с флористикой и содержит только техническую информацию о стиле и рекламе. Если у вас есть другой текст, связанный с флористикой, я с удовольствием помогу с его переводом.",
-        "Którą technikę florystyczną przedstawiono na rysunku?": "Какую флористическую технику изображено на рисунке?",
-        "szlachetnych": "благородных",
-        "wypełniających": "заполняющих.",
         "Kwiaty odgrywające rolę tła w kompozycji kwiatowej są zaliczane do form wypełniających, ponieważ ich głównym zadaniem jest wypełnienie przestrzeni i stworzenie tła dla kwiatów dominujących. Nie są one punktem centralnym uwagi, ale służą jako uzupełnienie i podkreślenie piękna kwiatów głównych. Formy szlachetne, dominujące czy królewskie odnoszą się do roli kwiatów, które są punktem centralnym kompozycji, a nie tłem": "Цветы, играющие роль фона в цветочной композиции, относятся к заполняющим формам, так как их главная задача заключается в заполнении пространства и создании фона для доминирующих цветов. Они не являются центральным объектом внимания, но служат дополнением и подчёркивают красоту главных цветов. Благородные, доминирующие или королевские формы относятся к роли цветов, которые являются центральной точкой композиции, а не фоном.",
         "Potwierdzeniem wydania towaru z magazynu surowców do działu produkcji jest dokument": "Подтверждением выдачи товара со склада сырья в производственный отдел является документ.",
         "PZ – Przyjęcie zewnętrzne": "PZ – Поступление внешнее.",
@@ -762,6 +770,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "owocostany piwonii": "Соплодия пиона."
+        "gałązki jemioły, cztery świece, wstążkę, susz, egzotyczny, gąbkę florystyczną": "веточки омелы, четыре свечи, лента, сухоцвет, экзотический, флористическую губку."
     }
 }

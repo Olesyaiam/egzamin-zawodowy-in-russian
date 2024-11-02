@@ -553,7 +553,13 @@
             "Do wykonania kompozycji pogrzebowej przeznaczony jest": "Для выполнения похоронной композиции предназначен",
             "Floret to rodzaj specjalnej gąbki, która służy do umieszczania kwiatów w kompozycjach florystycznych. Jest to niezbędne narzędzie przy tworzeniu bukietów i aranżacji kwiatowych, w tym także przy kompozycjach pogrzebowych": "Рапира - это вид специальной губки, которая служит для размещения цветов в флористических композициях. Это необходимый инструмент при создании букетов и цветочных аранжировок, в том числе и в случае похоронных композиций.",
             "Korzystając z danych zamieszczonych w tabeli, oblicz koszt robocizny wykonania kompozycji, przyjmując, że stanowi ona 30% kosztów zużytych materiałów florystycznych": "Используя данные, приведенные в таблице, рассчитайте затраты на работу по выполнению композиции, принимая, что они составляют 30% затрат на использованные флористические материалы.",
-            "Aby obliczyć koszt robocizny, należy najpierw zsumować koszty zużytych materiałów florystycznych, co daje łącznie 99,00 zł. Następnie obliczamy 30% z tej kwoty, co daje wynik 29,70 zł, co jest kosztem robocizny": "Чтобы рассчитать затраты на работу, необходимо сначала суммировать затраты на использованные флористические материалы, что составляет в общей сложности 99,00 злотых. Затем мы вычисляем 30% от этой суммы, что дает результат 29,70 злотых, что является затратами на работу."
+            "Aby obliczyć koszt robocizny, należy najpierw zsumować koszty zużytych materiałów florystycznych, co daje łącznie 99,00 zł. Następnie obliczamy 30% z tej kwoty, co daje wynik 29,70 zł, co jest kosztem robocizny": "Чтобы рассчитать затраты на работу, необходимо сначала суммировать затраты на использованные флористические материалы, что составляет в общей сложности 99,00 злотых. Затем мы вычисляем 30% от этой суммы, что дает результат 29,70 злотых, что является затратами на работу.",
+            "Który zestaw roślin należy użyć do przygotowania bukietu o barwie niebiesko-fioletowej?": "Какой набор растений следует использовать для подготовки букета с синевато-фиолетовой расцветкой?",
+            "Lilia, goździk, szparag": "Лилия, гвоздика, спаржа.",
+            "Chryzantema, szparag, gipsówka": "Хризантема, спаржа, гипсофила.",
+            "Ostróżka, zawilec, mikołajek": "Дельфиниум, ветреница, синеголовник.",
+            "Goździk, forsycja, jaskier": "Гвоздика, форзиция, лютик.",
+            "Poprawna odpowiedź, czyli \"Ostróżka, zawilec, mikołajek\", jest poprawna, ponieważ to rośliny o fioletowo-niebieskich kwiatach": "Правильный ответ, то есть \"Дельфиниум, ветреница, синеголовник\", является правильным, потому что это растения с фиолетово-синими цветами."
         }
     },
     "not_approved": {
@@ -647,7 +653,6 @@
         "W pozycji naturalnej suszy się": "В естественном положении сушится.",
         "Który zestaw środków technicznych nadaje się do wykonania wieńca rzymskiego ze stroiszu?": "Какой набор технических средств подходит для изготовления римского венка из декоративной зелени?",
         "Z roślin zasuszonych metodą zielnikową florysta może wykonać": "Из растений, высушенных гербарным методом, флорист может выполнить",
-        "Który zestaw roślin należy użyć do przygotowania bukietu o barwie niebiesko-fioletowej?": "Какой набор растений следует использовать для подготовки букета с расцветкой в синево-фиолетовых тонах?",
         "W celu wykonania okrągłej kompozycji w pojemniku z zasuszonych roślin florysta powinien zastosować technikę": "Для создания круглой композиции в контейнере из засушенных растений флорист должен применить технику.",
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
         "Do wykonania kompozycji z owoców i suchych kwiatów w koszu wiklinowym najlepiej użyć": "Для выполнения композиции из плодов и сухих цветов в плетеной корзине лучше всего использовать",
@@ -783,6 +788,7 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?"
+        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?",
+        "Sępolia, cyklamen, kroton": "Сенполия, цикламен, кодиеум."
     }
 }

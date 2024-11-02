@@ -577,7 +577,12 @@
             "Korsarz i wiązanka angielska": "Корсаж и английская цветочная связка.",
             "Poduszka i wieniec warszawski": "Подушка и венок варшавский.",
             "Naręcze i wodospad": "Наручный букет и водопад.",
-            "Poduszka i wieniec warszawski są tradycyjnymi rodzajami dekoracji pogrzebowych, których używa się na całym świecie. Natomiast naręcze i wodospad, korsarz i wiązanka angielska, pnącze i wianek nie są typowymi dekoracjami pogrzebowymi": "Подушка и варшавский венок являются традиционными видами похоронных украшений, которые используются во всем мире. Тогда как наручный букет и водопад, корсаж и английская цветочная связка, вьющиеся растения и венок не являются типичными похоронными украшениями."
+            "Poduszka i wieniec warszawski są tradycyjnymi rodzajami dekoracji pogrzebowych, których używa się na całym świecie. Natomiast naręcze i wodospad, korsarz i wiązanka angielska, pnącze i wianek nie są typowymi dekoracjami pogrzebowymi": "Подушка и варшавский венок являются традиционными видами похоронных украшений, которые используются во всем мире. Тогда как наручный букет и водопад, корсаж и английская цветочная связка, вьющиеся растения и венок не являются типичными похоронными украшениями.",
+            "Okrągłe, czarnobrązowe plamki na liściach róży, które powodują żółknięcie, a następnie opadanie liści, są objawem": "Круглые, черно-коричневые пятна на листьях розы, которые вызывают пожелтение, а затем опадание листьев, являются симптомом.",
+            "rdzy róży": "ржавчины розы.",
+            "antraknozy róży": "антракноза розы.",
+            "mączniaka prawdziwego": "мучнистой росы.",
+            "czarnej plamistości róży": "чёрной пятнистости розы."
         }
     },
     "not_approved": {
@@ -616,7 +621,6 @@
         "promienisty układ łodyg i wiązanie podwójne": "лучеобразный уклад стеблей и двойное связывание.",
         "Aluminiowy": "Алюминиевый.",
         "Srebrny na szpulce": "Серебряный на катушке.",
-        "mączniaka prawdziwego": "мучнистой росы.",
         "Legendę, skalę i wymiary rzeczywiste kompozycji": "Легенду, масштаб и реальные размеры композиции.",
         "Legendę i wymiary kompozycji podane w skali": "Легенда и размеры композиции указаны в масштабе.",
         "Legendę z podaną liczbą poszczególnych elementów i skalę": "Легенду с указанным количеством отдельных элементов и масштаб.",
@@ -797,6 +801,7 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?"
+        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?",
+        "Czarne plamistości róży to choroba wywołana przez grzyba Diplocarpon rosae, który powoduje pojawienie się okrągłych, czarnobrązowych plamek na liściach, co w konsekwencji prowadzi do żółknięcia i opadania liści": "Чёрная пятнистость розы - это болезнь, вызванная грибом Diplocarpon rosae, который вызывает появление круглых, чёрно-коричневых пятен на листьях, что в итоге приводит к пожелтению и опадению листьев."
     }
 }

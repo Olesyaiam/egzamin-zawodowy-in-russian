@@ -43,7 +43,7 @@ class DatabaseManager extends Base
         $cacheDirPath = dirname($cachePath);
 
         if (!is_dir($cacheDirPath)) {
-            throw new \Exception("add to /etc/fstab: tmpfs\t" . $cacheDirPath . "\ttmpfs\tdefaults,size=5M\t0\t0");
+            throw new \Exception("add to /etc/fstab: tmpfs\t" . $cacheDirPath . "\tramfs\tdefaults,size=5M\t0\t0");
         }
 
         $startTime = microtime(true);

@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "oddzielanie cebul przybyszowych": "отделение деток-луковиц."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -400,7 +398,11 @@
             "z brzozy": "из берёзы.",
             "z bambusa": "из бамбука.",
             "Pojemniki wykonane z metalu są często wybierane do nowoczesnych, przestronnych wnętrz ze względu na ich minimalistyczny i industrialny charakter. Metal jest materiałem trwałym i łatwym w utrzymaniu czystości, co jest ważne w miejscach publicznych. Dodatkowo, metaliczne pojemniki mogą być wykonane w różnych kształtach i rozmiarach, co pozwala na ich dopasowanie do różnorodnych przestrzeni. Wreszcie, metal jest materiałem uniwersalnym, który łatwo łączy się z innymi materiałami, takimi jak szkło czy drewno, co pozwala na tworzenie spójnych kompozycji": "Контейнеры, выполненные из металла, часто выбираются для современных, просторных интерьеров из-за их минималистичного и индустриального характера. Металл является долговечным материалом, который легко поддерживать в чистоте, что важно в общественных местах. Кроме того, металлические контейнеры могут быть выполнены в различных формах и размерах, что позволяет их адаптировать к разнообразным пространствам. Наконец, металл является универсальным материалом, который легко сочетается с другими материалами, такими как стекло или дерево, что позволяет создавать согласованные композиции.",
-            "Sansewierię i cantedeskię można rozmnażać przez": "Сансевиерию и зантедескию можно размножать через"
+            "Sansewierię i cantedeskię można rozmnażać przez": "Сансевиерию и зантедескию можно размножать через",
+            "podział kęp": "деление кустов",
+            "podział kłączy": "деление корневищ",
+            "odkłady powietrzne": "воздушные отводки.",
+            "oddzielanie cebul przybyszowych": "отделение дочерних луковиц."
         }
     },
     "not_approved": {
@@ -477,8 +479,6 @@
         "mocowania mokrej gąbki do naczynia": "крепления влажной флористической губки к сосуду.",
         "Plastelina florystyczna jest materiałem, który charakteryzuje się dużą przyczepnością, dzięki czemu doskonale sprawdza się do mocowania suchych elementów do gładkich powierzchni. Pozwala na utrzymanie stabilności i odpowiedniego układu elementów dekoracyjnych. Nie jest natomiast używana do mocowania mokrej gąbki do naczynia, maskowania gąbki florystycznej w kompozycji czy montażu świec w gąbce florystycznej, ponieważ te zadania wymagają innych materiałów i technik": "Флористическая пластилин является материалом, который характеризуется высокой адгезией, благодаря чему отлично подходит для крепления сухих элементов к гладким поверхностям. Позволяет поддерживать стабильность и соответствующий уклад декоративных элементов. Однако она не используется для крепления мокрой флористической губки к сосуду, маскировки флористической губки в композиции или монтажа свечей в флористической губке, поскольку для этих задач требуются другие материалы и техники.",
         "Gruszki i jabłka": "Груши и яблоки.",
-        "podział kłączy": "деление корневищ",
-        "odkłady powietrzne": "воздушные отводки.",
         "Korzystając z danych zawartych w tabeli oblicz koszt materiału roślinnego przeznaczonego do wykonania trzech wiązanek pogrzebowych": "Используя данные, содержащиеся в таблице, рассчитайте стоимость растительного материала, предназначенного для выполнения трёх похоронных композиций.",
         "Aby obliczyć koszt materiału roślinnego na trzy wiązanki pogrzebowe, należy zsumować koszty poszczególnych materiałów potrzebnych do wykonania jednej wiązanki, a następnie pomnożyć tę sumę przez trzy, ponieważ potrzebujemy materiałów na trzy wiązanki. Po przeprowadzeniu obliczeń otrzymujemy kwotę 378,00 zł, co jest zgodne z podaną poprawną odpowiedzią": "Чтобы рассчитать стоимость растительного материала на три похоронные композиции, необходимо сложить расходы на отдельные материалы, необходимые для изготовления одной композиции, а затем умножить эту сумму на три, потому что нам нужны материалы на три композиции. После проведения расчетов мы получаем сумму 378,00 зл, что соответствует указанному правильному ответу.",
         "nabywcę": "покупателя.",
@@ -717,6 +717,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "podział kęp": "деление кустов"
+        "Sansewieria i cantedeskia to rośliny, które posiadają kłącza, czyli podziemne pędy, służące do gromadzenia substancji odżywczych. Rozmnażanie przez podział kłączy polega na odcięciu fragmentu kłącza z co najmniej jednym pąkiem i posadzeniu go jako nowej rośliny. Inne metody rozmnażania, jak podział kęp czy odkłady powietrzne, nie są typowe dla tych gatunków. Oddzielanie cebul przybyszowych dotyczy roślin cebulowych, czym sansewieria i cantedeskia nie są": "Сансевиерия и зантедеския — это растения, которые имеют корневища, то есть подземные побеги, служащие для накопления питательных веществ. Размножение посредством деления корневищ заключается в отрезании фрагмента корневища с по крайней мере одной почкой и посадке его как нового растения. Другие методы размножения, такие как деление кустов или воздушные отводки, не являются типичными для этих видов. Отделение деток луковиц относится к луковичным растениям, которыми сансевиерия и зантедеския не являются."
     }
 }

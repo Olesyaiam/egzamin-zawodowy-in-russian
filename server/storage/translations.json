@@ -1,5 +1,5 @@
 {
-    "incorrect": {},
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -721,10 +721,10 @@
         "Bukietu ślubnego": "Свадебного букета.",
         "Wieńca adwentowego": "Адвентового венка.",
         "Wianka komunijnego": "Венка на первое причастие.",
-        "z fioletowymi w stosunku 1/2 do 1/2": "с фиолетовыми в соотношении 1/2 к 1/2.",
-        "z czerwonymi w stosunku 1/4 do 3/4": "с красными в соотношении 1/4 к 3/4.",
+        "z fioletowymi w stosunku 1\/2 do 1\/2": "с фиолетовыми в соотношении 1\/2 к 1\/2.",
+        "z czerwonymi w stosunku 1\/4 do 3\/4": "с красными в соотношении 1\/4 к 3\/4.",
         "szyszki świerkowe": "шишки еловые.",
-        "z fioletowymi w stosunku 1/4 do 3/4": "с фиолетовыми в соотношении 1/4 к 3/4.",
+        "z fioletowymi w stosunku 1\/4 do 3\/4": "с фиолетовыми в соотношении 1\/4 к 3\/4.",
         "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке.",
         "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",
         "Ring ze styropianu i plastelina florystyczna": "Кольцо из пенополистирола и флористический пластилин.",
@@ -915,6 +915,7 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "boa": "боа.",
-        "Zanurza się w ciepłej parafinie": "Погружается в теплый парафин."
+        "Zanurza się w ciepłej parafinie": "Погружается в теплый парафин.",
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
     }
 }

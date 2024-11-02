@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Targi Ogrodnicze Gardenia są jednym z najważniejszych wydarzeń ogrodniczych w Polsce, które odbywają się corocznie na terenie Międzynarodowych Targów Poznańskich. Poznań jest znany z organizacji różnorodnych targów i wystaw o zasięgu krajowym i międzynarodowym. Dlatego odpowiedź \"w Poznaniu\" jest poprawna": "Садовые Ярмарки Гардения являются одним из важнейших садоводческих событий в Польше, которые ежегодно проходят на территории Международных Ярмарок Познани. Познань известен организацией разнообразных ярмарок и выставок национального и международного масштаба. Поэтому ответ \"в Познани\" является правильным."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -442,7 +444,9 @@
             "mocowania suchych elementów do gładkich powierzchni": "крепления сухих элементов к гладким поверхностям.",
             "montażu świec w gąbce florystycznej": "монтажа свечей в цветочной губке.",
             "Plastelina florystyczna jest materiałem, który charakteryzuje się dużą przyczepnością, dzięki czemu doskonale sprawdza się do mocowania suchych elementów do gładkich powierzchni. Pozwala na utrzymanie stabilności i odpowiedniego układu elementów dekoracyjnych. Nie jest natomiast używana do mocowania mokrej gąbki do naczynia, maskowania gąbki florystycznej w kompozycji czy montażu świec w gąbce florystycznej, ponieważ te zadania wymagają innych materiałów i technik": "Флористический пластилин является материалом, который характеризуется высокой адгезией, благодаря чему отлично подходит для крепления сухих элементов к гладким поверхностям. Позволяет сохранить стабильность и правильный уклад декоративных элементов. Однако он не используется для крепления мокрой губки к сосуду, маскировки флористической губки в композиции или монтажа свечей во флористической губке, поскольку эти задачи требуют других материалов и техник.",
-            "Cytrusy, palmy i oleandry polecane są do wnętrz w stylu": "Цитрус, пальмовые и олеандра рекомендуются для интерьеров в стиле"
+            "Cytrusy, palmy i oleandry polecane są do wnętrz w stylu": "Цитрус, пальмовые и олеандра рекомендуются для интерьеров в стиле",
+            "Cytrusy, palmy i oleandry to rośliny typowe dla klimatu śródziemnomorskiego, który charakteryzuje się ciepłym, słonecznym i wilgotnym powietrzem. Styl południowy, zwany również śródziemnomorskim, nawiązuje do krajów położonych na południu Europy, takich jak Hiszpania, Włochy czy Grecja. Wnętrza w tym stylu często są uzupełniane o rośliny charakterystyczne dla tych regionów, aby oddać atmosferę ciepła i słońca. Dlatego cytrusy, palmy i oleandry są polecane do wnętrz w stylu południowym": "Цитрус, пальмовые и олеандра - это растения, типичные для средиземноморского климата, который характеризуется теплым, солнечным и влажным воздухом. Южный стиль, также называемый средиземноморским, отсылает к странам, расположенным на юге Европы, таким как Испания, Италия или Греция. Интерьеры в этом стиле часто дополняются растениями, характерными для этих регионов, чтобы передать атмосферу тепла и солнца. Поэтому цитрус, пальмовые и олеандра рекомендуются для интерьеров в южном стиле.",
+            "Targi Ogrodnicze Gardenia odbywają się corocznie": "Садоводческая ярмарка Gardenia проводится ежегодно."
         }
     },
     "not_approved": {

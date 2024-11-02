@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "owocostany kukurydzy": "Соплодия кукурузы."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -429,7 +431,11 @@
             "Gloriozy (Gloriosa)": "Глориоза (Gloriosa)",
             "Goździki (Dianthus)": "Гвоздика (Dianthus)",
             "Frezje (Freesia)": "Фрезия (Freesia)",
-            "Goździki (Dianthus) są znane ze swojej wytrzymałości i długotrwałości, zarówno w wazonie, jak i przechowywane na sucho. Mają twardą, drewniejącą łodygę i grube, woskowate płatki, które pomagają im przetrwać dłużej niż inne kwiaty cięte. Inne wymienione kwiaty, takie jak frezje, gloriozy czy lilie, mają delikatniejszą budowę i szybciej więdną": "Гвоздика (Dianthus) известна своей выносливостью и долговечностью, как в вазоне, так и при хранении в сухом виде. Обладает твердой, древеснеющей стеблевой частью и толстыми, восковыми лепестками, которые помогают ей прожить дольше, чем другие срезанные цветы. Другие перечисленные цветы, такие как фрезии, глориозы или лилии, имеют более нежную структуру и быстрее увядают."
+            "Goździki (Dianthus) są znane ze swojej wytrzymałości i długotrwałości, zarówno w wazonie, jak i przechowywane na sucho. Mają twardą, drewniejącą łodygę i grube, woskowate płatki, które pomagają im przetrwać dłużej niż inne kwiaty cięte. Inne wymienione kwiaty, takie jak frezje, gloriozy czy lilie, mają delikatniejszą budowę i szybciej więdną": "Гвоздика (Dianthus) известна своей выносливостью и долговечностью, как в вазоне, так и при хранении в сухом виде. Обладает твердой, древеснеющей стеблевой частью и толстыми, восковыми лепестками, которые помогают ей прожить дольше, чем другие срезанные цветы. Другие перечисленные цветы, такие как фрезии, глориозы или лилии, имеют более нежную структуру и быстрее увядают.",
+            "Metodą zielnikową można suszyć": "Методом гербаризации можно сушить",
+            "pędy głogu": "побеги боярышника",
+            "liście miłorzębu": "листья гинкго.",
+            "kwiatostany hortensji": "соцветия гортензии"
         }
     },
     "not_approved": {
@@ -469,7 +475,6 @@
         "Kreszowania": "Плиссировки.",
         "Którą technikę florystyczną przedstawiono na rysunku?": "Какую флористическую технику изображено на рисунке?",
         "Na zdjęciu widać technikę florystyczną polegającą na wzmacnianiu łodyg kwiatów za pomocą cienkich drucików lub patyczków, co jest znane jako szynowanie. Technika ta jest stosowana, aby zapewnić wsparcie dla łodyg, które mogą być zbyt słabe, aby utrzymać ciężar kwiatów lub aby nadać im pożądany kształt": "На фото видно флористическую технику, заключающуюся в укреплении стеблей цветов с помощью тонких проволочек или палочек, что известно как рельсоподобное укрепление. Эта техника применяется для обеспечения поддержки стеблей, которые могут быть слишком слабыми, чтобы удерживать вес цветов, или чтобы придать им желаемую форму.",
-        "Metodą zielnikową można suszyć": "Методом гербаризации можно сушить",
         "wieńca dożynkowego": "венка дожинкового.",
         "Nożyczki są odpowiednim narzędziem do przycinania włókna kokosowego ze względu na ich precyzyjność i łatwość użycia. Sekatory, cęgi czy kombinerki mogą być zbyt nieporęczne lub nie zapewniać odpowiedniej precyzji. Ponadto, nożyczki pozwalają na kontrolowane i równomierne cięcie, co jest kluczowe przy pracy z delikatnym materiałem jakim jest włókno kokosowe": "Ножницы являются подходящим инструментом для обрезки кокосового волокна благодаря их точности и легкости использования. Секаторы, клещи или плоскогубцы могут быть слишком неудобными или не обеспечивать необходимой точности. Кроме того, ножницы позволяют на контролируемый и равномерный рез, что является ключевым при работе с деликатным материалом, таким как кокосовое волокно.",
         "We florystyce złoty podział określa": "Во флористике золотое сечение определяет",
@@ -724,10 +729,6 @@
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "liście miłorzębu": "листья гинкго.",
-        "kwiatostany hortensji": "соцветия гортензии",
-        "pędy głogu": "побеги боярышника",
-        "owocostany kukurydzy": "Соплодия кукурузы."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
     }
 }

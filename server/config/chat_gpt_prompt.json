@@ -106,12 +106,17 @@
         "wytwarz": [
             "wytwarzane są przez: созданы с помощью"
         ],
+        "sło": [
+            "słoj: большая банка",
+            "słoik: банка"
+        ],
         "kauczuk": [
             "taśma kauczukowa: лента каучуковая",
             "kauczuk: каучук"
         ]
     },
     "dictionary_others": {
+        "alabastr": "alabastr: алебастр",
         "flower box": "flower box: флауэрбокс",
         "kreszowa": "kreszowanie: крэширование материалов",
         "palm": "palma wielkanocna: пасхальная пальма",

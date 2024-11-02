@@ -603,7 +603,18 @@
             "laur": "лавр",
             "mirt": "мирт.",
             "oliwkę": "маслина.",
-            "rozmaryn": "розмарин."
+            "rozmaryn": "розмарин.",
+            "Który zestaw środków technicznych nadaje się do wykonania wieńca rzymskiego ze stroiszu?": "Какой набор технических средств подходит для изготовления римского венка из хвойного материала?",
+            "Bukiet spiralny charakteryzuje": "Спиральный букет характеризует",
+            "promienisty układ łodyg i wiązanie pojedyncze": "лучеобразный уклад стеблей и одиночная связка.",
+            "równoległy układ łodyg i wiązanie pojedyncze": "параллельный уклад стеблей и одиночная связывание.",
+            "równoległy układ łodyg i wiązanie podwójne": "параллельный уклад стеблей и двойное связывание.",
+            "promienisty układ łodyg i wiązanie podwójne": "лучеобразный уклад стеблей и двойное связывание.",
+            "Która taśma stosowana jest w technice watowania?": "Какая лента используется в технике обертывания ватой?",
+            "Kauczukowa": "Каучуковая.",
+            "Maskująca": "Маскирующая.",
+            "Antypoślizgowa": "Противоскользящая.",
+            "Plastelinowa": "Пластилиновая."
         }
     },
     "not_approved": {
@@ -637,19 +648,12 @@
         "1 pojemnik": "1 контейнер.",
         "5 pojemników": "5 контейнеров.",
         "zasychaniem brzegów liści i obniżeniem odporności na niekorzystne warunki": "засыханием краёв листьев и понижением устойчивости к неблагоприятным условиям.",
-        "równoległy układ łodyg i wiązanie podwójne": "параллельный уклад стеблей и двойное связывание.",
-        "równoległy układ łodyg i wiązanie pojedyncze": "параллельный уклад стеблей и одиночная связывание.",
-        "promienisty układ łodyg i wiązanie podwójne": "лучеобразный уклад стеблей и двойное связывание.",
         "Aluminiowy": "Алюминиевый.",
         "Srebrny na szpulce": "Серебряный на катушке.",
         "Legendę, skalę i wymiary rzeczywiste kompozycji": "Легенду, масштаб и реальные размеры композиции.",
         "Legendę i wymiary kompozycji podane w skali": "Легенда и размеры композиции указаны в масштабе.",
         "Legendę z podaną liczbą poszczególnych elementów i skalę": "Легенду с указанным количеством отдельных элементов и масштаб.",
         "Legendę z podaną liczbą poszczególnych elementów i wymiary rzeczywiste kompozycji": "Легенду с указанным количеством отдельных элементов и реальные размеры композиции.",
-        "Antypoślizgowa": "Противоскользящая.",
-        "Maskująca": "Маскирующая.",
-        "Plastelinowa": "Пластилиновая.",
-        "Kauczukowa": "Каучуковая.",
         "szyszki świerkowe": "шишки еловые.",
         "obraz z kwiatów i liści": "картина из цветов и листьев.",
         "kompozycję przestrzenną": "пространственную композицию.",
@@ -665,11 +669,9 @@
         "zwiększyła swoją objętość": "увеличила свой объем.",
         "dostarczyć wodę kwiatom": "доставить воду цветам.",
         "usunąć z niej powietrze": "удалить из неё воздух.",
-        "Bukiet spiralny charakteryzuje": "Спиральный букет характеризует",
         "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
         "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на плане сверху, выполненном в масштабе 1:10, имеет выставочный стенд, длина которого в действительности составляет 4 м, а ширина 2 м?",
         "Do dekoracji bukietu ślubnego florysta planuje użyć białych perełek. Jaki rodzaj drutu florystycznego powinien zastosować do ich nanizania?": "Для декорации свадебного букета флорист планирует использовать белые бусины. Какой вид флористической проволоки следует использовать для их нанизывания?",
-        "Która taśma stosowana jest w technice watowania?": "Какая лента используется в технике обертывания ватой?",
         "Które elementy musi zawierać rysunek techniczny stanowiący część dokumentacji projektowej?": "Какие элементы должен содержать технический рисунок, являющийся частью проектной документации?",
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
         "Który zestaw roślin należy wybrać do kompozycji florystycznej w stylu wegetatywnym?": "Какой набор растений следует выбрать для флористической композиции в вегетативном стиле?",
@@ -683,7 +685,6 @@
         "Jaka będzie rzeczywista wysokość i szerokość kompozycji florystycznej, jeśli na rysunku projektowym w skali 1:10 wymiary wynoszą 10 cm x 5 cm?": "Какова будет реальная высота и ширина флористической композиции, если на проектном чертеже в масштабе 1:10 размеры составляют 10 см х 5 см?",
         "Które kwiaty cięte nie powinny być przechowywane w chłodni?": "Какие срезанные цветы не должны храниться в холодильной камере?",
         "Którym materiałem należy zabezpieczyć bukiet okolicznościowy na czas transportu w upalny dzień?": "Какой материал следует использовать для защиты букета на время транспортировки в жаркий день?",
-        "promienisty układ łodyg i wiązanie pojedyncze": "лучеобразный уклад стеблей и одиночная связка.",
         "Miedziany": "Медный.",
         "Zielony na kołku": "Зелёный на колышке.",
         "groszek pachnący": "душистый горошек.",
@@ -840,7 +841,6 @@
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
         "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
         "koszyczki kocanek": "корзинки бессмертника",
-        "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
-        "Który zestaw środków technicznych nadaje się do wykonania wieńca rzymskiego ze stroiszu?": "Какой набор технических средств подходит для изготовления римского венка из хвойного материала?"
+        "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина."
     }
 }

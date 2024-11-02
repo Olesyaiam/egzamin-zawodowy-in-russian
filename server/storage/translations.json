@@ -546,7 +546,14 @@
             "Brzoza, magnolia, pigwowiec": "Берёза, магнолия, айвочка.",
             "Lilak, konwalia, lilia": "Сирень, ландыш, лилия.",
             "Mak, rudbekia, jaśminowiec": "Мак, рудбекия, чубушник.",
-            "Zawilec, lilia, forsycja": "Ветреница, лилия, форзиция."
+            "Zawilec, lilia, forsycja": "Ветреница, лилия, форзиция.",
+            "Poprawna odpowiedź to \"Lilak, konwalia, lilia.\", ponieważ są to rośliny należące do zestawu roślin ozdobnych, które charakteryzują się białymi kwiatami": "Правильный ответ: \"Сирень, ландыш, лилия.\", потому что это растения, относящиеся к набору декоративных растений, которые характеризуются белыми цветками.",
+            "mikrofon": "микрофон.",
+            "candleholder": "Подсвечник.",
+            "Do wykonania kompozycji pogrzebowej przeznaczony jest": "Для выполнения похоронной композиции предназначен",
+            "Floret to rodzaj specjalnej gąbki, która służy do umieszczania kwiatów w kompozycjach florystycznych. Jest to niezbędne narzędzie przy tworzeniu bukietów i aranżacji kwiatowych, w tym także przy kompozycjach pogrzebowych": "Рапира - это вид специальной губки, которая служит для размещения цветов в флористических композициях. Это необходимый инструмент при создании букетов и цветочных аранжировок, в том числе и в случае похоронных композиций.",
+            "Korzystając z danych zamieszczonych w tabeli, oblicz koszt robocizny wykonania kompozycji, przyjmując, że stanowi ona 30% kosztów zużytych materiałów florystycznych": "Используя данные, приведенные в таблице, рассчитайте затраты на работу по выполнению композиции, принимая, что они составляют 30% затрат на использованные флористические материалы.",
+            "Aby obliczyć koszt robocizny, należy najpierw zsumować koszty zużytych materiałów florystycznych, co daje łącznie 99,00 zł. Następnie obliczamy 30% z tej kwoty, co daje wynik 29,70 zł, co jest kosztem robocizny": "Чтобы рассчитать затраты на работу, необходимо сначала суммировать затраты на использованные флористические материалы, что составляет в общей сложности 99,00 злотых. Затем мы вычисляем 30% от этой суммы, что дает результат 29,70 злотых, что является затратами на работу."
         }
     },
     "not_approved": {
@@ -597,8 +604,6 @@
         "Korsarz i wiązanka angielska": "Корсаж и английская цветочная связка.",
         "Naręcze i wodospad": "Объятие и водопад.",
         "Poduszka i wieniec warszawski": "Подушка и венок варшавский.",
-        "candleholder": "Подсвечник.",
-        "mikrofon": "микрофон.",
         "Bukietu ślubnego": "Свадебного букета.",
         "Wieńca adwentowego": "Адвентового венка.",
         "Wianka komunijnego": "Венка на первое причастие.",
@@ -635,7 +640,6 @@
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
         "Które rodzaje wyrobów florystycznych wykonywane są jako dekoracje pogrzebowe?": "Какие виды флористических изделий изготавливаются в качестве похоронных украшений?",
         "Przedstawiona na rysunku roślina to": "Представленное на рисунке растение — это",
-        "Do wykonania kompozycji pogrzebowej przeznaczony jest": "Для выполнения похоронной композиции предназначен",
         "W którym zestawie są wyłącznie rośliny doniczkowe o ozdobnych i jednocześnie barwnych liściach?": "В каком наборе находятся исключительно комнатные растения с декоративными и одновременно окрашенными листьями?",
         "Który zestaw roślin należy wybrać do kompozycji florystycznej w stylu wegetatywnym?": "Какой набор растений следует выбрать для флористической композиции в вегетативном стиле?",
         "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
@@ -654,7 +658,6 @@
         "promienisty układ łodyg i wiązanie pojedyncze": "лучеобразный уклад стеблей и одиночная связка.",
         "Miedziany": "Медный.",
         "Zielony na kołku": "Зелёный на колышке.",
-        "Korzystając z danych zamieszczonych w tabeli, oblicz koszt robocizny wykonania kompozycji, przyjmując, że stanowi ona 30% kosztów zużytych materiałów florystycznych": "Используя данные, приведенные в таблице, рассчитайте затраты на работу по выполнению композиции, принимая, что они составляют 30% затрат на использованные флористические материалы.",
         "Pnącze i wianek": "Вьющиеся растения и венок.",
         "groszek pachnący": "душистый горошек.",
         "warstwowania": "Слоения",
@@ -780,7 +783,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?",
-        "Poprawna odpowiedź to \"Lilak, konwalia, lilia.\", ponieważ są to rośliny należące do zestawu roślin ozdobnych, które charakteryzują się białymi kwiatami": "Правильный ответ: \"Сирень, ландыш, лилия.\", потому что это растения, относящиеся к набору декоративных растений, которые характеризуются белыми цветками."
+        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?"
     }
 }

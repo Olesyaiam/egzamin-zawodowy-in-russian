@@ -511,7 +511,8 @@
             "Pochodzący z początku XX wieku bukiet ślubny wykonany z płatków mieczyka to": "Букет невесты, выполненный из лепестков шпажника и происходящий из начала XX века, это",
             "gałązki jemioły, cztery świece, wstążkę, susz, egzotyczny, gąbkę florystyczną": "веточки омелы, четыре свечи, лента, сухоцвет, экзотический, флористическую губку.",
             "Którą technikę florystyczną przedstawiono na rysunku?": "Какая флористическая техника представлена на рисунке?",
-            "frezje": "фрезия."
+            "frezje": "фрезия.",
+            "KLUCZ ODPOWIEDZI OSOBNO": "КЛЮЧ ОТВЕТА ОТДЕЛЬНО"
         }
     },
     "not_approved": {
@@ -523,7 +524,6 @@
         "Technika": "Техника",
         "Odczyn Wartość pH Kwaśny 4,5-5,5 Lekko kwaśny 5,6-6,5 Obojętny 6,6-7,2 Zasadowy &gt;7,3": "Показатель Значение pH Кислый 4,5-5,5 Слегка кислый 5,6-6,5 Нейтральный 6,6-7,2 Щелочной >7,3",
         "Poziomy pH dla różnych typów środowiska: Środowisko kwaśne: pH poniżej 7 Silnie kwaśne: pH 0-3 Umiarkowanie kwaśne: pH 3-5 Słabo kwaśne: pH 5-7 Środowisko neutralne: pH 7 Środowisko zasadowe: pH powyżej 7 Słabo zasadowe: pH 7-8 Umiarkowanie zasadowe: pH 8-10 Silnie zasadowe: pH 10-14": "Уровни pH для различных типов среды: Кислая среда: pH ниже 7 Сильно кислая: pH 0-3 Умеренно кислая: pH 3-5 Слабо кислая: pH 5-7 Нейтральная среда: pH 7 Щелочная среда: pH выше 7 Слабо щелочная: pH 7-8 Умеренно щелочная: pH 8-10 Сильно щелочная: pH 10-14",
-        "KLUCZ ODPOWIEDZI OSOBNO": "КЛЮЧ ОТВЕТА ОТДЕЛЬНО",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
         "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
         "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения дня рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основе данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
@@ -770,6 +770,7 @@
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
+        "Na którym rysunku przedstawiono liść fatsji japońskiej?": "На каком рисунке изображён лист фатсии японской?"
     }
 }

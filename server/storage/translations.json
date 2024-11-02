@@ -598,7 +598,12 @@
             "Ring z gąbki do żywych roślin i drut wyrobowy": "Кольцо из губки для живых растений и рукодельная проволока.",
             "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",
             "Ring ze styropianu i plastelina florystyczna": "Кольцо из пенополистирола и флористический пластилин.",
-            "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке."
+            "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке.",
+            "Na rysunku przedstawiono wieniec, którym w starożytności nagradzano zwycięzców igrzysk. Do jego wykonania zastosowano": "На рисунке изображён венок, которым в древности награждали победителей игр. Для его изготовления применяли",
+            "laur": "лавр",
+            "mirt": "мирт.",
+            "oliwkę": "маслина.",
+            "rozmaryn": "розмарин."
         }
     },
     "not_approved": {
@@ -663,7 +668,6 @@
         "Bukiet spiralny charakteryzuje": "Спиральный букет характеризует",
         "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
         "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на плане сверху, выполненном в масштабе 1:10, имеет выставочный стенд, длина которого в действительности составляет 4 м, а ширина 2 м?",
-        "Na rysunku przedstawiono wieniec, którym w starożytności nagradzano zwycięzców igrzysk. Do jego wykonania zastosowano": "На рисунке изображён венок, которым в древности награждали победителей игр. Для его изготовления применяли",
         "Do dekoracji bukietu ślubnego florysta planuje użyć białych perełek. Jaki rodzaj drutu florystycznego powinien zastosować do ich nanizania?": "Для декорации свадебного букета флорист планирует использовать белые бусины. Какой вид флористической проволоки следует использовать для их нанизывания?",
         "Która taśma stosowana jest w technice watowania?": "Какая лента используется в технике обертывания ватой?",
         "Które elementy musi zawierać rysunek techniczny stanowiący część dokumentacji projektowej?": "Какие элементы должен содержать технический рисунок, являющийся частью проектной документации?",
@@ -672,7 +676,6 @@
         "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
         "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна с северной экспозицией?",
         "W pozycji naturalnej suszy się": "В естественном положении сушится.",
-        "Który zestaw środków technicznych nadaje się do wykonania wieńca rzymskiego ze stroiszu?": "Какой набор технических средств подходит для изготовления римского венка из декоративной зелени?",
         "Z roślin zasuszonych metodą zielnikową florysta może wykonać": "Из растений, высушенных гербарным методом, флорист может выполнить",
         "W celu wykonania okrągłej kompozycji w pojemniku z zasuszonych roślin florysta powinien zastosować technikę": "Для создания круглой композиции в контейнере из засушенных растений флорист должен применить технику.",
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
@@ -807,10 +810,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "rozmaryn": "розмарин.",
-        "laur": "лавр",
-        "oliwkę": "маслина.",
-        "mirt": "мирт.",
         "miechunki, róży, przetacznika": "физалиса, розы, вероники.",
         "dyni, kraspedii, hortensji": "тыквы, краспедии, гортензии.",
         "słonecznika, floksa, miskanta": "подсолнечника, флокса, мискантуса.",
@@ -839,6 +838,9 @@
         "Storczyk, róża, bluszcz, azalia": "Ятрышник, роза, плющ, рододендрон.",
         "Mak, róża, lilia, aspidistra": "Мак, роза, лилия, аспидистра.",
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
-        "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя"
+        "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
+        "koszyczki kocanek": "корзинки бессмертника",
+        "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
+        "Który zestaw środków technicznych nadaje się do wykonania wieńca rzymskiego ze stroiszu?": "Какой набор технических средств подходит для изготовления римского венка из хвойного материала?"
     }
 }

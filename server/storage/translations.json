@@ -566,7 +566,10 @@
             "Fikus, jukka, kroton": "Фикус, юкка, кодиеум.",
             "Nefrolepis, jukka, maranta": "Нефролепис, юкка, маранта.",
             "Kroton (Codiaeum variegatum), maranta (Maranta leuconeura) oraz kalatea (Calathea spp.) są roślinami doniczkowymi, które są cenione za ich ozdobne i barwne liście. Liście krotona charakteryzują się intensywnymi barwami i różnorodnymi wzorami. Maranta posiada liście z charakterystycznym, kontrastowym rysunkiem, często w odcieniach zieleni, czerwieni lub kremu. Kalatea również wyróżnia się pięknymi, kolorowymi liśćmi z wyraźnymi wzorami. Pozostałe rośliny wymienione w innych odpowiedziach, takie jak sępolia, cyklamen, nefrolepis, jukka i fikus, nie spełniają kryterium posiadania jednocześnie ozdobnych i barwnych liści, ponieważ albo są to rośliny o zielonych liściach, albo ich główną ozdobą są kwiaty, a nie liście": "Кодиеум (Codiaeum variegatum), маранта (Maranta leuconeura) и калатея (Calathea spp.) являются комнатными растениями, которые ценятся за их декоративные и красочные листья. Листья кодиеума характеризуются интенсивными расцветками и разнообразными узорами. Маранта имеет листья с характерным, контрастным рисунком, часто в оттенках зелени, красного или кремового. Калатея также выделяется красивыми, цветными листьями с явными узорами. Остальные растения, перечисленные в других ответах, такие как сенполия, цикламен, нефролепис, юкка и фикус, не соответствуют критерию одновременного наличия декоративных и красочных листьев, поскольку либо это растения с зелёными листьями, либо их главным украшением являются цветы, а не листья.",
-            "Palmy wileńskiej": "Пальмы виленской"
+            "Palmy wileńskiej": "Пальмы виленской",
+            "Bukietu ślubnego": "Свадебного букета.",
+            "Wieńca adwentowego": "Адвентового венка.",
+            "Wianka komunijnego": "Венка на первое причастие."
         }
     },
     "not_approved": {
@@ -617,9 +620,6 @@
         "Korsarz i wiązanka angielska": "Корсаж и английская цветочная связка.",
         "Naręcze i wodospad": "Объятие и водопад.",
         "Poduszka i wieniec warszawski": "Подушка и венок варшавский.",
-        "Bukietu ślubnego": "Свадебного букета.",
-        "Wieńca adwentowego": "Адвентового венка.",
-        "Wianka komunijnego": "Венка на первое причастие.",
         "szyszki świerkowe": "шишки еловые.",
         "Wianek ze słomy i drut na kołku": "Венок из соломы и проволка на колышке.",
         "Wianek z wikliny i haftki rzymskie": "Венок из ивы и римские крючки.",

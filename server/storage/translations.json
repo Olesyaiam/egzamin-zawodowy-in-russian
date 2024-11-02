@@ -379,7 +379,11 @@
             "Skręcania": "Кручения.",
             "W jaki sposób zabezpiecza się pojedyncze kwiaty anturium na czas transportu?": "Каким образом защищают отдельные цветы антуриума во время транспортировки?",
             "Zanurza się w ciepłej parafinie": "Погружается в теплый парафин.",
-            "Kwiaty anturium są zabezpieczane na czas transportu poprzez umieszczenie ich w plastikowych fiolkach, które zawierają odżywczy roztwór. Ta metoda pozwala na utrzymanie świeżości i wilgotności kwiatów, a także chroni je przed uszkodzeniami mechanicznymi. Zanurzanie kwiatów w ciepłej parafinie czy wodzie mogłoby prowadzić do ich gnicia, a szklane probówki są zbyt delikatne i ryzykowne do transportu": "Цветы антуриума защищаются на время транспортировки путем помещения их в пластиковые флористические пробирки, которые содержат питательный раствор. Этот метод позволяет сохранять свежесть и влажность цветов, а также защищает их от механических повреждений. Погружение цветов в теплую парафиновую или водную среду могло бы привести к их гниению, а стеклянные пробирки слишком хрупки и рискованны для транспортировки."
+            "Kwiaty anturium są zabezpieczane na czas transportu poprzez umieszczenie ich w plastikowych fiolkach, które zawierają odżywczy roztwór. Ta metoda pozwala na utrzymanie świeżości i wilgotności kwiatów, a także chroni je przed uszkodzeniami mechanicznymi. Zanurzanie kwiatów w ciepłej parafinie czy wodzie mogłoby prowadzić do ich gnicia, a szklane probówki są zbyt delikatne i ryzykowne do transportu": "Цветы антуриума защищаются на время транспортировки путем помещения их в пластиковые флористические пробирки, которые содержат питательный раствор. Этот метод позволяет сохранять свежесть и влажность цветов, а также защищает их от механических повреждений. Погружение цветов в теплую парафиновую или водную среду могло бы привести к их гниению, а стеклянные пробирки слишком хрупки и рискованны для транспортировки.",
+            "szyszki modrzewia": "шишки лиственницы.",
+            "płatki groszku pachnącego": "лепестки душистого горошка.",
+            "liście strelicji": "листья стрелиции.",
+            "Płatki groszku pachnącego są znane ze swojej jedwabistej struktury. Jest to wynik specyficznej budowy komórek, które tworzą powierzchnię płatka, a także zawartości wody w nich. Szyszki modrzewia, owocostany piwonii czy liście strelicji nie mają takiej struktury, są raczej szorstkie lub skórzaste": "Лепестки душистого горошка известны своей шелковистой структурой. Это результат специфического строения клеток, которые образуют поверхность лепестка, а также содержания воды в них. Шишки лиственницы, соплодия пиона или листья стрелиции не имеют такой структуры, они скорее шероховатые или кожистые."
         }
     },
     "not_approved": {
@@ -919,9 +923,6 @@
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "boa": "боа.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Zostaw bez odpowiedzi": "Оставить без ответа",
-        "szyszki modrzewia": "шишки лиственницы.",
-        "liście strelicji": "листья стрелиции.",
-        "płatki groszku pachnącego": "лепестки душистого горошка."
+        "Zostaw bez odpowiedzi": "Оставить без ответа"
     }
 }

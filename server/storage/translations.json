@@ -425,7 +425,11 @@
             "fosforu": "фосфора.",
             "Przebarwianie liści na kolor sinoczerwony jest typowym objawem niedoboru fosforu, ponieważ ten pierwiastek odgrywa kluczową rolę w procesie fotosyntezy, który jest odpowiedzialny za zielony kolor liści. Brak fosforu powoduje zaburzenia w tym procesie, co skutkuje zmianą koloru liści. Inne objawy niedoboru fosforu to opóźniony wzrost i dojrzewanie roślin": "Изменение окраски листьев на сине-красный цвет является типичным признаком недостатка фосфора, поскольку этот элемент играет ключевую роль в процессе фотосинтеза, который отвечает за зелёный цвет листьев. Недостаток фосфора вызывает нарушения в этом процессе, что приводит к изменению цвета листьев. Другие признаки недостатка фосфора включают задержку роста и созревания растений.",
             "Które z wymienionych kwiatów ciętych przechowuje się najdłużej na sucho?": "Которые из перечисленных срезанных цветов сохраняются дольше всего в сухом виде?",
-            "Lilie (Lilium)": "Лилии (Lilium)"
+            "Lilie (Lilium)": "Лилии (Lilium)",
+            "Gloriozy (Gloriosa)": "Глориоза (Gloriosa)",
+            "Goździki (Dianthus)": "Гвоздика (Dianthus)",
+            "Frezje (Freesia)": "Фрезия (Freesia)",
+            "Goździki (Dianthus) są znane ze swojej wytrzymałości i długotrwałości, zarówno w wazonie, jak i przechowywane na sucho. Mają twardą, drewniejącą łodygę i grube, woskowate płatki, które pomagają im przetrwać dłużej niż inne kwiaty cięte. Inne wymienione kwiaty, takie jak frezje, gloriozy czy lilie, mają delikatniejszą budowę i szybciej więdną": "Гвоздика (Dianthus) известна своей выносливостью и долговечностью, как в вазоне, так и при хранении в сухом виде. Обладает твердой, древеснеющей стеблевой частью и толстыми, восковыми лепестками, которые помогают ей прожить дольше, чем другие срезанные цветы. Другие перечисленные цветы, такие как фрезии, глориозы или лилии, имеют более нежную структуру и быстрее увядают."
         }
     },
     "not_approved": {
@@ -721,7 +725,9 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Gloriozy (Gloriosa)": "Глориоза (Gloriosa)",
-        "Goździki (Dianthus)": "Гвоздика (гвоздика)."
+        "liście miłorzębu": "листья гинкго.",
+        "kwiatostany hortensji": "соцветия гортензии",
+        "pędy głogu": "побеги боярышника",
+        "owocostany kukurydzy": "Соплодия кукурузы."
     }
 }

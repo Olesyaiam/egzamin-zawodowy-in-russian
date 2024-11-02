@@ -5,7 +5,7 @@ namespace App;
 class DatabaseManager extends Base
 {
     protected string $filename = 'flowers.json';
-    protected string $filenameCache = 'flowers_cache.json';
+    protected string $filenameCache = 'ramdisk_tmpfs/flowers_cache.json';
     protected const IMAGES_BASE_URL = 'https://raw.githubusercontent.com/Olesyaiam/egzamin-zawodowy-in-russian/main/server/public/images/flowers/';
 
     public function findFlowers($polishText)
@@ -39,6 +39,13 @@ class DatabaseManager extends Base
 
     private function generateCache(): array
     {
+        $cachePath = $this->storagePath . '/' . $this->filenameCache;
+        $cacheDirPath = dirname($cachePath);
+
+        if (!is_dir($cacheDirPath)) {
+            throw new \Exception("add to /etc/fstab: tmpfs\t" . $cacheDirPath . "\ttmpfs\tdefaults,size=5M\t0\t0");
+        }
+
         $startTime = microtime(true);
         $flowers = $this->load();
         $data = array();
@@ -72,11 +79,7 @@ class DatabaseManager extends Base
             'index' => $index
         );
 
-        file_put_contents(
-            $this->storagePath . '/' . $this->filenameCache,
-            json_encode($caches, JSON_UNESCAPED_UNICODE)
-        );
-
+        file_put_contents($cachePath, json_encode($caches, JSON_UNESCAPED_UNICODE));
         $caches['time'] = round(microtime(true) - $startTime, 2);
 
         return $caches;

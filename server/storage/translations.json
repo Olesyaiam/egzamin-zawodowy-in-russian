@@ -640,7 +640,13 @@
             "Lewkonie, róże, strelicje": "Маттиола, розы, стрелиции.",
             "Świerk, wilczomlecz, jemioła": "Ель, молочай, омела.",
             "Róża, lewkonia, mak": "Роза, маттиола, мак.",
-            "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Каковы размеры на виде сверху, выполненном в масштабе 1:10, имеет торговый стенд, фактическая длина которого составляет 4 м, а ширина 2 м?"
+            "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Каковы размеры на виде сверху, выполненном в масштабе 1:10, имеет торговый стенд, фактическая длина которого составляет 4 м, а ширина 2 м?",
+            "Z roślin zasuszonych metodą zielnikową florysta może wykonać": "Из растений, высушенных гербарным методом, флорист может выполнить",
+            "bukiet ślubny": "свадебный букет.",
+            "wianek komunijny": "венок на первое причастие",
+            "obraz z kwiatów i liści": "картина из цветов и листьев.",
+            "kompozycję przestrzenną": "пространственную композицию.",
+            "Którym materiałem należy zabezpieczyć bukiet okolicznościowy na czas transportu w upalny dzień?": "Какой материал следует использовать для защиты букета на время транспортировки в жаркий день?"
         }
     },
     "not_approved": {
@@ -676,10 +682,6 @@
         "zasychaniem brzegów liści i obniżeniem odporności na niekorzystne warunki": "засыханием краёв листьев и понижением устойчивости к неблагоприятным условиям.",
         "Aluminiowy": "Алюминиевый.",
         "Srebrny na szpulce": "Серебряный на катушке.",
-        "obraz z kwiatów i liści": "картина из цветов и листьев.",
-        "kompozycję przestrzenną": "пространственную композицию.",
-        "wianek komunijny": "венок на первое причастие",
-        "bukiet ślubny": "свадебный букет.",
         "Kryzą z krepiny": "Декоративным воротником из креповой бумаги.",
         "Cienkim papierem": "Тонкой бумагой.",
         "Tekturowym papierem": "Картонной бумагой.",
@@ -694,12 +696,10 @@
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
         "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
         "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна с северной экспозицией?",
-        "Z roślin zasuszonych metodą zielnikową florysta może wykonać": "Из растений, высушенных гербарным методом, флорист может выполнить",
         "W celu wykonania okrągłej kompozycji w pojemniku z zasuszonych roślin florysta powinien zastosować technikę": "Для создания круглой композиции в контейнере из засушенных растений флорист должен применить технику.",
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
         "Jaka będzie rzeczywista wysokość i szerokość kompozycji florystycznej, jeśli na rysunku projektowym w skali 1:10 wymiary wynoszą 10 cm x 5 cm?": "Какова будет реальная высота и ширина флористической композиции, если на проектном чертеже в масштабе 1:10 размеры составляют 10 см х 5 см?",
         "Które kwiaty cięte nie powinny być przechowywane w chłodni?": "Какие срезанные цветы не должны храниться в холодильной камере?",
-        "Którym materiałem należy zabezpieczyć bukiet okolicznościowy na czas transportu w upalny dzień?": "Какой материал следует использовать для защиты букета на время транспортировки в жаркий день?",
         "Miedziany": "Медный.",
         "Zielony na kołku": "Зелёный на колышке.",
         "warstwowania": "Слоения",

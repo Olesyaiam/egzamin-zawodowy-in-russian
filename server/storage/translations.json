@@ -651,7 +651,9 @@
             "Tekturowym papierem": "Картоном.",
             "Cienkim papierem": "Тонкой бумагой.",
             "Kryzą z krepiny": "Декоративным воротником из декоративной бумаги.",
-            "zasychaniem brzegów liści i obniżeniem odporności na niekorzystne warunki": "засыханием краёв листьев и понижением устойчивости к неблагоприятным условиям."
+            "zasychaniem brzegów liści i obniżeniem odporności na niekorzystne warunki": "засыханием краёв листьев и понижением устойчивости к неблагоприятным условиям.",
+            "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "чрезмерным ростом растения, задержкой цветения и сокращением долговечности после срезки.",
+            "Jaka będzie rzeczywista wysokość i szerokość kompozycji florystycznej, jeśli na rysunku projektowym w skali 1:10 wymiary wynoszą 10 cm x 5 cm?": "Какова будет реальная высота и ширина флористической композиции, если на проектном чертеже в масштабе 1:10 размеры составляют 10 см х 5 см?"
         }
     },
     "not_approved": {
@@ -698,7 +700,6 @@
         "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна с северной экспозицией?",
         "W celu wykonania okrągłej kompozycji w pojemniku z zasuszonych roślin florysta powinien zastosować technikę": "Для создания круглой композиции в контейнере из засушенных растений флорист должен применить технику.",
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
-        "Jaka będzie rzeczywista wysokość i szerokość kompozycji florystycznej, jeśli na rysunku projektowym w skali 1:10 wymiary wynoszą 10 cm x 5 cm?": "Какова будет реальная высота и ширина флористической композиции, если на проектном чертеже в масштабе 1:10 размеры составляют 10 см х 5 см?",
         "Które kwiaty cięte nie powinny być przechowywane w chłodni?": "Какие срезанные цветы не должны храниться в холодильной камере?",
         "Miedziany": "Медный.",
         "Zielony na kołku": "Зелёный на колышке.",
@@ -840,7 +841,6 @@
         "Mak, róża, lilia, aspidistra": "Мак, роза, лилия, аспидистра.",
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
         "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
-        "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
-        "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "чрезмерным ростом растения, задержкой цветения и сокращением долговечности после срезки."
+        "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина."
     }
 }

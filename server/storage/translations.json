@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Poinsecje należy przetrzymywać w temperaturze nie niższej niż": "Молочай красивейший следует сохранять при температуре не ниже чем"
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -763,7 +761,10 @@
             "hoi": "хойи.",
             "\"Begonia królewska\" jest poprawną odpowiedzią, ponieważ ma matowe liście, a nie lśniące jak inne gatunki begonii": "Бегония королевская является правильным ответом, потому что у нее матовые листья, а не блестящие, как у других видов бегоний.",
             "Do posadzenia w pojemniku zakupiono 5 sztuk roślin o kwiatach czerwonych. Na podstawie danych zamieszczonych w tabeli oblicz koszt zakupu roślin": "Для посадки в контейнере приобретено 5 штук растений с красными цветками. На основании данных, приведённых в таблице, рассчитайте стоимость покупки растений.",
-            "Na podstawie tabeli, werbena ogrodowa ma cenę jednostkową 5,00 zł. Ponieważ zakupiono 5 sztuk roślin o kwiatach czerwonych i werbena ogrodowa kwitnie na czerwono, to łączny koszt wynosi 5 sztuk * 5,00 zł za sztukę, co daje sumę 25,00 zł": "На основе таблицы, вербена гибридная имеет цену за единицу 5,00 зл. Поскольку было приобретено 5 экземпляров растений с красными цветами и вербена гибридная цветет красным, то общая стоимость составляет 5 экземпляров * 5,00 зл за штуку, что дает сумму 25,00 зл."
+            "Na podstawie tabeli, werbena ogrodowa ma cenę jednostkową 5,00 zł. Ponieważ zakupiono 5 sztuk roślin o kwiatach czerwonych i werbena ogrodowa kwitnie na czerwono, to łączny koszt wynosi 5 sztuk * 5,00 zł za sztukę, co daje sumę 25,00 zł": "На основе таблицы, вербена гибридная имеет цену за единицу 5,00 зл. Поскольку было приобретено 5 экземпляров растений с красными цветами и вербена гибридная цветет красным, то общая стоимость составляет 5 экземпляров * 5,00 зл за штуку, что дает сумму 25,00 зл.",
+            "Poinsecje należy przetrzymywać w temperaturze nie niższej niż": "Пуансеттию следует хранить при температуре не ниже чем",
+            "Poinsecje to rośliny tropikalne, które wymagają stałej temperatury powyżej 15oC, aby przetrwać. W niższych temperaturach mogą ulec uszkodzeniu i zginąć. Dlatego ważne jest, aby utrzymywać je w odpowiedniej temperaturze": "Пуансеттия — это тропические растения, которые требуют постоянной температуры выше 15oC, чтобы выжить. При более низких температурах они могут быть повреждены и погибнуть. Поэтому важно поддерживать их при соответствующей температуре.",
+            "Którą technikę należy zastosować w przypadku mocowania mchu do bazy wieńca ze słomy?": "Какую технику следует применить в случае крепления мха к базе венка из соломы?"
         }
     },
     "not_approved": {
@@ -862,7 +863,6 @@
         "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции.",
         "Kompozycja o rzeczywistej wysokości 125 cm na rysunku wykonanym w skali 1:5 ma": "Композиция фактической высотой 125 см на рисунке, выполненном в масштабе 1:5, имеет",
         "Na rysunku projektowym wykonanym w skali 1:10 kompozycja ma wymiary 25 x 15 cm. Wskaż rzeczywiste wymiary dekoracji": "На проектном рисунке, выполненном в масштабе 1:10, композиция имеет размеры 25 x 15 см. Укажите фактические размеры декорации.",
-        "Którą technikę należy zastosować w przypadku mocowania mchu do bazy wieńca ze słomy?": "Какую технику следует применить в случае крепления мха к базе венка из соломы?",
         "Rzeczywista długość girlandy wynosi 14 m, a na rysunku 14 cm. W jakiej skali wykonano rysunek?": "Фактическая длина гирлянды составляет 14 м, а на рисунке 14 см. В каком масштабе выполнен рисунок?",
         "W kompozycji florystycznej do mocowania szyszek wykorzystuje się": "В композиции флористической для крепления шишек используется",
         "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",

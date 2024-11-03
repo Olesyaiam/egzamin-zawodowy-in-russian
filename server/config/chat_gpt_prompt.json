@@ -31,6 +31,12 @@
         ]
     },
     "dictionary_by_search_word": {
+        "okn": [
+            "okno o wystawie północnej: окно, выходящее на север",
+            "północne okno: северное окно",
+            "okno o wystawie południowej: окно, выходящее на юг",
+            "południowe okno: южное окно"
+        ],
         "sekator": [
             "sekator: секатор",
             "sekatora ogrodniczego: садового секатора"

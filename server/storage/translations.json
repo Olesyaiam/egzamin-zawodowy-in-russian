@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "plisowanie": "Плиссировка."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -726,7 +724,9 @@
             "Mszyc żerują na roślinach, ssąc sok roślinny, co prowadzi do zniekształcenia i lepkości liści": "Тли пожирают растения, высасывая растительный сок, что приводит к деформации и липкости листьев.",
             "Proces ugniatania drutu i formowania go w dowolne kształty to": "Процесс обжатия проволоки и формирования её в произвольные формы - это",
             "kreszowanie": "Креширование.",
-            "karbowanie": "Гофрирование."
+            "karbowanie": "Гофрирование.",
+            "plisowanie": "формирование складок",
+            "gniecenie": "Сминание."
         }
     },
     "not_approved": {
@@ -822,7 +822,6 @@
         "wyrywać szypułki kwiatowe": "вырывать цветочные цветоносы",
         "wykręcać szypułki kwiatowe z \"piętką\"": "выкручивать цветоножки с \"пяткой\".",
         "wycinać szypułki kwiatowe sekatorem": "вырезать цветоножки секатором.",
-        "gniecenie": "Сминание.",
         "plastikowy uchwyt w kształcie mikrofonu lub rożka": "пластиковая ручка в форме микрофона или рожка.",
         "plastikowe kolce skierowane ku górze": "пластиковые шипы, направленные вверх.",
         "Na obniżenie trwałości kwiatów stojących w wazonie ma wpływ": "На снижение стойкости цветов, стоящих в вазоне, влияет",
@@ -867,6 +866,7 @@
         "w jednym miejscu": "в одном месте.",
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
+        "Kreszowanie to proces obróbki materiałów polegający na ugniataniu i formowaniu ich w dowolne kształty za pomocą specjalnych narzędzi, takich jak kreszaki i matryce. W przypadku drutu proces ten pozwala na uzyskanie złożonych kształtów, które nie byłyby możliwe do uzyskania za pomocą innych technik": "Крэширование — это процесс обработки материалов, заключающийся в обжатии и формировании их в любые формы с помощью специальных инструментов, таких как крэшеры и матрицы. В случае проволоки этот процесс позволяет получить сложные формы, которые было бы невозможно получить с помощью других техник."
     }
 }

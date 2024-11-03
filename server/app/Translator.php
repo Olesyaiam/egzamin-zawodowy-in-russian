@@ -125,18 +125,14 @@ class Translator extends Base
         return $this->mark($translation, self::INCORRECT);
     }
 
-    private function removeTranslation(string $original)
+    private function saveToTranslations(string $original, string $translation, string $type)
     {
-        $translations = $this->load();
+        $path = $this->storagePath . '/' . $this->filename;
+        // @todo здесь нужна блокировка $path
+        $translations = json_decode(file_get_contents($path), true) ?: [];
+
         unset($translations['not_approved'][$original]);
         unset($translations['incorrect'][$original]);
-
-        return $translations;
-    }
-
-    private function saveToTranslations(string $original, string $translation, $type)
-    {
-        $translations = $this->removeTranslation($original);
 
         if ($type == self::CORRECT) {
             $translations['approved']['others'][$original] = $translation;
@@ -146,7 +142,8 @@ class Translator extends Base
             $translations['not_approved'][$original] = $translation;
         }
 
-        $this->save($translations);
+        file_put_contents($path, json_encode($translations, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        // @todo здесь нужна разблокировка $path
     }
 
     private static function replaceRoadSignCyrillicCodes($text)

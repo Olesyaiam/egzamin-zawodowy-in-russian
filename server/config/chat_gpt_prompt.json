@@ -132,13 +132,16 @@
             "warstwa: слой",
             "technika warstwowania: техника послойного оформления"
         ],
+        "żer": [
+            "żerują na roślinach: пожирают растения",
+            "żerowanie: пожирание"
+        ],
         "kauczuk": [
             "taśma kauczukowa: лента каучуковая",
             "kauczuk: каучук"
         ]
     },
     "dictionary_others": {
-        "żerowa": "żerowanie: пожирание",
         "tkan": "technika tkania: техника тканого оформления",
         "kołk": "drut na kołku: проволока на деревянном колышке",
         "krepin": "krepina: декоративная бумага",

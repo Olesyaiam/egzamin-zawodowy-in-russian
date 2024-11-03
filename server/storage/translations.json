@@ -692,7 +692,9 @@
             "Gipsówki, szparagi, goździki": "Гипсофила, спаржа, гвоздика.",
             "Zatrwiany, lilie, ostróżki": "Кермек, лилия, дельфиниум.",
             "Paprocie, palmy, dziurawce": "Папоротники, пальмовые, зверобой.",
-            "Helikonie, anturia, strelicje": "Геликонии, антуриумы, стрелиции."
+            "Helikonie, anturia, strelicje": "Геликонии, антуриумы, стрелиции.",
+            "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
+            "Zielnikowa metoda suszenia roślin polega na ich prasowaniu, co umożliwia uzyskanie płaskich, suchych okazów. Takie rośliny mogą być wykorzystane do wykonania obrazów z kwiatów i liści": "Гербаризационный метод сушки растений заключается в их прессовании, что позволяет получить плоские, сухие образцы. Такие растения могут быть использованы для создания картин из цветов и листьев."
         }
     },
     "not_approved": {
@@ -840,7 +842,6 @@
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
         "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке."
     }
 }

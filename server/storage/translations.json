@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Zielony na kołku": "Зелёный на колышке."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -702,7 +704,6 @@
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
         "Które kwiaty cięte nie powinny być przechowywane w chłodni?": "Какие срезанные цветы не должны храниться в холодильной камере?",
         "Miedziany": "Медный.",
-        "Zielony na kołku": "Зелёный на колышке.",
         "warstwowania": "Слоения",
         "watowania": "обёртывания ватой.",
         "Roślina po przycięciu uwalnia szkodliwe dla innych roślin substancje, dlatego nie należy jej umieszczać w wazonie z innymi. Zamieszczony opis dotyczy": "Растение после подрезки выделяет вредные для других растений вещества, поэтому не следует помещать его в вазон с другими. Приведённое описание касается",

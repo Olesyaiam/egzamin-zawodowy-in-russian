@@ -745,7 +745,14 @@
             "Do grupy drzew najpiękniej przebarwiających się jesienią na kolor czerwony należą": "К группе деревьев, которые осенью наиболее красиво изменяют цвет на красный, принадлежат",
             "brzoza brodawkowata (Betula verrucosa), klon tatarski (Acer tataricum)": "берёза повислая (Betula verrucosa), клён татарский (Acer tataricum).",
             "sumak octowiec (Rhus typhina), klon palmowy (Acer palmatum)": "сумах оленерогий (Rhus typhina), клён дланевидный (Acer palmatum).",
-            "jesion wyniosły (Fraxinus excelsior), miłorząb japoński (Ginkgo biloba)": "ясень обыкновенный (Fraxinus excelsior), гинкго двулопастный (Ginkgo biloba)."
+            "jesion wyniosły (Fraxinus excelsior), miłorząb japoński (Ginkgo biloba)": "ясень обыкновенный (Fraxinus excelsior), гинкго двулопастный (Ginkgo biloba).",
+            "klon polny (Acer campestre), tulipanowiec amerykański (Liriodendron tulipifera)": "клён полевой (Acer campestre), лириодендрон тюльпановый (Liriodendron tulipifera).",
+            "Sumak octowiec i klon palmowy są drzewami, które przebarwiają się na kolor czerwony w okresie jesieni": "Сумах оленерогий и клён дланевидный — деревья, которые окрашиваются в красный цвет в осенний период.",
+            "klejenie": "клеение",
+            "wyplatanie": "плетение.",
+            "haftkowanie": "Крючкование.",
+            "taśmowanie": "Ленточное укрепление.",
+            "Wiązanki kameliowej nie można przygotować stosując": "Цветочную связку из камелии нельзя подготовить, используя"
         }
     },
     "not_approved": {
@@ -818,10 +825,6 @@
         "Kłos": "Колос.",
         "Wecha": "Молочай.",
         "Grono": "Гроздь.",
-        "klejenie": "клеивания",
-        "taśmowanie": "Ленточное укрепление.",
-        "wyplatanie": "плетение.",
-        "haftkowanie": "Крючкование.",
         "dekoracyjna": "декоративная.",
         "makartowska": "макартовская.",
         "graficzna": "графическая.",
@@ -857,7 +860,6 @@
         "Rośliny doniczkowe o ozdobnych liściach do dekoracji pomieszczeń dokarmia się w okresie wegetacji co": "Комнатные растения с декоративными листьями для украшения помещений подкармливают в период вегетации каждые.",
         "Akarycydy to substancje chemiczne do zwalczania": "Акарициды - это химические вещества для борьбы.",
         "Poinsecje należy przetrzymywać w temperaturze nie niższej niż": "Пуансеттии следует содержать при температуре не ниже чем",
-        "Wiązanki kameliowej nie można przygotować stosując": "Цветочную связку из камелии нельзя подготовить, используя",
         "Który rodzaj kwiatostanu jest przedstawiony na zamieszczonym rysunku?": "Какой тип соцветия представлен на приведённом рисунке?",
         "Nie nabłyszcza się liści": "Не полируют листья",
         "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду.",
@@ -873,7 +875,6 @@
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "klon polny (Acer campestre), tulipanowiec amerykański (Liriodendron tulipifera)": "клён полевой (Acer campestre), лириодендрон тюльпановый (Liriodendron tulipifera)."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
     }
 }

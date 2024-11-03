@@ -803,7 +803,9 @@
             "mechaniczną": "механическую.",
             "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę ze względu na wpływ biologiczny, jaki wywierają na organizm roślinny. Bakterie te mogą prowadzić do zablokowania przepływu wody i składników odżywczych, co prowadzi do uszkodzenia struktury rośliny. Wpływ ten wynika z charakterystycznych dla bakterii właściwości biologicznych, takich jak zdolność do wytwarzania enzymów i toksyn, które wpływają na funkcjonowanie rośliny": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду из-за биологического влияния, оказываемого ими на организм растений. Эти бактерии могут привести к блокировке потока воды и питательных веществ, что приводит к повреждению структуры растения. Это влияние обусловлено характерными для бактерий биологическими свойствами, такими как способность к созданию ферментов и токсинов, которые влияют на функционирование растения.",
             "Ozdobę ślubną panny młodej umieszczaną na ramionach stanowi": "Обрет свадебного украшения, размещаемого на плечах невесты, составляет",
-            "parasolka": "Зонтик."
+            "parasolka": "Зонтик.",
+            "Boa jest ozdobą ślubną panny młodej umieszczaną na ramionach, składającą się z piór lub futra": "Перьевые украшения являются свадебным украшением невесты, размещаемым на плечах, состоящим из перьев или меха.",
+            "Florysta, wykonując tradycyjne kompozycje na święta Bożego Narodzenia, powinien wybrać następujący materiał roślinny": "Флорист, выполняя традиционные композиции на Рождество, должен выбрать следующий растительный материал."
         }
     },
     "not_approved": {
@@ -873,7 +875,6 @@
         "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит.",
         "We florystyce czerń zaliczana jest do barw": "Во флористике чёрный цвет относится к расцветкам.",
         "Asymetria, zróżnicowanie roślin, widoczne formy i wyeksponowane linie to cechy charakterystyczne dla stylu": "Асимметрия, разнообразие растений, видимые формы и выделенные линии - это характерные черты стиля",
-        "Florysta, wykonując tradycyjne kompozycje na święta Bożego Narodzenia, powinien wybrać następujący materiał roślinny": "Флорист, выполняя традиционные композиции на Рождество, должен выбрать следующий растительный материал.",
         "Florysta do mocowania kwiatów we włosach panny młodej zastosuje": "Флорист для крепления цветов в волосах невесты применит",
         "gąbka w plastikowej obudowie ze sprężystym zaczepem": "губка в пластиковой оболочке с пружинным креплением.",
         "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции.",
@@ -894,6 +895,9 @@
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Boa jest ozdobą ślubną panny młodej umieszczaną na ramionach, składającą się z piór lub futra": "Перьевые украшения являются свадебным украшением невесты, размещаемым на плечах, состоящим из перьев или меха."
+        "jodłę, róże, bukszpan": "пихту, розы, самшит.",
+        "jodłę, orzechy, poinsecję": "пихту, орехи, пуансеттия.",
+        "forsycję, bukszpan, jodłę": "форзицию, самшит, пихту.",
+        "szyszki, forsycję, poinsecję": "шишки, форзицию, пуансеттию."
     }
 }

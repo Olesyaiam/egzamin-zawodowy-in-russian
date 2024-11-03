@@ -789,7 +789,9 @@
             "wysoka wilgotność powietrza": "высокая влажность воздуха.",
             "Intensywne nasłonecznienie wpływa negatywnie na trwałość kwiatów, ponieważ powoduje odparowanie wody z rośliny oraz przyspiesza procesy przemian chemicznych, co skutkuje szybszym uschnięciem kwiatów": "Интенсивное солнечное освещение негативно влияет на долговечность цветов, поскольку вызывает испарение воды из растения и ускоряет химические процессы, что приводит к более быстрому увяданию цветов.",
             "przypinki": "Значки.",
-            "kolaże": "Коллажи."
+            "kolaże": "Коллажи.",
+            "korsarze": "корсажные бутоньерки",
+            "Floralne obrazy wykonane w formie płaskich kompozycji z użyciem różnego rodzaju materiałów to": "Цветочные картины, выполненные в форме плоских композиций с использованием различных материалов, это"
         }
     },
     "not_approved": {
@@ -824,7 +826,6 @@
         "zimnych": "холодных.",
         "Soleirolia": "Солейролия.",
         "chromatycznych": "Хроматических.",
-        "kotyliony": "Котильоны.",
         "parasolka": "Зонтик.",
         "wegetatywnego": "вегетативного.",
         "dekoracyjnego": "декоративного.",
@@ -865,7 +866,6 @@
         "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит.",
         "We florystyce czerń zaliczana jest do barw": "Во флористике чёрный цвет относится к расцветкам.",
         "Ozdobę ślubną panny młodej umieszczaną na ramionach stanowi": "Обрет свадебного украшения, размещаемого на плечах невесты, составляет",
-        "Floralne obrazy wykonane w formie płaskich kompozycji z użyciem różnego rodzaju materiałów to": "Флоральные картины, выполненные в форме плоских композиций с использованием различных видов материалов, это",
         "Asymetria, zróżnicowanie roślin, widoczne formy i wyeksponowane linie to cechy charakterystyczne dla stylu": "Асимметрия, разнообразие растений, видимые формы и выделенные линии - это характерные черты стиля",
         "Florysta, wykonując tradycyjne kompozycje na święta Bożego Narodzenia, powinien wybrać następujący materiał roślinny": "Флорист, выполняя традиционные композиции на Рождество, должен выбрать следующий растительный материал.",
         "Florysta do mocowania kwiatów we włosach panny młodej zastosuje": "Флорист для крепления цветов в волосах невесты применит",
@@ -890,6 +890,6 @@
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "korsarze": "корсары."
+        "kotyliony": "бутоньерки."
     }
 }

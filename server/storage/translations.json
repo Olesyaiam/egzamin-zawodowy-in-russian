@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Wiązanki kameliowej są przygotowywane z włosów kamelów, a wyplatanie wskazuje na proces tworzenia plecionek z włókien roślinnych lub syntetycznych, które nie są pochodzenia zwierzęcego. Stosowanie wyplatanie nie jest więc odpowiednie przy przygotowywaniu wiązanek kameliowych": "Букет-композит (гламелия) подготавливаются из волос верблюдов, а плетение указывает на процесс создания плетёнок из растительных или синтетических волокон, которые не животного происхождения. Использование плетения, следовательно, не является подходящим при подготовке букетов-композитов (гламелий)."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -754,7 +752,14 @@
             "wyplatanie": "плетение.",
             "haftkowanie": "Крючкование.",
             "taśmowanie": "Ленточное укрепление.",
-            "Wiązanki kameliowej nie można przygotować stosując": "Букет-композит (гламелию) нельзя подготовить, используя"
+            "Wiązanki kameliowej nie można przygotować stosując": "Букет-композит (гламелию) нельзя подготовить, используя",
+            "Wiązanki kameliowej są przygotowywane z włosów kamelów, a wyplatanie wskazuje na proces tworzenia plecionek z włókien roślinnych lub syntetycznych, które nie są pochodzenia zwierzęcego. Stosowanie wyplatanie nie jest więc odpowiednie przy przygotowywaniu wiązanek kameliowych": "Букеты-композиты (гламелии) подготавливаются из волос камелий, а плетение указывает на процесс создания плетеных изделий из растительных или синтетических волокон, которые не являются животного происхождения. Применение плетения, следовательно, не подходит для подготовки букетов-композитов (гламелий).",
+            "Nie nabłyszcza się liści": "Не полируют листья",
+            "sansewierii": "сансевиерии",
+            "monstery": "монстеры",
+            "begonii królewskiej": "бегонии королевской.",
+            "hoi": "хойи.",
+            "\"Begonia królewska\" jest poprawną odpowiedzią, ponieważ ma matowe liście, a nie lśniące jak inne gatunki begonii": "Бегония королевская является правильным ответом, потому что у нее матовые листья, а не блестящие, как у других видов бегоний."
         }
     },
     "not_approved": {
@@ -863,7 +868,6 @@
         "Akarycydy to substancje chemiczne do zwalczania": "Акарициды - это химические вещества для борьбы.",
         "Poinsecje należy przetrzymywać w temperaturze nie niższej niż": "Пуансеттии следует содержать при температуре не ниже чем",
         "Który rodzaj kwiatostanu jest przedstawiony na zamieszczonym rysunku?": "Какой тип соцветия представлен на приведённом рисунке?",
-        "Nie nabłyszcza się liści": "Не полируют листья",
         "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду.",
         "W nowoczesnym wnętrzu biura urządzonym w stylu high-tech najlepiej będzie prezentowała się kompozycja": "В современном интерьере офиса, оформленном в стиле хай-тек, лучше всего будет выглядеть композиция.",
         "W sezonie wiosennym dekorację stołu obiadowego w stylu wegetatywnym można wykonać": "В весенний сезон украшение обеденного стола в вегетативном стиле можно выполнить",

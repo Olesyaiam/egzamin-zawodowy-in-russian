@@ -662,7 +662,9 @@
             "watowania": "обёртывания ватой.",
             "gąbki florystycznej": "флористической губки.",
             "warstwowania": "послойного оформления.",
-            "tkania": "тканого оформления."
+            "tkania": "тканого оформления.",
+            "sekatora ogrodniczego": "садового секатора.",
+            "1 pojemnik": "1 контейнер."
         }
     },
     "not_approved": {
@@ -693,7 +695,6 @@
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
         "2 pojemniki": "2 контейнера.",
         "10 pojemników": "10 контейнеров.",
-        "1 pojemnik": "1 контейнер.",
         "5 pojemników": "5 контейнеров.",
         "była cięższa": "была тяжелее.",
         "zwiększyła swoją objętość": "увеличила свой объем.",
@@ -840,7 +841,6 @@
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
         "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
         "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
-        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке.",
-        "sekatora ogrodniczego": "садовых секаторов."
+        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке."
     }
 }

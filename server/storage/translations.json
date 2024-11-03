@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Róża, lewkonia, mak": "Роза, левкой, мак."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -629,7 +631,13 @@
             "koszyczki kocanek": "корзинки бессмертника",
             "groszek pachnący": "душистый горошек.",
             "szyszki świerkowe": "шишки еловые.",
-            "trawę pampasową": "кортадерия."
+            "trawę pampasową": "кортадерия.",
+            "Które elementy musi zawierać rysunek techniczny stanowiący część dokumentacji projektowej?": "Какие элементы должен содержать технический рисунок, являющийся частью проектной документации?",
+            "Legendę, skalę i wymiary rzeczywiste kompozycji": "Легенду, масштаб и реальные размеры композиции.",
+            "Legendę i wymiary kompozycji podane w skali": "Легенда и размеры композиции указаны в масштабе.",
+            "Legendę z podaną liczbą poszczególnych elementów i skalę": "Легенду с указанным количеством отдельных элементов и масштаб.",
+            "Legendę z podaną liczbą poszczególnych elementów i wymiary rzeczywiste kompozycji": "Легенду с указанным количеством отдельных элементов и реальные размеры композиции.",
+            "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?"
         }
     },
     "not_approved": {
@@ -665,10 +673,6 @@
         "zasychaniem brzegów liści i obniżeniem odporności na niekorzystne warunki": "засыханием краёв листьев и понижением устойчивости к неблагоприятным условиям.",
         "Aluminiowy": "Алюминиевый.",
         "Srebrny na szpulce": "Серебряный на катушке.",
-        "Legendę, skalę i wymiary rzeczywiste kompozycji": "Легенду, масштаб и реальные размеры композиции.",
-        "Legendę i wymiary kompozycji podane w skali": "Легенда и размеры композиции указаны в масштабе.",
-        "Legendę z podaną liczbą poszczególnych elementów i skalę": "Легенду с указанным количеством отдельных элементов и масштаб.",
-        "Legendę z podaną liczbą poszczególnych elementów i wymiary rzeczywiste kompozycji": "Легенду с указанным количеством отдельных элементов и реальные размеры композиции.",
         "obraz z kwiatów i liści": "картина из цветов и листьев.",
         "kompozycję przestrzenną": "пространственную композицию.",
         "wianek komunijny": "венок на первое причастие",
@@ -683,10 +687,8 @@
         "zwiększyła swoją objętość": "увеличила свой объем.",
         "dostarczyć wodę kwiatom": "доставить воду цветам.",
         "usunąć z niej powietrze": "удалить из неё воздух.",
-        "Który zestaw roślin najlepiej wybrać do wykonania dekoracji florystycznej w okresie Bożego Narodzenia?": "Какой набор растений лучше всего выбрать для создания флористической композиции в период Рождества?",
         "Jakie wymiary na rzucie z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на плане сверху, выполненном в масштабе 1:10, имеет выставочный стенд, длина которого в действительности составляет 4 м, а ширина 2 м?",
         "Do dekoracji bukietu ślubnego florysta planuje użyć białych perełek. Jaki rodzaj drutu florystycznego powinien zastosować do ich nanizania?": "Для декорации свадебного букета флорист планирует использовать белые бусины. Какой вид флористической проволоки следует использовать для их нанизывания?",
-        "Które elementy musi zawierać rysunek techniczny stanowiący część dokumentacji projektowej?": "Какие элементы должен содержать технический рисунок, являющийся частью проектной документации?",
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
         "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
         "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна с северной экспозицией?",
@@ -821,7 +823,6 @@
         "sekatora ogrodniczego": "садовых секаторов.",
         "wybujałym wzrostem rośliny, opóźnieniem kwitnienia i skróceniem trwałości pozbiorczej": "бурным ростом растения, задержкой цветения и сокращением послеуборочной стойкости.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Róża, lewkonia, mak": "Роза, левкой, мак.",
         "Świerk, wilczomlecz, jemioła": "Ель, молочай, омела.",
         "Chryzantema, nefrolepis, świerk": "Хризантема, нефролепис, ель.",
         "Pierwiosnek, przebiśnieg, jemioła": "Первоцвет, подснежник белоснежный, омела.",

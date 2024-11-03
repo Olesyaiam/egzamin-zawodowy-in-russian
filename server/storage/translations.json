@@ -764,7 +764,12 @@
             "Na podstawie tabeli, werbena ogrodowa ma cenę jednostkową 5,00 zł. Ponieważ zakupiono 5 sztuk roślin o kwiatach czerwonych i werbena ogrodowa kwitnie na czerwono, to łączny koszt wynosi 5 sztuk * 5,00 zł za sztukę, co daje sumę 25,00 zł": "На основе таблицы, вербена гибридная имеет цену за единицу 5,00 зл. Поскольку было приобретено 5 экземпляров растений с красными цветами и вербена гибридная цветет красным, то общая стоимость составляет 5 экземпляров * 5,00 зл за штуку, что дает сумму 25,00 зл.",
             "Poinsecje należy przetrzymywać w temperaturze nie niższej niż": "Пуансеттию следует хранить при температуре не ниже чем",
             "Poinsecje to rośliny tropikalne, które wymagają stałej temperatury powyżej 15oC, aby przetrwać. W niższych temperaturach mogą ulec uszkodzeniu i zginąć. Dlatego ważne jest, aby utrzymywać je w odpowiedniej temperaturze": "Пуансеттия — это тропические растения, которые требуют постоянной температуры выше 15oC, чтобы выжить. При более низких температурах они могут быть повреждены и погибнуть. Поэтому важно поддерживать их при соответствующей температуре.",
-            "Którą technikę należy zastosować w przypadku mocowania mchu do bazy wieńca ze słomy?": "Какую технику следует применить в случае крепления мха к базе венка из соломы?"
+            "Którą technikę należy zastosować w przypadku mocowania mchu do bazy wieńca ze słomy?": "Какую технику следует применить в случае крепления мха к базе венка из соломы?",
+            "Upinania haftkami": "Закрепления крючками.",
+            "Nawlekania na drucik": "Нанизывания на проволоку.",
+            "Drutowania": "Проволочного укрепления.",
+            "Upinanie haftkami jest odpowiednią techniką mocowania mchu do bazy wieńca ze słomy, ponieważ umożliwia ona bezpieczne i trwałe przymocowanie rośliny do podłoża, a jednocześnie nie niszczy jej delikatnych liści": "Закрепление скобами является подходящей техникой крепления мха к основе венка из соломы, поскольку она позволяет безопасно и прочно прикрепить растение к подложке, при этом не повреждая его нежные листья.",
+            "Rośliny doniczkowe o ozdobnych liściach do dekoracji pomieszczeń dokarmia się w okresie wegetacji co": "Комнатные растения с декоративными листьями для украшения помещений подкармливают в период вегетации каждые."
         }
     },
     "not_approved": {
@@ -814,9 +819,6 @@
         "pętelki z drutu": "Петельки из проволоки.",
         "pędy": "побеги.",
         "liście": "листья.",
-        "Drutowania": "Проволочного укрепления.",
-        "Nawlekania na drucik": "Нанизывания на проволоку.",
-        "Upinania haftkami": "Закрепления крючками.",
         "taśmy kotwice": "ленты анкеры",
         "druty": "проволоки.",
         "haftki": "Крючки.",
@@ -867,7 +869,6 @@
         "W kompozycji florystycznej do mocowania szyszek wykorzystuje się": "В композиции флористической для крепления шишек используется",
         "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
         "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
-        "Rośliny doniczkowe o ozdobnych liściach do dekoracji pomieszczeń dokarmia się w okresie wegetacji co": "Комнатные растения с декоративными листьями для украшения помещений подкармливают в период вегетации каждые.",
         "Akarycydy to substancje chemiczne do zwalczania": "Акарициды - это химические вещества для борьбы.",
         "Który rodzaj kwiatostanu jest przedstawiony na zamieszczonym rysunku?": "Какой тип соцветия представлен на приведённом рисунке?",
         "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду.",
@@ -883,6 +884,7 @@
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
+        "Rośliny doniczkowe potrzebują regularnego dokarmiania w okresie wegetacji, aby zachować zdrowie i piękny wygląd liści. Zazwyczaj rekomenduje się nawożenie co 14 dni, aby zapewnić roślinom odpowiednią ilość składników odżywczych": "Комнатные растения нуждаются в регулярном подкормливании в период вегетации, чтобы сохранить здоровье и красивый внешний вид листьев. Обычно рекомендуется удобрять каждые 14 дней, чтобы обеспечить растениям достаточное количество питательных веществ."
     }
 }

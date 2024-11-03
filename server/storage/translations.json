@@ -734,7 +734,15 @@
             "powyżej punktu ciężkości": "выше центра тяжести.",
             "w dwóch miejscach": "в двух местах.",
             "w jednym miejscu": "в одном месте.",
-            "poniżej punktu ciężkości": "ниже центра тяжести."
+            "poniżej punktu ciężkości": "ниже центра тяжести.",
+            "Bukiet typu berło z równoległymi łodygami wiąże się w dwóch miejscach, ponieważ jest to konstrukcja, która zapewnia równowagę i stabilność kwiatów. Ten typ bukietu jest często używany w uroczystościach ślubnych i zwykle składa się z jednego rodzaju kwiatów": "Букет типа скипетр с параллельными стеблями связывается в двух местах, поскольку это конструкция, которая обеспечивает равновесие и стабильность цветов. Этот тип букета часто используется в свадебных церемониях и обычно состоит из одного вида цветов.",
+            "moribana": "морибана.",
+            "rikka": "рикка.",
+            "heika": "хейка",
+            "nageire": "Нагеире.",
+            "Japońska technika układania kwiatów w płaskich naczyniach to": "Японская техника укладки цветов в плоских сосудах - это",
+            "Moribana to nazwa japońskiej techniki układania kwiatów w płaskich naczyniach": "Морибана - это название японской техники укладки цветов в плоских сосудах.",
+            "Do grupy drzew najpiękniej przebarwiających się jesienią na kolor czerwony należą": "К группе деревьев, которые осенью наиболее красиво изменяют цвет на красный, принадлежат"
         }
     },
     "not_approved": {
@@ -798,11 +806,7 @@
         "taśmę kotwicę": "ленту якорь",
         "bolce do gąbki": "Штифты для флористической губки.",
         "taśmę plastelinową": "ленту из пластилина.",
-        "nageire": "Нагеире.",
-        "heika": "хейка",
-        "moribana": "морибана.",
         "w plastikowych fiolkach": "в пластиковых флористических пробирках.",
-        "rikka": "рикка.",
         "w foliowych rękawach": "в фольговых рукавах.",
         "w plastikowych wazonach": "в пластиковых вазонах",
         "w szklanych fiolkach": "в стеклянных флористических пробирках.",
@@ -846,8 +850,6 @@
         "Do posadzenia w pojemniku zakupiono 5 sztuk roślin o kwiatach czerwonych. Na podstawie danych zamieszczonych w tabeli oblicz koszt zakupu roślin": "Для посадки в контейнере приобретено 5 штук растений с красными цветками. На основании данных, приведённых в таблице, рассчитайте стоимость покупки растений.",
         "W kompozycji florystycznej do mocowania szyszek wykorzystuje się": "В композиции флористической для крепления шишек используется",
         "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
-        "Do grupy drzew najpiękniej przebarwiających się jesienią na kolor czerwony należą": "К группе деревьев, которые осенью наиболее красиво изменяют цвет на красный, принадлежат",
-        "Japońska technika układania kwiatów w płaskich naczyniach to": "Японская техника укладки цветов в плоских сосудах - это",
         "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
         "Rośliny doniczkowe o ozdobnych liściach do dekoracji pomieszczeń dokarmia się w okresie wegetacji co": "Комнатные растения с декоративными листьями для украшения помещений подкармливают в период вегетации каждые.",
         "Akarycydy to substancje chemiczne do zwalczania": "Акарициды - это химические вещества для борьбы.",
@@ -869,6 +871,9 @@
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Bukiet typu berło z równoległymi łodygami wiąże się w dwóch miejscach, ponieważ jest to konstrukcja, która zapewnia równowagę i stabilność kwiatów. Ten typ bukietu jest często używany w uroczystościach ślubnych i zwykle składa się z jednego rodzaju kwiatów": "Букет типа скипетр с параллельными стеблями связывается в двух местах, поскольку это конструкция, которая обеспечивает равновесие и стабильность цветов. Этот тип букета часто используется в свадебных церемониях и обычно состоит из одного вида цветов."
+        "brzoza brodawkowata (Betula verrucosa), klon tatarski (Acer tataricum)": "берёза повислая (Betula verrucosa), клён татарский (Acer tataricum).",
+        "jesion wyniosły (Fraxinus excelsior), miłorząb japoński (Ginkgo biloba)": "ясень обыкновенный (Fraxinus excelsior), гинкго двулопастный (Ginkgo biloba).",
+        "sumak octowiec (Rhus typhina), klon palmowy (Acer palmatum)": "сумах оленерогий (Rhus typhina), клён дланевидный (Acer palmatum).",
+        "klon polny (Acer campestre), tulipanowiec amerykański (Liriodendron tulipifera)": "клён полевой (Acer campestre), лириодендрон тюльпановый (Liriodendron tulipifera)."
     }
 }

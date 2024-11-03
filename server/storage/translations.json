@@ -786,7 +786,10 @@
             "intensywne nasłonecznienie": "интенсивное солнечное освещение.",
             "rozproszone światło": "рассеянный свет.",
             "niska temperatura": "низкая температура.",
-            "wysoka wilgotność powietrza": "высокая влажность воздуха."
+            "wysoka wilgotność powietrza": "высокая влажность воздуха.",
+            "Intensywne nasłonecznienie wpływa negatywnie na trwałość kwiatów, ponieważ powoduje odparowanie wody z rośliny oraz przyspiesza procesy przemian chemicznych, co skutkuje szybszym uschnięciem kwiatów": "Интенсивное солнечное освещение негативно влияет на долговечность цветов, поскольку вызывает испарение воды из растения и ускоряет химические процессы, что приводит к более быстрому увяданию цветов.",
+            "przypinki": "Значки.",
+            "kolaże": "Коллажи."
         }
     },
     "not_approved": {
@@ -821,10 +824,8 @@
         "zimnych": "холодных.",
         "Soleirolia": "Солейролия.",
         "chromatycznych": "Хроматических.",
-        "kolaże": "Коллажи.",
         "kotyliony": "Котильоны.",
         "parasolka": "Зонтик.",
-        "przypinki": "Значки.",
         "wegetatywnego": "вегетативного.",
         "dekoracyjnego": "декоративного.",
         "taśmy florystyczne": "Флористические ленты.",
@@ -889,7 +890,6 @@
         "kwiaty": "цветы.",
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Intensywne nasłonecznienie wpływa negatywnie na trwałość kwiatów, ponieważ powoduje odparowanie wody z rośliny oraz przyspiesza procesy przemian chemicznych, co skutkuje szybszym uschnięciem kwiatów": "Интенсивное солнечное освещение негативно влияет на долговечность цветов, поскольку вызывает испарение воды из растения и ускоряет химические процессы, что приводит к более быстрому увяданию цветов."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
     }
 }

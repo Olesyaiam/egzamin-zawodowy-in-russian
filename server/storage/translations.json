@@ -770,7 +770,13 @@
             "Drutowania": "Проволочного укрепления.",
             "Upinanie haftkami jest odpowiednią techniką mocowania mchu do bazy wieńca ze słomy, ponieważ umożliwia ona bezpieczne i trwałe przymocowanie rośliny do podłoża, a jednocześnie nie niszczy jej delikatnych liści": "Закрепление скобами является подходящей техникой крепления мха к основе венка из соломы, поскольку она позволяет безопасно и прочно прикрепить растение к подложке, при этом не повреждая его нежные листья.",
             "Rośliny doniczkowe o ozdobnych liściach do dekoracji pomieszczeń dokarmia się w okresie wegetacji co": "Комнатные растения с декоративными листьями для украшения помещений подкармливают в период вегетации каждые.",
-            "Rośliny doniczkowe potrzebują regularnego dokarmiania w okresie wegetacji, aby zachować zdrowie i piękny wygląd liści. Zazwyczaj rekomenduje się nawożenie co 14 dni, aby zapewnić roślinom odpowiednią ilość składników odżywczych": "Комнатные растения нуждаются в регулярном подкормливании в период вегетации, чтобы сохранить здоровье и красивый внешний вид листьев. Обычно рекомендуется удобрять каждые 14 дней, чтобы обеспечить растениям достаточное количество питательных веществ."
+            "Rośliny doniczkowe potrzebują regularnego dokarmiania w okresie wegetacji, aby zachować zdrowie i piękny wygląd liści. Zazwyczaj rekomenduje się nawożenie co 14 dni, aby zapewnić roślinom odpowiednią ilość składników odżywczych": "Комнатные растения нуждаются в регулярном подкормливании в период вегетации, чтобы сохранить здоровье и красивый внешний вид листьев. Обычно рекомендуется удобрять каждые 14 дней, чтобы обеспечить растениям достаточное количество питательных веществ.",
+            "Cięte storczyki wymagają transportu \"na mokro\", dlatego umieszcza się je": "Срезанные орхидеи требуют транспортировки \"на мокро\", поэтому их размещают",
+            "w plastikowych fiolkach": "в пластиковых флористических пробирках.",
+            "w szklanych fiolkach": "в стеклянных флористических пробирках.",
+            "w plastikowych wazonach": "в пластиковых вазонах",
+            "w foliowych rękawach": "в фольговых рукавах.",
+            "Cięte storczyki wymagają transportu na mokro, aby nie wysychały. Plastikowe fiolki zapewniają odpowiednią wilgotność i chronią kwiaty przed uszkodzeniem podczas transportu": "Срезанные орхидеи требуют транспортировки на мокрой основе, чтобы они не высыхали. Пластиковые флористические пробирки обеспечивают соответствующую влажность и защищают цветы от повреждения во время транспортировки."
         }
     },
     "not_approved": {
@@ -831,10 +837,6 @@
         "taśmę kotwicę": "ленту якорь",
         "bolce do gąbki": "Штифты для флористической губки.",
         "taśmę plastelinową": "ленту из пластилина.",
-        "w plastikowych fiolkach": "в пластиковых флористических пробирках.",
-        "w foliowych rękawach": "в фольговых рукавах.",
-        "w plastikowych wazonach": "в пластиковых вазонах",
-        "w szklanych fiolkach": "в стеклянных флористических пробирках.",
         "nicieni": "Нематоды.",
         "Baldach": "Балдахин",
         "Kłos": "Колос.",
@@ -885,7 +887,6 @@
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Cięte storczyki wymagają transportu \"na mokro\", dlatego umieszcza się je": "Срезанные орхидеи требуют транспортировки \"на мокро\", поэтому их размещают"
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
     }
 }

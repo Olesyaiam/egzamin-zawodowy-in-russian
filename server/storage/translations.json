@@ -726,7 +726,15 @@
             "kreszowanie": "Креширование.",
             "karbowanie": "Гофрирование.",
             "plisowanie": "формирование складок",
-            "gniecenie": "Сминание."
+            "gniecenie": "Сминание.",
+            "Kreszowanie to proces obróbki materiałów polegający na ugniataniu i formowaniu ich w dowolne kształty za pomocą specjalnych narzędzi, takich jak kreszaki i matryce. W przypadku drutu proces ten pozwala na uzyskanie złożonych kształtów, które nie byłyby możliwe do uzyskania za pomocą innych technik": "Крэширование — это процесс обработки материалов, заключающийся в обжатии и формировании их в любые формы с помощью специальных инструментов, таких как крэшеры и матрицы. В случае проволоки этот процесс позволяет получить сложные формы, которые было бы невозможно получить с помощью других техник.",
+            "Maksymalna wysokość dekoracji przeznaczonej na stół konferencyjny wynosi": "Максимальная высота декорации, предназначенной для конференционного стола, составляет",
+            "Maksymalna wysokość dekoracji na stole konferencyjnym wynosi 25 cm, ponieważ powyżej tej wysokości mogą one przeszkadzać w prowadzeniu dyskusji oraz utrudniać kontakt wzrokowy między uczestnikami": "Максимальная высота декорации на конференционном столе составляет 25 см, поскольку выше этой высоты они могут мешать ведению дискуссии и затруднять зрительный контакт между участниками.",
+            "Bukiet typu berło z równoległymi łodygami wiąże się": "Букет типа \"скипетр\" с параллельными стеблями связывается",
+            "powyżej punktu ciężkości": "выше центра тяжести.",
+            "w dwóch miejscach": "в двух местах.",
+            "w jednym miejscu": "в одном месте.",
+            "poniżej punktu ciężkości": "ниже центра тяжести."
         }
     },
     "not_approved": {
@@ -815,9 +823,6 @@
         "mechaniczną": "механического.",
         "biologiczną": "биологическую.",
         "małego sekatora": "маленького секатора.",
-        "powyżej punktu ciężkości": "выше центра тяжести.",
-        "w dwóch miejscach": "в двух местах.",
-        "poniżej punktu ciężkości": "ниже точки тяжести.",
         "wyrywać całe rośliny wraz z korzeniami": "Вырывать целые растения вместе с корнями.",
         "wyrywać szypułki kwiatowe": "вырывать цветочные цветоносы",
         "wykręcać szypułki kwiatowe z \"piętką\"": "выкручивать цветоножки с \"пяткой\".",
@@ -843,7 +848,6 @@
         "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
         "Do grupy drzew najpiękniej przebarwiających się jesienią na kolor czerwony należą": "К группе деревьев, которые осенью наиболее красиво изменяют цвет на красный, принадлежат",
         "Japońska technika układania kwiatów w płaskich naczyniach to": "Японская техника укладки цветов в плоских сосудах - это",
-        "Maksymalna wysokość dekoracji przeznaczonej na stół konferencyjny wynosi": "Максимальная высота декорации, предназначенной для конференционного стола, составляет",
         "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
         "Rośliny doniczkowe o ozdobnych liściach do dekoracji pomieszczeń dokarmia się w okresie wegetacji co": "Комнатные растения с декоративными листьями для украшения помещений подкармливают в период вегетации каждые.",
         "Akarycydy to substancje chemiczne do zwalczania": "Акарициды - это химические вещества для борьбы.",
@@ -855,7 +859,6 @@
         "W nowoczesnym wnętrzu biura urządzonym w stylu high-tech najlepiej będzie prezentowała się kompozycja": "В современном интерьере офиса, оформленном в стиле хай-тек, лучше всего будет выглядеть композиция.",
         "W sezonie wiosennym dekorację stołu obiadowego w stylu wegetatywnym można wykonać": "В весенний сезон украшение обеденного стола в вегетативном стиле можно выполнить",
         "Wskaż roślinę, której rozwinięte kwiaty zachowują walory dekoracyjne przez 3^5 dni": "Укажите растение, чьи раскрывшиеся цветы сохраняют декоративные качества в течение 3^5 дней.",
-        "Bukiet typu berło z równoległymi łodygami wiąże się": "Букет типа \"скипетр\" с параллельными стеблями связывается",
         "Clip to": "Клипса для",
         "korsarze": "корсары.",
         "równoległego": "параллельного.",
@@ -863,10 +866,9 @@
         "nasiona": "семена.",
         "kwiaty": "цветы.",
         "wegetatywna": "Вегетативная.",
-        "w jednym miejscu": "в одном месте.",
         "Boraks używany jest do": "Боракс используется для",
         "Do wykonania jesiennej dekoracji o charakterze rustykalnym florysta może wykorzystać kwiaty i owoce roślin": "Для выполнения осенней декорации в деревенском стиле флорист может использовать цветы и плоды растений.",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "Kreszowanie to proces obróbki materiałów polegający na ugniataniu i formowaniu ich w dowolne kształty za pomocą specjalnych narzędzi, takich jak kreszaki i matryce. W przypadku drutu proces ten pozwala na uzyskanie złożonych kształtów, które nie byłyby możliwe do uzyskania za pomocą innych technik": "Крэширование — это процесс обработки материалов, заключающийся в обжатии и формировании их в любые формы с помощью специальных инструментов, таких как крэшеры и матрицы. В случае проволоки этот процесс позволяет получить сложные формы, которые было бы невозможно получить с помощью других техник."
+        "Bukiet typu berło z równoległymi łodygami wiąże się w dwóch miejscach, ponieważ jest to konstrukcja, która zapewnia równowagę i stabilność kwiatów. Ten typ bukietu jest często używany w uroczystościach ślubnych i zwykle składa się z jednego rodzaju kwiatów": "Букет типа скипетр с параллельными стеблями связывается в двух местах, поскольку это конструкция, которая обеспечивает равновесие и стабильность цветов. Этот тип букета часто используется в свадебных церемониях и обычно состоит из одного вида цветов."
     }
 }

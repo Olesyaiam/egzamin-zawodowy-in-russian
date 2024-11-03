@@ -28,10 +28,6 @@
             "rzuty z góry",
             "rzutami z góry",
             "rzutach z góry"
-        ],
-        "masz obowiązek używać świateł pozycyjnych lub postojowych: Вы обязаны использовать габаритные огни": [
-            "pozycyjn",
-            "postojow"
         ]
     },
     "dictionary_by_search_word": {
@@ -122,6 +118,7 @@
         ]
     },
     "dictionary_others": {
+        "tektur": "tekturowy papier: картон",
         "stroisz": "stroisz: хвойный материал",
         "naręcz": "naręcz: наручный букет",
         "złociszk": "złociszki: мелкий сухоцвет",

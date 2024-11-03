@@ -128,7 +128,31 @@ class Translator extends Base
     private function saveToTranslations(string $original, string $translation, string $type)
     {
         $path = $this->storagePath . '/' . $this->filename;
-        // @todo здесь нужна блокировка $path
+
+        // Открываем файл для чтения и записи
+        $file = fopen($path, 'c+');
+
+        if (!$file) {
+            throw new Exception("Не удалось открыть файл: $path");
+        }
+
+        // Ожидаем снятия блокировки
+        $locked = false;
+
+        for ($i = 0; $i < 20; $i++) {
+            if (flock($file, LOCK_EX | LOCK_NB)) { // Пытаемся установить блокировку без ожидания (LOCK_NB)
+                $locked = true;
+                break;
+            }
+
+            usleep(100000); // Задержка перед повторной попыткой 0.1 секунды
+        }
+
+        if (!$locked) {
+            fclose($file);
+            throw new Exception("Не удалось установить блокировку для файла: $path после {$maxRetries} попыток.");
+        }
+
         $translations = json_decode(file_get_contents($path), true) ?: [];
 
         unset($translations['not_approved'][$original]);
@@ -142,8 +166,14 @@ class Translator extends Base
             $translations['not_approved'][$original] = $translation;
         }
 
-        file_put_contents($path, json_encode($translations, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-        // @todo здесь нужна разблокировка $path
+        // Перематываем файл в начало, очищаем его и записываем новые данные
+        ftruncate($file, 0);
+        rewind($file);
+        fwrite($file, json_encode($translations, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
+        // Снимаем блокировку и закрываем файл
+        flock($file, LOCK_UN);
+        fclose($file);
     }
 
     private static function replaceRoadSignCyrillicCodes($text)

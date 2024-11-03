@@ -1,6 +1,6 @@
 {
     "incorrect": {
-        "kotyliony": "бутоньерки."
+        "mechaniczną": "механического."
     },
     "approved": {
         "others": {
@@ -793,7 +793,15 @@
             "przypinki": "Значки.",
             "kolaże": "Коллажи.",
             "korsarze": "корсажные бутоньерки",
-            "Floralne obrazy wykonane w formie płaskich kompozycji z użyciem różnego rodzaju materiałów to": "Цветочные картины, выполненные в форме плоских композиций с использованием различных материалов, это"
+            "Floralne obrazy wykonane w formie płaskich kompozycji z użyciem różnego rodzaju materiałów to": "Цветочные картины, выполненные в форме плоских композиций с использованием различных материалов, это",
+            "kotyliony": "бутоньерки-котильоны",
+            "Floralne obrazy wykonane w formie płaskich kompozycji z użyciem różnego rodzaju materiałów to kolaże, ponieważ w tej technice łączy się różne elementy (np. kwiaty, liście, tkaniny) w celu stworzenia nowej, całościowej formy": "Цветочные картины, выполненные в форме плоских композиций с использованием различного рода материалов, это коллажи, поскольку в этой технике объединяются различные элементы (например, цветы, листья, ткани) с целью создания новой, целостной формы.",
+            "Rzeczywista długość girlandy wynosi 14 m, a na rysunku 14 cm. W jakiej skali wykonano rysunek?": "Фактическая длина гирлянды составляет 14 м, а на рисунке 14 см. В каком масштабе выполнен рисунок?",
+            "Odpowiedź \"1:100\" wynika z faktu, że 1 metr w rzeczywistości odpowiada 100 cm na rysunku. Skala rysunku jest wyrażona w stosunku długości na rysunku do rzeczywistej długości. Stąd, aby uzyskać długość 14 m w skali rysunku, musimy przeliczyć to na centymetry, co daje 1400 cm. Następnie możemy podzielić 1400 cm (długość na rysunku) przez 14 m (rzeczywistą długość) i otrzymujemy wynik 1:100": "Ответ «1:100» вытекает из того факта, что 1 метр в реальности соответствует 100 см на рисунке. Масштаб рисунка выражается в отношении длины на рисунке к реальной длине. Таким образом, чтобы получить длину 14 м в масштабе рисунка, мы должны пересчитать это на сантиметры, что дает 1400 см. Затем мы можем разделить 1400 см (длину на рисунке) на 14 м (реальную длину) и получаем результат 1:100.",
+            "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду.",
+            "powietrzną": "воздушную.",
+            "biologiczną": "биологическую.",
+            "fizjologiczną": "физиологическую."
         }
     },
     "not_approved": {
@@ -854,10 +862,6 @@
         "dekoracyjna": "декоративная.",
         "makartowska": "макартовская.",
         "graficzna": "графическая.",
-        "fizjologiczną": "физиологическую.",
-        "powietrzną": "воздушную.",
-        "mechaniczną": "механического.",
-        "biologiczną": "биологическую.",
         "małego sekatora": "маленького секатора.",
         "wyrywać całe rośliny wraz z korzeniami": "Вырывать целые растения вместе с корнями.",
         "wyrywać szypułki kwiatowe": "вырывать цветочные цветоносы",
@@ -875,12 +879,10 @@
         "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции.",
         "Kompozycja o rzeczywistej wysokości 125 cm na rysunku wykonanym w skali 1:5 ma": "Композиция фактической высотой 125 см на рисунке, выполненном в масштабе 1:5, имеет",
         "Na rysunku projektowym wykonanym w skali 1:10 kompozycja ma wymiary 25 x 15 cm. Wskaż rzeczywiste wymiary dekoracji": "На проектном рисунке, выполненном в масштабе 1:10, композиция имеет размеры 25 x 15 см. Укажите фактические размеры декорации.",
-        "Rzeczywista długość girlandy wynosi 14 m, a na rysunku 14 cm. W jakiej skali wykonano rysunek?": "Фактическая длина гирлянды составляет 14 м, а на рисунке 14 см. В каком масштабе выполнен рисунок?",
         "W kompozycji florystycznej do mocowania szyszek wykorzystuje się": "В композиции флористической для крепления шишек используется",
         "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
         "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
         "Który rodzaj kwiatostanu jest przedstawiony na zamieszczonym rysunku?": "Какой тип соцветия представлен на приведённом рисунке?",
-        "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду.",
         "W nowoczesnym wnętrzu biura urządzonym w stylu high-tech najlepiej będzie prezentowała się kompozycja": "В современном интерьере офиса, оформленном в стиле хай-тек, лучше всего будет выглядеть композиция.",
         "W sezonie wiosennym dekorację stołu obiadowego w stylu wegetatywnym można wykonać": "В весенний сезон украшение обеденного стола в вегетативном стиле можно выполнить",
         "Wskaż roślinę, której rozwinięte kwiaty zachowują walory dekoracyjne przez 3^5 dni": "Укажите растение, чьи раскрывшиеся цветы сохраняют декоративные качества в течение 3^5 дней.",
@@ -891,6 +893,7 @@
         "kwiaty": "цветы.",
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
-        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров."
+        "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
+        "Obecność bakterii w tkance naczyniowej roślin powoduje blokadę ze względu na wpływ biologiczny, jaki wywierają na organizm roślinny. Bakterie te mogą prowadzić do zablokowania przepływu wody i składników odżywczych, co prowadzi do uszkodzenia struktury rośliny. Wpływ ten wynika z charakterystycznych dla bakterii właściwości biologicznych, takich jak zdolność do wytwarzania enzymów i toksyn, które wpływają na funkcjonowanie rośliny": "Присутствие бактерий в сосудистой ткани растений вызывает блокаду из-за биологического влияния, оказываемого ими на организм растений. Эти бактерии могут привести к блокировке потока воды и питательных веществ, что приводит к повреждению структуры растения. Это влияние обусловлено характерными для бактерий биологическими свойствами, такими как способность к созданию ферментов и токсинов, которые влияют на функционирование растения."
     }
 }

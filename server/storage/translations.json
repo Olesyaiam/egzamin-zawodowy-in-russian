@@ -664,7 +664,14 @@
             "warstwowania": "послойного оформления.",
             "tkania": "тканого оформления.",
             "sekatora ogrodniczego": "садового секатора.",
-            "1 pojemnik": "1 контейнер."
+            "1 pojemnik": "1 контейнер.",
+            "2 pojemniki": "2 контейнера.",
+            "5 pojemników": "5 контейнеров.",
+            "10 pojemników": "10 контейнеров.",
+            "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
+            "bukszpan": "самшит.",
+            "klon japoński": "клён японский",
+            "jałowiec chiński": "можжевельник китайский"
         }
     },
     "not_approved": {
@@ -693,15 +700,11 @@
         "PZ – Przyjęcie zewnętrzne": "PZ – Поступление внешнее.",
         "PW – Przyjęcie wewnętrzne": "PW – внутреннее поступление.",
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
-        "2 pojemniki": "2 контейнера.",
-        "10 pojemników": "10 контейнеров.",
-        "5 pojemników": "5 контейнеров.",
         "była cięższa": "была тяжелее.",
         "zwiększyła swoją objętość": "увеличила свой объем.",
         "dostarczyć wodę kwiatom": "доставить воду цветам.",
         "usunąć z niej powietrze": "удалить из неё воздух.",
         "Wybierz zestaw roślin najbardziej odpowiedni do dekoracji kuchni w stylu wiejskim?": "Выберите набор растений, наиболее подходящий для украшения кухни в деревенском стиле?",
-        "Florysta otrzymał zamówienie udekorowania ogrodu zimowego za pomocą zawsze zielonych krzewów doniczkowych, kwitnących wczesną wiosną. Do realizacji zamówienia powinien wybrać": "Флорист получил заказ на украшение зимнего сада с помощью вечнозелёных кустарников в горшках, цветущих ранней весной. Для выполнения заказа он должен выбрать...",
         "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна с северной экспозицией?",
         "Gąbkę florystyczną zieloną moczy się, aby": "Флористическую губку зелёного цвета смачивают, чтобы",
         "Które kwiaty cięte nie powinny być przechowywane w chłodni?": "Какие срезанные цветы не должны храниться в холодильной камере?",
@@ -828,10 +831,6 @@
         "Zatrwiany, lilie, ostróżki": "Кермек, лилия, дельфиниум.",
         "Gipsówki, szparagi, goździki": "Гипсофила, спаржа, гвоздика.",
         "Helikonie, anturia, strelicje": "Геликонии, антуриумы, стрелиции.",
-        "klon japoński": "клён японский",
-        "kamelię": "камелия.",
-        "bukszpan": "самшит.",
-        "jałowiec chiński": "можжевельник китайский",
         "Begonia królewska, bluszcz i fitonia": "Бегония королевская, плющ и фиттония.",
         "Aloes, azalia i kordylina": "Алоэ, рододендрон и кордилина.",
         "Eszeweria, fiołek afrykański i męczennica": "Эхеверия, сенполия и страстоцвет.",
@@ -841,6 +840,7 @@
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
         "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
         "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
-        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке."
+        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке.",
+        "kamelię": "камелия."
     }
 }

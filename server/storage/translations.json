@@ -805,7 +805,12 @@
             "Ozdobę ślubną panny młodej umieszczaną na ramionach stanowi": "Обрет свадебного украшения, размещаемого на плечах невесты, составляет",
             "parasolka": "Зонтик.",
             "Boa jest ozdobą ślubną panny młodej umieszczaną na ramionach, składającą się z piór lub futra": "Перьевые украшения являются свадебным украшением невесты, размещаемым на плечах, состоящим из перьев или меха.",
-            "Florysta, wykonując tradycyjne kompozycje na święta Bożego Narodzenia, powinien wybrać następujący materiał roślinny": "Флорист, выполняя традиционные композиции на Рождество, должен выбрать следующий растительный материал."
+            "Florysta, wykonując tradycyjne kompozycje na święta Bożego Narodzenia, powinien wybrać następujący materiał roślinny": "Флорист, выполняя традиционные композиции на Рождество, должен выбрать следующий растительный материал.",
+            "forsycję, bukszpan, jodłę": "форзицию, самшит, пихту.",
+            "jodłę, orzechy, poinsecję": "пихту, орехи, пуансеттия.",
+            "szyszki, forsycję, poinsecję": "шишки, форзицию, пуансеттию.",
+            "jodłę, róże, bukszpan": "пихту, розы, самшит.",
+            "Jodła, orzechy i poinsecja to rośliny tradycyjnie kojarzone z Bożym Narodzeniem, co sprawia, że są popularnym wyborem do kompozycji świątecznych. Ich zastosowanie wprowadza świąteczny nastrój i sprawia, że dekoracja jest w pełni zgodna z tematem": "Пихта, орехи и пуансеттия — это растения, традиционно ассоциирующиеся с Рождеством, что делает их популярным выбором для праздничных композиций. Их использование создает праздничное настроение и делает декорацию полностью соответствующей теме."
         }
     },
     "not_approved": {
@@ -895,9 +900,9 @@
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
-        "jodłę, róże, bukszpan": "пихту, розы, самшит.",
-        "jodłę, orzechy, poinsecję": "пихту, орехи, пуансеттия.",
-        "forsycję, bukszpan, jodłę": "форзицию, самшит, пихту.",
-        "szyszki, forsycję, poinsecję": "шишки, форзицию, пуансеттию."
+        "konwalii": "ландыша.",
+        "strelicji": "стрелиции.",
+        "narcyzów": "нарциссов.",
+        "maków": "мак."
     }
 }

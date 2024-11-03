@@ -672,7 +672,12 @@
             "bukszpan": "самшит.",
             "klon japoński": "клён японский",
             "jałowiec chiński": "можжевельник китайский",
-            "kamelię": "камелию."
+            "kamelię": "камелию.",
+            "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна, выходящего на север?",
+            "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
+            "Begonia królewska, bluszcz i fitonia": "Бегония королевская, плющ и фиттония.",
+            "Aloes, azalia i kordylina": "Алоэ, рододендрон и кордилина.",
+            "Eszeweria, fiołek afrykański i męczennica": "Эхеверия, сенполия и страстоцвет."
         }
     },
     "not_approved": {
@@ -831,16 +836,11 @@
         "Zatrwiany, lilie, ostróżki": "Кермек, лилия, дельфиниум.",
         "Gipsówki, szparagi, goździki": "Гипсофила, спаржа, гвоздика.",
         "Helikonie, anturia, strelicje": "Геликонии, антуриумы, стрелиции.",
-        "Begonia królewska, bluszcz i fitonia": "Бегония королевская, плющ и фиттония.",
-        "Aloes, azalia i kordylina": "Алоэ, рододендрон и кордилина.",
-        "Eszeweria, fiołek afrykański i męczennica": "Эхеверия, сенполия и страстоцвет.",
         "Anturium, cantedeskia, szparag, gipsówka": "Антуриум, зантедеския, спаржа, гипсофила.",
         "Storczyk, róża, bluszcz, azalia": "Ятрышник, роза, плющ, рододендрон.",
         "Mak, róża, lilia, aspidistra": "Мак, роза, лилия, аспидистра.",
         "Piwonia, ostróżka, cynia, funkia": "Пион, дельфиниум, цинния, хоста.",
         "Zdrewniałe pędy ciętych lilaków, należy zgodnie ze sztuką florystyczną odświeżyć używając": "Одревесневшие побеги срезанной сирени следует согласно флористическому искусству освежить, используя",
-        "Bugenwilla, kalanchoe i nolina": "Бугенвиллея, каланхое и нолина.",
-        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке.",
-        "Który zestaw roślin nadaje się do aranżacji okna o wystawie północnej?": "Какой набор растений подходит для оформления окна, выходящего на север?"
+        "Wianek ze słomy i drut na kołku": "Венок из соломы и проволока на деревянном колышке."
     }
 }

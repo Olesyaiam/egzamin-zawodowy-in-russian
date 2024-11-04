@@ -10,6 +10,8 @@ use Illuminate\Http\Request;
 
 class TranslationsController extends BaseController
 {
+    protected const TOO_LONG_TEXT = 'The input text is too long';
+
     private static function prepareText(string $text)
     {
         if (preg_match('/^([0-9A-F]\.\s)(.*)$/', $text, $matches)) {
@@ -40,6 +42,11 @@ class TranslationsController extends BaseController
         $questionContext = $request->input('question_context', '');
         $translator = new Translator();
         $prepared = self::prepareText($text);
+
+        if (mb_strlen($prepared['text']) > 1000) {
+            return $this->response(['error' => self::TOO_LONG_TEXT]);
+        }
+
         $databaseManager = new DatabaseManager();
         $flowers = $databaseManager->findFlowers($prepared['text']);
         $flowerTranslations = array_filter(array_map(function ($info) {

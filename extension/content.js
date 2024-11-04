@@ -570,6 +570,45 @@
         });
     }
 
+    function menu() {
+        const navMenu = document.getElementById("main-nav");
+
+        // Проверяем наличие меню и отсутствие уже добавленных элементов
+        if (navMenu && !navMenu.querySelector(".extension_menu")) {
+            // Добавляем временный пустой элемент, чтобы предотвратить повторные запросы
+            let tempLi = document.createElement("li");
+            tempLi.classList.add("extension_menu");
+            navMenu.insertBefore(tempLi, navMenu.firstChild);
+
+            // Запрос к серверу для получения элементов меню
+            makeHttpRequest('menu/menu', {}, data => {
+                // Удаляем временный элемент перед добавлением реальных пунктов
+                navMenu.removeChild(tempLi);
+
+                const items = data.items.reverse(); // Обратный порядок для вставки в начало
+
+                items.forEach(item => {
+                    let li = document.createElement("li");
+                    li.classList.add("extension_menu");
+
+                    let a = document.createElement("a");
+                    a.target = '_blank';
+                    a.style = item.style;
+                    a.href = item.url;
+                    a.textContent = item.text;
+
+                    let icon = document.createElement("i");
+                    icon.classList.add(item.icon); // Класс иконки
+                    a.insertBefore(icon, a.firstChild); // Добавляем иконку перед текстом
+
+                    li.appendChild(a);
+                    navMenu.insertBefore(li, navMenu.firstChild); // Вставляем в начало меню
+                });
+            });
+        }
+    }
+
+
     setInterval(function () {
         intervalSelectorsToRemove();
         intervalQuestion();
@@ -578,6 +617,7 @@
         createSwitchesIfNotExist();
         processSelector(selectors['answer_block'], 'answer_block')
         selectors['others'].forEach(selector => processSelector(selector, 'others'));
+        menu();
     }, 100);
 
     let style = document.createElement('style');

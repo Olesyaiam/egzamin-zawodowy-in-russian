@@ -604,6 +604,12 @@
                     li.appendChild(a);
                     navMenu.insertBefore(li, navMenu.firstChild); // Вставляем в начало меню
                 });
+
+                Array.from(navMenu.querySelectorAll("a")).forEach(link => {
+                    if (data.remove.includes(link.href)) {
+                        link.closest("li").remove();
+                    }
+                });
             });
         }
     }

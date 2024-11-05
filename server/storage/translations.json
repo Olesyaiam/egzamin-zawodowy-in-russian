@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "goździka gałązkowego": "гвоздики веточной."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -1082,7 +1084,6 @@
         "Kwiatostany anturium na czas transportu należy pakować w": "Соцветия антуриума на время транспортировки следует упаковывать в",
         "Kwiatostany anturium, podobnie jak wiele innych delikatnych kwiatów ciętych, wymagają szczególnej ochrony podczas transportu, aby zapobiec ich uszkodzeniu. Pakowanie w karton ze specjalną wkładką jest powszechnie stosowaną metodą, ponieważ zapewnia stabilność kwiatów oraz ochronę przed czynnikami zewnętrznymi, takimi jak nacisk czy zmiany temperatury. Specjalna wkładka może również pomóc w utrzymaniu odpowiedniej wilgotności, co jest kluczowe dla zachowania świeżości kwiatów. Pozostałe opcje, takie jak podwójny papier, nylonowa siatka czy woreczek foliowy wypełnione gazem, nie zapewniają tak kompleksowej ochrony i mogą nie być odpowiednie do długotrwałego transportu kwiatów ciętych, szczególnie tak delikatnych jak anturium": "Соцветия антуриума, подобно многим другим деликатным срезанным цветам, требуют особой защиты во время транспортировки, чтобы предотвратить их повреждение. Упаковка в картон со специальной вставкой является широко используемым методом, поскольку обеспечивает устойчивость цветов и защиту от внешних факторов, таких как давление или изменения температуры. Специальная вставка также может помочь в поддержании надлежащей влажности, что является ключевым для сохранения свежести цветов. Остальные варианты, такие как двойная бумага, нейлоновая сетка или пластиковый мешок, наполненный газом, не обеспечивают такой комплексной защиты и могут быть не подходящими для долгосрочной транспортировки срезанных цветов, особенно таких деликатных, как антуриум.",
         "Szczypce okrągłe są narzędziem stosowanym do wyginania drutów florystycznych, ponieważ ich zaokrąglone końcówki umożliwiają precyzyjne formowanie drutu bez uszkadzania. Pęsety lekarskie, szczypce nastawcze i sekatory gąsienicowe nie są przeznaczone do pracy z delikatnymi materiałami takimi jak druty florystyczne. Szczypce okrągłe zapewniają odpowiednią kontrolę i elastyczność potrzebną do tworzenia ozdób florystycznych": "Круглогубцы являются инструментом, используемым для сгибания флористической проволоки, поскольку их закругленные кончики позволяют точно формировать проволоку без повреждения. Медицинские пинцеты, переставные клещи и секаторы гусеничные не предназначены для работы с деликатными материалами, такими как флористическая проволока. Круглогубцы обеспечивают надлежащий контроль и гибкость, необходимые для создания флористических украшений.",
-        "goździka gałązkowego": "гвоздики веточной.",
         "amarylisa": "амариллис.",
         "łyszczca wiechowatego": "гипсофила метельчатая",
         "lilii królewskiej": "лилии королевской."

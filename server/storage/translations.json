@@ -844,7 +844,9 @@
             "zieloną": "зелёную.",
             "żółtą": "желтую.",
             "czerwoną": "красную.",
-            "Pędy derenia białego są stosowane w kompozycjach ze względu na ich barwę": "Побеги кизила белого используются в композициях из-за их расцветки."
+            "Pędy derenia białego są stosowane w kompozycjach ze względu na ich barwę": "Побеги кизила белого используются в композициях из-за их расцветки.",
+            "przechowywanie bukietu w chłodnym przewiewnym miejscu": "хранение букета в прохладном проветриваемом месте.",
+            "dobre nawodnienie roślin przed wykonaniem bukietu": "Хорошее увлажнение растений перед выполнением букета."
         }
     },
     "not_approved": {
@@ -1301,10 +1303,11 @@
         "różanecznik indyjski": "индийский рододендрон",
         "fikus benjamina": "фикус бенджамина.",
         "Do ampli zawieszonych we wnętrzu biurowym polecany jest": "Для ампелей, подвешенных в офисном интерьере, рекомендуется",
-        "przechowywanie bukietu w chłodnym przewiewnym miejscu": "хранение букета в прохладном проветриваемом месте.",
         "zabezpieczenie końcówek łodyg ciekłym woskiem przed wykonaniem bukietu": "защиту концов стеблей жидким воском перед созданием букета.",
-        "dobre nawodnienie roślin przed wykonaniem bukietu": "Хорошее увлажнение растений перед выполнением букета.",
         "przechowywanie bukietu w ciemnym pomieszczeniu o temperaturze pokojowej": "хранение букета в темном помещении при комнатной температуре.",
-        "Trwałość bukietu ślubnego wykonanego w mikrofonie zapewnia się przez": "Долговечность свадебного букета, выполненного в микрофоне, обеспечивается за счет"
+        "Trwałość bukietu ślubnego wykonanego w mikrofonie zapewnia się przez": "Долговечность свадебного букета, выполненного в микрофоне, обеспечивается за счет",
+        "1 260,00 zł": "1 260,00 zł",
+        "1 280,00 zł": "1 280,00 злотых",
+        "Ogółem koszt wykonania dekoracji sali weselnej wynosi 1 800,00 zł, a koszt robocizny stanowi 30% kosztów ogółem. Oblicz koszt zużytego materiału florystycznego": "Общий стоимость выполнения декорации свадебного зала составляет 1 800,00 зл, а затраты на работу составляют 30% от общих затрат. Вычислите стоимость использованного флористического материала."
     }
 }

@@ -840,7 +840,11 @@
             "brak ruchu powietrza": "отсутствие движения воздуха",
             "silnie rozproszone światło": "сильный рассеянный свет.",
             "Podczas przechowywania ciętych kwiatów ich trwałość najbardziej obniża": "Во время хранения срезанных цветов их стойкость более всего снижается.",
-            "Przygotowując roztwór do konserwowania roślin o zdrewniałych pędach metodą utrwalania w glicerynie używa się gliceryny i wody w proporcji": "Приготовляя раствор для консервирования растений с одревесневшими побегами методом закрепления в глицерине, используют глицерин и воду в пропорции"
+            "Przygotowując roztwór do konserwowania roślin o zdrewniałych pędach metodą utrwalania w glicerynie używa się gliceryny i wody w proporcji": "Приготовляя раствор для консервирования растений с одревесневшими побегами методом закрепления в глицерине, используют глицерин и воду в пропорции",
+            "zieloną": "зелёную.",
+            "żółtą": "желтую.",
+            "czerwoną": "красную.",
+            "Pędy derenia białego są stosowane w kompozycjach ze względu na ich barwę": "Побеги кизила белого используются в композициях из-за их расцветки."
         }
     },
     "not_approved": {
@@ -1290,6 +1294,7 @@
         "Naparstnica purpurowa": "Наперстянка пурпурная.",
         "Wskaż roślinę o strzelistym pokroju": "Укажите растение с стреловидным строением.",
         "Wilczomlecz lśniący": "Молочай блестящий.",
-        "Hortensja ogrodowa": "Гортензия крупнолистная."
+        "Hortensja ogrodowa": "Гортензия крупнолистная.",
+        "białą": "белую."
     }
 }

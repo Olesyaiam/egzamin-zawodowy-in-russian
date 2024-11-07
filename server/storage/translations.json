@@ -830,7 +830,12 @@
             "Na rysunku przedstawiono wieniec laurowy, który w starożytności był symbolem zwycięstwa i honoru. Wieniec ten był wykonany z liści laurowych (Laurus nobilis) i był używany do nagradzania zwycięzców igrzysk olimpijskich oraz innych ważnych wydarzeń. Pozostałe opcje, takie jak oliwka, mirt i rozmaryn, nie były używane do tego celu w starożytności": "На рисунке представлен лавровый венок, который в древности был символом победы и чести. Этот венок был выполнен из лавровых листьев (лавр благородный) и использовался для награждения победителей олимпийских игр и других важных событий. Остальные варианты, такие как маслина, мирт и розмарин, не использовались для этой цели в древности.",
             "Truskawki": "Клубника.",
             "Arbuzy": "Арбуз.",
-            "Banany": "Банан."
+            "Banany": "Банан.",
+            "kalanchoe Blossfelda": "каланхое Блоссфельда.",
+            "wilczomlecz lśniący": "молочай блестящий.",
+            "oleandra pospolitego": "олеандр",
+            "figowca pnącego": "фикус вьющийся",
+            "W celu wykonania ogrodu wertykalnego (zielonej ściany) we wnętrzu na stanowisku zacienionym poleca się": "Для создания вертикального сада (зеленой стены) внутри на затемненном месте рекомендуется"
         }
     },
     "not_approved": {
@@ -1250,11 +1255,6 @@
         "jodły jednobarwnej": "пихты одноцветной.",
         "modrzewia europejskiego": "лиственница европейская",
         "miłorzębu dwuklapowego": "гинкго двулопастной",
-        "Do wykonania adwentowej girlandy z zimozielonych roślin liściastych techniką wiązania używa się": "Для изготовления адвентовой гирлянды из вечнозеленых лиственных растений техникой связывания используют",
-        "oleandra pospolitego": "олеандр",
-        "figowca pnącego": "фикус вьющийся",
-        "kalanchoe Blossfelda": "каланхое Блоссфельда.",
-        "wilczomlecz lśniący": "молочай блестящий.",
-        "W celu wykonania ogrodu wertykalnego (zielonej ściany) we wnętrzu na stanowisku zacienionym poleca się": "Для создания вертикального сада (зеленой стены) внутри на затемненном месте рекомендуется"
+        "Do wykonania adwentowej girlandy z zimozielonych roślin liściastych techniką wiązania używa się": "Для изготовления адвентовой гирлянды из вечнозеленых лиственных растений техникой связывания используют"
     }
 }

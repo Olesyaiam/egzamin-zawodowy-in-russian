@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "tłuszczu": "жира."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -1488,6 +1486,7 @@
         "odgryzacz kostny i skrobaczka": "костный отгрызатель и скребок.",
         "nożyczki chirurgiczne i odgryzacz kostny": "хирургические ножницы и костные кусачки.",
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
-        "dłuto i skrobaczka": "Долото и скребок."
+        "dłuto i skrobaczka": "Долото и скребок.",
+        "tłuszczu": "жира."
     }
 }

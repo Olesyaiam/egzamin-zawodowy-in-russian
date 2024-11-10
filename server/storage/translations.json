@@ -1339,6 +1339,10 @@
         "dezynfekcji": "дезинфекции.",
         "mycia": "мытья.",
         "sterylizacji": "стерилизации.",
-        "Test z naniesioną substancją wskaźnikową symulującą zanieczyszczenia organiczne stosowany jest do kontroli": "Тест с нанесённым индикаторным веществом, имитирующим органические загрязнения, используется для контроля."
+        "Test z naniesioną substancją wskaźnikową symulującą zanieczyszczenia organiczne stosowany jest do kontroli": "Тест с нанесённым индикаторным веществом, имитирующим органические загрязнения, используется для контроля.",
+        "aeracji": "аэрации.",
+        "nawilżania": "увлажнения.",
+        "próżni": "вакуума.",
+        "Proces sterylizacji tlenkiem etylenu rozpoczyna się fazą": "Процесс стерилизации оксидом этилена начинается с фазы"
     }
 }

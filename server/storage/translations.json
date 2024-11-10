@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "tłuszczu": "жира."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -1467,6 +1469,25 @@
         "dużych skażonych krwią\/materiałem biologicznym": "больших, загрязненных кровью\/биологическим материалом.",
         "małych i trudnodostępnych": "маленьких и труднодоступных.",
         "Technika przez spryskiwanie preparatami alkoholowymi stosowana jest do dezynfekcji powierzchni": "Техника опрыскивания алкогольными препаратами используется для дезинфекции поверхностей.",
-        "Wewnątrz pakietu poddawanego sterylizacji parą wodną umieszcza się chemiczne wskaźniki typu": "Внутри пакета, подвергаемого стерилизации водяным паром, размещаются химические индикаторы типа"
+        "Wewnątrz pakietu poddawanego sterylizacji parą wodną umieszcza się chemiczne wskaźniki typu": "Внутри пакета, подвергаемого стерилизации водяным паром, размещаются химические индикаторы типа",
+        "przekroczenie zaprogramowanej wartości A0": "превышение запрограммированного значения A0.",
+        "brak przebarwienia testu kontroli parametrów dezynfekcji termicznej": "отсутствие изменения цвета теста контроля параметров термической дезинфекции.",
+        "obecność cząstek rdzy z systemu wodociągowego na filtrze w komorze myjni": "наличие частиц ржавчины из водопроводной системы на фильтре в камере мойки.",
+        "Na konieczność sprawdzenia sprawności systemu dozowania środków chemicznych w myjni-dezynfektorze, wskazuje": "На необходимость проверки исправности системы дозирования химических средств в моечной-дезинфицирующей машине указывает",
+        "obecność organicznych pozostałości operacyjnych na powierzchni narzędzi": "наличие органических остатков операций на поверхности инструментов.",
+        "kości": "костей.",
+        "cementu kostnego": "костного цемента.",
+        "białka i krwi": "белка и крови.",
+        "Alkohol znajduje zastosowanie do usuwania z narzędzi, sprzętu i powierzchni pozostałości": "Алкоголь находит применение для удаления с инструментов, оборудования и поверхностей остатков.",
+        "Myjnia-dezynfektor": "Мойка-дезинфектор.",
+        "Sterylizator parowy": "Стерилизатор паровой.",
+        "Sterylizator plazmowy": "Плазменный стерилизатор.",
+        "Myjka ultradźwiękowa": "Ультразвуковая мойка.",
+        "Które urządzenie wyposażone jest w wózki wsadowe do narzędzi chirurgicznych, sprzętu anestezjologicznego oraz sprzętu mikrochirurgicznego?": "Какое устройство оснащено загрузочными тележками для хирургических инструментов, анестезиологического оборудования и микрохирургического оборудования?",
+        "Do narzędzi tnących jednoostrzowych należą": "К инструментам для резки, имеющим одно лезвие, относятся",
+        "odgryzacz kostny i skrobaczka": "костный отгрызатель и скребок.",
+        "nożyczki chirurgiczne i odgryzacz kostny": "хирургические ножницы и костные кусачки.",
+        "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
+        "dłuto i skrobaczka": "Долото и скребок."
     }
 }

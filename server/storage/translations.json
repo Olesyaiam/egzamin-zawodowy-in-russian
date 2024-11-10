@@ -1402,6 +1402,21 @@
         "Wskaźniki chemiczne do określonych procedur badawczych należą do typu": "Химические индикаторы для определенных процедур исследований принадлежат к типу",
         "Po zmieszaniu 75 ml koncentratu środka dezynfekcyjnego z 4 925 ml wody uzyska się roztwór użytkowy o stężeniu": "После смешивания 75 мл концентрата дезинфицирующего средства с 4 925 мл воды получится рабочий раствор с концентрацией.",
         "Poprawna odpowiedź to 1,5%. Po zmieszaniu 75 ml koncentratu środka dezynfekcyjnego z 4925 ml wody uzyskujemy roztwór o całkowitej objętości 5000 ml. Stężenie procentowe obliczamy dzieląc objętość koncentratu przez całkowitą objętość roztworu i mnożąc wynik przez 100%. W tym przypadku stężenie wynosi 1,5%, co jest zgodne z kluczem odpowiedzi": "Правильный ответ - 1,5%. После смешивания 75 мл концентрата дезинфицирующего средства с 4925 мл воды получаем раствор с общей объемом 5000 мл. Процентную концентрацию вычисляем, деля объем концентрата на общий объем раствора и умножая результат на 100%. В этом случае концентрация составляет 1,5%, что соответствует ключу ответа.",
-        "Minimalna wartość A0 w procesie dezynfekcji narzędzi mających kontakt z ranami powinna wynosić": "Минимальное значение A0 в процессе дезинфекции инструментов, имеющих контакт с ранами, должно составлять"
+        "Minimalna wartość A0 w procesie dezynfekcji narzędzi mających kontakt z ranami powinna wynosić": "Минимальное значение A0 в процессе дезинфекции инструментов, имеющих контакт с ранами, должно составлять",
+        "Półmaska oddechowa": "Полумаска дыхательная.",
+        "Krótka faza ekspozycji tlenku etylenu": "Короткая фаза экспозиции окиси этилена.",
+        "Maska chirurgiczna": "Хирургическая маска.",
+        "Które zabezpieczenia chronią personel przed ekspozycją inhalacyjną na tlenek etylenu?": "Какие средства предохраняют персонал от ингаляционного воздействия этиленоксида?",
+        "Proces sterylizacji przeprowadzany w nadciśnieniu": "Процесс стерилизации, проводимый в избыточном давлении.",
+        "zamykać i do sterylizacji zamykać": "закрывать и для стерилизации закрывать.",
+        "otwierać i do sterylizacji otwierać": "открывать и для стерилизации открывать.",
+        "zamykać, a do sterylizacji otwierać": "Закрывать, а для стерилизации открывать.",
+        "otwierać, a do sterylizacji zamykać": "открывать, а для стерилизации закрывать.",
+        "Kraniki przy instrumentach laparoskopowych należy do mycia i dezynfekcji": "Краны при лапароскопических инструментах подлежат мойке и дезинфекции.",
+        "Wirusy bezosłonkowe": "Вирусы безоболочечные",
+        "Prątki gruźlicy": "Микобактерии туберкулеза.",
+        "Spory bakterii": "Споры бактерий.",
+        "Wirusy osłonkowe": "Вирусы с оболочкой.",
+        "Które z wymienionych drobnoustrojów posiadają największą oporność na chemiczne środki dezynfekcyjne?": "Какие из перечисленных микроорганизмов обладают наибольшей устойчивостью к химическим дезинфицирующим средствам?"
     }
 }

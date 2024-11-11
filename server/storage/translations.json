@@ -875,7 +875,13 @@
             "Rhipsalis": "Рипсалис.",
             "Asparagus": "Спаржа.",
             "Soleirolia": "Солейролия.",
-            "Soleirolia nie nadaje się do wykonania bukietu w formie odwróconej kropli, ponieważ roślina ta ma bardzo delikatne i krótkie pędy oraz liście, co uniemożliwia ich odpowiednie ułożenie w tej formie": "Солейролия не подходит для создания букета в форме перевернутой капли, потому что это растение имеет очень нежные и короткие побеги и листья, что делает невозможным их соответствующее расположение в этой форме."
+            "Soleirolia nie nadaje się do wykonania bukietu w formie odwróconej kropli, ponieważ roślina ta ma bardzo delikatne i krótkie pędy oraz liście, co uniemożliwia ich odpowiednie ułożenie w tej formie": "Солейролия не подходит для создания букета в форме перевернутой капли, потому что это растение имеет очень нежные и короткие побеги и листья, что делает невозможным их соответствующее расположение в этой форме.",
+            "Wskaż roślinę, której rozwinięte kwiaty zachowują walory dekoracyjne przez 3^5 dni": "Укажите растение, чьи раскрывшиеся цветы сохраняют декоративные качества в течение 3^5 дней.",
+            "Lilia": "Лилия.",
+            "Nagietek": "Календула.",
+            "Narcyz": "Нарцисс.",
+            "Mieczyk": "Шпажник.",
+            "Narcyz posiada kwiaty, które zachowują walory dekoracyjne przez dłuższy czas dzięki specjalnej budowie i składnikom chemicznym": "Нарцисс имеет цветы, которые сохраняют декоративные свойства на протяжении длительного времени благодаря специальному строению и химическим компонентам."
         }
     },
     "not_approved": {
@@ -930,7 +936,6 @@
         "W kompozycji florystycznej do mocowania szyszek wykorzystuje się": "В композиции флористической для крепления шишек используется",
         "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
         "W nowoczesnym wnętrzu biura urządzonym w stylu high-tech najlepiej będzie prezentowała się kompozycja": "В современном интерьере офиса, оформленном в стиле хай-тек, лучше всего будет выглядеть композиция.",
-        "Wskaż roślinę, której rozwinięte kwiaty zachowują walory dekoracyjne przez 3^5 dni": "Укажите растение, чьи раскрывшиеся цветы сохраняют декоративные качества в течение 3^5 дней.",
         "Clip to": "Клипса для",
         "równoległego": "параллельного.",
         "formalno-linearnego": "формально-линеарного.",
@@ -1589,6 +1594,16 @@
         "move kat_zrodlowy\/dane.txt kat_docelowy": "переместить kat_zrodlowy\/dane.txt kat_docelowy",
         "move kat_docelowy kat_zrodlowy\\dane.txt": "переместить kat_docelowy kat_zrodlowy\\dane.txt",
         "copy kat_docelowy kat_zrodlowy\/dane.txt": "copy kat_docelowy kat_zrodlowy\/dane.txt",
-        "W celu archiwizacji danych w systemie Windows, jest wymagane kopiowanie z katalogu źródłowego (kat_zrodlowy) do katalogu docelowego (kat_docelowy). Do kopiowania danych należy użyć polecenia": "Для архивирования данных в системе Windows требуется копирование из исходного каталога (kat_zrodlowy) в целевой каталог (kat_docelowy). Для копирования данных следует использовать команду"
+        "W celu archiwizacji danych w systemie Windows, jest wymagane kopiowanie z katalogu źródłowego (kat_zrodlowy) do katalogu docelowego (kat_docelowy). Do kopiowania danych należy użyć polecenia": "Для архивирования данных в системе Windows требуется копирование из исходного каталога (kat_zrodlowy) в целевой каталог (kat_docelowy). Для копирования данных следует использовать команду",
+        "importu rejestru": "импорта реестра.",
+        "podłączenia rejestru sieciowego": "подключения сетевого реестра.",
+        "kopii rejestru": "копии реестра.",
+        "oczyszczania rejestru": "очистки реестра.",
+        "Pierwszym krokiem podczas prac serwisowych wymagających modyfikowania rejestru w systemie Windows jest wykonanie": "Первым шагом при обслуживании, требующем изменения реестра в системе Windows, является выполнение",
+        "Dializa": "Диализ.",
+        "Sonoforeza": "Сонофорез",
+        "Jonoforeza": "Ионофорез.",
+        "Tonoliza": "Тонолиз.",
+        "Który zabieg wymusza naprzemienną pracę mięśni zginaczy i prostowników poprzez stymulację mięśni impulsem prądowym?": "Какое мероприятие вызывает попеременную работу сгибателей и разгибателей мышц посредством стимуляции мышц электрическим импульсом?"
     }
 }

@@ -883,7 +883,8 @@
             "Mieczyk": "Шпажник.",
             "Narcyz posiada kwiaty, które zachowują walory dekoracyjne przez dłuższy czas dzięki specjalnej budowie i składnikom chemicznym": "Нарцисс имеет цветы, которые сохраняют декоративные свойства на протяжении длительного времени благодаря специальному строению и химическим компонентам.",
             "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
-            "Florysta zużył materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł, co daje całkowity koszt materiałów 80,00 zł. 30% tego kosztu to 24,00 zł, czyli tyle wynosi robocizna. Dodając koszt materiałów do kosztu robocizny otrzymujemy 104,00 zł": "Флорист израсходовал растительный материал на сумму 75,00 злотых, ленту на 2,50 злотых, другие добавки на 2,50 злотых, что дает общую стоимость материалов 80,00 злотых. 30% этой стоимости составляет 24,00 злотых, то есть столько составляют затраты на работу. Добавляя стоимость материалов к затратам на работу, получаем 104,00 злотых."
+            "Florysta zużył materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł, co daje całkowity koszt materiałów 80,00 zł. 30% tego kosztu to 24,00 zł, czyli tyle wynosi robocizna. Dodając koszt materiałów do kosztu robocizny otrzymujemy 104,00 zł": "Флорист израсходовал растительный материал на сумму 75,00 злотых, ленту на 2,50 злотых, другие добавки на 2,50 злотых, что дает общую стоимость материалов 80,00 злотых. 30% этой стоимости составляет 24,00 злотых, то есть столько составляют затраты на работу. Добавляя стоимость материалов к затратам на работу, получаем 104,00 злотых.",
+            "Wecha": "Метёлка"
         }
     },
     "not_approved": {
@@ -921,7 +922,6 @@
         "bielenia roślin": "отбеливания растений.",
         "szkieletowania roślin": "скелетирования растений.",
         "utrwalania roślin": "закрепления растений.",
-        "Wecha": "Молочай.",
         "dekoracyjna": "декоративная.",
         "makartowska": "макартовская.",
         "graficzna": "графическая.",

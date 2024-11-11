@@ -911,7 +911,16 @@
             "równoległego": "параллельного.",
             "Na rysunku projektowym wykonanym w skali 1:10 kompozycja ma wymiary 25 x 15 cm. Wskaż rzeczywiste wymiary dekoracji": "На проектном рисунке, выполненном в масштабе 1:10, композиция имеет размеры 25 x 15 см. Укажите фактические размеры декорации.",
             "W skali 1:10 każdy cm w projekcie odpowiada 10 cm w rzeczywistości. Zatem 25 cm w projekcie to 250 cm w rzeczywistości, a 15 cm w projekcie to 150 cm w rzeczywistości. Stąd rzeczywiste wymiary dekoracji to 250 x 150 cm": "В масштабе 1:10 каждый см в проекте соответствует 10 см в реальности. Таким образом, 25 см в проекте - это 250 см в реальности, а 15 см в проекте - это 150 см в реальности. Отсюда реальные размеры декорации - 250 x 150 см.",
-            "W celu zapewnienia większej trwałości kwiatom lewkonii, należy podczas zbioru": "В целях обеспечения большей долговечности цветам маттиолы, необходимо во время сбора"
+            "W celu zapewnienia większej trwałości kwiatom lewkonii, należy podczas zbioru": "В целях обеспечения большей долговечности цветам маттиолы, необходимо во время сбора",
+            "wycinać szypułki kwiatowe sekatorem": "вырезать цветоножки секатором.",
+            "wyrywać całe rośliny wraz z korzeniami": "Вырывать целые растения вместе с корнями.",
+            "wykręcać szypułki kwiatowe z \"piętką\"": "выкручивать цветоножки с \"пяткой\".",
+            "wyrywać szypułki kwiatowe": "вырывать цветочные цветоносы",
+            "Podczas zbioru lewkonii należy wyrywać całe rośliny wraz z korzeniami, ponieważ kwiaty te nie znoszą przesadzania i łatwo uszkadzają korzenie, co może wpłynąć negatywnie na ich trwałość": "Во время сбора маттиолы необходимо вырывать целые растения вместе с корнями, потому что эти цветы не переносят пересадки и легко повреждают корни, что может негативно сказаться на их стойкости.",
+            "Clip to": "Клипса для",
+            "plastikowy uchwyt w kształcie mikrofonu lub rożka": "пластиковая ручка в форме микрофона или рожка.",
+            "gąbka w plastikowej obudowie ze sprężystym zaczepem": "губка в пластиковой оболочке с пружинным креплением.",
+            "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции."
         }
     },
     "not_approved": {
@@ -940,15 +949,7 @@
         "PZ – Przyjęcie zewnętrzne": "PZ – Поступление внешнее.",
         "PW – Przyjęcie wewnętrzne": "PW – внутреннее поступление.",
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
-        "wyrywać całe rośliny wraz z korzeniami": "Вырывать целые растения вместе с корнями.",
-        "wyrywać szypułki kwiatowe": "вырывать цветочные цветоносы",
-        "wykręcać szypułki kwiatowe z \"piętką\"": "выкручивать цветоножки с \"пяткой\".",
-        "wycinać szypułki kwiatowe sekatorem": "вырезать цветоножки секатором.",
-        "plastikowy uchwyt w kształcie mikrofonu lub rożka": "пластиковая ручка в форме микрофона или рожка.",
         "plastikowe kolce skierowane ku górze": "пластиковые шипы, направленные вверх.",
-        "gąbka w plastikowej obudowie ze sprężystym zaczepem": "губка в пластиковой оболочке с пружинным креплением.",
-        "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции.",
-        "Clip to": "Клипса для",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
         "chrząszczy": "жуков.",
         "miseczników": "чашечников",
@@ -1726,6 +1727,7 @@
         "Który system plików pozwala na szyfrowanie danych w systemie Windows?": "Какая файловая система позволяет шифровать данные в системе Windows?",
         "Podczas wymiany podzespołów elektronicznych czułych na wyładowania elektrostatyczne należy zastosować": "При замене электронных компонентов, чувствительных к электростатическим разрядам, следует применять",
         "Który przyrząd należy wybrać celem sprawdzenia poprawnej prędkości transmisji danych na łączu RS232 urządzenia elektroniki medycznej?": "Какой прибор следует выбрать для проверки правильной скорости передачи данных на интерфейсе RS232 медицинского электронного устройства?",
-        "Podczas testowania elektrokardiografu otrzymano przedstawiony przebieg. Na jego podstawie stwierdzono, że nieprawidłowo działa filtr zakłóceń": "Во время тестирования электрокардиографа был получен представленный график. На его основе было установлено, что фильтр помех работает неправильно."
+        "Podczas testowania elektrokardiografu otrzymano przedstawiony przebieg. Na jego podstawie stwierdzono, że nieprawidłowo działa filtr zakłóceń": "Во время тестирования электрокардиографа был получен представленный график. На его основе было установлено, что фильтр помех работает неправильно.",
+        "\"Gąbka w plastikowej obudowie ze sprężystym zaczepem\" jest poprawną odpowiedzią, ponieważ \"clip to\" oznacza przymocowanie czegoś do czegoś innego, a gąbka ta jest używana w florystyce do przymocowywania kwiatów do różnych podłoży za pomocą sprężystego zaczepu": "Флористическая губка в пластиковой оболочке с пружинным зацепом является правильным ответом, потому что \"клипса\" означает прикрепление чего-либо к чему-то другому, а эта губка используется во флористике для прикрепления цветов к различным подложкам с помощью пружинного зацепа."
     }
 }

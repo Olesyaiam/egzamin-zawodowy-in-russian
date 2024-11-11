@@ -869,7 +869,8 @@
             "pędy": "побеги.",
             "nasiona": "семена.",
             "kwiaty": "цветы.",
-            "Odpowiedzią na pytanie \"Ozdobnymi elementami aspidistry są\" jest \"liście\", ponieważ aspidistra to roślina doniczkowa, której największą ozdobą są duże, zielone liście": "Ответом на вопрос \"Декоративными элементами аспидистры являются\" является \"листья\", потому что аспидистра - это комнатное растение, самой большой декоративной частью которого являются большие, зеленые листья."
+            "Odpowiedzią na pytanie \"Ozdobnymi elementami aspidistry są\" jest \"liście\", ponieważ aspidistra to roślina doniczkowa, której największą ozdobą są duże, zielone liście": "Ответом на вопрос \"Декоративными элементами аспидистры являются\" является \"листья\", потому что аспидистра - это комнатное растение, самой большой декоративной частью которого являются большие, зеленые листья.",
+            "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит."
         }
     },
     "not_approved": {
@@ -919,7 +920,6 @@
         "wycinać szypułki kwiatowe sekatorem": "вырезать цветоножки секатором.",
         "plastikowy uchwyt w kształcie mikrofonu lub rożka": "пластиковая ручка в форме микрофона или рожка.",
         "plastikowe kolce skierowane ku górze": "пластиковые шипы, направленные вверх.",
-        "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит.",
         "Asymetria, zróżnicowanie roślin, widoczne formy i wyeksponowane linie to cechy charakterystyczne dla stylu": "Асимметрия, разнообразие растений, видимые формы и выделенные линии - это характерные черты стиля",
         "gąbka w plastikowej obudowie ze sprężystym zaczepem": "губка в пластиковой оболочке с пружинным креплением.",
         "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции.",
@@ -1490,6 +1490,8 @@
         "nożyczki chirurgiczne i odgryzacz kostny": "хирургические ножницы и костные кусачки.",
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
         "dłuto i skrobaczka": "Долото и скребок.",
-        "tłuszczu": "жира."
+        "tłuszczu": "жира.",
+        "Rhipsalis": "Рипсалис.",
+        "Asparagus": "Спаржа."
     }
 }

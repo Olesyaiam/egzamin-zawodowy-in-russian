@@ -846,7 +846,12 @@
             "czerwoną": "красную.",
             "Pędy derenia białego są stosowane w kompozycjach ze względu na ich barwę": "Побеги кизила белого используются в композициях из-за их расцветки.",
             "przechowywanie bukietu w chłodnym przewiewnym miejscu": "хранение букета в прохладном проветриваемом месте.",
-            "dobre nawodnienie roślin przed wykonaniem bukietu": "Хорошее увлажнение растений перед выполнением букета."
+            "dobre nawodnienie roślin przed wykonaniem bukietu": "Хорошее увлажнение растений перед выполнением букета.",
+            "Do cięcia łodyg rdestu sachalińskiego należy użyć": "Для резки стеблей рейнутрии сахалинской следует использовать",
+            "małego sekatora": "маленького секатора.",
+            "Do cięcia łodyg rdestu sachalińskiego najlepiej sprawdzi się piła ręczna, ponieważ jest to roślina o grubych i twardych łodygach, których cięcie wymaga narzędzia o odpowiedniej sile i precyzji": "Для резки стеблей рейнутрии сахалинской лучше всего подойдет ручная пила, так как это растение с толстыми и твердыми стеблями, для резки которых требуется инструмент с соответствующей силой и точностью.",
+            "Kompozycja o rzeczywistej wysokości 125 cm na rysunku wykonanym w skali 1:5 ma": "Композиция фактической высотой 125 см на рисунке, выполненном в масштабе 1:5, имеет",
+            "Skala 1:5 oznacza, że każda jednostka na rysunku odpowiada 5 jednostkom w rzeczywistości. Stąd, aby poznać rzeczywistą wysokość kompozycji, musimy podzielić jej wysokość na skale, czyli 125 cm : 5 = 25 cm": "Масштаб 1:5 означает, что каждая единица на рисунке соответствует 5 единицам в реальности. Следовательно, чтобы узнать действительную высоту композиции, мы должны разделить её высоту по масштабу, то есть 125 см : 5 = 25 см."
         }
     },
     "not_approved": {
@@ -902,7 +907,6 @@
         "dekoracyjna": "декоративная.",
         "makartowska": "макартовская.",
         "graficzna": "графическая.",
-        "małego sekatora": "маленького секатора.",
         "wyrywać całe rośliny wraz z korzeniami": "Вырывать целые растения вместе с корнями.",
         "wyrywać szypułki kwiatowe": "вырывать цветочные цветоносы",
         "wykręcać szypułki kwiatowe z \"piętką\"": "выкручивать цветоножки с \"пяткой\".",
@@ -915,7 +919,6 @@
         "Florysta do mocowania kwiatów we włosach panny młodej zastosuje": "Флорист для крепления цветов в волосах невесты применит",
         "gąbka w plastikowej obudowie ze sprężystym zaczepem": "губка в пластиковой оболочке с пружинным креплением.",
         "forma z plastiku, stosowana do obsadzania świec w kompozycji florystycznej": "форма из пластика, используемая для установки свечей в цветочной композиции.",
-        "Kompozycja o rzeczywistej wysokości 125 cm na rysunku wykonanym w skali 1:5 ma": "Композиция фактической высотой 125 см на рисунке, выполненном в масштабе 1:5, имеет",
         "Na rysunku projektowym wykonanym w skali 1:10 kompozycja ma wymiary 25 x 15 cm. Wskaż rzeczywiste wymiary dekoracji": "На проектном рисунке, выполненном в масштабе 1:10, композиция имеет размеры 25 x 15 см. Укажите фактические размеры декорации.",
         "W kompozycji florystycznej do mocowania szyszek wykorzystuje się": "В композиции флористической для крепления шишек используется",
         "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
@@ -1487,7 +1490,6 @@
         "nożyczki chirurgiczne i odgryzacz kostny": "хирургические ножницы и костные кусачки.",
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
         "dłuto i skrobaczka": "Долото и скребок.",
-        "tłuszczu": "жира.",
-        "Do cięcia łodyg rdestu sachalińskiego należy użyć": "Для резки стеблей рейнутрии сахалинской следует использовать"
+        "tłuszczu": "жира."
     }
 }

@@ -872,7 +872,8 @@
             "Odpowiedzią na pytanie \"Ozdobnymi elementami aspidistry są\" jest \"liście\", ponieważ aspidistra to roślina doniczkowa, której największą ozdobą są duże, zielone liście": "Ответом на вопрос \"Декоративными элементами аспидистры являются\" является \"листья\", потому что аспидистра - это комнатное растение, самой большой декоративной частью которого являются большие, зеленые листья.",
             "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит.",
             "Ceropegia": "Церопегия",
-            "Rhipsalis": "Рипсалис."
+            "Rhipsalis": "Рипсалис.",
+            "Asparagus": "Спаржа."
         }
     },
     "not_approved": {
@@ -901,7 +902,6 @@
         "PZ – Przyjęcie zewnętrzne": "PZ – Поступление внешнее.",
         "PW – Przyjęcie wewnętrzne": "PW – внутреннее поступление.",
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
-        "Soleirolia": "Солейролия.",
         "wegetatywnego": "вегетативного.",
         "dekoracyjnego": "декоративного.",
         "druty": "проволоки.",
@@ -1492,7 +1492,6 @@
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
         "dłuto i skrobaczka": "Долото и скребок.",
         "tłuszczu": "жира.",
-        "Asparagus": "Спаржа.",
         "ОТВЕТ ОТДЕЛЬНО": "ODPOWIEDŹ ODDZIELNIE",
         "adresie": "адресе.",
         "numerze PESEL": "номере PESEL.",
@@ -1551,6 +1550,18 @@
         "obliczania n–tej potęgi liczby n": "вычисления n-й степени числа n.",
         "obliczania wyrazu ciągu Fibonacciego": "вычисления члена последовательности Фибоначчи.",
         "rekurencji": "рекурсии.",
-        "Funkcja f(n) = n*f(n-1) dla n&gt;1 w przeciwnym wypadku f(n) = 1 jest przykładem": "Функция f(n) = n*f(n-1) для n>1 в противном случае f(n) = 1 является примером"
+        "Funkcja f(n) = n*f(n-1) dla n&gt;1 w przeciwnym wypadku f(n) = 1 jest przykładem": "Функция f(n) = n*f(n-1) для n>1 в противном случае f(n) = 1 является примером",
+        "redundancja": "Избыточность.",
+        "kompresja": "сжатие.",
+        "redukcja": "редукция",
+        "normalizacja": "нормализация.",
+        "Proces, w którym w bazie danych są usuwane nadmiarowe dane, jest określany jako": "Процесс, при котором из базы данных удаляются избыточные данные, называется",
+        "Do którego interfejsu (komunikacja z komputerem odbywa się poprzez port RS 232) należy podłączyć cykloergometr przeznaczony do współpracy z systemem do badań wysiłkowych?": "К какому интерфейсу (связь с компьютером осуществляется через порт RS 232) следует подключить циклэргометр, предназначенный для работы с системой для физических испытаний?",
+        "Soleirolia": "Солейролия.",
+        "tylko karty graficznej oraz karty sieciowej": "только графической карты и сетевой карты.",
+        "dysków, napędów optycznych i kart pamięci": "дисков, оптических приводов и карт памяти.",
+        "tylko pamięci RAM i kart pamięci": "только оперативной памяти и карт памяти.",
+        "Podczas uruchamiania komputera procedura POST testuje poprawność działania": "При запуске компьютера процедура POST тестирует правильность работы.",
+        "procesora, pamięci RAM, karty graficznej oraz dysków twardych": "процессора, оперативной памяти, графической карты и жестких дисков."
     }
 }

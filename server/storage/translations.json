@@ -1492,6 +1492,18 @@
         "dłuto i skrobaczka": "Долото и скребок.",
         "tłuszczu": "жира.",
         "Rhipsalis": "Рипсалис.",
-        "Asparagus": "Спаржа."
+        "Asparagus": "Спаржа.",
+        "ОТВЕТ ОТДЕЛЬНО": "ODPOWIEDŹ ODDZIELNIE",
+        "adresie": "адресе.",
+        "numerze PESEL": "номере PESEL.",
+        "nazwisku": "фамилии.",
+        "imieniu": "имени.",
+        "Podczas tworzenia bazy danych pacjentów polem unikatowym pełniącym rolę klucza podstawowego jest pole zawierające informację o": "При создании базы данных пациентов уникальным полем, выполняющим роль первичного ключа, является поле, содержащее информацию о",
+        "Respirator": "Респиратор.",
+        "Pulsoksymetr": "Пульсоксиметр.",
+        "Saturator": "Сатуратора.",
+        "Które urządzenie medyczne wspomaga lub zastępuje mięśnie pacjenta w oddychaniu?": "Какое медицинское устройство помогает или заменяет мышцы пациента в дыхании?",
+        "Kapnograf": "Капнограф.",
+        "Numer PESEL jest unikatowym identyfikatorem każdego obywatela Polski, który jest przypisywany tylko jednej osobie i nie powtarza się. Dzięki temu, że numer PESEL jest unikatowy dla każdego pacjenta, może pełnić rolę klucza podstawowego w bazie danych. Klucz podstawowy musi jednoznacznie identyfikować każdy rekord w tabeli, co jest możliwe w przypadku numeru PESEL. Natomiast nazwisko, imię czy adres mogą się powtarzać i nie są unikatowe dla każdej osoby, dlatego nie nadają się na klucz podstawowy": "Номер PESEL является уникальным идентификатором каждого гражданина Польши, который назначается только одному человеку и не повторяется. Благодаря тому, что номер PESEL уникален для каждого пациента, он может выполнять роль основного ключа в базе данных. Основной ключ должен однозначно идентифицировать каждую запись в таблице, что возможно в случае с номером PESEL. В то время как фамилия, имя или адрес могут повторяться и не являются уникальными для каждого человека, поэтому они не подходят для основного ключа."
     }
 }

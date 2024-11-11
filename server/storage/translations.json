@@ -848,7 +848,12 @@
             "Do cięcia łodyg rdestu sachalińskiego najlepiej sprawdzi się piła ręczna, ponieważ jest to roślina o grubych i twardych łodygach, których cięcie wymaga narzędzia o odpowiedniej sile i precyzji": "Для резки стеблей рейнутрии сахалинской лучше всего подойдет ручная пила, так как это растение с толстыми и твердыми стеблями, для резки которых требуется инструмент с соответствующей силой и точностью.",
             "Kompozycja o rzeczywistej wysokości 125 cm na rysunku wykonanym w skali 1:5 ma": "Композиция фактической высотой 125 см на рисунке, выполненном в масштабе 1:5, имеет",
             "Skala 1:5 oznacza, że każda jednostka na rysunku odpowiada 5 jednostkom w rzeczywistości. Stąd, aby poznać rzeczywistą wysokość kompozycji, musimy podzielić jej wysokość na skale, czyli 125 cm : 5 = 25 cm": "Масштаб 1:5 означает, что каждая единица на рисунке соответствует 5 единицам в реальности. Следовательно, чтобы узнать действительную высоту композиции, мы должны разделить её высоту по масштабу, то есть 125 см : 5 = 25 см.",
-            "We florystyce czerń zaliczana jest do barw": "Во флористике чёрный цвет относится к расцветкам."
+            "We florystyce czerń zaliczana jest do barw": "Во флористике чёрный цвет относится к расцветкам.",
+            "achromatycznych": "чёрно-белые.",
+            "chromatycznych": "цветные.",
+            "ciepłych": "тёплых.",
+            "zimnych": "холодных.",
+            "Czarny nie jest uważany za barwę w florystyce, ponieważ nie jest on kolorem widzialnym dla roślin. Z tego powodu, jest on zaliczany do kategorii kolorów achromatycznych, czyli odcieni bezbarwnych": "Чёрный не считается расцветкой во флористике, потому что не является цветом, видимым для растений. По этой причине он отнесён к категории оттенков чёрно-белых, то есть бесцветных оттенков."
         }
     },
     "not_approved": {
@@ -878,8 +883,6 @@
         "PW – Przyjęcie wewnętrzne": "PW – внутреннее поступление.",
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
         "Ceropegia": "Церопегия",
-        "ciepłych": "тёплых.",
-        "zimnych": "холодных.",
         "Soleirolia": "Солейролия.",
         "wegetatywnego": "вегетативного.",
         "dekoracyjnego": "декоративного.",

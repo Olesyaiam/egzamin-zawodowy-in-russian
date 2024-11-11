@@ -870,7 +870,9 @@
             "nasiona": "семена.",
             "kwiaty": "цветы.",
             "Odpowiedzią na pytanie \"Ozdobnymi elementami aspidistry są\" jest \"liście\", ponieważ aspidistra to roślina doniczkowa, której największą ozdobą są duże, zielone liście": "Ответом на вопрос \"Декоративными элементами аспидистры являются\" является \"листья\", потому что аспидистра - это комнатное растение, самой большой декоративной частью которого являются большие, зеленые листья.",
-            "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит."
+            "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит.",
+            "Ceropegia": "Церопегия",
+            "Rhipsalis": "Рипсалис."
         }
     },
     "not_approved": {
@@ -899,7 +901,6 @@
         "PZ – Przyjęcie zewnętrzne": "PZ – Поступление внешнее.",
         "PW – Przyjęcie wewnętrzne": "PW – внутреннее поступление.",
         "RW – Rozchód wewnętrzny": "RW – Внутреннее потребление.",
-        "Ceropegia": "Церопегия",
         "Soleirolia": "Солейролия.",
         "wegetatywnego": "вегетативного.",
         "dekoracyjnego": "декоративного.",
@@ -1491,7 +1492,6 @@
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
         "dłuto i skrobaczka": "Долото и скребок.",
         "tłuszczu": "жира.",
-        "Rhipsalis": "Рипсалис.",
         "Asparagus": "Спаржа.",
         "ОТВЕТ ОТДЕЛЬНО": "ODPOWIEDŹ ODDZIELNIE",
         "adresie": "адресе.",
@@ -1531,6 +1531,7 @@
         "Zmniejsza przepływ krwi tętniczej": "Уменьшает ток артериальной крови.",
         "Przyśpiesza procesy przemiany materii": "Ускоряет процессы обмена веществ.",
         "Zwiększa napięcie mięśni szkieletowych": "Увеличивает напряжение скелетных мышц.",
-        "Jaki wpływ na organizm ludzki ma promieniowanie podczerwone IR?": "Какое влияние на организм человека оказывает инфракрасное излучение IR?"
+        "Jaki wpływ na organizm ludzki ma promieniowanie podczerwone IR?": "Какое влияние на организм человека оказывает инфракрасное излучение IR?",
+        "Technika diagnostyki obrazowej polegająca na badaniu struktur serca i dużych naczyń krwionośnych za pomocą ultradźwięków jest określana skrótem": "Техника визуальной диагностики, заключающаяся в исследовании структуры сердца и крупных кровеносных сосудов с помощью ультразвука, обозначается сокращением."
     }
 }

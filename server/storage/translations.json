@@ -1557,7 +1557,6 @@
         "normalizacja": "нормализация.",
         "Proces, w którym w bazie danych są usuwane nadmiarowe dane, jest określany jako": "Процесс, при котором из базы данных удаляются избыточные данные, называется",
         "Do którego interfejsu (komunikacja z komputerem odbywa się poprzez port RS 232) należy podłączyć cykloergometr przeznaczony do współpracy z systemem do badań wysiłkowych?": "К какому интерфейсу (связь с компьютером осуществляется через порт RS 232) следует подключить циклэргометр, предназначенный для работы с системой для физических испытаний?",
-        "Soleirolia": "Солейролия.",
         "tylko karty graficznej oraz karty sieciowej": "только графической карты и сетевой карты.",
         "dysków, napędów optycznych i kart pamięci": "дисков, оптических приводов и карт памяти.",
         "tylko pamięci RAM i kart pamięci": "только оперативной памяти и карт памяти.",
@@ -1573,6 +1572,12 @@
         "Użytkownicy i grupy lokalne": "Пользователи и локальные группы.",
         "Certyfikaty": "Сертификаты.",
         "Szablony zabezpieczeń": "Шаблоны безопасности.",
-        "Która konsola MMC pozwala na zmianę ważności hasła i ustawienie blokady hasła po określonej liczbie logowań?": "Какая консоль MMC позволяет изменить важность пароля и установить блокировку пароля после определенного количества входов в систему?"
+        "Która konsola MMC pozwala na zmianę ważności hasła i ustawienie blokady hasła po określonej liczbie logowań?": "Какая консоль MMC позволяет изменить важность пароля и установить блокировку пароля после определенного количества входов в систему?",
+        "ciemnieje": "темнеет.",
+        "jaśnieje": "сияет.",
+        "rozszerza się": "расширяется.",
+        "zwęża się": "сужается.",
+        "Pod wpływem zwiększenia natężenia promieniowania widzialnego (bodźca świetlnego) źrenica zdrowego oka ludzkiego": "Под воздействием увеличения интенсивности видимого излучения (светового стимула) зрачок здорового человеческого глаза",
+        "Soleirolia": "Солейролия."
     }
 }

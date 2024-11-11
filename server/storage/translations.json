@@ -859,7 +859,8 @@
             "taśmy florystyczne": "Флористические ленты.",
             "pętelki z drutu": "Петельки из проволоки.",
             "Pętelki z drutu są praktycznym rozwiązaniem do mocowania kwiatów we włosach, gdyż dzięki nim kwiaty są stabilne i nie przesuwają się. Ponadto, drut jest elastyczny i można dopasować go do różnej grubości kosmyków włosów": "Петельки из проволоки являются практичным решением для крепления цветов в волосах, так как благодаря им цветы стабильны и не сдвигаются. Кроме того, проволока эластична и её можно подогнать к различной толщине прядей волос.",
-            "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать"
+            "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
+            "taśmę kotwicę": "ленту якорь"
         }
     },
     "not_approved": {
@@ -902,7 +903,6 @@
         "bielenia roślin": "отбеливания растений.",
         "szkieletowania roślin": "скелетирования растений.",
         "utrwalania roślin": "закрепления растений.",
-        "taśmę kotwicę": "ленту якорь",
         "bolce do gąbki": "Штифты для флористической губки.",
         "taśmę plastelinową": "ленту из пластилина.",
         "Wecha": "Молочай.",
@@ -1488,6 +1488,7 @@
         "nożyczki chirurgiczne i odgryzacz kostny": "хирургические ножницы и костные кусачки.",
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
         "dłuto i skrobaczka": "Долото и скребок.",
-        "tłuszczu": "жира."
+        "tłuszczu": "жира.",
+        "Bolce do gąbki są odpowiednie, ponieważ są wystarczająco mocne, aby utrzymać grube świece w miejscu, nie będą też naruszać całej kompozycji": "Штифты для губки подходят, поскольку они достаточно прочные, чтобы удерживать толстые свечи на месте, и не будут нарушать всю композицию."
     }
 }

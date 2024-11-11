@@ -1681,6 +1681,26 @@
         "Laryngoskop": "Ларингоскоп.",
         "Duodenoskop": "Дуоденоскоп.",
         "Bronchoskop": "Бронхоскоп.",
-        "Który endoskop pozwala na badanie wnętrza tchawicy i oskrzeli?": "Какой эндоскоп позволяет исследовать внутреннюю часть трахеи и бронхов?"
+        "Który endoskop pozwala na badanie wnętrza tchawicy i oskrzeli?": "Какой эндоскоп позволяет исследовать внутреннюю часть трахеи и бронхов?",
+        "RAID 0": "RAID 0",
+        "RAID 1": "RAID 1",
+        "RAID 5": "RAID 5",
+        "RAID 6": "RAID 6",
+        "W systemie bazodanowym wymagane jest dodatkowe sprzętowe zabezpieczenie danych przed ich utratą. Która macierz dyskowa pozwala uodpornić się na utratę danych w przypadku awarii wszystkich dysków poza jednym?": "В системе управления базами данных требуется дополнительная защита данных на аппаратном уровне от их потери. Какой массив дисков позволяет защититься от потери данных в случае выхода из строя всех дисков, кроме одного?",
+        "set": "set",
+        "path": "path.",
+        "recover": "восстановление",
+        "W celu określenia trasy, przez jakie routery przechodzi sygnał pomiędzy komputerami w sieci szpitalnej, można zastosować polecenie": "В целях определения маршрута, через какие маршрутизаторы проходит сигнал между компьютерами в сети больницы, можно применить команду.",
+        "PRIMARY KEY": "PRIMARY KEY",
+        "NOT NULL": "NOT NULL",
+        "DISTINCT": "УНИКАЛЬНЫЙ",
+        "UNIQUE": "UNIQUE",
+        "Podczas tworzenia tabeli w bazie danych klucz podstawowy określa się jako": "Во время создания таблицы в базе данных первичный ключ определяется как",
+        "Na którym rysunku przedstawiony jest interfejs zapewniający najwyższą prędkość transferu urządzeń elektroniki medycznej?": "На каком рисунке представлен интерфейс, обеспечивающий наивысшую скорость передачи устройств медицинской электроники?",
+        "rękawice gumowe": "резиновые перчатки.",
+        "okulary ochronne": "защитные очки.",
+        "EXT4": "EXT4",
+        "opaskę antystatyczną": "антистатическую ленту.",
+        "ReiserFS": "ReiserFS"
     }
 }

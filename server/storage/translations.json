@@ -884,7 +884,13 @@
             "Narcyz posiada kwiaty, które zachowują walory dekoracyjne przez dłuższy czas dzięki specjalnej budowie i składnikom chemicznym": "Нарцисс имеет цветы, которые сохраняют декоративные свойства на протяжении длительного времени благодаря специальному строению и химическим компонентам.",
             "Do wykonania bukietu okolicznościowego florysta wykorzystał materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения праздничного букета флорист использовал растительный материал на 75,00 злотых, ленту на 2,50 злотых, другие дополнения на 2,50 злотых. Рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
             "Florysta zużył materiał roślinny za 75,00 zł, wstążkę za 2,50 zł, inne dodatki za 2,50 zł, co daje całkowity koszt materiałów 80,00 zł. 30% tego kosztu to 24,00 zł, czyli tyle wynosi robocizna. Dodając koszt materiałów do kosztu robocizny otrzymujemy 104,00 zł": "Флорист израсходовал растительный материал на сумму 75,00 злотых, ленту на 2,50 злотых, другие добавки на 2,50 злотых, что дает общую стоимость материалов 80,00 злотых. 30% этой стоимости составляет 24,00 злотых, то есть столько составляют затраты на работу. Добавляя стоимость материалов к затратам на работу, получаем 104,00 злотых.",
-            "Wecha": "Метёлка"
+            "Wecha": "Метёлка",
+            "szkieletowania roślin": "формирования каркаса растений",
+            "Boraks używany jest do": "Боракс используется для",
+            "bielenia roślin": "отбеливания растений.",
+            "farbowania roślin": "окрашивания растений",
+            "utrwalania roślin": "закрепления растений.",
+            "Boraks jest używany do utrwalania tkanek roślinnych w celu ich dalszego badania pod mikroskopem. Substancja ta umożliwia zatrzymanie procesów rozkładu i zapobiega deformacji tkanek, dzięki czemu są one bardziej stabilne i wyraźne podczas obserwacji": "Боракс используется для фиксации растительных тканей с целью их дальнейшего исследования под микроскопом. Это вещество позволяет остановить процессы разложения и предотвращает деформацию тканей, благодаря чему они становятся более стабильными и четкими во время наблюдения."
         }
     },
     "not_approved": {
@@ -918,10 +924,6 @@
         "druty": "проволоки.",
         "haftki": "Крючки.",
         "piki florystyczne": "Флористические пики",
-        "farbowania roślin": "окрашивания растений",
-        "bielenia roślin": "отбеливания растений.",
-        "szkieletowania roślin": "скелетирования растений.",
-        "utrwalania roślin": "закрепления растений.",
         "dekoracyjna": "декоративная.",
         "makartowska": "макартовская.",
         "graficzna": "графическая.",
@@ -941,7 +943,6 @@
         "równoległego": "параллельного.",
         "formalno-linearnego": "формально-линеарного.",
         "wegetatywna": "Вегетативная.",
-        "Boraks używany jest do": "Боракс используется для",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
         "chrząszczy": "жуков.",
         "miseczników": "чашечников",
@@ -1675,6 +1676,11 @@
         "Dobierz urządzenie do rejestracji bioelektrycznych potencjałów mięśniowych": "Подберите устройство для регистрации биоэлектрических потенциалов мышц.",
         "Rysunek przedstawia raport sprawdzający połączenie pomiędzy stacjami monitorującymi informatycznego systemu medycznego. Którego polecenia należy użyć aby go uzyskać?": "Рисунок представляет отчет, проверяющий соединение между станциями мониторинга информационной медицинской системы. Какую команду следует использовать, чтобы его получить?",
         "W instrukcji systemu do skanowania dokumentacji medycznej zapisano, że umożliwia wykorzystanie systemu OCR, który służy do": "В инструкции системы для сканирования медицинской документации записано, что она позволяет использовать систему OCR, которая служит для.",
-        "Parametr CL (czas opóźnienia, jaki upływa między wysłaniem przez kontroler RAM żądania dostępu do kolumny pamięci a otrzymaniem danych z tej kolumny) jest wyrażany w": "Параметр CL (время задержки, которое проходит между отправкой контроллером RAM запроса доступа к столбцу памяти и получением данных из этого столбца) выражается в"
+        "Parametr CL (czas opóźnienia, jaki upływa między wysłaniem przez kontroler RAM żądania dostępu do kolumny pamięci a otrzymaniem danych z tej kolumny) jest wyrażany w": "Параметр CL (время задержки, которое проходит между отправкой контроллером RAM запроса доступа к столбцу памяти и получением данных из этого столбца) выражается в",
+        "Artroskop": "Артроскоп.",
+        "Laryngoskop": "Ларингоскоп.",
+        "Duodenoskop": "Дуоденоскоп.",
+        "Bronchoskop": "Бронхоскоп.",
+        "Który endoskop pozwala na badanie wnętrza tchawicy i oskrzeli?": "Какой эндоскоп позволяет исследовать внутреннюю часть трахеи и бронхов?"
     }
 }

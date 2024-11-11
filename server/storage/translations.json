@@ -909,7 +909,9 @@
             "dekoracyjnego": "декоративного.",
             "wegetatywnego": "вегетативного.",
             "równoległego": "параллельного.",
-            "Na rysunku projektowym wykonanym w skali 1:10 kompozycja ma wymiary 25 x 15 cm. Wskaż rzeczywiste wymiary dekoracji": "На проектном рисунке, выполненном в масштабе 1:10, композиция имеет размеры 25 x 15 см. Укажите фактические размеры декорации."
+            "Na rysunku projektowym wykonanym w skali 1:10 kompozycja ma wymiary 25 x 15 cm. Wskaż rzeczywiste wymiary dekoracji": "На проектном рисунке, выполненном в масштабе 1:10, композиция имеет размеры 25 x 15 см. Укажите фактические размеры декорации.",
+            "W skali 1:10 każdy cm w projekcie odpowiada 10 cm w rzeczywistości. Zatem 25 cm w projekcie to 250 cm w rzeczywistości, a 15 cm w projekcie to 150 cm w rzeczywistości. Stąd rzeczywiste wymiary dekoracji to 250 x 150 cm": "В масштабе 1:10 каждый см в проекте соответствует 10 см в реальности. Таким образом, 25 см в проекте - это 250 см в реальности, а 15 см в проекте - это 150 см в реальности. Отсюда реальные размеры декорации - 250 x 150 см.",
+            "W celu zapewnienia większej trwałości kwiatom lewkonii, należy podczas zbioru": "В целях обеспечения большей долговечности цветам маттиолы, необходимо во время сбора"
         }
     },
     "not_approved": {

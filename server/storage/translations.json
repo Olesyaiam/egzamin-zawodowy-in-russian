@@ -1532,6 +1532,16 @@
         "Przyśpiesza procesy przemiany materii": "Ускоряет процессы обмена веществ.",
         "Zwiększa napięcie mięśni szkieletowych": "Увеличивает напряжение скелетных мышц.",
         "Jaki wpływ na organizm ludzki ma promieniowanie podczerwone IR?": "Какое влияние на организм человека оказывает инфракрасное излучение IR?",
-        "Technika diagnostyki obrazowej polegająca na badaniu struktur serca i dużych naczyń krwionośnych za pomocą ultradźwięków jest określana skrótem": "Техника визуальной диагностики, заключающаяся в исследовании структуры сердца и крупных кровеносных сосудов с помощью ультразвука, обозначается сокращением."
+        "Technika diagnostyki obrazowej polegająca na badaniu struktur serca i dużych naczyń krwionośnych za pomocą ultradźwięków jest określana skrótem": "Техника визуальной диагностики, заключающаяся в исследовании структуры сердца и крупных кровеносных сосудов с помощью ультразвука, обозначается сокращением.",
+        "net help": "net help",
+        "net \/?": "net \/?",
+        "net ?": "net ?",
+        "help net": "help net",
+        "Nie uzyskamy pomocy na temat polecenia \"net\" w wierszu poleceń systemu Windows wpisując": "Мы не получим помощи по команде \"net\" в командной строке Windows, вводя",
+        "sieciowych": "сетевых",
+        "dźwiękowych": "звуковых.",
+        "graficznych": "графических.",
+        "Technologie SLI i CrossFire pozwalają na podłączenie dwóch kart": "Технологии SLI и CrossFire позволяют подключить две карты",
+        "telewizyjnych": "телевизионных."
     }
 }

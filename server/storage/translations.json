@@ -1516,6 +1516,21 @@
         "kostna": "Костная.",
         "mięśniowa": "Мышечная.",
         "tłuszczowa": "жировая",
-        "Największą zdolność pochłaniania promieniowania rentgenowskiego o energii 60–160 keV wykazuje tkanka": "Наибольшую способность поглощения рентгеновского излучения с энергией 60–160 кэВ показывает ткань."
+        "Największą zdolność pochłaniania promieniowania rentgenowskiego o energii 60–160 keV wykazuje tkanka": "Наибольшую способность поглощения рентгеновского излучения с энергией 60–160 кэВ показывает ткань.",
+        "get install": "install get",
+        "install": "установить",
+        "apt cache": "apt cache",
+        "apt-get install": "apt-get install",
+        "Aby zainstalować brakujące oprogramowanie w systemie z rodziny Linux należy wykorzystać polecenie": "Чтобы установить недостающие программное обеспечение в системе семейства Linux, нужно использовать команду",
+        "continue": "continue",
+        "break": "break",
+        "pause": "pause",
+        "return": "return",
+        "W celu przerwania działania funkcji i powrotu do miejsca jej wywołania należy użyć instrukcji": "В целях прерывания действия функции и возвращения к месту её вызова следует использовать инструкцию.",
+        "Zmniejsza próg odczuwania bólu": "Уменьшает порог ощущения боли.",
+        "Zmniejsza przepływ krwi tętniczej": "Уменьшает ток артериальной крови.",
+        "Przyśpiesza procesy przemiany materii": "Ускоряет процессы обмена веществ.",
+        "Zwiększa napięcie mięśni szkieletowych": "Увеличивает напряжение скелетных мышц.",
+        "Jaki wpływ na organizm ludzki ma promieniowanie podczerwone IR?": "Какое влияние на организм человека оказывает инфракрасное излучение IR?"
     }
 }

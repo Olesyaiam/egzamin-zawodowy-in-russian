@@ -1542,6 +1542,15 @@
         "dźwiękowych": "звуковых.",
         "graficznych": "графических.",
         "Technologie SLI i CrossFire pozwalają na podłączenie dwóch kart": "Технологии SLI и CrossFire позволяют подключить две карты",
-        "telewizyjnych": "телевизионных."
+        "telewizyjnych": "телевизионных.",
+        "PS\/2": "PS\/2",
+        "HDMI": "HDMI",
+        "Fire Wire": "Fire Wire",
+        "Który interfejs nie umożliwia podłączenia urządzeń peryferyjnych w standardzie \"plug and play\"?": "Какой интерфейс не позволяет подключать периферийные устройства в стандарте \"plug and play\"?",
+        "iteracji": "итерации.",
+        "obliczania n–tej potęgi liczby n": "вычисления n-й степени числа n.",
+        "obliczania wyrazu ciągu Fibonacciego": "вычисления члена последовательности Фибоначчи.",
+        "rekurencji": "рекурсии.",
+        "Funkcja f(n) = n*f(n-1) dla n&gt;1 w przeciwnym wypadku f(n) = 1 jest przykładem": "Функция f(n) = n*f(n-1) для n>1 в противном случае f(n) = 1 является примером"
     }
 }

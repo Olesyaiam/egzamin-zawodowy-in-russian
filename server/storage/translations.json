@@ -860,7 +860,16 @@
             "pętelki z drutu": "Петельки из проволоки.",
             "Pętelki z drutu są praktycznym rozwiązaniem do mocowania kwiatów we włosach, gdyż dzięki nim kwiaty są stabilne i nie przesuwają się. Ponadto, drut jest elastyczny i można dopasować go do różnej grubości kosmyków włosów": "Петельки из проволоки являются практичным решением для крепления цветов в волосах, так как благодаря им цветы стабильны и не сдвигаются. Кроме того, проволока эластична и её можно подогнать к различной толщине прядей волос.",
             "Do stabilnego zamocowania grubych świec, w kompozycji ułożonej w table deco, można wykorzystać": "Для стабильного закрепления толстых свечей в композиции, уложенной в table deco, можно использовать",
-            "taśmę kotwicę": "армированную влагостойкую ленту"
+            "taśmę kotwicę": "армированную влагостойкую ленту",
+            "taśmę plastelinową": "ленту из пластилина.",
+            "bolce do gąbki": "Штифты для флористической губки.",
+            "Bolce do gąbki są odpowiednie, ponieważ są wystarczająco mocne, aby utrzymać grube świece w miejscu, nie będą też naruszać całej kompozycji": "Штифты для губки подходят, поскольку они достаточно прочные, чтобы удерживать толстые свечи на месте, и не будут нарушать всю композицию.",
+            "Ozdobnymi elementami aspidistry są": "Декоративными элементами аспидистры являются",
+            "liście": "листья.",
+            "pędy": "побеги.",
+            "nasiona": "семена.",
+            "kwiaty": "цветы.",
+            "Odpowiedzią na pytanie \"Ozdobnymi elementami aspidistry są\" jest \"liście\", ponieważ aspidistra to roślina doniczkowa, której największą ozdobą są duże, zielone liście": "Ответом на вопрос \"Декоративными элементами аспидистры являются\" является \"листья\", потому что аспидистра - это комнатное растение, самой большой декоративной частью которого являются большие, зеленые листья."
         }
     },
     "not_approved": {
@@ -893,8 +902,6 @@
         "Soleirolia": "Солейролия.",
         "wegetatywnego": "вегетативного.",
         "dekoracyjnego": "декоративного.",
-        "pędy": "побеги.",
-        "liście": "листья.",
         "druty": "проволоки.",
         "haftki": "Крючки.",
         "piki florystyczne": "Флористические пики",
@@ -902,8 +909,6 @@
         "bielenia roślin": "отбеливания растений.",
         "szkieletowania roślin": "скелетирования растений.",
         "utrwalania roślin": "закрепления растений.",
-        "bolce do gąbki": "Штифты для флористической губки.",
-        "taśmę plastelinową": "ленту из пластилина.",
         "Wecha": "Молочай.",
         "dekoracyjna": "декоративная.",
         "makartowska": "макартовская.",
@@ -926,8 +931,6 @@
         "Clip to": "Клипса для",
         "równoległego": "параллельного.",
         "formalno-linearnego": "формально-линеарного.",
-        "nasiona": "семена.",
-        "kwiaty": "цветы.",
         "wegetatywna": "Вегетативная.",
         "Boraks używany jest do": "Боракс используется для",
         "W kontekście kompozycji kwiatowych, formy towarzyszące są to kwiaty, które uzupełniają główne kwiaty w bukiecie lub aranżacji, dodając im objętości, koloru lub tekstury. Goździk gałązkowy jest często używany jako forma towarzysząca ze względu na swoją trwałość, różnorodność kolorów i delikatną strukturę, która doskonale komponuje się z większymi kwiatami, takimi jak lilie czy amarylisy. Lilie królewskie, amarylisy i łyszczec wiechowaty są zazwyczaj traktowane jako główne kwiaty w kompozycjach ze względu na ich wyraziste kształty i rozmiary": "В контексте цветочных композиций, сопутствующие формы — это цветы, которые дополняют основные цветы в букете или аранжировке, добавляя им объема, цвета или текстуры. Гвоздика веточка часто используется как сопутствующая форма из-за своей долговечности, разнообразия цветов и деликатной структуры, которая прекрасно сочетается с более крупными цветами, такими как лилии или амариллисы. Лилии королевские, амариллисы и гипсофила метельчатая обычно рассматриваются как основные цветы в композициях из-за их выразительных форм и размеров.",
@@ -1487,7 +1490,6 @@
         "nożyczki chirurgiczne i odgryzacz kostny": "хирургические ножницы и костные кусачки.",
         "dłuto i nożyczki chirurgiczne": "долото и хирургические ножницы.",
         "dłuto i skrobaczka": "Долото и скребок.",
-        "tłuszczu": "жира.",
-        "Bolce do gąbki są odpowiednie, ponieważ są wystarczająco mocne, aby utrzymać grube świece w miejscu, nie będą też naruszać całej kompozycji": "Штифты для губки подходят, поскольку они достаточно прочные, чтобы удерживать толстые свечи на месте, и не будут нарушать всю композицию."
+        "tłuszczu": "жира."
     }
 }

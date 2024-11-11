@@ -41,6 +41,10 @@
             "sekator: секатор",
             "sekatora ogrodniczego: садового секатора"
         ],
+        "chromat": [
+            "barwy achromatyczne: оттенки чёрно-белые",
+            "barwy chromatyczne: оттенки цветные"
+        ],
         "pozbiorcz": [
             "pozbiorcza: после срезки",
             "trwałość pozbiorcza: долговечность после срезки"

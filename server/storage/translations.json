@@ -873,7 +873,9 @@
             "Do wykonania bukietu w formie odwróconej kropli nie nadaje się": "Для создания букета в форме перевёрнутой капли не подходит.",
             "Ceropegia": "Церопегия",
             "Rhipsalis": "Рипсалис.",
-            "Asparagus": "Спаржа."
+            "Asparagus": "Спаржа.",
+            "Soleirolia": "Солейролия.",
+            "Soleirolia nie nadaje się do wykonania bukietu w formie odwróconej kropli, ponieważ roślina ta ma bardzo delikatne i krótkie pędy oraz liście, co uniemożliwia ich odpowiednie ułożenie w tej formie": "Солейролия не подходит для создания букета в форме перевернутой капли, потому что это растение имеет очень нежные и короткие побеги и листья, что делает невозможным их соответствующее расположение в этой форме."
         }
     },
     "not_approved": {
@@ -1578,6 +1580,15 @@
         "rozszerza się": "расширяется.",
         "zwęża się": "сужается.",
         "Pod wpływem zwiększenia natężenia promieniowania widzialnego (bodźca świetlnego) źrenica zdrowego oka ludzkiego": "Под воздействием увеличения интенсивности видимого излучения (светового стимула) зрачок здорового человеческого глаза",
-        "Soleirolia": "Солейролия."
+        "renografu": "ренографа.",
+        "Przedstawiony fragment dokumentacji dotyczy": "Представленный фрагмент документации касается",
+        "tomografu": "томографа.",
+        "scyntygrafu": "сцинтиграфа.",
+        "ultrasonografu": "Ультразвукового сканера",
+        "copy kat_zrodlowy\\dane.txt kat_docelowy": "copy kat_zrodlowy\\dane.txt kat_docelowy",
+        "move kat_zrodlowy\/dane.txt kat_docelowy": "переместить kat_zrodlowy\/dane.txt kat_docelowy",
+        "move kat_docelowy kat_zrodlowy\\dane.txt": "переместить kat_docelowy kat_zrodlowy\\dane.txt",
+        "copy kat_docelowy kat_zrodlowy\/dane.txt": "copy kat_docelowy kat_zrodlowy\/dane.txt",
+        "W celu archiwizacji danych w systemie Windows, jest wymagane kopiowanie z katalogu źródłowego (kat_zrodlowy) do katalogu docelowego (kat_docelowy). Do kopiowania danych należy użyć polecenia": "Для архивирования данных в системе Windows требуется копирование из исходного каталога (kat_zrodlowy) в целевой каталог (kat_docelowy). Для копирования данных следует использовать команду"
     }
 }

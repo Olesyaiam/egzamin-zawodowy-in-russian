@@ -1728,6 +1728,7 @@
         "Który system plików pozwala na szyfrowanie danych w systemie Windows?": "Какая файловая система позволяет шифровать данные в системе Windows?",
         "Podczas wymiany podzespołów elektronicznych czułych na wyładowania elektrostatyczne należy zastosować": "При замене электронных компонентов, чувствительных к электростатическим разрядам, следует применять",
         "Który przyrząd należy wybrać celem sprawdzenia poprawnej prędkości transmisji danych na łączu RS232 urządzenia elektroniki medycznej?": "Какой прибор следует выбрать для проверки правильной скорости передачи данных на интерфейсе RS232 медицинского электронного устройства?",
-        "Podczas testowania elektrokardiografu otrzymano przedstawiony przebieg. Na jego podstawie stwierdzono, że nieprawidłowo działa filtr zakłóceń": "Во время тестирования электрокардиографа был получен представленный график. На его основе было установлено, что фильтр помех работает неправильно."
+        "Podczas testowania elektrokardiografu otrzymano przedstawiony przebieg. Na jego podstawie stwierdzono, że nieprawidłowo działa filtr zakłóceń": "Во время тестирования электрокардиографа был получен представленный график. На его основе было установлено, что фильтр помех работает неправильно.",
+        "Wiecha": "Метёлка."
     }
 }

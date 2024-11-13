@@ -1794,6 +1794,12 @@
         "adaptometr": "адаптометр.",
         "Do badania przewodnictwa powietrznego i kostnego służy": "Для исследования воздушной и костной проводимости служит",
         "fotometr": "фотометр.",
-        "Zgodnie z przedstawionym opisem, gniazdo interfejsu służące do podłączenia audiometru ze stanowiskiem komputerowym przedstawione jest na rysunku": "В соответствии с представленным описанием, гнездо интерфейса, служащее для подключения аудиометра к компьютерному месту, представлено на рисунке."
+        "Zgodnie z przedstawionym opisem, gniazdo interfejsu służące do podłączenia audiometru ze stanowiskiem komputerowym przedstawione jest na rysunku": "В соответствии с представленным описанием, гнездо интерфейса, служащее для подключения аудиометра к компьютерному месту, представлено на рисунке.",
+        "Pod wpływem bodźca świetlnego, dźwiękowego lub czuciowego mózg generuje elektryczne potencjały wywołane rejestrowane przez": "Под влиянием светового, звукового или тактильного стимула мозг генерирует вызванные электрические потенциалы, регистрируемые при помощи",
+        "procesora": "процессора.",
+        "pamięci operacyjnej": "оперативной памяти.",
+        "dysku twardego": "жёсткого диска.",
+        "chipsetu": "чипсета.",
+        "Sterowniki klawiatury, magistral i przerwań są elementami": "Драйверы клавиатуры, магистралей и прерываний являются элементами"
     }
 }

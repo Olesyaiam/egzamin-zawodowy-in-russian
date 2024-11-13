@@ -1800,6 +1800,18 @@
         "pamięci operacyjnej": "оперативной памяти.",
         "dysku twardego": "жёсткого диска.",
         "chipsetu": "чипсета.",
-        "Sterowniki klawiatury, magistral i przerwań są elementami": "Драйверы клавиатуры, магистралей и прерываний являются элементами"
+        "Sterowniki klawiatury, magistral i przerwań są elementami": "Драйверы клавиатуры, магистралей и прерываний являются элементами",
+        "PCI E": "PCI E",
+        "PCI X": "PCI X",
+        "Która magistrala służy do szeregowej transmisji danych?": "Какая магистраль служит для последовательной передачи данных?",
+        "INSERT": "INSERT",
+        "ALTER": "ALTER",
+        "SELECT": "SELECT",
+        "UPDATE": "ОБНОВИТЬ",
+        "Do zaktualizowania rekordu tabeli należy zastosować polecenie": "Для обновления записи таблицы следует использовать команду.",
+        "spirometr": "спирометр",
+        "saturator": "Сатуратор",
+        "respirator": "респиратор.",
+        "Do pomiaru objętości i pojemności płuc w różnych fazach cyklu oddechowego służy": "Для измерения объёма и ёмкости лёгких на различных фазах дыхательного цикла используется."
     }
 }

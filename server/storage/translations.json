@@ -1770,6 +1770,17 @@
         "Букеты — характерные украшения в стиле бидермейер, которые были популярны в период бидермейера. Этот стиль представлял классицизм в немецкой живописи и скульптуре, а также в архитектуре и дизайне интерьера": "Bukiety - charakterystyczne ozdoby w stylu biedermeier, które były popularne w okresie biedermeiera. Styl ten reprezentował klasycyzm w niemieckim malarstwie i rzeźbie, a także w architekturze i projektowaniu wnętrz.",
         "Moribana to metoda układania kwiatów w płaskich naczyniach, która wywodzi się z Japonii. Technika ta polega na ułożeniu kwiatów na różnej wysokości w naczyniu, co tworzy efekt trójwymiarowości i harmonii pomiędzy roślinami": "Морибана - это метод укладки цветов в плоских сосудах, который происходит из Японии. Эта техника предполагает укладку цветов на разной высоте в сосуде, что создает эффект трехмерности и гармонии между растениями.",
         "dekoracyjna,": "декоративная,",
-        "Kompozycja graficzna będzie najlepiej pasować do stylu high-tech, ponieważ w takim wnętrzu dominują surowe i geometryczne kształty oraz monochromatyczna kolorystyka, a grafika charakteryzuje się właśnie tymi cechami. Dodatkowo, kompozycja graficzna może wprowadzić do wnętrza element dynamiczny i nowoczesny, co idealnie wpisuje się w estetykę high-tech": "Графическая композиция будет лучше всего подходить для стиля хай-тек, потому что в таком интерьере доминируют строгие и геометрические формы, а также монохроматическая колористика, а графика характеризуется именно этими чертами. Кроме того, графическая композиция может внести в интерьер динамичный и современный элемент, что идеально вписывается в эстетику хай-тек."
+        "Kompozycja graficzna będzie najlepiej pasować do stylu high-tech, ponieważ w takim wnętrzu dominują surowe i geometryczne kształty oraz monochromatyczna kolorystyka, a grafika charakteryzuje się właśnie tymi cechami. Dodatkowo, kompozycja graficzna może wprowadzić do wnętrza element dynamiczny i nowoczesny, co idealnie wpisuje się w estetykę high-tech": "Графическая композиция будет лучше всего подходить для стиля хай-тек, потому что в таком интерьере доминируют строгие и геометрические формы, а также монохроматическая колористика, а графика характеризуется именно этими чертами. Кроме того, графическая композиция может внести в интерьер динамичный и современный элемент, что идеально вписывается в эстетику хай-тек.",
+        "REPLACE": "ЗАМЕНИТЬ",
+        "RMDIR": "RMDIR",
+        "Aby usunąć katalog w systemie Windows należy wykonać polecenie": "Чтобы удалить каталог в системе Windows, необходимо выполнить команду",
+        "RENAME": "ПЕРЕИМЕНОВАТЬ",
+        "RISC": "RISC",
+        "CISC": "CISC",
+        "CUDA": "CUDA",
+        "VLIW": "VLIW",
+        "Jeżeli procesor graficzny wykonuje także operacje arytmetyczne, oznacza to, że pracuje w architekturze": "Если графический процессор также выполняет арифметические операции, это означает, что он работает в архитектуре.",
+        "while": "while",
+        "Operacja warunkowa w większości języków programowania wysokiego poziomu zaczyna się słowem": "Условная операция в большинстве языков программирования высокого уровня начинается со слова"
     }
 }

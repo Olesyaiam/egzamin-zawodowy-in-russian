@@ -1781,6 +1781,13 @@
         "VLIW": "VLIW",
         "Jeżeli procesor graficzny wykonuje także operacje arytmetyczne, oznacza to, że pracuje w architekturze": "Если графический процессор также выполняет арифметические операции, это означает, что он работает в архитектуре.",
         "while": "while",
-        "Operacja warunkowa w większości języków programowania wysokiego poziomu zaczyna się słowem": "Условная операция в большинстве языков программирования высокого уровня начинается со слова"
+        "Operacja warunkowa w większości języków programowania wysokiego poziomu zaczyna się słowem": "Условная операция в большинстве языков программирования высокого уровня начинается со слова",
+        "W aparacie holterowskim sygnał jest archiwizowany na karcie SD. Który rysunek przedstawia wymieniony nośnik pamięci?": "В аппарате холтеровского мониторирования сигнал архивируется на карте SD. Какой рисунок представляет указанный носитель памяти?",
+        "Jaki format danych należy zastosować do archiwizacji, kompresji i szyfrowania danych?": "Какой формат данных следует использовать для архивирования, сжатия и шифрования данных?",
+        "lokalne": "локальные.",
+        "statyczne": "статические.",
+        "dynamiczne": "динамические.",
+        "globalne": "глобальные.",
+        "Zmienne definiowane w programie głównym na zewnątrz wszystkich funkcji i procedur lub innych bloków programu określamy jako zmienne": "Переменные, определяемые в главной программе вне всех функций и процедур или других блоков программы, определяем как переменные."
     }
 }

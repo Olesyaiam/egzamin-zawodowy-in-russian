@@ -1977,6 +1977,22 @@
         "ręcznie demontować, jeżeli są stalowe i aluminiowe": "Ручной разбор, если они стальные и алюминиевые.",
         "Elementów urządzeń elektronicznych, które mają być poddane recyklingowi nie należy": "Элементы электронных устройств, которые должны быть подвергнуты переработке, не следует",
         "ręcznie demontować, jeżeli zawierają dużą koncentrację metali szlachetnych": "вручную демонтировать, если они содержат высокую концентрацию драгоценных металлов.",
-        "Którym przewodem należy doprowadzić sygnał do centrali domofonowej?": "Каким проводом следует довести сигнал до центрального пульта домофона?"
+        "Którym przewodem należy doprowadzić sygnał do centrali domofonowej?": "Каким проводом следует довести сигнал до центрального пульта домофона?",
+        "wystąpił błąd sumy kontrolnej BIOS-u": "произошла ошибка контрольной суммы BIOS.",
+        "pamięć podręczna cache procesora jest uszkodzona": "Кэш-память процессора повреждена.",
+        "bateria podtrzymująca pamięć CMOS wyczerpuje się": "батарея, поддерживающая память CMOS, разряжается.",
+        "pamięć CMOS nie została skonfigurowana": "память CMOS не была настроена.",
+        "Po załączeniu komputera na ekranie pojawił się komunikat \"CMOS battery failed\". Oznacza on, że": "После включения компьютера на экране появилось сообщение \"CMOS battery failed\". Это означает, что",
+        "Na którym rysunku przedstawiono układ przystosowany do montażu w technologii BGA?": "На каком рисунке представлен уклад, приспособленный для монтажа в технологии BGA?",
+        "Regulują wartość rezystancji": "Регулируют величину сопротивления.",
+        "Gromadzą ładunek elektryczny": "Накапливают электрический заряд.",
+        "Gromadzą energię pola magnetycznego": "Накапливают энергию магнитного поля.",
+        "Jaką rolę pełnią przedstawione na rysunkach elementy?": "Какую роль выполняют представленные на рисунках элементы?",
+        "Stabilizują wartość napięcia": "Стабилизируют величину напряжения.",
+        "transoptor": "транзоптор",
+        "tranzystor": "транзистор",
+        "rezystor nastawny": "Переменный резистор.",
+        "Element, którego symbol graficzny przedstawiono na rysunku to": "Элемент, графический символ которого представлен на рисунке, это",
+        "dioda elektroluminescencyjna": "Светодиодная лампа."
     }
 }

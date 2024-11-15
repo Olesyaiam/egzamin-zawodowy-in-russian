@@ -1999,6 +1999,11 @@
         "Prawo budowlane": "Строительное право.",
         "Prawo energetyczne": "Энергетическое право.",
         "Które przepisy prawa regulują gospodarkę odpadami niebezpiecznymi?": "Какие правовые акты регулируют управление опасными отходами?",
-        "Ustawa o odpadach": "Закон об отходах."
+        "Ustawa o odpadach": "Закон об отходах.",
+        "kablami koncentrycznymi": "коаксиальными кабелями.",
+        "łączami światłowodowymi": "оптоволоконные соединения.",
+        "skrętkami telefonicznymi": "телефонными витыми парами",
+        "drogą radiową": "по радиоканалу",
+        "W telewizji kablowej magistrale optyczne służą do transmisji sygnałów na duże odległości": "В кабельном телевидении оптические магистрали служат для передачи сигналов на большие расстояния."
     }
 }

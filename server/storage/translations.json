@@ -1926,6 +1926,16 @@
         "Ilustracja 4": "Иллюстрация 4.",
         "Ilustracja 1": "Иллюстрация 1.",
         "Ilustracja 3": "Иллюстрация 3.",
-        "Która ilustracja wskazuje na brak usunięcia tlenków z punktu lutowniczego?": "Какая иллюстрация указывает на отсутствие удаления оксидов с паяльного точка?"
+        "Która ilustracja wskazuje na brak usunięcia tlenków z punktu lutowniczego?": "Какая иллюстрация указывает на отсутствие удаления оксидов с паяльного точка?",
+        "sieci energetycznej": "электрической сети.",
+        "Na ilustracji przedstawiono tester": "На иллюстрации представлен тестер",
+        "poprawności par w RJ-45": "правильности пар в RJ-45.",
+        "poziomu sygnału WiFi": "уровня сигнала WiFi.",
+        "systemów telewizyjnych": "телевизионных систем.",
+        "Wskaż kolejność czynności przy montażu tranzystora z radiatorem w płytce PCB?": "Укажите порядок действий при монтаже транзистора с радиатором на плате PCB?",
+        "Przymocować radiator do PCB, przylutować tranzystor, przykręcić radiator do tranzystora": "Прикрепить радиатор к PCB, припаять транзистор, прикрутить радиатор к транзистору.",
+        "Przykręcić radiator do tranzystora, przymocować radiator do PCB, przylutować tranzystor": "Прикрутить радиатор к транзистору, прикрепить радиатор к плате PCB, припаять транзистор.",
+        "Przykręcić radiator do tranzystora, przylutować tranzystor, przymocować radiator do PCB": "Закрутить радиатор к транзистору, припаять транзистор, прикрепить радиатор к PCB.",
+        "Przylutować tranzystor, przykręcić radiator do tranzystora, przykręcić radiator do PCB": "Припаять транзистор, прикрутить радиатор к транзистору, прикрутить радиатор к PCB."
     }
 }

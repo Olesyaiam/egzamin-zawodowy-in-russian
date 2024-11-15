@@ -1993,6 +1993,12 @@
         "tranzystor": "транзистор",
         "rezystor nastawny": "Переменный резистор.",
         "Element, którego symbol graficzny przedstawiono na rysunku to": "Элемент, графический символ которого представлен на рисунке, это",
-        "dioda elektroluminescencyjna": "Светодиодная лампа."
+        "dioda elektroluminescencyjna": "Светодиодная лампа.",
+        "Które z narzędzi wykorzystywane jest podczas wyznaczania trasy przewodów dla instalowanych urządzeń elektronicznych?": "Какой из инструментов используется при определении трассы проводов для устанавливаемых электронных устройств?",
+        "Prawo zamówień publicznych": "Закон о государственных закупках.",
+        "Prawo budowlane": "Строительное право.",
+        "Prawo energetyczne": "Энергетическое право.",
+        "Które przepisy prawa regulują gospodarkę odpadami niebezpiecznymi?": "Какие правовые акты регулируют управление опасными отходами?",
+        "Ustawa o odpadach": "Закон об отходах."
     }
 }

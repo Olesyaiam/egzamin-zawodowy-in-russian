@@ -1873,6 +1873,16 @@
         "Wiosenne kwiaty, takie jak tulipany i narcyzy": "Весенние цветы, такие как тюльпаны и нарциссы",
         "Tworzysz kompozycję florystyczną na jesień. Które z poniższych elementów powinieneś uwzględnić, aby twoja kompozycja była zgodna z sezonem?": "Вы создаете флористическую композицию на осень. Какие из перечисленных элементов вы должны включить, чтобы ваша композиция соответствовала сезону?",
         "Kwiaty w odcieniach czerwieni, pomarańczu i brązu": "Цветы оттенков красного, оранжевого и коричневого",
-        "Tropikalne kwiaty, takie jak hibiskus i orchidee": "Тропические цветы, такие как гибискус и орхидеи"
+        "Tropikalne kwiaty, takie jak hibiskus i orchidee": "Тропические цветы, такие как гибискус и орхидеи",
+        "W systemach telewizyjnych stosuje się kable o impedancji falowej": "В телевизионных системах используются кабели с волновым сопротивлением",
+        "mostka prostowniczego": "мостикового выпрямителя.",
+        "elementów biernych": "пассивных элементов.",
+        "bezpiecznika aparatowego": "аппаратного предохранителя.",
+        "diody elektroluminescencyjnej": "светоизлучающего диода.",
+        "Po włączeniu laboratoryjnego zasilacza regulowanego stwierdzono, że zasilacz nie działa oraz wskaźnik pracy urządzenia (dioda LED) nie świeci się. Sprawdzono stan gniazda zasilającego, do którego podłączono zasilacz i nie stwierdzono usterki w tym gnieździe. Lokalizację uszkodzeń w zasilaczu należy rozpocząć od sprawdzenia": "После включения лабораторного регулируемого источника питания установлено, что источник питания не работает, а индикатор работы устройства (светодиод) не горит. Проверено состояние питающей розетки, к которой подключен источник питания, и неисправности в этой розетке не обнаружено. Поиск повреждений в источнике питания следует начать с проверки",
+        "Jednostką mocy czynnej jest": "Единицей активной мощности является",
+        "tranzystora": "транзистора.",
+        "fotodiody": "фотодиода.",
+        "Na ilustracji przedstawiono symbol graficzny": "На иллюстрации представлен графический символ"
     }
 }

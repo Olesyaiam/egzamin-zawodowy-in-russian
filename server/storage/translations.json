@@ -2019,6 +2019,14 @@
         "Rozdzielczość": "Разрешение.",
         "Który parametr kamery określa jej zdolność widzenia przy słabym oświetleniu?": "Какой параметр камеры определяет её способность видеть при слабом освещении?",
         "Kąt widzenia kamery": "Угол зрения камеры.",
-        "Typ mocowania obiektywu": "Тип крепления объектива."
+        "Typ mocowania obiektywu": "Тип крепления объектива.",
+        "Poziom sygnału z anteny wewnętrznej wynosi 40 dBμV. Chcąc otrzymać na wejściu antenowym odbiornika telewizyjnego sygnał o wartości 60 dBμV, należy zastosować wzmacniacz o wzmocnieniu": "Уровень сигнала с внутренней антенны составляет 40 дБμВ. Чтобы получить на антенном входе телевизионного приемника сигнал величиной 60 дБμВ, необходимо использовать усилитель с усилением.",
+        "115 200 B\/s": "115 200 Б\/с",
+        "Ile wynosi maksymalna prędkość przesyłania danych do urządzenia, którego dane techniczne przedstawiono w tabeli?": "Какова максимальная скорость передачи данных к устройству, технические характеристики которого представлены в таблице?",
+        "Prawidłowa kolejność uruchomienia instalacji telewizyjnej jest następująca:": "Правильная последовательность включения телевизионной установки следующая:",
+        "podłączyć kabel antenowy, uruchomić odbiornik TV, zaprogramować kanały": "подключить антенный кабель, запустить телевизионный приемник, запрограммировать каналы.",
+        "podłączyć kabel antenowy, zaprogramować kanały, uruchomić odbiornik TV": "подключить антенный кабель, запрограммировать каналы, включить телевизор.",
+        "uruchomić odbiornik TV, zaprogramować kanały, podłączyć kabel antenowy": "включить телевизор, запрограммировать каналы, подключить антенный кабель.",
+        "zaprogramować kanały, uruchomić odbiornik TV, podłączyć kabel antenowy": "запрограммировать каналы, запустить телевизор, подключить антенный кабель."
     }
 }

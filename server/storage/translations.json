@@ -1936,6 +1936,16 @@
         "Przymocować radiator do PCB, przylutować tranzystor, przykręcić radiator do tranzystora": "Прикрепить радиатор к PCB, припаять транзистор, прикрутить радиатор к транзистору.",
         "Przykręcić radiator do tranzystora, przymocować radiator do PCB, przylutować tranzystor": "Прикрутить радиатор к транзистору, прикрепить радиатор к плате PCB, припаять транзистор.",
         "Przykręcić radiator do tranzystora, przylutować tranzystor, przymocować radiator do PCB": "Закрутить радиатор к транзистору, припаять транзистор, прикрепить радиатор к PCB.",
-        "Przylutować tranzystor, przykręcić radiator do tranzystora, przykręcić radiator do PCB": "Припаять транзистор, прикрутить радиатор к транзистору, прикрутить радиатор к PCB."
+        "Przylutować tranzystor, przykręcić radiator do tranzystora, przykręcić radiator do PCB": "Припаять транзистор, прикрутить радиатор к транзистору, прикрутить радиатор к PCB.",
+        "zawiera ołów i podlega recyklingowi": "содержит свинец и подлежит переработке.",
+        "zawiera ołów i nie podlega recyklingowi": "содержит свинец и не подлежит переработке.",
+        "Symbole umieszczone na obudowie przedstawionego na ilustracji akumulatora oznaczają, że akumulator": "Символы, размещенные на корпусе изображенного на иллюстрации аккумулятора, обозначают, что аккумулятор",
+        "nie zawiera ołowiu i nie podlega recyklingowi": "не содержит свинца и не подлежит переработке.",
+        "nie zawiera ołowiu i podlega recyklingowi": "не содержит свинца и подлежит переработке.",
+        "zboczem opadającym": "спадающим фронтом.",
+        "poziomem wysokim": "высоким уровнем.",
+        "poziomem niskim": "низким уровнем.",
+        "zboczem narastającym": "положительным фронтом",
+        "Przedstawiony na ilustracji przerzutnik JK ma wejście zegarowe wyzwalane": "Представленный на иллюстрации триггер JK имеет тактовый вход, который запускается."
     }
 }

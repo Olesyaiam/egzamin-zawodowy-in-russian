@@ -2068,6 +2068,21 @@
         "Rysunek 4": "Рисунок 4",
         "Rysunek 3": "Рисунок 3",
         "Na którym rysunku przedstawiono narzędzie do formowania wyprowadzeń elementów elektronicznych?": "На каком рисунке изображен инструмент для формирования выводов электронных элементов?",
-        "Rysunek 1": "Рисунок 1"
+        "Rysunek 1": "Рисунок 1",
+        "kompletnej listy materiałów (BOM)": "полного перечня материалов (BOM).",
+        "dokumentacji techniczno-ruchowej (DTR)": "документации техническо-двигательной (DTR).",
+        "Do dokumentacji montażu elektronicznego nie zalicza się": "К документации по электронному монтажу не относится",
+        "współrzędnych elementów (pick&amp;place)": "координат элементов (pick&amp;place).",
+        "kompletu rysunków montażowych (dotyczących wszystkich etapów produkcji)": "комплекта монтажных чертежей (касающихся всех этапов производства).",
+        "Na schemacie przedstawiono prostownik": "На схеме изображен выпрямитель.",
+        "jednopołówkowy sterowany": "Однополупериодный управляемый.",
+        "dwupołówkowy niesterowany": "двухполупериодный неуправляемый.",
+        "dwupołówkowy sterowany": "Двухполупериодный управляемый.",
+        "jednopołówkowy niesterowany": "Однополупериодный неуправляемый.",
+        "Na schemacie przedstawiono układ": "На схеме представлен уклад",
+        "generatora": "генератора.",
+        "przetwornika A\/C": "преобразователя A\/C.",
+        "zasilacza": "блока питания.",
+        "wzmacniacza": "усилителя."
     }
 }

@@ -2083,6 +2083,22 @@
         "generatora": "генератора.",
         "przetwornika A\/C": "преобразователя A\/C.",
         "zasilacza": "блока питания.",
-        "wzmacniacza": "усилителя."
+        "wzmacniacza": "усилителя.",
+        "Który z przedstawionych na rysunkach elementów nie jest wykorzystywany do demontażu elementów elektronicznych z płytki?": "Какой из представленных на рисунках элементов не используется для демонтажа электронных компонентов с платы?",
+        "zapobiegania pękaniu lutu": "предотвращения растрескивания пайки.",
+        "zapobiegania utlenianiu się lutu": "предотвращения окисления припоя.",
+        "Staranne mycie i odtłuszczenie powierzchni płytki przed montażem elementów elektronicznych wykonywane jest w celu": "Тщательная мойка и обезжиривание поверхности плитки перед монтажом электронных элементов выполняется с целью",
+        "zwiększenia temperatury topnienia lutu": "повышения температуры плавления припоя.",
+        "zwiększenia adhezji lutowia z polem lutowniczym": "увеличения адгезии припоя с паяльной площадкой.",
+        "BGA": "BGA.",
+        "THT": "THT",
+        "Mieszana": "Смешанная.",
+        "SMD": "SMD.",
+        "Na podstawie rysunku określ technikę wykonania montażu rezystora R240": "На основе рисунка определи технику выполнения монтажа резистора R240.",
+        "100 µF, 10 V": "100 мкФ, 10 В",
+        "100 µF, 100 V": "100 мкФ, 100 В",
+        "33 nF, 630 V": "33 нФ, 630 В",
+        "Na podstawie zawartego w dokumentacji schematu połączeń elementów określ pojemność i napięcie znamionowe kondensatora C118": "На основании приведенной в документации схемы соединений элементов определите емкость и номинальное напряжение конденсатора C118.",
+        "33 nF, 63 V": "33 нФ, 63 В"
     }
 }

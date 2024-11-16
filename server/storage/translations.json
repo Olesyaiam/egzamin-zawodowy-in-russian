@@ -2099,6 +2099,21 @@
         "100 µF, 100 V": "100 мкФ, 100 В",
         "33 nF, 630 V": "33 нФ, 630 В",
         "Na podstawie zawartego w dokumentacji schematu połączeń elementów określ pojemność i napięcie znamionowe kondensatora C118": "На основании приведенной в документации схемы соединений элементов определите емкость и номинальное напряжение конденсатора C118.",
-        "33 nF, 63 V": "33 нФ, 63 В"
+        "33 nF, 63 V": "33 нФ, 63 В",
+        "omomierza": "Омметра.",
+        "woltomierza": "Вольтметра.",
+        "częstościomierza": "Частотомера.",
+        "Do pomiaru rezystancji połączeń w instalacji elektronicznej należy użyć": "Для измерения сопротивления соединений в электронной установке следует использовать",
+        "amperomierza": "амперметр.",
+        "Co oznacza przedstawiony na rysunku symbol?": "Что обозначает представленный на рисунке символ?",
+        "Energy Star": "Energy Star.",
+        "Energia i oszczędność": "Энергия и экономия.",
+        "Nie wolno wyrzucać razem z odpadami komunalnymi": "Нельзя выбрасывать вместе с бытовыми отходами.",
+        "TCO Development": "TCO Development.",
+        "w drewnianych skrzynkach": "в деревянных ящиках.",
+        "osadzone w styropianie": "установленные в пенопласте.",
+        "w workach wykonanych z PCV": "в мешках, изготовленных из ПВХ.",
+        "W celu ochrony przed uszkodzeniem, wynikającym z wyładowania elektrostatycznego, układy CMOS należy transportować i przechowywać": "С целью защиты от повреждения, вызываемого электростатическим разрядом, схемы КМОП следует транспортировать и хранить",
+        "w workach ekranujących ESD": "в экранирующих мешках ESD."
     }
 }

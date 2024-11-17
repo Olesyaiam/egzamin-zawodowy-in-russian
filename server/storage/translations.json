@@ -2186,6 +2186,13 @@
         "Kondensator ceramiczny": "Керамический конденсатор.",
         "Rezystor węglowy": "Углеродный резистор.",
         "Stabilizator scalony": "Стабилизатор интегральный.",
-        "Który element elektroniczny wymaga zachowania odpowiedniej polaryzacji podczas montażu na płytce obwodu drukowanego?": "Какой электронный элемент требует сохранения соответствующей полярности при монтаже на печатной плате?"
+        "Który element elektroniczny wymaga zachowania odpowiedniej polaryzacji podczas montażu na płytce obwodu drukowanego?": "Какой электронный элемент требует сохранения соответствующей полярности при монтаже на печатной плате?",
+        "Którego narzędzia używa się do przycinania końcówek elementów elektronicznych?": "Какой инструмент используется для подрезки концов электронных элементов?",
+        "Jaka jest prawidłowa kolejność czynności wykonywanych podczas demontażu uszkodzonej kamery monitoringu?": "Каков правильный порядок действий, выполняемых при демонтаже поврежденной камеры наблюдения?",
+        "Wyłączenie zasilania, odłączenie przewodu sygnałowego, odłączenie przewodów zasilających, zdemontowanie kamery": "Отключение питания, отсоединение сигнального кабеля, отсоединение питающих проводов, демонтаж камеры.",
+        "Wyłączenie zasilania, odłączenie przewodów zasilających, odłączenie przewodu sygnałowego, zdemontowanie kamery": "Отключение питания, отсоединение питающих проводов, отсоединение сигнального провода, демонтаж камеры.",
+        "Wyłączenie zasilania, odłączenie przewodów zasilających, zdemontowanie kamery, odłączenie przewodu sygnałowego": "Отключение питания, отсоединение питающих проводов, демонтаж камеры, отсоединение сигнального провода.",
+        "Odłączenie przewodu sygnałowego, wyłączenie zasilania, odłączenie przewodów zasilających, zdemontowanie kamery": "Отсоединение сигнального кабеля, отключение питания, отсоединение питающих проводов, демонтаж камеры.",
+        "Na którym rysunku przedstawiono potencjometr z odczepem?": "На каком рисунке изображен потенциометр с отводом?"
     }
 }

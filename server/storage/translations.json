@@ -2131,6 +2131,13 @@
         "zwiększenie odstępu przewodów od ściany": "увеличение расстояния проводов от стены.",
         "prowadzenie i maskowanie przewodów": "ведение и маскировка проводов.",
         "zmniejszenie rezystancji izolacji przewodów": "уменьшение сопротивления изоляции проводов.",
-        "zwiększenie intensywności chłodzenia przewodów": "увеличение интенсивности охлаждения проводов."
+        "zwiększenie intensywności chłodzenia przewodów": "увеличение интенсивности охлаждения проводов.",
+        "Maksymalne rozszycie kabla UTP w gniazdku abonenckim nie powinno być większe niż": "Максимальное разветвление кабеля UTP в абонентской розетке не должно быть больше чем",
+        "Na jaki zakres należy ustawić miernik napięcia, aby poprawnie zmierzyć z największą dokładnością napięcie akumulatora przedstawionego na rysunku?": "На какой диапазон следует установить вольтметр, чтобы правильно измерить с наибольшей точностью напряжение аккумулятора, изображенного на рисунке?",
+        "Aluminium": "Алюминий.",
+        "Kamionki elektrotechnicznej": "Керамики электромонтажной.",
+        "Tworzywa sztucznego": "Пластмассы.",
+        "Stali": "Стали.",
+        "Z którego materiału wykonane są listwy instalacyjne przedstawione na rysunku?": "Из какого материала изготовлены монтажные рейки, представленные на рисунке?"
     }
 }

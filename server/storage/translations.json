@@ -2176,6 +2176,16 @@
         "przecinanie": "резку.",
         "8 otworów": "8 отверстий.",
         "Ile otworów należy wykonać w podstawie obudowy urządzenia elektronicznego, aby prawidłowo przymocować do niej transformator przedstawiony na rysunku?": "Сколько отверстий необходимо сделать в основании корпуса электронного устройства, чтобы правильно прикрепить к нему трансформатор, представленный на рисунке?",
-        "6 otworów": "6 отверстий."
+        "6 otworów": "6 отверстий.",
+        "z projektorem multimedialnym": "с мультимедийным проектором.",
+        "ze skanerem": "со сканером.",
+        "z dyskiem zewnętrznym": "с внешним диском.",
+        "z modemem": "с модемом.",
+        "Przedstawiony na rysunku przewód umożliwia połączenie komputera": "Представленный на рисунке провод позволяет подключить компьютер.",
+        "Bezpiecznik topikowy": "Плавкий предохранитель.",
+        "Kondensator ceramiczny": "Керамический конденсатор.",
+        "Rezystor węglowy": "Углеродный резистор.",
+        "Stabilizator scalony": "Стабилизатор интегральный.",
+        "Który element elektroniczny wymaga zachowania odpowiedniej polaryzacji podczas montażu na płytce obwodu drukowanego?": "Какой электронный элемент требует сохранения соответствующей полярности при монтаже на печатной плате?"
     }
 }

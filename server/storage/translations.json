@@ -2138,6 +2138,16 @@
         "Kamionki elektrotechnicznej": "Керамики электромонтажной.",
         "Tworzywa sztucznego": "Пластмассы.",
         "Stali": "Стали.",
-        "Z którego materiału wykonane są listwy instalacyjne przedstawione na rysunku?": "Из какого материала изготовлены монтажные рейки, представленные на рисунке?"
+        "Z którego materiału wykonane są listwy instalacyjne przedstawione na rysunku?": "Из какого материала изготовлены монтажные рейки, представленные на рисунке?",
+        "3-żyłowego, o żyłach miedzianych w izolacji polwinitowej i powłoce polwinitowej": "3-жильного, с медными жилами в поливиниловой изоляции и поливиниловой оболочке.",
+        "6-żyłowego, o żyłach aluminiowych w izolacji polietylenowej i powłoce polietylenowej": "6-жильного, с алюминиевыми жилами в полиэтиленовой изоляции и полиэтиленовой оболочке.",
+        "6-żyłowego, o żyłach miedzianych w izolacji polietylenowej i powłoce polietylenowej": "6-жильного, с жилами из меди в полиэтиленовой изоляции и полиэтиленовой оболочке.",
+        "Oznaczenie YLY 3×6 mm2 dotyczy przewodu": "Обозначение YLY 3×6 мм2 относится к проводу",
+        "3-żyłowego, o żyłach aluminiowych w izolacji polwinitowej i powłoce polwinitowej": "3-жильного, с алюминиевыми жилами в поливиниловой изоляции и поливиниловой оболочке.",
+        "Przepływu": "Потока.",
+        "Natężenia oświetlenia": "Интенсивности освещения.",
+        "Ciśnienia atmosferycznego": "Атмосферного давления.",
+        "Temperatury": "Температуры.",
+        "W tabeli przedstawiono wybrane dane techniczne regulatora. Który czujnik można podłączyć bezpośrednio do wejścia tego urządzenia?": "В таблице представлены выбранные технические данные регулятора. Какой датчик можно подключить непосредственно к входу этого устройства?"
     }
 }

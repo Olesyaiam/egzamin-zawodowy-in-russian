@@ -2148,6 +2148,11 @@
         "Natężenia oświetlenia": "Интенсивности освещения.",
         "Ciśnienia atmosferycznego": "Атмосферного давления.",
         "Temperatury": "Температуры.",
-        "W tabeli przedstawiono wybrane dane techniczne regulatora. Który czujnik można podłączyć bezpośrednio do wejścia tego urządzenia?": "В таблице представлены выбранные технические данные регулятора. Какой датчик можно подключить непосредственно к входу этого устройства?"
+        "W tabeli przedstawiono wybrane dane techniczne regulatora. Który czujnik można podłączyć bezpośrednio do wejścia tego urządzenia?": "В таблице представлены выбранные технические данные регулятора. Какой датчик можно подключить непосредственно к входу этого устройства?",
+        "zwrotnicę": "легузия.",
+        "wzmacniacz": "усилитель.",
+        "antenę odbiorczą": "приёмную антенну.",
+        "rozgałęźnik trzykrotny": "тройной разветвитель",
+        "Na schemacie instalacji antenowej cyfrą 4 oznaczono": "На схеме установки антенны цифрой 4 обозначено"
     }
 }

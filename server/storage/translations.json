@@ -2153,6 +2153,10 @@
         "wzmacniacz": "усилитель.",
         "antenę odbiorczą": "приёмную антенну.",
         "rozgałęźnik trzykrotny": "тройной разветвитель",
-        "Na schemacie instalacji antenowej cyfrą 4 oznaczono": "На схеме установки антенны цифрой 4 обозначено"
+        "Na schemacie instalacji antenowej cyfrą 4 oznaczono": "На схеме установки антенны цифрой 4 обозначено",
+        "pola elektrycznego": "электрического поля.",
+        "zmiany temperatury": "изменения температуры.",
+        "zmiany natężenia dźwięku": "изменения интенсивности звука.",
+        "Stosowany często w systemach sygnalizacji włamania i napadu czujnik kontaktronowy zmienia swój stan pod wpływem": "Используемый часто в системах сигнализации взлома и нападения датчик магнитоконтактный меняет свое состояние под воздействием"
     }
 }

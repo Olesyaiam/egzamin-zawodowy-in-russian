@@ -2157,6 +2157,12 @@
         "pola elektrycznego": "электрического поля.",
         "zmiany temperatury": "изменения температуры.",
         "zmiany natężenia dźwięku": "изменения интенсивности звука.",
-        "Stosowany często w systemach sygnalizacji włamania i napadu czujnik kontaktronowy zmienia swój stan pod wpływem": "Используемый часто в системах сигнализации взлома и нападения датчик магнитоконтактный меняет свое состояние под воздействием"
+        "Stosowany często w systemach sygnalizacji włamania i napadu czujnik kontaktronowy zmienia swój stan pod wpływem": "Используемый часто в системах сигнализации взлома и нападения датчик магнитоконтактный меняет свое состояние под воздействием",
+        "Do podłączenia sygnału z anteny do telewizora należy wykorzystać wtyk": "Для подключения сигнала от антенны к телевизору следует использовать штекер.",
+        "poziom sygnału w gniazdku": "уровень сигнала в розетке.",
+        "Podczas okresowej kontroli instalacji TV należy sprawdzić": "Во время периодической проверки установки телевидения необходимо проверить",
+        "umiejscowienie anteny": "Расположение антенны.",
+        "lokalizację gniazd": "расположение гнезд.",
+        "sposób ułożenia kabli": "способ укладки кабелей."
     }
 }

@@ -2199,6 +2199,17 @@
         "Prasę mechaniczną": "Механический пресс.",
         "Statyw do wiertarki": "Станок для дрели.",
         "Które urządzenie przedstawiono na rysunku?": "Какое устройство представлено на рисунке?",
-        "Na którym zakresie pomiarowym należy wykonywać precyzyjny pomiar napięcia po stronie wtórnej transformatora, którego parametry podano w tabeli?": "На каком диапазоне измерений следует выполнять точное измерение напряжения на вторичной стороне трансформатора, параметры которого приведены в таблице?"
+        "Na którym zakresie pomiarowym należy wykonywać precyzyjny pomiar napięcia po stronie wtórnej transformatora, którego parametry podano w tabeli?": "На каком диапазоне измерений следует выполнять точное измерение напряжения на вторичной стороне трансформатора, параметры которого приведены в таблице?",
+        "wezwać pogotowie ratunkowe i stale ją obserwować": "вызвать скорую помощь и постоянно наблюдать за ней.",
+        "położyć osobę poszkodowaną na plecach i unieść do góry nogi": "положить пострадавшего на спину и поднять вверх ноги.",
+        "wezwać pogotowie ratunkowe i sprawdzić czy osoba poszkodowana oddycha": "вызвать скорую помощь и проверить, дышит ли пострадавший.",
+        "Udzielając pierwszej pomocy przedlekarskiej osobie nieprzytomnej, porażonej prądem elektrycznym, po odłączeniu jej od źródła prądu, należy": "Оказывая первую доврачебную помощь человеку без сознания, поражённому электрическим током, после отключения его от источника тока, необходимо",
+        "podać jej duże ilości płynu do picia i skontaktować się z lekarzem": "дать ей большое количество жидкости для питья и связаться с врачом.",
+        "Poprawną odpowiedzią jest wezwać pogotowie ratunkowe i sprawdzić czy osoba poszkodowana oddycha, ponieważ porażenie prądem elektrycznym może prowadzić do zaburzeń pracy serca i układu oddechowego, a osoba nieprzytomna może potrzebować resuscytacji": "Правильным ответом является вызвать скорую помощь и проверить, дышит ли пострадавший, так как поражение электрическим током может привести к нарушениям работы сердца и дыхательной системы, а человек без сознания может нуждаться в реанимации.",
+        "Kwiatostan, to": "Соцветие, это",
+        "zgrubiały pęd podziemny pełniący funkcję organu spichrzowego": "утолщённый подземный побег, выполняющий функцию органа хранилища.",
+        "wydłużony pęd rośliny płożącej": "удлиненный побег стелющегося растения.",
+        "skupienie rozgałęzień pędów zakończonych kwiatami": "скопление разветвлений побегов, заканчивающихся цветами.",
+        "organ roślin nasiennych składający się z zarodka otoczonego tkanką zapasową i łupiną nasienną": "орган семенных растений, состоящий из зародыша, окруженного запасной тканью и семенной оболочкой."
     }
 }

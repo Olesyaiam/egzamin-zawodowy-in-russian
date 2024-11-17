@@ -2163,6 +2163,19 @@
         "Podczas okresowej kontroli instalacji TV należy sprawdzić": "Во время периодической проверки установки телевидения необходимо проверить",
         "umiejscowienie anteny": "Расположение антенны.",
         "lokalizację gniazd": "расположение гнезд.",
-        "sposób ułożenia kabli": "способ укладки кабелей."
+        "sposób ułożenia kabli": "способ укладки кабелей.",
+        "o większej rezystancji i tej samej mocy": "с большим сопротивлением и той же мощностью.",
+        "o mniejszej rezystancji i tej samej mocy": "с меньшим сопротивлением и той же мощности.",
+        "o takiej samej rezystancji i mniejszej mocy": "с таким же сопротивлением и меньшей мощностью.",
+        "o takiej samej rezystancji i większej mocy": "с таким же сопротивлением и большей мощностью.",
+        "Jednym z elementów urządzenia elektronicznego jest rezystor o rezystancji 1 kΩ i mocy 1 W. W przypadku braku elementu o podanych parametrach można go zastąpić rezystorem": "Одним из элементов электронного устройства является резистор с сопротивлением 1 кОм и мощностью 1 Вт. В случае отсутствия элемента с указанными параметрами его можно заменить резистором.",
+        "trasowanie": "трассировку",
+        "Za pomocą przedstawionych na rysunku narzędzi wykonuje się": "С помощью представленных на рисунке инструментов выполняется",
+        "wyoblanie": "Вычеканивание.",
+        "piłowanie": "Пиление.",
+        "przecinanie": "резку.",
+        "8 otworów": "8 отверстий.",
+        "Ile otworów należy wykonać w podstawie obudowy urządzenia elektronicznego, aby prawidłowo przymocować do niej transformator przedstawiony na rysunku?": "Сколько отверстий необходимо сделать в основании корпуса электронного устройства, чтобы правильно прикрепить к нему трансформатор, представленный на рисунке?",
+        "6 otworów": "6 отверстий."
     }
 }

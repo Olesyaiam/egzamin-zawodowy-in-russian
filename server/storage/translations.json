@@ -2193,6 +2193,12 @@
         "Wyłączenie zasilania, odłączenie przewodów zasilających, odłączenie przewodu sygnałowego, zdemontowanie kamery": "Отключение питания, отсоединение питающих проводов, отсоединение сигнального провода, демонтаж камеры.",
         "Wyłączenie zasilania, odłączenie przewodów zasilających, zdemontowanie kamery, odłączenie przewodu sygnałowego": "Отключение питания, отсоединение питающих проводов, демонтаж камеры, отсоединение сигнального провода.",
         "Odłączenie przewodu sygnałowego, wyłączenie zasilania, odłączenie przewodów zasilających, zdemontowanie kamery": "Отсоединение сигнального кабеля, отключение питания, отсоединение питающих проводов, демонтаж камеры.",
-        "Na którym rysunku przedstawiono potencjometr z odczepem?": "На каком рисунке изображен потенциометр с отводом?"
+        "Na którym rysunku przedstawiono potencjometr z odczepem?": "На каком рисунке изображен потенциометр с отводом?",
+        "Uchwyt ślusarski": "Слесарный зажим.",
+        "Ściągacz do łożysk": "Съемник для подшипников.",
+        "Prasę mechaniczną": "Механический пресс.",
+        "Statyw do wiertarki": "Станок для дрели.",
+        "Które urządzenie przedstawiono na rysunku?": "Какое устройство представлено на рисунке?",
+        "Na którym zakresie pomiarowym należy wykonywać precyzyjny pomiar napięcia po stronie wtórnej transformatora, którego parametry podano w tabeli?": "На каком диапазоне измерений следует выполнять точное измерение напряжения на вторичной стороне трансформатора, параметры которого приведены в таблице?"
     }
 }

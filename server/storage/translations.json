@@ -2273,6 +2273,17 @@
         "POP3": "POP3",
         "Protokół internetowy, umożliwiający odbiór poczty elektronicznej z serwera na komputer, to": "Интернет-протокол, позволяющий получать электронную почту с сервера на компьютер, это",
         "Skrótem SNR określa się": "Аббревиатурой SNR обозначается",
-        "współczynnik zniekształceń nieliniowych": "коэффициент нелинейных искажений."
+        "współczynnik zniekształceń nieliniowych": "коэффициент нелинейных искажений.",
+        "uziemić metalowe części obudowy": "заземлить металлические части корпуса.",
+        "odłączyć przewód zasilający": "отключить питающий провод.",
+        "odłączyć przewód sieciowy": "отсоединить сетевой кабель.",
+        "otworzyć obudowę jednostki centralnej": "открыть корпус центрального блока.",
+        "Przed przystąpieniem do konserwacji jednostki centralnej komputera stacjonarnego podłączonego do sieci lokalnej w pierwszej kolejności należy": "Перед началом обслуживания центрального блока настольного компьютера, подключенного к локальной сети, в первую очередь следует",
+        "Na jakiej pozycji należy ustawić wybór wielkości mierzonej multimetru, aby dokonać z największą dokładnością pomiaru napięcia stałego o wartości 15 V ±3 V?": "На какой позиции следует установить выбор измеряемой величины мультиметром, чтобы с наибольшей точностью измерить постоянное напряжение величиной 15 В ±3 В?",
+        "linii radiowej": "радиолинии.",
+        "skrętki nieekranowanej": "витой пары неэкранированной",
+        "światłowodu": "волоконно-оптического кабеля.",
+        "skrętki ekranowanej": "экранированной витой пары",
+        "Ukształtowanie terenu wywiera wpływ na zasięg transmisji sygnału za pośrednictwem": "Рельеф местности оказывает влияние на дальность передачи сигнала посредством"
     }
 }

@@ -2310,6 +2310,12 @@
         "-0,1 V": "-0,1 В",
         "-0,2 V": "-0,2 В",
         "-0,8 V": "-0,8 В",
-        "Ile wyniesie wartość napięcia wyjściowego U2 po zmianie wartości rezystancji R2 z 20 kΩ na 10 kΩ?": "Какова будет величина выходного напряжения U2 после изменения значения сопротивления R2 с 20 кОм на 10 кОм?"
+        "Ile wyniesie wartość napięcia wyjściowego U2 po zmianie wartości rezystancji R2 z 20 kΩ na 10 kΩ?": "Какова будет величина выходного напряжения U2 после изменения значения сопротивления R2 с 20 кОм на 10 кОм?",
+        "W układzie przedstawionym na schemacie umieszczono 2 źródła napięcia. Jakie musi być napięcie źródła E2, aby obie diody D1 i D2 się zaświeciły": "В укладе, представленном на схеме, размещены 2 источника напряжения. Каково должно быть напряжение источника E2, чтобы оба диода D1 и D2 загорелись.",
+        "termistor": "термистор.",
+        "czujnik rezystancyjny": "резистивный датчик.",
+        "czujnik pirometryczny": "пирометрический датчик.",
+        "W tabeli przedstawiono wybrane dane techniczne regulatora temperatury. Bezpośrednio do wejścia tego regulatora można podłączyć": "В таблице представлены выбранные технические данные регулятора температуры. Непосредственно к входу этого регулятора можно подключить",
+        "termoparę": "Термопару."
     }
 }

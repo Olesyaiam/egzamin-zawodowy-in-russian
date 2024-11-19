@@ -2289,6 +2289,11 @@
         "Zwora S rozwarta, zwora L rozwarta": "Перемычка S разомкнута, перемычка L разомкнута.",
         "Na rysunku przedstawiono fragment danych technicznych pasywnej czujki podczerwieni. Określ, jak należy ustawić zwory S i L aby czujka miała wysoką czułość z aktywną sygnalizacją stanu za pomocą diody LED": "На рисунке представлен фрагмент технических данных пассивного инфракрасного датчика. Определи, как следует установить перемычки S и L, чтобы датчик имел высокую чувствительность с активной сигнализацией состояния с помощью светодиода.",
         "Zwora S zwarta, zwora L zwarta": "Перемычка S замкнута, перемычка L замкнута.",
-        "Zwora S rozwarta, zwora L zwarta": "Перемычка S разомкнута, перемычка L замкнута."
+        "Zwora S rozwarta, zwora L zwarta": "Перемычка S разомкнута, перемычка L замкнута.",
+        "Do czego służy narzędzie przedstawione na rysunku?": "Для чего служит инструмент, представленный на рисунке?",
+        "Usuwania warstwy ochronnej z włókien światłowodowych": "Удаления защитного слоя с оптических волокон.",
+        "Usuwania izolacji z końców przewodów koncentrycznych": "Удаления изоляции с концов коаксиальных кабелей.",
+        "Zaciskania konektorów na przewodach elektrycznych": "Сжатия разъемов на электрических проводах.",
+        "Montażu wtyków RJ na przewodach typu skrętka": "Установки коннекторов RJ на кабелях типа витая пара."
     }
 }

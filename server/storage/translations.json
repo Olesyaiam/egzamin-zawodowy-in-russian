@@ -2230,6 +2230,21 @@
         "sygnału z jednej anteny satelitarnej do dwóch odbiorników za pośrednictwem światłowodu": "сигнала с одной спутниковой антенны на два приемника посредством оптоволокна.",
         "sygnału z jednaj anteny satelitarnej do dwóch odbiorników za pośrednictwem kabli koncentrycznych": "сигнала с одной спутниковой антенны на два приемника посредством коаксиальных кабелей.",
         "sygnału z dwóch anten satelitarnych do jednego odbiornika za pośrednictwem kabli koncentrycznych": "Сигнала из двух спутниковых антенн на один приемник посредством коаксиальных кабелей.",
-        "sygnału z dwóch anten satelitarnych do jednego odbiornika za pośrednictwem światłowodu": "сигнала с двух спутниковых антенн на один приемник посредством оптоволокна."
+        "sygnału z dwóch anten satelitarnych do jednego odbiornika za pośrednictwem światłowodu": "сигнала с двух спутниковых антенн на один приемник посредством оптоволокна.",
+        "bitową stopę błędów": "битовую скорость ошибок",
+        "stosunek sygnału do szumu": "отношение сигнала к шуму.",
+        "współczynnik błędów modulacji": "коэффициент ошибок модуляции.",
+        "przesunięcie fazowe": "Фазовый сдвиг.",
+        "Za pomocą analogowego oscyloskopu dwukanałowego można zmierzyć": "С помощью аналогового двухканального осциллографа можно измерить",
+        "zwrotnica": "легузия",
+        "rozgałęźnik": "Разветвитель.",
+        "przemiennik": "Переменный.",
+        "symetryzator": "Симметризатор.",
+        "Urządzeniem, które umożliwia podłączenia anteny o impedancji falowej 300 Ω do odbiornika z gniazdem antenowym o impedancji 75 Ω jest": "Устройством, которое позволяет подключить антенну с волновым сопротивлением 300 Ω к приемнику с антенным гнездом с сопротивлением 75 Ω, является",
+        "większej pojemności oraz o większym napięciu znamionowym": "большей ёмкости и с большим номинальным напряжением.",
+        "większej pojemności oraz o mniejszym napięciu znamionowym": "большей емкости и с меньшим номинальным напряжением.",
+        "mniejszej pojemności oraz o większym napięciu znamionowym": "меньшей емкости и с большим номинальным напряжением.",
+        "mniejszej pojemności oraz o mniejszym napięciu znamionowym": "меньшей емкости и с меньшим номинальным напряжением.",
+        "Wymieniając uszkodzony kondensator filtrujący w zasilaczu sieciowym, bez ryzyka zwiększenia tętnień na wyjściu zasilacza oraz uszkodzenia kondensatora na skutek przebicia, można zastosować element o": "Заменяя повреждённый фильтрующий конденсатор в сетевом источнике питания, без риска увеличения пульсаций на выходе источника питания и повреждения конденсатора вследствие пробоя, можно применить элемент с"
     }
 }

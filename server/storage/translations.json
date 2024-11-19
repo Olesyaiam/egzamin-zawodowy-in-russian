@@ -2215,6 +2215,16 @@
         "Dioda prostownicza": "Выпрямительный диод.",
         "Tranzystor bipolarny": "Биполярный транзистор.",
         "Tranzystor z izolowaną bramką": "Транзистор с изолированным затвором.",
-        "Który z wymienionych elementów elektronicznych jest najbardziej narażony na uszkodzenie podczas wymiany, jeżeli wymieniający nie zastosuje opaski uziemiającej?": "Какой из перечисленных электронных элементов наиболее подвержен повреждению при замене, если лицо, осуществляющее замену, не использует заземляющий ремешок?"
+        "Który z wymienionych elementów elektronicznych jest najbardziej narażony na uszkodzenie podczas wymiany, jeżeli wymieniający nie zastosuje opaski uziemiającej?": "Какой из перечисленных электронных элементов наиболее подвержен повреждению при замене, если лицо, осуществляющее замену, не использует заземляющий ремешок?",
+        "naziemną": "наземное.",
+        "przemysłową": "промышленное.",
+        "kablową": "кабельное.",
+        "Skrótem CCTV określa się telewizję": "Аббревиатурой CCTV обозначается телевидение.",
+        "satelitarną": "спутниковое.",
+        "stłuczeniową": "ушибленную.",
+        "dymu": "дыма.",
+        "zalania": "затопления.",
+        "Na rysunku przedstawiono czujkę": "На рисунке показан датчик.",
+        "ruchu": "движения."
     }
 }

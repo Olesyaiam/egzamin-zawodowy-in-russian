@@ -2263,6 +2263,16 @@
         "Jaki jest wpływ wzrostu temperatury na parametry przewodu miedzianego?": "Какое влияние оказывает повышение температуры на параметры медного провода?",
         "Wydłużenie przewodu oraz spadek jego rezystancji": "Удлинение провода и снижение его сопротивления.",
         "S-Video": "S-Video",
-        "Który typ złącza przedstawiono na rysunku?": "Какой тип соединения показан на рисунке?"
+        "Który typ złącza przedstawiono na rysunku?": "Какой тип соединения показан на рисунке?",
+        "Szarego": "Серого.",
+        "Niebieskiego": "Синего.",
+        "Brązowego": "Коричневого.",
+        "Czarnego": "Черного.",
+        "Jakiego koloru nie powinien być przewód fazowy w instalacji zasilającej urządzenia elektroniczne?": "Какого цвета не должен быть фазный провод в установке, питающей электронные устройства?",
+        "DHCP": "DHCP",
+        "POP3": "POP3",
+        "Protokół internetowy, umożliwiający odbiór poczty elektronicznej z serwera na komputer, to": "Интернет-протокол, позволяющий получать электронную почту с сервера на компьютер, это",
+        "Skrótem SNR określa się": "Аббревиатурой SNR обозначается",
+        "współczynnik zniekształceń nieliniowych": "коэффициент нелинейных искажений."
     }
 }

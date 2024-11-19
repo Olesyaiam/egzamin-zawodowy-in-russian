@@ -2225,6 +2225,11 @@
         "dymu": "дыма.",
         "zalania": "затопления.",
         "Na rysunku przedstawiono czujkę": "На рисунке показан датчик.",
-        "ruchu": "движения."
+        "ruchu": "движения.",
+        "Konwerter satelitarny typu Twin jest urządzeniem umożliwiającym przesłanie": "Сателлитный конвертер типа Twin является устройством, позволяющим передать",
+        "sygnału z jednej anteny satelitarnej do dwóch odbiorników za pośrednictwem światłowodu": "сигнала с одной спутниковой антенны на два приемника посредством оптоволокна.",
+        "sygnału z jednaj anteny satelitarnej do dwóch odbiorników za pośrednictwem kabli koncentrycznych": "сигнала с одной спутниковой антенны на два приемника посредством коаксиальных кабелей.",
+        "sygnału z dwóch anten satelitarnych do jednego odbiornika za pośrednictwem kabli koncentrycznych": "Сигнала из двух спутниковых антенн на один приемник посредством коаксиальных кабелей.",
+        "sygnału z dwóch anten satelitarnych do jednego odbiornika za pośrednictwem światłowodu": "сигнала с двух спутниковых антенн на один приемник посредством оптоволокна."
     }
 }

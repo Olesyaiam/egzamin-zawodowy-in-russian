@@ -2300,6 +2300,16 @@
         "dla s = 0, y = 0 dla s = 1, y = a + b": "для s = 0, y = 0 для s = 1, y = a + b",
         "Określ stan wyjścia y układu w zależności od stanu wejścia sterującego s": "Определите состояние выхода y системы в зависимости от состояния управляющего входа s.",
         "dla s = 0, y = 1 dla s = 1, y = a + b": "для s = 0, y = 1 для s = 1, y = a + b",
-        "dla s = 0, y = 0 dla s = 1, y = a ∙ b": "для s = 0, y = 0 для s = 1, y = a ∙ b"
+        "dla s = 0, y = 0 dla s = 1, y = a ∙ b": "для s = 0, y = 0 для s = 1, y = a ∙ b",
+        "Kabel 1": "Кабель 1.",
+        "Kabel 4": "Кабель 4.",
+        "Kabel 2": "Кабель 2.",
+        "Kabel 3": "Кабель 3.",
+        "Który z przedstawionych kabli jest kablem światłowodowym?": "Который из представленных кабелей является оптоволоконным кабелем?",
+        "-1,6 V": "-1,6 В",
+        "-0,1 V": "-0,1 В",
+        "-0,2 V": "-0,2 В",
+        "-0,8 V": "-0,8 В",
+        "Ile wyniesie wartość napięcia wyjściowego U2 po zmianie wartości rezystancji R2 z 20 kΩ na 10 kΩ?": "Какова будет величина выходного напряжения U2 после изменения значения сопротивления R2 с 20 кОм на 10 кОм?"
     }
 }

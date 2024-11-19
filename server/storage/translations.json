@@ -2316,6 +2316,19 @@
         "czujnik rezystancyjny": "резистивный датчик.",
         "czujnik pirometryczny": "пирометрический датчик.",
         "W tabeli przedstawiono wybrane dane techniczne regulatora temperatury. Bezpośrednio do wejścia tego regulatora można podłączyć": "В таблице представлены выбранные технические данные регулятора температуры. Непосредственно к входу этого регулятора можно подключить",
-        "termoparę": "Термопару."
+        "termoparę": "Термопару.",
+        "f = 20 Hz": "f = 20 Гц",
+        "f= 200 Hz": "f= 200 Гц",
+        "f = 100 Hz": "f = 100 Гц",
+        "f = 10 Hz": "f = 10 Гц",
+        "Na podstawie oscylogramu określ wartość częstotliwości f obserwowanego przebiegu napięcia": "На основании осциллограммы определите значение частоты f наблюдаемого напряжения.",
+        "wzmocnienia sygnału": "усиления сигнала.",
+        "uzyskania bezprzewodowej transmisji danych": "получения беспроводной передачи данных.",
+        "filtrowania sygnału": "фильтрации сигнала.",
+        "Przedstawiony na ilustracji układ służy do": "Представленный на иллюстрации уклад служит для",
+        "uzyskania separacji galwanicznej": "получения гальванической изоляции.",
+        "koncentryczny": "концентрический.",
+        "współosiowy": "Соосный.",
+        "niesymetryczny": "несимметричный."
     }
 }

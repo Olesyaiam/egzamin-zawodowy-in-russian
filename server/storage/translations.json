@@ -2245,6 +2245,12 @@
         "większej pojemności oraz o mniejszym napięciu znamionowym": "большей емкости и с меньшим номинальным напряжением.",
         "mniejszej pojemności oraz o większym napięciu znamionowym": "меньшей емкости и с большим номинальным напряжением.",
         "mniejszej pojemności oraz o mniejszym napięciu znamionowym": "меньшей емкости и с меньшим номинальным напряжением.",
-        "Wymieniając uszkodzony kondensator filtrujący w zasilaczu sieciowym, bez ryzyka zwiększenia tętnień na wyjściu zasilacza oraz uszkodzenia kondensatora na skutek przebicia, można zastosować element o": "Заменяя повреждённый фильтрующий конденсатор в сетевом источнике питания, без риска увеличения пульсаций на выходе источника питания и повреждения конденсатора вследствие пробоя, можно применить элемент с"
+        "Wymieniając uszkodzony kondensator filtrujący w zasilaczu sieciowym, bez ryzyka zwiększenia tętnień na wyjściu zasilacza oraz uszkodzenia kondensatora na skutek przebicia, można zastosować element o": "Заменяя повреждённый фильтрующий конденсатор в сетевом источнике питания, без риска увеличения пульсаций на выходе источника питания и повреждения конденсатора вследствие пробоя, можно применить элемент с",
+        "Kontaktronowym": "Контактным.",
+        "Tensometrycznym": "Тензометрическом.",
+        "Bimetalicznym": "Биметаллическом.",
+        "W którym czujniku do zadziałania wykorzystuje się zjawisko zmiany pola magnetycznego?": "В каком датчике для срабатывания используется явление изменения магнитного поля?",
+        "Pojemnościowym": "Ёмкостном.",
+        "Woltomierz analogowy wyskalowany jest w zakresie od 0 do 100 działek. Ile wynosi mierzona wartość napięcia, jeśli pomiaru dokonano na zakresie 200 V, a wychylenie wskazówki wynosi 80 działek?": "Аналоговый вольтметр откалиброван в диапазоне от 0 до 100 делений. Какова измеренная величина напряжения, если измерение было проведено в диапазоне 200 В, а отклонение стрелки составляет 80 делений?"
     }
 }

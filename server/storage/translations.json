@@ -2284,6 +2284,11 @@
         "skrętki nieekranowanej": "витой пары неэкранированной",
         "światłowodu": "волоконно-оптического кабеля.",
         "skrętki ekranowanej": "экранированной витой пары",
-        "Ukształtowanie terenu wywiera wpływ na zasięg transmisji sygnału za pośrednictwem": "Рельеф местности оказывает влияние на дальность передачи сигнала посредством"
+        "Ukształtowanie terenu wywiera wpływ na zasięg transmisji sygnału za pośrednictwem": "Рельеф местности оказывает влияние на дальность передачи сигнала посредством",
+        "Zwora S zwarta, zwora L rozwarta": "Перемычка S замкнута, перемычка L разомкнута.",
+        "Zwora S rozwarta, zwora L rozwarta": "Перемычка S разомкнута, перемычка L разомкнута.",
+        "Na rysunku przedstawiono fragment danych technicznych pasywnej czujki podczerwieni. Określ, jak należy ustawić zwory S i L aby czujka miała wysoką czułość z aktywną sygnalizacją stanu za pomocą diody LED": "На рисунке представлен фрагмент технических данных пассивного инфракрасного датчика. Определи, как следует установить перемычки S и L, чтобы датчик имел высокую чувствительность с активной сигнализацией состояния с помощью светодиода.",
+        "Zwora S zwarta, zwora L zwarta": "Перемычка S замкнута, перемычка L замкнута.",
+        "Zwora S rozwarta, zwora L zwarta": "Перемычка S разомкнута, перемычка L замкнута."
     }
 }

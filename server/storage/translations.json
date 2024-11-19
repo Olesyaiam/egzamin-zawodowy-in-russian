@@ -2251,6 +2251,18 @@
         "Bimetalicznym": "Биметаллическом.",
         "W którym czujniku do zadziałania wykorzystuje się zjawisko zmiany pola magnetycznego?": "В каком датчике для срабатывания используется явление изменения магнитного поля?",
         "Pojemnościowym": "Ёмкостном.",
-        "Woltomierz analogowy wyskalowany jest w zakresie od 0 do 100 działek. Ile wynosi mierzona wartość napięcia, jeśli pomiaru dokonano na zakresie 200 V, a wychylenie wskazówki wynosi 80 działek?": "Аналоговый вольтметр откалиброван в диапазоне от 0 до 100 делений. Какова измеренная величина напряжения, если измерение было проведено в диапазоне 200 В, а отклонение стрелки составляет 80 делений?"
+        "Woltomierz analogowy wyskalowany jest w zakresie od 0 do 100 działek. Ile wynosi mierzona wartość napięcia, jeśli pomiaru dokonano na zakresie 200 V, a wychylenie wskazówki wynosi 80 działek?": "Аналоговый вольтметр откалиброван в диапазоне от 0 до 100 делений. Какова измеренная величина напряжения, если измерение было проведено в диапазоне 200 В, а отклонение стрелки составляет 80 делений?",
+        "skrętka STP": "витая пара STP",
+        "skrętka UTP": "витая пара UTP.",
+        "koncentrycznych": "коаксиальных.",
+        "symetrycznych": "симметричных.",
+        "Złącza BNC montuje się na końcach przewodów": "Штыри BNC монтируются на концах проводов.",
+        "Wydłużenie przewodu oraz wzrost jego rezystancji": "Удлинение провода и увеличение его сопротивления.",
+        "Skrócenie przewodu oraz spadek jego rezystancji": "Укорачивание провода и снижение его сопротивления.",
+        "Skrócenie przewodu oraz wzrost jego rezystancji": "Укорачивание провода и увеличение его сопротивления.",
+        "Jaki jest wpływ wzrostu temperatury na parametry przewodu miedzianego?": "Какое влияние оказывает повышение температуры на параметры медного провода?",
+        "Wydłużenie przewodu oraz spadek jego rezystancji": "Удлинение провода и снижение его сопротивления.",
+        "S-Video": "S-Video",
+        "Który typ złącza przedstawiono na rysunku?": "Какой тип соединения показан на рисунке?"
     }
 }

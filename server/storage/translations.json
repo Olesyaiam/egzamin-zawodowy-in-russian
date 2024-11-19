@@ -2294,6 +2294,7 @@
         "Usuwania warstwy ochronnej z włókien światłowodowych": "Удаления защитного слоя с оптических волокон.",
         "Usuwania izolacji z końców przewodów koncentrycznych": "Удаления изоляции с концов коаксиальных кабелей.",
         "Zaciskania konektorów na przewodach elektrycznych": "Сжатия разъемов на электрических проводах.",
-        "Montażu wtyków RJ na przewodach typu skrętka": "Установки коннекторов RJ на кабелях типа витая пара."
+        "Montażu wtyków RJ na przewodach typu skrętka": "Установки коннекторов RJ на кабелях типа витая пара.",
+        "W układzie jak na przedstawionym na schemacie wykonano pomiary potencjałów w punktach od 1 do 4. Na podstawie wyników pomiarów określ wartość prądu kolektora tranzystora": "В укладке, как показано на схеме, выполнены измерения потенциалов в точках от 1 до 4. На основании результатов измерений определите значение тока коллектора транзистора."
     }
 }

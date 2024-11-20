@@ -2608,6 +2608,13 @@
         "Zaprogramować w centrali funkcję zastosowanych czujek PIR": "Запрограммировать в центральном блоке функцию используемых датчиков PIR.",
         "Którą czynność należy wykonać jako pierwszą przy programowaniu centrali alarmowej systemu kontroli dostępu?": "Какое действие следует выполнить в первую очередь при программировании центрального блока системы контроля доступа?",
         "Zidentyfikować poprzez program DLOADX podłączone do centrali ekspandery": "Идентифицировать через программу DLOADX подключенные к центральному блоку расширители.",
-        "Zaprogramować unikalne adresy w dołączonych do centrali manipulatorach": "Запрограммировать уникальные адреса в подключенных к центральному пульту манипуляторах."
+        "Zaprogramować unikalne adresy w dołączonych do centrali manipulatorach": "Запрограммировать уникальные адреса в подключенных к центральному пульту манипуляторах.",
+        "Do sprawdzenia ciągłości połączeń w obwodach drukowanych urządzeń elektronicznych należy użyć": "Для проверки непрерывности соединений в печатных схемах электронных устройств следует использовать",
+        "watomierza": "Ваттметра.",
+        "ilustracji 2": "иллюстрации 2.",
+        "ilustracji 4": "иллюстрации 4.",
+        "ilustracji 1": "иллюстрации 1.",
+        "ilustracji 3": "иллюстрации 3.",
+        "Do wprowadzenia sygnału video, przesyłanego kablem koncentrycznym TV 75 Ω zakończonym wtykiem F, do urządzenia wyposażonego w gniazda typu BNC, należy zastosować przejściówkę przedstawioną na": "Для введения видеосигнала, передаваемого коаксиальным кабелем TV 75 Ω, заканчивающимся разъемом F, в устройство, оснащенное гнездами типа BNC, необходимо использовать переходник, представленный на"
     }
 }

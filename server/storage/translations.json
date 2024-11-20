@@ -2663,6 +2663,16 @@
         "L = 470 µH; C = 5,6 µF": "L = 470 мкГн; C = 5,6 мкФ",
         "L = 390 µH; C = 5,6 µF": "L = 390 мкГн; C = 5,6 мкФ",
         "L = 390 µH; C = 6,8 µF": "L = 390 мкГн; C = 6,8 мкФ",
-        "L = 470 µH; C = 6,8 µF": "L = 470 мкГн; C = 6,8 мкФ"
+        "L = 470 µH; C = 6,8 µF": "L = 470 мкГн; C = 6,8 мкФ",
+        "regulatora temperatury": "регулятора температуры.",
+        "detektora światła widzialnego": "детектора видимого света.",
+        "Fotorezystor w wyłączniku zmierzchowym pełni funkcję": "Фоторезистор в сумеречном выключателе выполняет функцию",
+        "detektora drgań": "детектора колебаний.",
+        "czujnika wilgoci": "датчика влажности.",
+        "układ różniczkujący": "Дифференцирующий уклад.",
+        "sumator": "сумматор.",
+        "układ całkujący": "Интегрирующий уклад.",
+        "Układ, którego napięcie wyjściowe zależy od wyniku porównania dwóch napięć wejściowych, to": "Уклад, выходное напряжение которого зависит от результата сравнения двух входных напряжений, это",
+        "komparator": "компаратор."
     }
 }

@@ -2653,6 +2653,16 @@
         "nie zmieni wartości napięcia na R2": "не изменит значение напряжения на R2",
         "spowoduje wzrost lub spadek napięcia na rezystorze R2, zależnie od wartości R2": "вызовет повышение или снижение напряжения на резисторе R2, в зависимости от значения R2",
         "Dołączenie obciążenia R do przedstawionego na schemacie dzielnika napięcia": "Подключение нагрузки R к показанному на схеме делителю напряжения",
-        "spowoduje spadek napięcia na rezystorze R2": "вызовет падение напряжения на резисторе R2"
+        "spowoduje spadek napięcia na rezystorze R2": "вызовет падение напряжения на резисторе R2",
+        "Jak nazywa się przedstawione na ilustracji urządzenie?": "Как называется изображенное на иллюстрации устройство?",
+        "Rozlutownica": "Разъемник пайки.",
+        "Odsysacz": "Отсос.",
+        "Lutownica": "Паяльник.",
+        "Grzałka": "Нагреватель.",
+        "Wiedząc, że wartość impedancji znamionowej głośników wynosi Z = 8 Ω, oraz częstotliwość graniczna filtrów wynosi fg = 3 kHz, dobierz zgodnie z szeregiem E 12 parametry filtrów do dwudrożnej zwrotnicy zestawu głośnikowego przedstawionego na schemacie": "Зная, что номинальное сопротивление динамиков составляет Z = 8 Ω, и предельная частота фильтров составляет fg = 3 кГц, подберите в соответствии с рядом E 12 параметры фильтров для двухполосной легузии громкоговорителя, представленного на схеме.",
+        "L = 470 µH; C = 5,6 µF": "L = 470 мкГн; C = 5,6 мкФ",
+        "L = 390 µH; C = 5,6 µF": "L = 390 мкГн; C = 5,6 мкФ",
+        "L = 390 µH; C = 6,8 µF": "L = 390 мкГн; C = 6,8 мкФ",
+        "L = 470 µH; C = 6,8 µF": "L = 470 мкГн; C = 6,8 мкФ"
     }
 }

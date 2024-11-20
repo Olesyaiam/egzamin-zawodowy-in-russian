@@ -2621,6 +2621,12 @@
         "TSV07D471": "TSV07D471",
         "W urządzeniu elektronicznym uszkodzeniu uległ warystor MYG 10K-431 o napięciu znamionowym 275 V AC, 350 V DC, energii tłumienia 55 J\/2 ms i rastrze 7,5 mm. Wykorzystując tabelę zamienników wskaż oznaczenie warystora, który można zastosować w zamian za uszkodzony?": "В электронном устройстве повреждению подвергся варистор MYG 10K-431 с номинальным напряжением 275 В AC, 350 В DC, энергией подавления 55 Дж\/2 мс и шагом 7,5 мм. Используя таблицу заменителей, укажите обозначение варистора, который можно использовать вместо поврежденного?",
         "JVRO7N431K": "JVRO7N431K",
-        "B72210S0301K101": "B72210S0301K101"
+        "B72210S0301K101": "B72210S0301K101",
+        "Przebieg 1": "Временной ход 1.",
+        "Przebieg 2": "Времязависимость 2.",
+        "Przebieg 4": "Пробег 4.",
+        "Przebieg 3": "Программа 3.",
+        "Który przebieg czasowy wystąpi na wyjściu Q przerzutnika D pracującego jako dwójka licząca, jeżeli na wejście C zostanie podany sygnał jak na wykresie?": "Какое временное поведение будет наблюдаться на выходе Q триггера D, работающего как счетная двойка, если на вход C будет подан сигнал, как на графике?",
+        "Która z poniższych liczb nie jest zapisem w kodzie BCD8421?": "Которое из следующих чисел не является записью в коде BCD8421?"
     }
 }

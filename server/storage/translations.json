@@ -2589,6 +2589,11 @@
         "Piłokształtny": "Пилообразный.",
         "Trójkątny": "Треугольный.",
         "Prostokątny": "Прямоугольный.",
-        "Który sygnał należy podać na wejście układu wzmacniacza, aby na wyjściu uzyskać sygnał pokazany na ilustracji?": "Какой сигнал следует подать на вход усилительного уклада, чтобы на выходе получить сигнал, показанный на иллюстрации?"
+        "Który sygnał należy podać na wejście układu wzmacniacza, aby na wyjściu uzyskać sygnał pokazany na ilustracji?": "Какой сигнал следует подать на вход усилительного уклада, чтобы на выходе получить сигнал, показанный на иллюстрации?",
+        "górnoprzepustowy": "Верхний.",
+        "pasmowozaporowy": "Полосно-заградительный",
+        "pasmowoprzepustowy": "Полосовопропускной.",
+        "Na schemacie przedstawiono filtr": "На схеме показан фильтр",
+        "dolnoprzepustowy": "Низкочастотный."
     }
 }

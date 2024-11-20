@@ -2598,6 +2598,16 @@
         "EX-OR": "EX-OR",
         "NAND": "NAND",
         "EX-NOR": "EX-NOR",
-        "Którą funkcję logiczną realizuje przedstawiony układ?": "Какую логическую функцию реализует представленный уклад?"
+        "Którą funkcję logiczną realizuje przedstawiony układ?": "Какую логическую функцию реализует представленный уклад?",
+        "uszkodzenia powłoki kabla": "повреждения оболочки кабеля.",
+        "skorodowania czaszy anteny": "коррозии тарелки антенны.",
+        "zniekształcenia lustra czaszy anteny": "искажения зеркала чаши антенны.",
+        "Na podstawie oględzin instalacji telewizyjnej nie można określić": "На основании осмотра телевизионной установки нельзя определить",
+        "uszkodzenia elektroniki konwertera": "повреждения электроники конвертера.",
+        "Uruchomić program DLOADX": "Запустить программу DLOADX.",
+        "Zaprogramować w centrali funkcję zastosowanych czujek PIR": "Запрограммировать в центральном блоке функцию используемых датчиков PIR.",
+        "Którą czynność należy wykonać jako pierwszą przy programowaniu centrali alarmowej systemu kontroli dostępu?": "Какое действие следует выполнить в первую очередь при программировании центрального блока системы контроля доступа?",
+        "Zidentyfikować poprzez program DLOADX podłączone do centrali ekspandery": "Идентифицировать через программу DLOADX подключенные к центральному блоку расширители.",
+        "Zaprogramować unikalne adresy w dołączonych do centrali manipulatorach": "Запрограммировать уникальные адреса в подключенных к центральному пульту манипуляторах."
     }
 }

@@ -2627,6 +2627,11 @@
         "Przebieg 4": "Пробег 4.",
         "Przebieg 3": "Программа 3.",
         "Który przebieg czasowy wystąpi na wyjściu Q przerzutnika D pracującego jako dwójka licząca, jeżeli na wejście C zostanie podany sygnał jak na wykresie?": "Какое временное поведение будет наблюдаться на выходе Q триггера D, работающего как счетная двойка, если на вход C будет подан сигнал, как на графике?",
-        "Która z poniższych liczb nie jest zapisem w kodzie BCD8421?": "Которое из следующих чисел не является записью в коде BCD8421?"
+        "Która z poniższych liczb nie jest zapisem w kodzie BCD8421?": "Которое из следующих чисел не является записью в коде BCD8421?",
+        "Czujki gazu LPG": "Датчики газа LPG.",
+        "Centrali alarmowej": "Централи сигнализации.",
+        "Sygnalizatora zewnętrznego": "Светового указателя внешнего.",
+        "Funkcję czego pełni element instalacji alarmowej, którego dane techniczne opisane są w ramce?": "Какую функцию выполняет элемент охранной сигнализации, технические данные которого описаны в рамке?",
+        "Czujki ruchu PIR": "Датчики движения PIR."
     }
 }

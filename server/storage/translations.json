@@ -2643,6 +2643,16 @@
         "długości światłowodu": "длины оптоволокна.",
         "miejsca spawu lub zgięcia włókna światłowodowego": "места сварки или изгиба оптоволоконного волокна.",
         "Podłączenie po jednej stronie toru transmisyjnego źródła sygnału o stałej i znanej mocy, a po drugiej miernika mocy optycznej, umożliwia bezpośrednie określenie": "Подключение с одной стороны линии передачи сигнала источника сигнала с постоянной и известной мощностью, а с другой стороны измерителя оптической мощности, позволяет непосредственно определить",
-        "Którą wartość rezystancji przedstawionego na schemacie dwójnika powinien mieć rezystor R2, jeżeli R1 = 10 Ω, a Uwy ma być trzy razy mniejsze od Uwe?": "Какое значение сопротивления представленного на схеме двухполюсника должен иметь резистор R2, если R1 = 10 Ом, а Uвых должно быть в три раза меньше, чем Uвх?"
+        "Którą wartość rezystancji przedstawionego na schemacie dwójnika powinien mieć rezystor R2, jeżeli R1 = 10 Ω, a Uwy ma być trzy razy mniejsze od Uwe?": "Какое значение сопротивления представленного на схеме двухполюсника должен иметь резистор R2, если R1 = 10 Ом, а Uвых должно быть в три раза меньше, чем Uвх?",
+        "trójkątnego": "треугольного.",
+        "piłokształtnego": "пилообразного.",
+        "sinusoidalnego": "синусоидального.",
+        "prostokątnego": "Прямоугольного.",
+        "Na ilustracji przedstawiono schemat generatora sygnału": "На иллюстрации представленa схема генератора сигнала.",
+        "spowoduje wzrost napięcia na rezystorze R2": "вызовет увеличение напряжения на резисторе R2",
+        "nie zmieni wartości napięcia na R2": "не изменит значение напряжения на R2",
+        "spowoduje wzrost lub spadek napięcia na rezystorze R2, zależnie od wartości R2": "вызовет повышение или снижение напряжения на резисторе R2, в зависимости от значения R2",
+        "Dołączenie obciążenia R do przedstawionego na schemacie dzielnika napięcia": "Подключение нагрузки R к показанному на схеме делителю напряжения",
+        "spowoduje spadek napięcia na rezystorze R2": "вызовет падение напряжения на резисторе R2"
     }
 }

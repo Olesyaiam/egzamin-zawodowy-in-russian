@@ -2632,6 +2632,16 @@
         "Centrali alarmowej": "Централи сигнализации.",
         "Sygnalizatora zewnętrznego": "Светового указателя внешнего.",
         "Funkcję czego pełni element instalacji alarmowej, którego dane techniczne opisane są w ramce?": "Какую функцию выполняет элемент охранной сигнализации, технические данные которого описаны в рамке?",
-        "Czujki ruchu PIR": "Датчики движения PIR."
+        "Czujki ruchu PIR": "Датчики движения PIR.",
+        "Sposób 3": "Способ 3.",
+        "Sposób 2": "Способ 2.",
+        "Sposób 1": "Способ 1.",
+        "Sposób 4": "Способ 4.",
+        "Który sposób przestawia podłączenie do zasilacza przewodu zasilającego AC i przewodu do zasilania kamery napięciem 12 V DC?": "Какой способ представляет подключение к блоку питания питающего провода AC и провода для питания камеры напряжением 12 В DC?",
+        "tłumienia złączy": "поглощения соединений.",
+        "całkowitego tłumienia toru optycznego": "общего затухания оптического тракта.",
+        "długości światłowodu": "длины оптоволокна.",
+        "miejsca spawu lub zgięcia włókna światłowodowego": "места сварки или изгиба оптоволоконного волокна.",
+        "Podłączenie po jednej stronie toru transmisyjnego źródła sygnału o stałej i znanej mocy, a po drugiej miernika mocy optycznej, umożliwia bezpośrednie określenie": "Подключение с одной стороны линии передачи сигнала источника сигнала с постоянной и известной мощностью, а с другой стороны измерителя оптической мощности, позволяет непосредственно определить"
     }
 }

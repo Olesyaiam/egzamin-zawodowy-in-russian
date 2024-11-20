@@ -2673,6 +2673,16 @@
         "sumator": "сумматор.",
         "układ całkujący": "Интегрирующий уклад.",
         "Układ, którego napięcie wyjściowe zależy od wyniku porównania dwóch napięć wejściowych, to": "Уклад, выходное напряжение которого зависит от результата сравнения двух входных напряжений, это",
-        "komparator": "компаратор."
+        "komparator": "компаратор.",
+        "Na przedstawionym schemacie blokowym szeregowego stabilizatora napięcia dopasuj cyfry do opisów bloków": "На представленном блок-схеме последовательного стабилизатора напряжения сопоставьте цифры с описаниями блоков.",
+        "1 - Źródło napięcia odniesienia, 2 - Wzmacniacz błędu, 3 - Układ zabezpieczający, 4 - Układ regulacyjny": "1 - Источник опорного напряжения, 2 - Усилитель ошибки, 3 - Защитная схема, 4 - Регулировочная схема.",
+        "1 - Układ regulacyjny, 2 - Wzmacniacz błędu, 3 - Układ zabezpieczający, 4 - Źródło napięcia odniesienia": "1 - Регулировочный уклад, 2 - Усилитель ошибки, 3 - Защитный уклад, 4 - Источник опорного напряжения.",
+        "1 - Źródło napięcia odniesienia, 2 - Układ zabezpieczający, 3 - Wzmacniacz błędu, 4 - Układ regulacyjny": "1 - Источник опорного напряжения, 2 - Защитная схема, 3 - Усилитель ошибки, 4 - Регулирующий узел.",
+        "1 - Układ regulacyjny, 2 - Układ zabezpieczający, 3 - Wzmacniacz błędu, 4 - Źródło napięcia odniesienia": "1 - Регулирующий узел, 2 - Защитный узел, 3 - Усилитель ошибки, 4 - Опорный источник напряжения.",
+        "modulacja": "Модуляция.",
+        "prostowanie": "Выпрямление.",
+        "filtrowanie": "Фильтрация",
+        "Proces, polegający na wyodrębnieniu z sygnału zmodulowanego wielkiej częstotliwości modulującego sygnału użytecznego małej częstotliwości, to": "Процесс, заключающийся в выделении из сигнала, модулированного высокой частотой, модулирующего полезного сигнала низкой частоты, это",
+        "demodulacja": "Демодуляция."
     }
 }

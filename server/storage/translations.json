@@ -2594,6 +2594,10 @@
         "pasmowozaporowy": "Полосно-заградительный",
         "pasmowoprzepustowy": "Полосовопропускной.",
         "Na schemacie przedstawiono filtr": "На схеме показан фильтр",
-        "dolnoprzepustowy": "Низкочастотный."
+        "dolnoprzepustowy": "Низкочастотный.",
+        "EX-OR": "EX-OR",
+        "NAND": "NAND",
+        "EX-NOR": "EX-NOR",
+        "Którą funkcję logiczną realizuje przedstawiony układ?": "Какую логическую функцию реализует представленный уклад?"
     }
 }

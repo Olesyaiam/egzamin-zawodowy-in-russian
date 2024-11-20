@@ -2642,6 +2642,7 @@
         "całkowitego tłumienia toru optycznego": "общего затухания оптического тракта.",
         "długości światłowodu": "длины оптоволокна.",
         "miejsca spawu lub zgięcia włókna światłowodowego": "места сварки или изгиба оптоволоконного волокна.",
-        "Podłączenie po jednej stronie toru transmisyjnego źródła sygnału o stałej i znanej mocy, a po drugiej miernika mocy optycznej, umożliwia bezpośrednie określenie": "Подключение с одной стороны линии передачи сигнала источника сигнала с постоянной и известной мощностью, а с другой стороны измерителя оптической мощности, позволяет непосредственно определить"
+        "Podłączenie po jednej stronie toru transmisyjnego źródła sygnału o stałej i znanej mocy, a po drugiej miernika mocy optycznej, umożliwia bezpośrednie określenie": "Подключение с одной стороны линии передачи сигнала источника сигнала с постоянной и известной мощностью, а с другой стороны измерителя оптической мощности, позволяет непосредственно определить",
+        "Którą wartość rezystancji przedstawionego na schemacie dwójnika powinien mieć rezystor R2, jeżeli R1 = 10 Ω, a Uwy ma być trzy razy mniejsze od Uwe?": "Какое значение сопротивления представленного на схеме двухполюсника должен иметь резистор R2, если R1 = 10 Ом, а Uвых должно быть в три раза меньше, чем Uвх?"
     }
 }

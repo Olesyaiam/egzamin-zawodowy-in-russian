@@ -2688,6 +2688,7 @@
         "R1=25 Ω; R2=25 Ω": "R1=25 Ом; R2=25 Ом",
         "R1=100 Ω; R2=25 Ω": "R1=100 Ом; R2=25 Ом",
         "R1=25 Ω; R2=100 Ω": "R1=25 Ом; R2=100 Ом",
-        "Wykorzystując podane wzory dobierz wartości rezystancji tłumika w celu dwukrotnego stłumienia sygnału wejściowego, jeżeli impedancja falowa przewodu antenowego Zk=75 Ω": "Используя предоставленные формулы, подберите значения сопротивления аттенюатора для двукратного ослабления входного сигнала, если волновое сопротивление антенного кабеля Zk=75 Ω."
+        "Wykorzystując podane wzory dobierz wartości rezystancji tłumika w celu dwukrotnego stłumienia sygnału wejściowego, jeżeli impedancja falowa przewodu antenowego Zk=75 Ω": "Используя предоставленные формулы, подберите значения сопротивления аттенюатора для двукратного ослабления входного сигнала, если волновое сопротивление антенного кабеля Zk=75 Ω.",
+        "Szerokość B pasma przenoszenia wzmacniacza wyznacza się, korzystając z zależności": "Ширину B полосы пропускания усилителя определяют, используя зависимость"
     }
 }

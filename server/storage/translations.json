@@ -2574,6 +2574,21 @@
         "JP1, JP2 i JP3 rozwarte": "JP1, JP2 и JP3 разомкнуты.",
         "JP1, JP2 rozwarte oraz JP3 zwarte": "JP1, JP2 разомкнуты, а JP3 замкнуто.",
         "JP1 lub JP2 zwarte, a JP3 rozwarte": "JP1 или JP2 замкнуты, а JP3 разомкнут.",
-        "Na podstawie fragmentu dokumentacji technicznej cyfrowej pasywnej czujki podczerwieni określ, w którym położeniu należy ustawić zworki w celu włączenia sygnalizacji przy pomocy LED i włączenia wysokiej czułości": "На основании фрагмента технической документации цифрового пассивного инфракрасного датчика определите, в каком положении следует установить перемычки для включения сигнализации с помощью светодиода и включения высокой чувствительности."
+        "Na podstawie fragmentu dokumentacji technicznej cyfrowej pasywnej czujki podczerwieni określ, w którym położeniu należy ustawić zworki w celu włączenia sygnalizacji przy pomocy LED i włączenia wysokiej czułości": "На основании фрагмента технической документации цифрового пассивного инфракрасного датчика определите, в каком положении следует установить перемычки для включения сигнализации с помощью светодиода и включения высокой чувствительности.",
+        "Zasilacz": "Блок питания.",
+        "Rejestrator": "Регистратор.",
+        "Router WAN": "Маршрутизатор WAN.",
+        "Switch POE": "Коммутатор POE.",
+        "Który element instalacji CCTV przedstawiony na ilustracji zapewnia bezpośrednie zasilanie kamer IP1 i IP2?": "Какой элемент установки видеонаблюдения, представленный на иллюстрации, обеспечивает непосредственное питание камер IP1 и IP2?",
+        "Która technologia wykorzystuje światło podczerwone do transmisji danych?": "Какая технология использует инфракрасный свет для передачи данных?",
+        "IRDA": "IrDA",
+        "WIMAX": "WIMAX",
+        "ZIGBEE": "ZIGBEE",
+        "BLUETOOTH": "BLUETOOTH",
+        "Sinusoidalny": "Синусоидальный.",
+        "Piłokształtny": "Пилообразный.",
+        "Trójkątny": "Треугольный.",
+        "Prostokątny": "Прямоугольный.",
+        "Który sygnał należy podać na wejście układu wzmacniacza, aby na wyjściu uzyskać sygnał pokazany na ilustracji?": "Какой сигнал следует подать на вход усилительного уклада, чтобы на выходе получить сигнал, показанный на иллюстрации?"
     }
 }

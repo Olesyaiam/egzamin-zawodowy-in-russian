@@ -2564,6 +2564,11 @@
         "Wyrównania potencjału na obydwu nadgarstkach serwisanta": "Выравнивания потенциала на обоих запястьях сервисного техника.",
         "Odprowadzenia ładunku elektrostatycznego z ciała serwisanta": "Удаление электростатического заряда с тела сервисного работника.",
         "Podłączenia serwisanta do napięcia zasilania układu scalonego": "Подключения сервисного техника к напряжению питания интегральной схемы.",
-        "W jakim celu podczas prac z układami scalonymi CMOS stosuje się element wskazany strzałką na ilustracji?": "С какой целью при работах с интегральными схемами CMOS используется элемент, указанный стрелолистом на иллюстрации?"
+        "W jakim celu podczas prac z układami scalonymi CMOS stosuje się element wskazany strzałką na ilustracji?": "С какой целью при работах с интегральными схемами CMOS используется элемент, указанный стрелолистом на иллюстрации?",
+        "100 Ω; 0,5 W": "100 Ом; 0,5 Вт",
+        "100 Ω; 0,25 W": "100 Ω; 0,25 Вт",
+        "1 kΩ; 0,5 W": "1 кОм; 0,5 Вт",
+        "Rezystor o jakich parametrach należy dołączyć do białej diody LED, aby przy napięciu zasilania Uzas = 24 V nie przekroczyć dopuszczalnego prądu tej diody IF = 20 mA i mocy wydzielanej w tym rezystorze?": "Какой резистор по параметрам следует подключить к белому светодиоду, чтобы при напряжении питания Uzas = 24 В не превысить допустимый ток этого диода IF = 20 мА и мощность, выделяемую в этом резисторе?",
+        "1 kΩ; 0,25 W": "1 кОм; 0,25 Вт"
     }
 }

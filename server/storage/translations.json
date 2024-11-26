@@ -2931,6 +2931,17 @@
         "direktor": "директор",
         "reflektor": "отражатель",
         "dipol": "диполя.",
-        "Element anteny zaznaczony na ilustracji strzałką to": "Элемент антенны, отмеченный на иллюстрации стрелолистом, это"
+        "Element anteny zaznaczony na ilustracji strzałką to": "Элемент антенны, отмеченный на иллюстрации стрелолистом, это",
+        "Która ilustracja przedstawia wtyk typu mini-USB?": "Какая иллюстрация изображает штекер типа mini-USB?",
+        "W projekcie oznaczono kabel jako S\/FTP, opisuje to": "В проекте обозначен кабель как S\/FTP, это описывает",
+        "skrętka ekranowana folią i siatką": "витая пара экранированная фольгой и сеткой.",
+        "skrętka z każdą parą w osobnym ekranie z folii": "Витая пара с каждой парой в отдельном экране из фольги.",
+        "skrętka z każdą parą foliowaną dodatkowo w ekranie z siatki": "витую пару, в которой каждая пара дополнительно экранирована фольгой в экране из сетки.",
+        "skrętka z każdą parą w osobnym ekranie z folii dodatkowo w ekranie z folii": "витая пара с каждой парой в отдельном экране из фольги, дополнительно в экране из фольги.",
+        "Narzędzie 1": "Инструмент 1.",
+        "Narzędzie 2": "Инструмент 2.",
+        "Narzędzie 4": "Инструмент 4.",
+        "Narzędzie 3": "Инструмент 3.",
+        "Które narzędzie przeznaczone jest do wyznaczania poziomu trasy przewodów?": "Какой инструмент предназначен для определения уровня маршрута проводов?"
     }
 }

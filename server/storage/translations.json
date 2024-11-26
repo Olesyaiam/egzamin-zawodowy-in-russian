@@ -2942,6 +2942,11 @@
         "Narzędzie 2": "Инструмент 2.",
         "Narzędzie 4": "Инструмент 4.",
         "Narzędzie 3": "Инструмент 3.",
-        "Które narzędzie przeznaczone jest do wyznaczania poziomu trasy przewodów?": "Какой инструмент предназначен для определения уровня маршрута проводов?"
+        "Które narzędzie przeznaczone jest do wyznaczania poziomu trasy przewodów?": "Какой инструмент предназначен для определения уровня маршрута проводов?",
+        "cięcia przewodów miedzianych": "резки медных проводов.",
+        "cięcia światłowodów": "резки оптических волокон.",
+        "ściągania płaszcza i powłok światłowodów": "снятия плаща и оболочек оптоволоконных кабелей.",
+        "ściągania izolacji przewodów miedzianych": "снятия изоляции медных проводов.",
+        "Narzędzie przedstawione na ilustracji służy do": "Инструмент, показанный на иллюстрации, служит для"
     }
 }

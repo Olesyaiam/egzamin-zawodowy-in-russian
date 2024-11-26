@@ -2947,6 +2947,11 @@
         "cięcia światłowodów": "резки оптических волокон.",
         "ściągania płaszcza i powłok światłowodów": "снятия плаща и оболочек оптоволоконных кабелей.",
         "ściągania izolacji przewodów miedzianych": "снятия изоляции медных проводов.",
-        "Narzędzie przedstawione na ilustracji służy do": "Инструмент, показанный на иллюстрации, служит для"
+        "Narzędzie przedstawione na ilustracji służy do": "Инструмент, показанный на иллюстрации, служит для",
+        "klejonych": "клеевых.",
+        "nitowanych": "заклепочных",
+        "zgrzewanych": "сварочных.",
+        "lutowanych": "паяных.",
+        "Urządzenie przedstawione na ilustracji służy do wykonywania połączeń": "Устройство, представленное на иллюстрации, служит для выполнения соединений."
     }
 }

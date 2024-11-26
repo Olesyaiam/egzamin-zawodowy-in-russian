@@ -2916,6 +2916,16 @@
         "Wianek ze słomy i drutu na kołku nadaje się do wykonania wieńca rzymskiego ze stroiszu, ponieważ jest to tradycyjna technika wykorzystywana do tego celu i zapewnia trwałość i estetykę. Inne zestawy środków technicznych mogą być niewystarczające lub nieodpowiednie do uzyskania pożądanego efektu": "Венок из соломы и проволоки на деревянном колышке подходит для изготовления римского венка из хвойного материала, поскольку это традиционная техника, используемая для этой цели и обеспечивающая долговечность и эстетику. Другие наборы технических средств могут быть недостаточными или неподходящими для достижения желаемого эффекта.",
         "Cienki papier pozwala na oddychanie kwiatów, zachowując jednocześnie wilgoć potrzebną do utrzymania ich świeżości": "Тонкая бумага позволяет цветам дышать, сохраняя при этом влагу, необходимую для поддержания их свежести.",
         "Promienisty układ łodyg i wiązanie pojedyncze charakteryzują bukiet spiralny wykonany zgodnie ze sztuką zawodu, ponieważ taki układ zapewnia równomierny rozkład kwiatów i pozwala na ich równomierne wyeksponowanie, a wiązanie pojedyncze gwarantuje stabilność całego bukietu": "Лучеобразный уклад стеблей и одиночное связывание характеризуют спиральный букет, выполненный в соответствии с искусством ремесла, поскольку такой уклад обеспечивает равномерное распределение цветов и позволяет их равномерно выставить, а одиночное связывание гарантирует стабильность всего букета.",
-        "Anturia i storczyki są kwiatami, które producenci pakują do pudełek i zabezpieczają fiolkami z wodą, ponieważ mają delikatne łodygi i wymagają odpowiedniej ochrony podczas transportu": "Антуриум и орхидеи - это цветы, которые производители упаковывают в коробки и защищают флористическими пробирками с водой, потому что они имеют деликатные стебли и требуют соответствующей защиты во время транспортировки."
+        "Anturia i storczyki są kwiatami, które producenci pakują do pudełek i zabezpieczają fiolkami z wodą, ponieważ mają delikatne łodygi i wymagają odpowiedniej ochrony podczas transportu": "Антуриум и орхидеи - это цветы, которые производители упаковывают в коробки и защищают флористическими пробирками с водой, потому что они имеют деликатные стебли и требуют соответствующей защиты во время транспортировки.",
+        "100 Ω tolerancja 5 %": "100 Ом допуск 5 %",
+        "1 000 Ω tolerancja 5 %": "1 000 Ом допуск 5 %",
+        "100 Ω tolerancja 10 %": "100 Ом допустимое отклонение 10 %",
+        "Którymi parametrami cechuje się przedstawiony na ilustracji rezystor?": "Какими параметрами характеризуется представленный на иллюстрации резистор?",
+        "1 000 Ω tolerancja 10 %": "1 000 Ω допуска 10 %",
+        "Rozdziela sygnał na kilka odbiorników": "Разделяет сигнал на несколько приемников.",
+        "Przesuwa pasmo częstotliwości sygnału telewizji satelitarnej": "Сдвигает диапазон частот сигнала спутникового телевидения.",
+        "Łączy wyjście symetryczne anteny z asymetrycznym wejściem odbiornika telewizyjnego": "Соединяет симметричный выход антенны с асимметричным входом телевизионного приемника.",
+        "Którą funkcję w instalacji antenowej pełni urządzenie przedstawione na ilustracji?": "Какую функцию в антенновой установке выполняет устройство, представленное на иллюстрации?",
+        "Wprowadza sygnał pochodzący z kilku anten do jednego przewodu antenowego": "Вводит сигнал, поступающий от нескольких антенн, в один антенный кабель."
     }
 }

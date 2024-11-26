@@ -2952,6 +2952,16 @@
         "nitowanych": "заклепочных",
         "zgrzewanych": "сварочных.",
         "lutowanych": "паяных.",
-        "Urządzenie przedstawione na ilustracji służy do wykonywania połączeń": "Устройство, представленное на иллюстрации, служит для выполнения соединений."
+        "Urządzenie przedstawione na ilustracji służy do wykonywania połączeń": "Устройство, представленное на иллюстрации, служит для выполнения соединений.",
+        "Rezystor": "Резистор",
+        "Tranzystor": "Транзистор",
+        "Dioda": "Диод",
+        "Kondensator": "Конденсатор",
+        "Zidentyfikuj element elektroniczny, który jest używany do ograniczania prądu w obwodzie": "Идентифицируйте электронный компонент, который используется для ограничения тока в цепи.",
+        "Układ scalony służy jako źródło zasilania": "Интегральная схема служит источником питания.",
+        "Układ scalony służy do ochrony układu przed przepięciami": "Интегральная схема служит для защиты схемы от перенапряжений.",
+        "Układ scalony służy do realizacji skomplikowanych funkcji i zadań": "Микросхема служит для выполнения сложных функций и задач.",
+        "Układ scalony służy jako element łączący różne części układu": "Микросхема служит в качестве элемента, соединяющего разные части схемы.",
+        "Na schemacie układu elektronicznego zauważasz układ scalony. Jaka jest główna funkcja układu scalonego w układzie?": "На схеме электронной схемы ты замечаешь микросхему. Какова основная функция микросхемы в схеме?"
     }
 }

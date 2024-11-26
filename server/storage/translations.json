@@ -2973,6 +2973,26 @@
         "Urządzenie A": "Устройство A",
         "Urządzenie B": "Устройство B",
         "Urządzenie Z": "Устройство Z",
-        "Na podstawie poniższego schematu, określ, które urządzenie jest diodą Zenera. Vcc | R | A---|&lt;|---B | | | Z | | GND GND": "На основе ниже приведенной схемы определите, какое устройство является диодом Зенера. Vcc | R | A---|<|---B | | | Z | | GND GND"
+        "Na podstawie poniższego schematu, określ, które urządzenie jest diodą Zenera. Vcc | R | A---|&lt;|---B | | | Z | | GND GND": "На основе ниже приведенной схемы определите, какое устройство является диодом Зенера. Vcc | R | A---|<|---B | | | Z | | GND GND",
+        "Zwiększa efektywność energetyczną urządzenia": "Повышает энергоэффективность устройства.",
+        "Zapewnia prawidłowe działanie urządzenia": "Обеспечивает правильную работу устройства.",
+        "Chroni urządzenie przed przepięciami": "Защищает устройство от перенапряжений.",
+        "Zapobiega porażeniu prądem w przypadku uszkodzenia izolacji": "Предотвращает поражение электрическим током в случае повреждения изоляции.",
+        "Przy instalacji urządzeń elektronicznych, jakie jest główne zadanie przewodu ochronnego?": "При установке электронных устройств, какова основная задача защитного проводника?",
+        "Normy techniczne nie mają wpływu na jakość produktów elektronicznych": "Технические нормы не влияют на качество электронных продуктов.",
+        "Normy techniczne ograniczają innowacje w branży elektronicznej": "Технические нормы ограничивают инновации в электронной отрасли.",
+        "Normy techniczne pomagają zapewnić, że produkty elektroniczne są bezpieczne dla użytkowników": "Технические нормы помогают гарантировать, что электронные продукты безопасны для пользователей.",
+        "Które z poniższych stwierdzeń prawidłowo opisuje rolę norm technicznych w branży elektronicznej?": "Какое из приведённых утверждений правильно описывает роль технических норм в электронной отрасли?",
+        "Normy techniczne są stosowane tylko w produkcji urządzeń elektronicznych, a nie w ich serwisowaniu": "Технические нормы используются только в производстве электронных устройств, но не в их обслуживании.",
+        "Rezystor ma wartość 1 kiloampera": "Резистор имеет значение 1 килограммпер.",
+        "Rezystor ma wartość 1 kilowolta": "Резистор имеет значение 1 киловольт.",
+        "Rezystor ma wartość 1 kilofarada": "Резистор имеет значение 1 килофарад.",
+        "Rezystor ma wartość 1 kilo-omu": "Резистор имеет значение 1 килоом.",
+        "Podczas analizowania schematu obwodu elektronicznego natknąłeś się na rezystor oznaczony jako \"1KΩ\". Określ, co oznacza ta wartość": "Во время анализа схемы электронного устройства ты наткнулся на резистор, обозначенный как \"1KΩ\". Определи, что означает эта величина.",
+        "Rezystor, Kondensator, Dioda, Tranzystor": "Резистор, Конденсатор, Диод, Транзистор",
+        "Kondensator, Rezystor, Tranzystor, Dioda": "Конденсатор, Резистор, Транзистор, Диод",
+        "Dioda, Tranzystor, Rezystor, Kondensator": "Диод, транзистор, резистор, конденсатор",
+        "Na podstawie powyższej tabeli, wybierz prawidłową kolejność montażu elementów na płycie drukowanej": "На основании вышеуказанной таблицы выберите правильную последовательность монтажа элементов на печатной плате.",
+        "Tranzystor, Dioda, Kondensator, Rezystor": "Транзистор, Диод, Конденсатор, Резистор"
     }
 }

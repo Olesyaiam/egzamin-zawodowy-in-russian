@@ -2963,6 +2963,16 @@
         "Układ scalony służy do realizacji skomplikowanych funkcji i zadań": "Микросхема служит для выполнения сложных функций и задач.",
         "Układ scalony służy jako element łączący różne części układu": "Микросхема служит в качестве элемента, соединяющего разные части схемы.",
         "Na schemacie układu elektronicznego zauważasz układ scalony. Jaka jest główna funkcja układu scalonego w układzie?": "На схеме электронной схемы ты замечаешь микросхему. Какова основная функция микросхемы в схеме?",
-        "Oto tabela z pomiarami prądu i napięcia na pewnym elemencie obwodu: Napięcie (V)Prąd (A) 51 102 153 Na podstawie tych danych, jaka jest rezystancja elementu?": "Вот таблица с измерениями тока и напряжения на некотором элементе цепи: Напряжение (В) Ток (А) 5 1 10 2 15 3 На основании этих данных, каково сопротивление элемента?"
+        "Oto tabela z pomiarami prądu i napięcia na pewnym elemencie obwodu: Napięcie (V)Prąd (A) 51 102 153 Na podstawie tych danych, jaka jest rezystancja elementu?": "Вот таблица с измерениями тока и напряжения на некотором элементе цепи: Напряжение (В) Ток (А) 5 1 10 2 15 3 На основании этих данных, каково сопротивление элемента?",
+        "Woltomierz podłączamy szeregowo do obwodu i wyłączamy obwód": "Вольтметр подключаем последовательно к цепи и выключаем цепь.",
+        "Woltomierz podłączamy szeregowo do obwodu": "Вольтметр подключаем последовательно к цепи.",
+        "Woltomierz podłączamy równolegle do obwodu i wyłączamy obwód": "Вольтметр подключаем параллельно к цепи и выключаем цепь.",
+        "Woltomierz podłączamy równolegle do obwodu": "Вольтметр подключаем параллельно к цепи.",
+        "Podczas pomiaru napięcia w obwodzie elektrycznym, które z poniższych stwierdzeń jest prawdziwe?": "Во время измерения напряжения в электрической цепи, какое из следующих утверждений является истинным?",
+        "Urządzenie R": "Устройство R",
+        "Urządzenie A": "Устройство A",
+        "Urządzenie B": "Устройство B",
+        "Urządzenie Z": "Устройство Z",
+        "Na podstawie poniższego schematu, określ, które urządzenie jest diodą Zenera. Vcc | R | A---|&lt;|---B | | | Z | | GND GND": "На основе ниже приведенной схемы определите, какое устройство является диодом Зенера. Vcc | R | A---|<|---B | | | Z | | GND GND"
     }
 }

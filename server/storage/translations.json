@@ -3352,6 +3352,11 @@
         "W instalacji przedstawionej na rysunku rolą wzmacniacza jest": "В установке, представленной на рисунке, роль усилителя заключается в:",
         "zapamiętanie sygnału pochodzącego z anteny radiowej\/ UKF-FM oraz anten TV\/UHF w pamięci multiswitch": "запоминание сигнала, поступающего с радиоприемной антенны\/ УКВ-FM, а также антенн ТВ\/УВЧ в памяти мультисвитча.",
         "zwielokrotnienie amplitudy sygnału pochodzącego z anteny radiowej\/ UKF-FM oraz anten TV\/UHF": "умножение амплитуды сигнала, поступающего от радиоприёмной антенны УКВ-FM, а также антенн ТВ\/УВЧ.",
-        "zapamiętanie sygnału pochodzącego z anten TV\/UHF w pamięci multiswitch": "запоминание сигнала, поступающего с ТВ\/УВЧ антенн, в памяти мультисвитча."
+        "zapamiętanie sygnału pochodzącego z anten TV\/UHF w pamięci multiswitch": "запоминание сигнала, поступающего с ТВ\/УВЧ антенн, в памяти мультисвитча.",
+        "Przedstawione urządzenie to": "Представленное устройство это",
+        "tygiel lutowniczy": "паяльный тигель",
+        "lutownica oporowa": "Паяльник резистивный.",
+        "lutownica transformatorowa": "Паяльник трансформаторный.",
+        "lutownica na ciepłe powietrze typu hot-air": "паяльник с горячим воздухом типа hot-air."
     }
 }

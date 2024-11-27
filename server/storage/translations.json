@@ -3347,6 +3347,11 @@
         "Do wytrawiania płytek PCB wykorzystuje się": "Для травления печатных плат используют",
         "nadsiarczan sodowy": "Перхлорат натрия.",
         "pastę lutowniczą": "паяльную пасту.",
-        "alkohol izopropylowy": "изопропиловый спирт."
+        "alkohol izopropylowy": "изопропиловый спирт.",
+        "zwielokrotnienie amplitudy sygnału pochodzącego z anten TV\/UHF": "увеличение амплитуды сигнала, исходящего от антенн ТВ\/UHF.",
+        "W instalacji przedstawionej na rysunku rolą wzmacniacza jest": "В установке, представленной на рисунке, роль усилителя заключается в:",
+        "zapamiętanie sygnału pochodzącego z anteny radiowej\/ UKF-FM oraz anten TV\/UHF w pamięci multiswitch": "запоминание сигнала, поступающего с радиоприемной антенны\/ УКВ-FM, а также антенн ТВ\/УВЧ в памяти мультисвитча.",
+        "zwielokrotnienie amplitudy sygnału pochodzącego z anteny radiowej\/ UKF-FM oraz anten TV\/UHF": "умножение амплитуды сигнала, поступающего от радиоприёмной антенны УКВ-FM, а также антенн ТВ\/УВЧ.",
+        "zapamiętanie sygnału pochodzącego z anten TV\/UHF w pamięci multiswitch": "запоминание сигнала, поступающего с ТВ\/УВЧ антенн, в памяти мультисвитча."
     }
 }

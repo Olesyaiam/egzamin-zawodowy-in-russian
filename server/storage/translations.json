@@ -3332,6 +3332,16 @@
         "Szkieletowania": "Формирование каркаса.",
         "Preparowania w roztworze soli": "Подготовки в растворе соли.",
         "Którą z wymienionych technik utrwalania roślin przedstawiono na rysunku?": "Какую из перечисленных техник сохранения растений представлено на рисунке?",
-        "Który z przedstawionych na rysunkach przyrządów służy do kompresji (spęczniania) tulejek kablowych typu F oraz BNC?": "Какой из представленных на рисунках инструментов служит для компрессии (обжатия) кабельных гильз типа F и BNC?"
+        "Który z przedstawionych na rysunkach przyrządów służy do kompresji (spęczniania) tulejek kablowych typu F oraz BNC?": "Какой из представленных на рисунках инструментов служит для компрессии (обжатия) кабельных гильз типа F и BNC?",
+        "DIL08": "DIL08",
+        "PLCC 68 SMD": "PLCC 68 SMD",
+        "PLCC 32T SMD": "PLCC 32T SMD",
+        "Na rysunku przedstawiono podstawkę typu": "На рисунке представлена подставка типа",
+        "DIL 28P": "DIL 28P",
+        "śrubowa 5-polowa": "винтовая 5-полюсная.",
+        "śrubowa 4-polowa": "винтовая 4-полюсная",
+        "bezśrubowa wciskowa 5-polowa": "бесшрубный втисковой 5-полюсный.",
+        "bezśrubowa wciskowa 4-polowa": "бесшрубовой втисковой 4-полюсный.",
+        "Na rysunku przedstawiono element służący do elektrycznego łączenia przewodów w instalacjach elektronicznych. Jest to złączka instalacyjna": "На рисунке представлен элемент, служащий для электрического соединения проводов в электронных установках. Это монтажная клемма."
     }
 }

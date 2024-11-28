@@ -924,7 +924,8 @@
             "plastikowe kolce skierowane ku górze": "пластиковые шипы, направленные вверх.",
             "\"Gąbka w plastikowej obudowie ze sprężystym zaczepem\" jest poprawną odpowiedzią, ponieważ \"clip to\" oznacza przymocowanie czegoś do czegoś innego, a gąbka ta jest używana w florystyce do przymocowywania kwiatów do różnych podłoży za pomocą sprężystego zaczepu": "Флористическая губка в пластиковой оболочке с пружинным зацепом является правильным ответом, потому что \"клипса\" означает прикрепление чего-либо к чему-то другому, а эта губка используется во флористике для прикрепления цветов к различным подложкам с помощью пружинного зацепа.",
             "Pękaty": "Пузатый.",
-            "Wąski": "Узкий."
+            "Wąski": "Узкий.",
+            "1 – światłowód wielomodowy gradientowy, 2 – światłowód wielomodowy skokowy, 3 – światłowód jednomodowy": "1 – градиентный многомодовый световод, 2 – ступенчатый многомодовый световод, 3 – одномодовый световод."
         }
     },
     "not_approved": {
@@ -3470,6 +3471,10 @@
         "W skrętce komputerowej ekranowanej": "В экранированной компьютерной витой паре.",
         "W kablu światłowodowym": "В волоконно-оптическом кабеле.",
         "OSPF (Open Shortest Path First) jest protokołem routingu typu link-state i wykorzystuje algorytm Dijkstry do wyznaczania najkrótszej ścieżki. Algorytm ten różni się od algorytmu wektora odległości, który jest stosowany przez inne wymienione protokoły (IGRP, RIP, EIGRP). Dlatego poprawną odpowiedzią na pytanie jest OSPF": "OSPF (Open Shortest Path First) является протоколом маршрутизации типа состояния канала и использует алгоритм Дейкстры для определения кратчайшего пути. Этот алгоритм отличается от алгоритма векторной дистанции, который используется другими перечисленными протоколами (IGRP, RIP, EIGRP). Поэтому правильным ответом на вопрос является OSPF.",
-        "Reflektometrem OTDR dokonano pomiaru odcinka włókna światłowodowego, uzyskując na wyświetlaczu obraz jak na rysunku. Na podstawie tego pomiaru można stwierdzić, że tłumienie włókna na odcinku A-B wynosi": "Рефлектометром OTDR был произведен замер участка оптоволоконного кабеля, получив на дисплее изображение, как на рисунке. На основании этого замера можно утверждать, что затухание волокна на участке A-B составляет"
+        "Reflektometrem OTDR dokonano pomiaru odcinka włókna światłowodowego, uzyskując na wyświetlaczu obraz jak na rysunku. Na podstawie tego pomiaru można stwierdzić, że tłumienie włókna na odcinku A-B wynosi": "Рефлектометром OTDR был произведен замер участка оптоволоконного кабеля, получив на дисплее изображение, как на рисунке. На основании этого замера можно утверждать, что затухание волокна на участке A-B составляет",
+        "Wskaż, w jakiej kolejności przedstawiono na rysunku światłowody włókniste": "Укажите, в каком порядке на рисунке представлены волоконно-оптические световоды.",
+        "1 – światłowód jednomodowy, 2 – światłowód wielomodowy gradientowy, 3 – światłowód wielomodowy skokowy": "1 – одномодовое волокно, 2 – градиентное многомодовое волокно, 3 – ступенчатое многомодовое волокно.",
+        "1 – światłowód jednomodowy, 2 – światłowód wielomodowy skokowy, 3 – światłowód wielomodowy gradientowy": "1 – одномодовое оптоволокно, 2 – многомодовое ступенчатое оптоволокно, 3 – многомодовое градиентное оптоволокно.",
+        "1 – światłowód wielomodowy skokowy, 2 – światłowód wielomodowy gradientowy, 3 – światłowód jednomodowy": "1 – многомодовое одномодовое волокно, 2 – многомодовое градиентное волокно, 3 – одномодовое волокно."
     }
 }

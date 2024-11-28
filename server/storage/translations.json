@@ -3459,6 +3459,17 @@
         "Jakie wymiary na rysunku projektowym – rzut z góry wykonanym w skali 1:10 ma stoisko targowe, którego długość rzeczywista wynosi 4 m, a szerokość 2 m?": "Какие размеры на проектном чертеже – вид сверху, выполненном в масштабе 1:10, имеет выставочный стенд, фактическая длина которого составляет 4 м, а ширина 2 м?",
         "Wykonany rysunek projektowy kompozycji, rzut z góry, nie powinien zawierać": "Выполненный проектный рисунок композиции, вид сверху, не должен содержать",
         "W celu przedłużenia trwałości kompozycji florystycznej, szypułki kwiatowe użytych pojedynczych kwiatów storczyka należy": "Для продления стойкости цветочной композиции, цветоножки использованных одиночных цветов орхидеи необходимо",
-        "Klient zamówił rośliny przyprawowe do posadzenia w skrzynce przyokiennej. Który zestaw roślin jest odpowiedni do zrealizowania tego zamówienia?": "Клиент заказал пряные растения для посадки в оконный ящик. Какой набор растений подходит для выполнения этого заказа?"
+        "Klient zamówił rośliny przyprawowe do posadzenia w skrzynce przyokiennej. Który zestaw roślin jest odpowiedni do zrealizowania tego zamówienia?": "Клиент заказал пряные растения для посадки в оконный ящик. Какой набор растений подходит для выполнения этого заказа?",
+        "OSPF": "OSPF",
+        "EIGRP": "EIGRP",
+        "Który protokół rutingu do wyznaczenia najlepszej trasy nie wykorzystuje algorytmu wektora odległości (distance-vector routing algorithm)?": "Какой протокол маршрутизации для определения наилучшего пути не использует алгоритм векторного расстояния (distance-vector routing algorithm)?",
+        "IGRP": "IGRP",
+        "W kablu koncentrycznym": "В коаксиальном кабеле.",
+        "W którym medium transmisyjnym przesyłany sygnał jest najmniej narażony na zakłócenia radioelektryczne?": "В каком передающем средстве передаваемый сигнал наименее подвержен радиэлектрическим помехам?",
+        "W skrętce komputerowej nieekranowanej": "В неэкранированной компьютерной витой паре.",
+        "W skrętce komputerowej ekranowanej": "В экранированной компьютерной витой паре.",
+        "W kablu światłowodowym": "В волоконно-оптическом кабеле.",
+        "OSPF (Open Shortest Path First) jest protokołem routingu typu link-state i wykorzystuje algorytm Dijkstry do wyznaczania najkrótszej ścieżki. Algorytm ten różni się od algorytmu wektora odległości, który jest stosowany przez inne wymienione protokoły (IGRP, RIP, EIGRP). Dlatego poprawną odpowiedzią na pytanie jest OSPF": "OSPF (Open Shortest Path First) является протоколом маршрутизации типа состояния канала и использует алгоритм Дейкстры для определения кратчайшего пути. Этот алгоритм отличается от алгоритма векторной дистанции, который используется другими перечисленными протоколами (IGRP, RIP, EIGRP). Поэтому правильным ответом на вопрос является OSPF.",
+        "Reflektometrem OTDR dokonano pomiaru odcinka włókna światłowodowego, uzyskując na wyświetlaczu obraz jak na rysunku. Na podstawie tego pomiaru można stwierdzić, że tłumienie włókna na odcinku A-B wynosi": "Рефлектометром OTDR был произведен замер участка оптоволоконного кабеля, получив на дисплее изображение, как на рисунке. На основании этого замера можно утверждать, что затухание волокна на участке A-B составляет"
     }
 }

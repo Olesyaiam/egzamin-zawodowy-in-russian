@@ -3507,6 +3507,16 @@
         "konwerter RJ45\/RS232": "конвертер RJ45\/RS232",
         "programowalny wyłącznik czasowy na szynę DIN": "программируемый таймер на DIN-рейку",
         "Urządzenie przedstawione na rysunku to": "Устройство, представленное на рисунке, это",
-        "tester sieci LAN": "тестер сетей LAN"
+        "tester sieci LAN": "тестер сетей LAN",
+        "Hartleya w konfiguracji wspólna baza": "Хартли в конфигурации с общей базой.",
+        "Hartleya w konfiguracji wspólny emiter": "Хартли в конфигурации общий эмиттер.",
+        "Schemat, którego generatora przedstawiono na rysunku?": "Схема, какого генератора представлена на рисунке?",
+        "Meissnera w konfiguracji wspólny emiter": "Мейсснера в конфигурации общий эмиттер.",
+        "Meissnera w konfiguracji wspólna baza": "Мейсснера в конфигурации общая база.",
+        "Oczkowy": "Гаитновый.",
+        "Płaski": "Плоский.",
+        "Nasadowy": "Гаечный.",
+        "Imbusowy": "Шестигранный.",
+        "Który klucz służy do odkręcania śrub z łbem walcowym z gniazdem sześciokątnym?": "Какой ключ используется для откручивания винтов с цилиндрической головкой и шестигранным гнездом?"
     }
 }

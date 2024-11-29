@@ -3496,6 +3496,7 @@
         "baterie są rozładowane i należy je wymienić": "батареи разряжены, и их следует заменить.",
         "czujka działa poprawnie i wykryła niebezpieczne stężenie tlenku węgla": "Датчик работает правильно и обнаружил опасную концентрацию угарного газа.",
         "okres użytkowania czujki przewidziany przez producenta dobiegł końca i należy ją wymienić": "срок эксплуатации датчика, предусмотренный производителем, закончился, и его необходимо заменить.",
-        "Podczas kontroli czujki czadu stwierdzono, że emituje ona co 30 sekund dwa krótkie sygnały dźwiękowe i czerwona dioda LED miga dwukrotnie. Oznacza to, że": "Во время проверки датчика угарного газа было установлено, что он издает два коротких звуковых сигнала каждые 30 секунд, а красный светодиод мигает дважды. Это означает, что"
+        "Podczas kontroli czujki czadu stwierdzono, że emituje ona co 30 sekund dwa krótkie sygnały dźwiękowe i czerwona dioda LED miga dwukrotnie. Oznacza to, że": "Во время проверки датчика угарного газа было установлено, что он издает два коротких звуковых сигнала каждые 30 секунд, а красный светодиод мигает дважды. Это означает, что",
+        "Ile wynosi zakres pomiarowy watomierza, jeżeli jego zakres prądowy wynosi 2 A, a zakres napięciowy to 200 V?": "Каков диапазон измерения ваттметра, если его токовый диапазон составляет 2 А, а напряженческий диапазон — 200 В?"
     }
 }

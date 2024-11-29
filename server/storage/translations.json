@@ -3536,6 +3536,16 @@
         "Metalowa obudowa urządzenia elektronicznego powinna być połączona z żyłą ochronną instalacji zasilającej za pomocą przewodu o izolacji w kolorze": "Металлический корпус электронного устройства должен быть соединен с защитным проводником питающей установки с помощью провода с изоляцией в цвете",
         "światła": "света.",
         "Czujka typu PIR przeznaczona jest do detekcji": "Датчик типа PIR предназначен для обнаружения.",
-        "Ile żył powinien posiadać przewód zakończony z obu stron złączami przedstawionymi na rysunku?": "Сколько жил должен иметь провод, оканчивающийся с обеих сторон соединителями, представленными на рисунке?"
+        "Ile żył powinien posiadać przewód zakończony z obu stron złączami przedstawionymi na rysunku?": "Сколько жил должен иметь провод, оканчивающийся с обеих сторон соединителями, представленными на рисунке?",
+        "Podczas pomiaru rezystancji metodą techniczną woltomierz i amperomierz wskazują odpowiednio 40 V oraz 20 mA. Ile wynosi wartość mierzonej rezystancji?": "Во время измерения сопротивления техническим методом вольтметр и амперметр показывают соответственно 40 В и 20 мА. Какова величина измеренного сопротивления?",
+        "bitowej stopy błędów": "бытовой частоты ошибок.",
+        "współczynnika zniekształceń nieliniowych": "коэффициента нелинейных искажений.",
+        "czasów narastania i opadania impulsów": "времени нарастания и спада импульсов.",
+        "przesunięcia fazowego pomiędzy dwoma sygnałami sinusoidalnymi": "фазового сдвига между двумя синусоидальными сигналами.",
+        "Analogowy oscyloskop jednokanałowy umożliwia pomiar": "Аналоговый осциллограф одноканальный позволяет измерение",
+        "Za pomocą cęgów bocznych można": "С помощью боковых щипцов можно",
+        "skręcać żyły przewodów elektrycznych": "скручивать жилы электрических проводов.",
+        "usuwać izolację z żył przewodów elektrycznych": "удалять изоляцию с жил электрических проводов.",
+        "ciąć żyły przewodów elektrycznych": "резать жилы электрических проводов."
     }
 }

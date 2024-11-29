@@ -3486,6 +3486,16 @@
         "Wtyk HDMI i gniazdo DVI": "Вилка HDMI и гнездо DVI",
         "Wtyk USB i gniazdo DVI": "Разъём USB и гнездо DVI",
         "Jakiego typu złączami zakończony jest kabel przedstawiony na rysunku?": "Какого типа соединителями завершён кабель, представленный на рисунке?",
-        "Wtyk HDMI i gniazdo VGA": "Штекер HDMI и гнездо VGA"
+        "Wtyk HDMI i gniazdo VGA": "Штекер HDMI и гнездо VGA",
+        "zmiany charakterystyki kierunkowej anteny": "изменения диаграммы направленности антенны.",
+        "Symetryzator antenowy stosuje się w celu": "Симметризатор антенны применяется с целью",
+        "przesłania sygnałów z kilku anten do jednego odbiornika": "передачи сигналов с нескольких антенн на один приемник.",
+        "dopasowania impedancyjnego anteny i odbiornika": "согласования импеданса антенны и приемника.",
+        "zwiększenia zysku energetycznego anteny": "увеличения энергетического КПД антенны.",
+        "czujka działa poprawnie i jest w stanie czuwania": "Датчик работает правильно и находится в режиме ожидания.",
+        "baterie są rozładowane i należy je wymienić": "батареи разряжены, и их следует заменить.",
+        "czujka działa poprawnie i wykryła niebezpieczne stężenie tlenku węgla": "Датчик работает правильно и обнаружил опасную концентрацию угарного газа.",
+        "okres użytkowania czujki przewidziany przez producenta dobiegł końca i należy ją wymienić": "срок эксплуатации датчика, предусмотренный производителем, закончился, и его необходимо заменить.",
+        "Podczas kontroli czujki czadu stwierdzono, że emituje ona co 30 sekund dwa krótkie sygnały dźwiękowe i czerwona dioda LED miga dwukrotnie. Oznacza to, że": "Во время проверки датчика угарного газа было установлено, что он издает два коротких звуковых сигнала каждые 30 секунд, а красный светодиод мигает дважды. Это означает, что"
     }
 }

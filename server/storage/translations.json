@@ -3547,6 +3547,12 @@
         "skręcać żyły przewodów elektrycznych": "скручивать жилы электрических проводов.",
         "usuwać izolację z żył przewodów elektrycznych": "удалять изоляцию с жил электрических проводов.",
         "ciąć żyły przewodów elektrycznych": "резать жилы электрических проводов.",
-        "formować końcówki żył przewodów elektrycznych": "формировать концы жил электрических проводов."
+        "formować końcówki żył przewodów elektrycznych": "формировать концы жил электрических проводов.",
+        "Na którym rysunku przedstawiono topologię gwiazdy?": "На каком рисунке представлена топология звезды?",
+        "zaporę sieciową": "сетевой экран",
+        "strefę zdemilitaryzowaną": "зону демилитаризации.",
+        "bezpieczniejsze szyfrowanie": "более безопасное шифрование.",
+        "filtrowanie adresów MAC": "фильтрация MAC-адресов.",
+        "Aby tylko urządzenia z wybranym adresem fizycznym mogły się połączyć z siecią WiFi, należy skonfigurować w punkcie dostępowym": "Чтобы только устройства с выбранным физическим адресом могли подключиться к сети WiFi, необходимо настроить в точке доступа."
     }
 }

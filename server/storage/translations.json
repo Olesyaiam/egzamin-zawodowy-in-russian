@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Pinholder jest przeznaczony do zamocowania gąbki florystycznej w płaskim pojemniku, ponieważ posiada wiele małych ząbków, które trzymają gąbkę na swoim miejscu": "Пинхолдер предназначен для закрепления флористической губки в плоском контейнере, поскольку он имеет множество маленьких зубцов, которые удерживают губку на месте."
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",

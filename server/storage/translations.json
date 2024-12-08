@@ -3817,6 +3817,8 @@
         "1 saszetkę": "1 пакетик.",
         "3 saszetki": "3 пакетика.",
         "2 saszetki": "2 пакетика.",
-        "Na podstawie zamieszczonej informacji oblicz, ile saszetek zawierających 5 ml żelu należy rozpuścić w 1,5 l wody": "На основании размещенной информации вычислите, сколько пакетиков, содержащих 5 мл геля, следует растворить в 1,5 л воды."
+        "Na podstawie zamieszczonej informacji oblicz, ile saszetek zawierających 5 ml żelu należy rozpuścić w 1,5 l wody": "На основании размещенной информации вычислите, сколько пакетиков, содержащих 5 мл геля, следует растворить в 1,5 л воды.",
+        "Aby obliczyć ilość saszetek potrzebnych do rozpuszczenia w 1,5 l wody, dzielimy ilość wody, którą mamy (1,5 l) przez ilość wody, na którą przypada jedna saszetka (0,5 l), co daje nam wynik 3. Oznacza to, że potrzebujemy 3 saszetki żelu": "Чтобы вычислить количество пакетиков, необходимых для растворения в 1,5 л воды, делим количество воды, которое у нас есть (1,5 л), на количество воды, на которое приходится один пакетик (0,5 л), что дает нам результат 3. Это означает, что нам нужно 3 пакетика геля.",
+        "W celu przyciągnięcia uwagi zwiedzających do dekoracji stoiska wystawowego najlepiej przeznaczyć dobrze widoczne kwiaty w kolorze": "В целях привлечения внимания посетителей к оформлению выставочного стенда лучше всего выделить хорошо видимые цветы в цвете."
     }
 }

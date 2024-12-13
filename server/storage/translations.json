@@ -3967,6 +3967,10 @@
         "Cena wstążki": "Цена ленты",
         "Szerokość wstążki": "Ширина ленты",
         "Dopasowanie koloru i stylu wstążki do kompozycji jest kluczowe dla tworzenia harmonijnej i estetycznej kompozycji florystycznej. Wstążka powinna komplementować, a nie dominować nad kwiatami": "Подбор цвета и стиля ленты к композиции является ключевым для создания гармоничной и эстетичной флористической композиции. Лента должна дополнять, а не доминировать над цветами.",
-        "Którą z wymienionych roślin najlepiej suszyć w pozycji naturalnej (do góry)?": "Какое из перечисленных растений лучше сушить в естественном положении (вверх)?"
+        "Którą z wymienionych roślin najlepiej suszyć w pozycji naturalnej (do góry)?": "Какое из перечисленных растений лучше сушить в естественном положении (вверх)?",
+        "Dodajemy wszystko oprócz kosztów transportu i robocizny": "Добавляем всё, кроме затрат на транспорт и работу.",
+        "Z wykonaniem kompozycji związana jest także robocizna - przecież jakoś trzeba tę kompozycję zrobić": "С выполнением композиции связана также работа - ведь как-то нужно сделать эту композицию.",
+        "Koszty materiałów florystycznych związane z wykonaniem kompozycji florystycznej to materiał roślinny, środki techniczne, materiały dekoracyjne, czyli.: 45+22+55 = 122 zł": "Затраты на флористические материалы, связанные с выполнением флористической композиции, это растительный материал, технические средства, декоративные материалы, то есть: 45+22+55 = 122 зл.",
+        "Poprawna odpowiedź to suma wartości \"Materiał roślinny\" i \"Materiały dekoracyjne\", ponieważ tylko te dwie pozycje dotyczą materiałów florystycznych wymienionych w pytaniu. Pozostałe pozycje nie są związane z materiałami florystycznymi, więc nie są wliczane do obliczeń": "Правильный ответ - это сумма значений \"Растительный материал\" и \"Декоративные материалы\", потому что только эти две позиции касаются флористических материалов, упомянутых в вопросе. Остальные позиции не связаны с флористическими материалами, поэтому не включаются в расчеты."
     }
 }

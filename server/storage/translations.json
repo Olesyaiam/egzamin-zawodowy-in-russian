@@ -1,7 +1,6 @@
 {
     "incorrect": {
-        "Pinholder jest przeznaczony do zamocowania gąbki florystycznej w płaskim pojemniku, ponieważ posiada wiele małych ząbków, które trzymają gąbkę na swoim miejscu": "Пинхолдер предназначен для закрепления флористической губки в плоском контейнере, поскольку он имеет множество маленьких зубцов, которые удерживают губку на месте.",
-        "słoneczniki i złocienie": "Подсолнечник и хризантемы."
+        "Pinholder jest przeznaczony do zamocowania gąbki florystycznej w płaskim pojemniku, ponieważ posiada wiele małych ząbków, które trzymają gąbkę na swoim miejscu": "Пинхолдер предназначен для закрепления флористической губки в плоском контейнере, поскольку он имеет множество маленьких зубцов, которые удерживают губку на месте."
     },
     "approved": {
         "others": {
@@ -4014,6 +4013,7 @@
         "ниже 4,5": "ниже 4,5.",
         "высокий 7.2": "wysokie 7,2",
         "Почва, предназначенная для растений, требующих слабокислой реакции, изменения pH": "Gleba, przeznaczona dla roślin wymagających słabej kwaśnej reakcji, zmiany pH",
-        "Почва, предназначенная для растений, требующих слабокислой реакции, дисбаланс pH": "Gleba przeznaczona dla roślin wymagających lekko kwaśnej reakcji pH, będąca w stanie dysfunkcji pH."
+        "Почва, предназначенная для растений, требующих слабокислой реакции, дисбаланс pH": "Gleba przeznaczona dla roślin wymagających lekko kwaśnej reakcji pH, będąca w stanie dysfunkcji pH.",
+        "słoneczniki i złocienie": "Подсолнечник и хризантема."
     }
 }

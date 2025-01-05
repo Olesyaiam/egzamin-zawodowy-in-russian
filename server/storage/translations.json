@@ -977,7 +977,11 @@
             "Kompozycje z kwiatów ciętych - niska temperatura; Kompozycje z kwiatów doniczkowych - temperatura pokojowa": "Композиции из срезанных цветов - низкая температура; Композиции из горшечных цветов - комнатная температура.",
             "Kompozycje z kwiatów ciętych - wysoka temperatura; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - высокая температура; Композиции из горшечных цветов - низкая температура.",
             "Kompozycje z kwiatów ciętych - niska temperatura; Kompozycje z kwiatów doniczkowych - wysoka temperatura": "Композиции из срезанных цветов - низкая температура; Композиции из горшечных цветов - высокая температура.",
-            "Kompozycje z kwiatów ciętych powinny być przechowywane w chłodniejszych warunkach, aby zapewnić ich dłuższą trwałość, podczas gdy kompozycje z kwiatów doniczkowych generalnie dobrze radzą sobie w temperaturze pokojowej": "Композиции из срезанных цветов должны храниться в более прохладных условиях, чтобы обеспечить их более долгую сохранность, в то время как композиции из горшечных цветов в целом хорошо чувствуют себя при комнатной температуре."
+            "Kompozycje z kwiatów ciętych powinny być przechowywane w chłodniejszych warunkach, aby zapewnić ich dłuższą trwałość, podczas gdy kompozycje z kwiatów doniczkowych generalnie dobrze radzą sobie w temperaturze pokojowej": "Композиции из срезанных цветов должны храниться в более прохладных условиях, чтобы обеспечить их более долгую сохранность, в то время как композиции из горшечных цветов в целом хорошо чувствуют себя при комнатной температуре.",
+            "Rozważasz stworzenie kompozycji roślinnej w pojemniku na balkonie. Które z poniższych roślin będą najlepszym wyborem, jeśli chodzi o ich zdolność do przetrwania w warunkach miejskich?": "Вы рассматриваете создание растительной композиции в контейнере на балконе. Какие из перечисленных растений будут лучшим выбором, если говорить о их способности выживать в городских условиях?",
+            "Róża, hortensja, peonia": "Роза, гортензия, пион",
+            "Azalia, rododendron, magnolia": "Рододендрон, рододендрон, магнолия",
+            "Storczyk, kaktus, aloes": "Орхидея, кактус, алоэ"
         }
     },
     "not_approved": {
@@ -4429,11 +4433,7 @@
         "Planujesz kompozycję florystyczną z roślin rabatowych. Wybierz, który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie wiosennym": "Планируешь композицию флористическую из растений клумбовых. Выбери, какое из нижеперечисленных удобрений наиболее подходит для использования в весенний период.",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь композицию флористическую из растений рабаток. Какое из следующих удобрений наиболее подходит для применения в осенний период?",
         "Rodzaj kompozycji Temperatura przechowywania Kompozycje z kwiatów ciętych ? Kompozycje z kwiatów doniczkowych ? Uzupełnij powyższą tabelę. Która z poniższych odpowiedzi jest prawidłowa?": "Тип композиции Температура хранения Композиции из срезанных цветов ? Композиции из горшечных растений ? Заполни приведенную выше таблицу. Какой из нижеприведенных ответов является правильным?",
-        "Róża, hortensja, peonia": "Роза, гортензия, пион",
         "Geranium, petunia, begonia": "Герань, петуния, бегония",
-        "Azalia, rododendron, magnolia": "Рододендрон, рододендрон, магнолия",
-        "Storczyk, kaktus, aloes": "Орхидея, кактус, алоэ",
-        "Rozważasz stworzenie kompozycji roślinnej w pojemniku na balkonie. Które z poniższych roślin będą najlepszym wyborem, jeśli chodzi o ich zdolność do przetrwania w warunkach miejskich?": "Вы рассматриваете создание растительной композиции в контейнере на балконе. Какие из перечисленных растений будут лучшим выбором, если говорить о их способности выживать в городских условиях?",
         "A-2, B-1, C-3, D-4": "A-2, B-1, C-3, D-4",
         "A-1, B-2, C-3, D-4": "A-1, B-2, C-3, D-4",
         "A-2, B-4, C-1, D-3": "A-2, B-4, C-1, D-3",

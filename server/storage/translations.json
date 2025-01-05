@@ -1034,7 +1034,13 @@
             "Wysoka wilgotność powoduje szybsze więdnięcie kwiatów": "Высокая влажность вызывает более быстрое увядание цветов.",
             "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych": "Высокая влажность может помочь в поддержании свежести срезанных цветов.",
             "Wilgotność nie ma wpływu na trwałość materiału roślinnego": "Влажность не влияет на долговечность растительного материала.",
-            "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych, ponieważ zapobiega nadmiernemu odparowywaniu wody z kwiatów, co może prowadzić do ich więdnięcia": "Высокая влажность может помочь в сохранении свежести срезанных цветов, так как предотвращает чрезмерное испарение воды из цветов, что может привести к их увяданию."
+            "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych, ponieważ zapobiega nadmiernemu odparowywaniu wody z kwiatów, co może prowadzić do ich więdnięcia": "Высокая влажность может помочь в сохранении свежести срезанных цветов, так как предотвращает чрезмерное испарение воды из цветов, что может привести к их увяданию.",
+            "Zdecydowałeś się na przechowywanie róż w chłodni. Jaki powinien być optymalny zakres temperatury do przechowywania tych kwiatów?": "Вы решили хранить розы в холодильной камере. Каков должен быть оптимальный диапазон температуры для хранения этих цветов?",
+            "Róże najlepiej przechowuje się w temperaturze od 2 do 4 stopni Celsjusza. Przy niższych temperaturach mogą one ulec zniszczeniu, a przy wyższych - przyspieszyć procesy metaboliczne prowadzące do szybszego więdnięcia": "Розы лучше всего хранить при температуре от 2 до 4 градусов Цельсия. При более низких температурах они могут быть повреждены, а при более высоких - ускоряться метаболические процессы, ведущие к более быстрому увяданию.",
+            "Jakie są zalecane warunki przechowywania dla kompozycji z kwiatów ciętych?": "Каковы рекомендуемые условия хранения для композиций из срезанных цветов?",
+            "Niska temperatura, wysoka wilgotność, z dala od bezpośredniego światła słonecznego": "Низкая температура, высокая влажность, вдали от прямого солнечного света.",
+            "Niska temperatura, niska wilgotność, bez dostępu do światła": "Низкая температура, низкая влажность, без доступа к свету.",
+            "Niska temperatura, wysoka wilgotność, bezpośrednie światło słoneczne": "Низкая температура, высокая влажность, прямой солнечный свет."
         }
     },
     "not_approved": {
@@ -1179,10 +1185,6 @@
         "12 MIESIĘCY": "12 МЕСЯЦЕВ",
         "6 MIESIĘCY": "6 МЕСЯЦЕВ",
         "3 MIESIĄCE": "3 МЕСЯЦА",
-        "Niska temperatura, wysoka wilgotność, z dala od bezpośredniego światła słonecznego": "Низкая температура, высокая влажность, вдали от прямого солнечного света.",
-        "Jakie są zalecane warunki przechowywania dla kompozycji z kwiatów ciętych?": "Каковы рекомендуемые условия хранения для композиций из срезанных цветов?",
-        "Niska temperatura, wysoka wilgotność, bezpośrednie światło słoneczne": "Низкая температура, высокая влажность, прямой солнечный свет.",
-        "Niska temperatura, niska wilgotność, bez dostępu do światła": "Низкая температура, низкая влажность, без доступа к свету.",
         "Kompozycje z kwiatów ciętych powinny być przechowywane w chłodnym miejscu z wysoką wilgotnością i z dala od bezpośredniego światła słonecznego. To zapewnia dłuższą świeżość i trwałość kompozycji": "Композиции из срезанных цветов следует хранить в прохладном месте с высокой влажностью и вдали от прямого солнечного света. Это обеспечивает более долгую свежесть и долговечность композиции.",
         "Układ radialny": "Радиальный уклад",
         "Asymetryczny układ": "Асимметричный уклад",
@@ -4427,7 +4429,6 @@
         "Podcięcie łodygi pod kątem 45 stopni": "Подрезка стебля под углом 45 градусов",
         "Usunięcie cierni": "Удаление шипов",
         "Załóżmy, że tworzysz kompozycję florystyczną, której głównym elementem są róże. Które z poniższych działań jest niezalecane podczas przygotowywania róż do kompozycji?": "Предположим, что вы создаете флористическую композицию, главным элементом которой являются розы. Какое из следующих действий не рекомендуется при подготовке роз в композиции?",
-        "Zdecydowałeś się na przechowywanie róż w chłodni. Jaki powinien być optymalny zakres temperatury do przechowywania tych kwiatów?": "Вы решили хранить розы в холодильной камере. Каков должен быть оптимальный диапазон температуры для хранения этих цветов?",
         "Technika \"Pave\" polega na tworzeniu kompozycji z jednego rodzaju kwiatu": "Техника \"Pave\" заключается в создании композиции из одного вида цветка.",
         "Technika \"Pave\" polega na tworzeniu kompozycji z kwiatów ułożonych w kształcie serca": "Техника \"Pave\" заключается в создании композиции из цветов, уложенных в форме сердца.",
         "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор.",

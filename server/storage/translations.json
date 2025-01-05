@@ -1029,7 +1029,12 @@
             "Sonda florystyczna jest narzędziem używanym do tworzenia otworów w gąbce florystycznej, co jest niezbędne do umieszczenia kwiatów w kompozycjach florystycznych": "Флористический зонд является инструментом, используемым для создания отверстий в флористической губке, что необходимо для размещения цветов в флористических композициях.",
             "Zakładasz florystyczny biznes i planujesz wykonać kompozycję florystyczną. Koszt materiałów wynosi 160 zł, a koszt robocizny to 140 zł. Jakie jest Twoje ostateczne oznaczenie kosztu, jeśli chcesz osiągnąć 20% marżę?": "Вы создаете флористический бизнес и планируете выполнить флористическую композицию. Стоимость материалов составляет 160 злотых, а затраты на работу — 140 злотых. Каково ваше окончательное определение стоимости, если вы хотите достичь 20% маржи?",
             "Całkowity koszt kompozycji wynosi 160 zł (materiały) + 140 zł (robocizna) = 300 zł. Aby obliczyć cenę sprzedaży z marżą 20%, musisz dodać 20% do kosztu, co daje 300 zł + 20% = 360 zł": "Полная стоимость композиции составляет 160 зл (материалы) + 140 зл (работа) = 300 зл. Чтобы рассчитать цену продажи с наценкой 20%, нужно добавить 20% к стоимости, что дает 300 зл + 20% = 360 зл.",
-            "Rozważ wpływ wilgotności na trwałość materiału roślinnego. Która z poniższych odpowiedzi jest prawidłowa?": "Рассмотрите влияние влажности на долговечность растительного материала. Какой из приведенных ниже ответов является правильным?"
+            "Rozważ wpływ wilgotności na trwałość materiału roślinnego. Która z poniższych odpowiedzi jest prawidłowa?": "Рассмотрите влияние влажности на долговечность растительного материала. Какой из приведенных ниже ответов является правильным?",
+            "Niska wilgotność jest idealna dla większości kwiatów ciętych": "Низкая влажность идеальна для большинства срезанных цветов.",
+            "Wysoka wilgotność powoduje szybsze więdnięcie kwiatów": "Высокая влажность вызывает более быстрое увядание цветов.",
+            "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych": "Высокая влажность может помочь в поддержании свежести срезанных цветов.",
+            "Wilgotność nie ma wpływu na trwałość materiału roślinnego": "Влажность не влияет на долговечность растительного материала.",
+            "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych, ponieważ zapobiega nadmiernemu odparowywaniu wody z kwiatów, co może prowadzić do ich więdnięcia": "Высокая влажность может помочь в сохранении свежести срезанных цветов, так как предотвращает чрезмерное испарение воды из цветов, что может привести к их увяданию."
         }
     },
     "not_approved": {
@@ -4417,10 +4422,6 @@
         "Tworzysz kompozycję florystyczną zgodnie z aktualnym trendem \"Zero Waste\". Które z poniższych stwierdzeń jest prawdziwe na temat tego trendu?": "Вы создаете флористическую композицию в соответствии с текущим трендом \"Zero Waste\". Какое из следующих утверждений является верным по поводу этого тренда?",
         "Trend \"Zero Waste\" polega na tworzeniu kompozycji z wykorzystaniem tylko sztucznych kwiatów": "Тренд \"Zero Waste\" заключается в создании композиций с использованием только искусственных цветов.",
         "Przygotowujesz kompozycję florystyczną na specjalne zamówienie. Klient prosi o użycie roślin doniczkowych, które wymagają minimalnej pielęgnacji. Którą z poniższych roślin wybierzesz?": "Ты готовишь флористическую композицию на специальный заказ. Клиент просит использовать горшечные растения, которые требуют минимального ухода. Какое из нижеперечисленных растений ты выберешь?",
-        "Wysoka wilgotność powoduje szybsze więdnięcie kwiatów": "Высокая влажность вызывает более быстрое увядание цветов.",
-        "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych": "Высокая влажность может помочь в поддержании свежести срезанных цветов.",
-        "Wilgotność nie ma wpływu na trwałość materiału roślinnego": "Влажность не влияет на долговечность растительного материала.",
-        "Niska wilgotność jest idealna dla większości kwiatów ciętych": "Низкая влажность идеальна для большинства срезанных цветов.",
         "Zanurzenie całej róży w wodzie": "Погружение всей розы в воду",
         "Usunięcie dolnych liści": "Удаление нижних листьев",
         "Podcięcie łodygi pod kątem 45 stopni": "Подрезка стебля под углом 45 градусов",

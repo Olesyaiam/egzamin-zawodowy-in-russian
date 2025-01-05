@@ -1137,7 +1137,8 @@
             "piłki ręcznej": "ручной пилы.",
             "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей гиппеаструма следует использовать нож, поскольку это позволит сделать точный и чистый срез, который поможет процессу заживления раны.",
             "Gerbera": "Гербера.",
-            "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать."
+            "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
+            "cantedeskie": "зантедескию"
         }
     },
     "not_approved": {
@@ -4327,7 +4328,6 @@
         "Cissus australijski": "Циссус антарктический.",
         "Bugenwilla gładka": "Бугенвиллея голая.",
         "alstremerie": "альстрёмерия",
-        "cantedeskie": "зантедескию",
         "Nephrolepis exaltata w uprawie wymaga": "Нефролепис возвышенный в выращивании требует",
         "Bukiety o wydłużonych kształtach i prostych łodygach najlepiej prezentują się w wazonach": "Букеты вытянутой формы и с прямыми стеблями лучше всего смотрятся в вазонах.",
         "jaskry": "лютики.",
@@ -5832,6 +5832,16 @@
         "Matlhiola bicornis i Lathyrus odoratus": "Matthiola bicornis и душистый горошек.",
         "róży": "розы.",
         "bzu": "бузины.",
-        "Niewielkiej ilości wody w naczyniu wymagają pędy": "Небольшого количества воды в сосуде требуют побеги."
+        "Niewielkiej ilości wody w naczyniu wymagają pędy": "Небольшого количества воды в сосуде требуют побеги.",
+        "świec": "свечей",
+        "kwiatów": "цветов.",
+        "szyszek": "шишек.",
+        "Candleholder służy do mocowania": "Подсвечник служит для крепления",
+        "liści": "листьев.",
+        "Do obsadzenia pojemnika podwieszanego florysta zastosował 3 sztuki gatunku kwitnącego na żółto. Oblicz koszt zakupu materiału roślinnego": "Для засадки подвешенного контейнера флорист использовал 3 штуки вида, цветущего желтым. Рассчитайте стоимость покупки растительного материала.",
+        "makartowskie": "макартовские.",
+        "w stylu rokoko": "в стиле рококо.",
+        "francuskie": "французские",
+        "Bukiety historyczne składające się głównie z liści, piór i traw, to bukiety": "Исторические букеты, состоящие главным образом из листьев, перьев и трав, это букеты"
     }
 }

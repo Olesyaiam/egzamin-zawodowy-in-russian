@@ -963,7 +963,10 @@
             "Przygotowując różę do umieszczenia w gąbce florystycznej, należy usunąć wszystkie liście z łodygi i przyciąć jej końcówkę pod kątem 45 stopni. To zapewni lepsze pobieranie wody przez kwiat": "Приготавливая розу для размещения в флористической губке, необходимо удалить все листья с стебля и обрезать ее кончик под углом 45 градусов. Это обеспечит лучшее поглощение воды цветком.",
             "Jakie są główne czynniki, które należy wziąć pod uwagę podczas przygotowywania materiału florystycznego do kompozycji?": "Каковы основные факторы, которые необходимо учитывать при подготовке флористического материала для композиции?",
             "Świeżość i kondycja kwiatów": "Свежесть и состояние цветов",
-            "Kształt i kolor kwiatów": "Форма и цвет цветов"
+            "Kształt i kolor kwiatów": "Форма и цвет цветов",
+            "Cena i dostępność kwiatów": "Цена и доступность цветов",
+            "Kształt i cena kwiatów": "Форма и цена цветов",
+            "Podczas przygotowywania materiału florystycznego do kompozycji, najważniejsze jest zwrócenie uwagi na świeżość i kondycję kwiatów. To one decydują o trwałości i estetyce kompozycji": "Во время подготовки флористического материала для композиции самое важное - обратить внимание на свежесть и состояние цветов. Именно они определяют долговечность и эстетику композиции."
         }
     },
     "not_approved": {
@@ -4380,8 +4383,6 @@
         "Podcięcie łodygi pod kątem 45 stopni": "Подрезка стебля под углом 45 градусов",
         "Usunięcie cierni": "Удаление шипов",
         "Załóżmy, że tworzysz kompozycję florystyczną, której głównym elementem są róże. Które z poniższych działań jest niezalecane podczas przygotowywania róż do kompozycji?": "Предположим, что вы создаете флористическую композицию, главным элементом которой являются розы. Какое из следующих действий не рекомендуется при подготовке роз в композиции?",
-        "Kształt i cena kwiatów": "Форма и цена цветов",
-        "Cena i dostępność kwiatów": "Цена и доступность цветов",
         "Zdecydowałeś się na przechowywanie róż w chłodni. Jaki powinien być optymalny zakres temperatury do przechowywania tych kwiatów?": "Вы решили хранить розы в холодильной камере. Каков должен быть оптимальный диапазон температуры для хранения этих цветов?",
         "Technika \"Pave\" polega na tworzeniu kompozycji z jednego rodzaju kwiatu": "Техника \"Pave\" заключается в создании композиции из одного вида цветка.",
         "Technika \"Pave\" polega na tworzeniu kompozycji z kwiatów ułożonych w kształcie serca": "Техника \"Pave\" заключается в создании композиции из цветов, уложенных в форме сердца.",

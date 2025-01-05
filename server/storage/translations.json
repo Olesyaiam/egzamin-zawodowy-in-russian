@@ -5357,6 +5357,16 @@
         "Klasy D": "Класса D.",
         "Klasy A": "Классы A.",
         "Do której klasy adresów IPv4 należą adresy zawierające najbardziej znaczące dwa bity o wartości 10?": "К какому классу адресов IPv4 относятся адреса, содержащие наиболее значимые два бита со значением 10?",
-        "Zgodnie z normą PN-EN 50174 rozplot kabla UTP nie powinien być większy niż": "В соответствии со стандартом PN-EN 50174 расплетение кабеля UTP не должно превышать"
+        "Zgodnie z normą PN-EN 50174 rozplot kabla UTP nie powinien być większy niż": "В соответствии со стандартом PN-EN 50174 расплетение кабеля UTP не должно превышать",
+        "Które urządzenie jest stosowane do mocowania kabla w module Keystone?": "Какое устройство используется для крепления кабеля в модуле Keystone?",
+        "Adres DNS w konfiguracji serwera na 10.0.0.1": "Адрес DNS в конфигурации сервера на 10.0.0.1",
+        "Adres IPv4 w konfiguracji klienta na 10.0.0.1": "Адрес IPv4 в конфигурации клиента на 10.0.0.1",
+        "Adres DNS w konfiguracji klienta na 10.0.0.1": "Адрес DNS в конфигурации клиента на 10.0.0.1",
+        "Na podstawie zrzutu ekranu wskaż, który adres należy zmienić w konfiguracji klienta lub serwera, aby komputer można było podłączyć do domeny?": "На основе скриншота укажите, какой адрес необходимо изменить в конфигурации клиента или сервера, чтобы компьютер можно было подключить к домену?",
+        "Adres IPv4 w konfiguracji serwera na 10.0.0.10": "Адрес IPv4 в конфигурации сервера на 10.0.0.10",
+        "TFTP": "TFTP",
+        "Aby zabezpieczyć komunikację terminalową z serwerem, należy użyć połączenia z wykorzystaniem protokołu": "Чтобы обеспечить терминальное соединение с сервером, необходимо использовать соединение с использованием протокола",
+        "Telnet": "Telnet",
+        "SFTP": "SFTP"
     }
 }

@@ -1135,7 +1135,8 @@
             "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения букета на день рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основании данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
             "Aloes": "Алоэ.",
             "piłki ręcznej": "ручной пилы.",
-            "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей гиппеаструма следует использовать нож, поскольку это позволит сделать точный и чистый срез, который поможет процессу заживления раны."
+            "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей гиппеаструма следует использовать нож, поскольку это позволит сделать точный и чистый срез, который поможет процессу заживления раны.",
+            "Gerbera": "Гербера."
         }
     },
     "not_approved": {
@@ -4300,7 +4301,6 @@
         "oplątwa": "тилландсия",
         "fitonia": "фиттония.",
         "pędy winobluszczu": "Побеги девичьего винограда.",
-        "Gerbera": "Гербера.",
         "Hortensja": "Гортензия.",
         "Pojawiająca się na spodniej stronie liści pajęczynka jest objawem żerowania": "Появляющаяся на нижней стороне листьев паутинка является симптомом пожирания.",
         "fiołek afrykański": "Сенполия.",
@@ -5807,6 +5807,14 @@
         "Do dekoracji dożynkowej kościoła stosuje się": "Для дожинкового декорирования церкви используют",
         "białe kwiaty symbolizujące niewinność": "белые цветы, символизирующие невинность.",
         "kłosy zbóż, plony z ogrodów i pól": "Колосья злаков, урожай из садов и полей.",
-        "girlandy uplecione z gałązek jodły": "гирлянды, сплетенные из веточек пихты."
+        "girlandy uplecione z gałązek jodły": "гирлянды, сплетенные из веточек пихты.",
+        "suchej zgnilizny": "сухой гнили.",
+        "rdzy rdzawnikowej": "ржавчины ржавчинной",
+        "Brunatne plamy na łodygach i liściach, pokrywające się z czasem szarym nalotem są konsekwencją choroby grzybowej": "Бурые пятна на стеблях и листьях, покрывающиеся со временем серым налетом, являются следствием грибкового заболевания.",
+        "u tawułki": "у астильбы.",
+        "u mieczyka": "у шпажника.",
+        "u anturium": "у антуриум.",
+        "u łubinu": "у люпина.",
+        "Kwiatostan typu wiecha występuje": "Соцветие типа метелка встречается"
     }
 }

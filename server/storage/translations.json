@@ -5351,6 +5351,12 @@
         "Urządzeniem, które umożliwia komputerom bezprzewodowy dostęp do przewodowej sieci komputerowej, jest": "Устройством, которое позволяет компьютерам получить беспроводной доступ к проводной компьютерной сети, является",
         "regenerator": "регенератор.",
         "koncentrator": "концентратор.",
-        "modem": "модем."
+        "modem": "модем.",
+        "Klasy B": "Класса B.",
+        "Klasy C": "Классы C.",
+        "Klasy D": "Класса D.",
+        "Klasy A": "Классы A.",
+        "Do której klasy adresów IPv4 należą adresy zawierające najbardziej znaczące dwa bity o wartości 10?": "К какому классу адресов IPv4 относятся адреса, содержащие наиболее значимые два бита со значением 10?",
+        "Zgodnie z normą PN-EN 50174 rozplot kabla UTP nie powinien być większy niż": "В соответствии со стандартом PN-EN 50174 расплетение кабеля UTP не должно превышать"
     }
 }

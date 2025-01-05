@@ -1,7 +1,6 @@
 {
     "incorrect": {
         "Pinholder jest przeznaczony do zamocowania gąbki florystycznej w płaskim pojemniku, ponieważ posiada wiele małych ząbków, które trzymają gąbkę na swoim miejscu": "Пинхолдер предназначен для закрепления флористической губки в плоском контейнере, поскольку он имеет множество маленьких зубцов, которые удерживают губку на месте.",
-        "Sansewierię": "Сансевиерия",
         "Параллельные расовые и этнические структуры": "Параллельные расовые и этнические структуры."
     },
     "approved": {
@@ -1130,7 +1129,8 @@
             "Wielkość i kolor": "Размер и цвет",
             "Wysokość i kształt": "Высота и форма",
             "Symetria w kompozycji kwiatowej odnosi się do równowagi wizualnej. Aby osiągnąć symetrię, elementy po obu stronach kompozycji muszą być zgodne pod względem wysokości i kształtu": "Симметрия в цветочной композиции относится к визуальному равновесию. Чтобы достичь симметрии, элементы по обе стороны композиции должны соответствовать по высоте и форме.",
-            "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь флористическую композицию из клумбовых растений. Какое из указанных удобрений наиболее подходит для применения в осенний период?"
+            "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь флористическую композицию из клумбовых растений. Какое из указанных удобрений наиболее подходит для применения в осенний период?",
+            "W okresie jesieni, kiedy rośliny przygotowują się do zimy, najbardziej odpowiedni jest nawóz o wysokiej zawartości potasu, który wzmacnia rośliny i pomaga im przetrwać zimę": "В период осени, когда растения готовятся к зиме, наиболее подходящим является удобрение с высоким содержанием калия, которое укрепляет растения и помогает им пережить зиму."
         }
     },
     "not_approved": {
@@ -5751,6 +5751,7 @@
         "Stosowanie środków chemicznych o działaniu systemicznym jest skutecznym sposobem na zwalczanie tarczników i miseczników, ponieważ takie środki są wchłaniane przez roślinę i rozprowadzane po całej jej tkance, co pozwala na skuteczne zniszczenie szkodników, które żywią się sokiem roślinnym. To rozwiązanie jest także skuteczne, ponieważ tarczniki i miseczniki są trudne do zwalczania mechanicznego lub biologicznego, dlatego konieczne jest zastosowanie silniejszych metod, jakimi są środki chemiczne": "Применение химических средств системного действия является эффективным способом борьбы с щитовками и полушаровками, поскольку такие средства поглощаются растением и распределяются по всей его ткани, что позволяет эффективно уничтожать вредителей, которые питаются растительным соком. Это решение также эффективно, потому что щитовки и полушаровки трудно поддаются механическому или биологическому контролю, поэтому необходимо применять более сильные методы, такие как химические средства.",
         "Nazwa łacińska dla storczyka to Orchidaceae, co jest poprawną odpowiedzią": "Латинское название орхидеи - Orchidaceae, что является правильным ответом.",
         "Czyli pomniejszenie o 10razy": "То есть уменьшение в 10 раз",
-        "Skala 1:10 oznacza że 1 cm na rysunku to 10 cm w rzeczywistości. Skoro na rysunku są zmniejszone wymiary 10 razy w stosunku do stanu rzeczywistego to jest ta skala 1:10.. Skala 1:100 to zmniejszenie 100 razy, skala 1:1 to taki sam stan wymiar. Skala 10:1 to zwiększenie 10 razy rysunku w stosunku do wymiaru rzeczywistego": "Шкала 1:10 означает, что 1 см на рисунке соответствует 10 см в реальности. Так как на рисунке размеры уменьшены в 10 раз по сравнению с реальным состоянием, это шкала 1:10. Шкала 1:100 — это уменьшение в 100 раз, шкала 1:1 — это такое же состояние размера. Шкала 10:1 — это увеличение рисунка в 10 раз по сравнению с реальным размером."
+        "Skala 1:10 oznacza że 1 cm na rysunku to 10 cm w rzeczywistości. Skoro na rysunku są zmniejszone wymiary 10 razy w stosunku do stanu rzeczywistego to jest ta skala 1:10.. Skala 1:100 to zmniejszenie 100 razy, skala 1:1 to taki sam stan wymiar. Skala 10:1 to zwiększenie 10 razy rysunku w stosunku do wymiaru rzeczywistego": "Шкала 1:10 означает, что 1 см на рисунке соответствует 10 см в реальности. Так как на рисунке размеры уменьшены в 10 раз по сравнению с реальным состоянием, это шкала 1:10. Шкала 1:100 — это уменьшение в 100 раз, шкала 1:1 — это такое же состояние размера. Шкала 10:1 — это увеличение рисунка в 10 раз по сравнению с реальным размером.",
+        "Sansewierię": "Сансевиерия"
     }
 }

@@ -5395,6 +5395,25 @@
         "Virtual PC": "Virtual PC",
         "VMware": "VMware",
         "Virtual Box": "Virtual Box",
-        "Oprogramowanie do wirtualizacji dostępne jako rola w systemie Windows Serwer 2019 to": "Программное обеспечение для виртуализации, доступное в качестве роли в Windows Server 2019, это"
+        "Oprogramowanie do wirtualizacji dostępne jako rola w systemie Windows Serwer 2019 to": "Программное обеспечение для виртуализации, доступное в качестве роли в Windows Server 2019, это",
+        "lokalny": "локальный",
+        "obowiązkowy": "обязательный",
+        "mobilny": "мобильный.",
+        "tymczasowy": "временный.",
+        "Profil użytkownika systemu Windows Serwer, który po wylogowaniu nie zapisuje zmian na serwerze i stacji roboczej oraz jest usuwany pod koniec każdej sesji, to profil": "Профиль пользователя системы Windows Server, который после выхода из системы не сохраняет изменения на сервере и рабочей станции и удаляется в конце каждой сессии, это профиль.",
+        "Dobre nawodnienie roślin przed wykonaniem bukietu zapewnia trwałość bukietu ślubnego wykonanego w mikrofonie, ponieważ dobrze nawodnione kwiaty są bardziej odporne na uszkodzenia mechaniczne i zachowują swoją świeżość na dłużej. Brak odpowiedniego nawodnienia może spowodować, że kwiaty schną i szybko więdną, co negatywnie wpływa na wygląd bukietu": "Хорошее увлажнение растений перед изготовлением букета обеспечивает долговечность свадебного букета, выполненного в микрофоне, поскольку хорошо увлажненные цветы более устойчивы к механическим повреждениям и сохраняют свою свежесть дольше. Отсутствие надлежащего увлажнения может привести к тому, что цветы высыхают и быстро вянут, что негативно сказывается на внешнем виде букета.",
+        "Poprawną odpowiedzią jest \"akarycydów\", ponieważ przędziorki to roztocza, a akarycydy to środki chemiczne przeznaczone do zwalczania roztoczy": "Правильным ответом является \"акарицидов\", потому что паутинные клещи — это клещи, а акарициды — это химические средства, предназначенные для борьбы с клещами.",
+        "IMAP": "IMAP",
+        "MIME": "MIME",
+        "Protokół, dzięki któremu po połączeniu z serwerem pocztowym transmitowane są na komputer jedynie same nagłówki wiadomości, a transmisja treści oraz załączników następuje dopiero po otwarciu danego listu, to": "Протокол, с помощью которого после подключения к почтовому серверу на компьютер передаются только заголовки сообщений, а передача содержимого и вложений происходит только после открытия данного письма, это",
+        "Lilia amazońska ma kwiaty białe, ponieważ taka jest jej naturalna barwa. Kwiaty te są popularne w ozdobach ślubnych ze względu na swój elegancki wygląd i delikatny zapach": "Амазонская лилия имеет белые цветы, потому что такой является ее естественная расцветка. Эти цветы популярны в свадебных украшениях из-за своего элегантного внешнего вида и нежного аромата.",
+        "DNS – warstwa aplikacji": "DNS – слой приложений.",
+        "RARP – warstwa transportowa": "RARP – транспортный слой.",
+        "TCP – warstwa Internetu": "TCP – слой Интернета.",
+        "Która z par: protokół – warstwa, w której pracuje protokół, jest poprawnie połączona według modelu TCP\/IP?": "Которая из пар: протокол – слой, на котором работает протокол, правильно соединена согласно модели TCP\/IP?",
+        "DHCP – warstwa dostępu do sieci": "DHCP – слой доступа к сети.",
+        "Kenzan służy do stabilizowania roślin w ikebanie poprzez umieszczanie ich w specjalnej metalowej siatce z ostrokrawędziami, która utrzymuje je w miejscu. Dzięki temu rośliny nie przesuwają się ani nie przewracają, co pozwala na precyzyjne układanie kompozycji kwiatowych": "Кэнзан служит для стабилизации растений в икэбане посредством размещения их в специальной металлической сетке с острыми краями, которая удерживает их на месте. Благодаря этому растения не сдвигаются и не опрокидываются, что позволяет на точную укладку цветочных композиций.",
+        "Figowiec pnący jest rośliną, która dobrze rośnie w miejscach zacienionych, ma zdolność do wspinania się i przyczepiania się do powierzchni oraz tworzenia gęstych, zielonych liści, co czyni go idealnym wyborem do wykonania ogrodu wertykalnego we wnętrzu": "Фикус лазящий является растением, которое хорошо растет в затененных местах, имеет способность к вьющимся росту и прикреплению к поверхностям, а также образованию густых, зеленых листьев, что делает его идеальным выбором для создания вертикального сада в интерьере.",
+        "Krótkotrwałe umieszczanie łodyg w gorącej wodzie zwiększa ich wchłanianie wody i pozwala na usunięcie powietrza z wnętrza. To z kolei zapobiega blokowaniu się naczyń i przedłuża trwałość kwiatów": "Кратковременное помещение стеблей в горячую воду увеличивает их поглощение воды и позволяет удалить воздух изнутри. Это, в свою очередь, предотвращает блокирование сосудов и продлевает долговечность цветов."
     }
 }

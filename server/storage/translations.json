@@ -949,7 +949,12 @@
             "Technika bukietu z papieru": "Техника букета из бумаги",
             "Technika bukietu z balonów": "Техника букета из воздушных шаров",
             "Technika suchego bukietu jest najbardziej odpowiednia do tworzenia dekoracji na jesienne wydarzenia. Pozwala na wykorzystanie dostępnych w tym sezonie materiałów, takich jak suche liście i kwiaty, a także podkreśla klimat wydarzenia": "Техника сухого букета является наиболее подходящей для создания декораций на осенние мероприятия. Она позволяет использовать доступные в этом сезоне материалы, такие как сухие листья и цветы, а также подчеркивает атмосферу мероприятия.",
-            "Zamierzasz stworzyć kompozycję florystyczną, która będzie zawierać różne rodzaje kwiatów. Które z poniższych stwierdzeń jest prawdziwe w kontekście doboru kwiatów do kompozycji?": "Ты собираешься создать флористическую композицию, которая будет содержать различные виды цветов. Какое из следующих утверждений является истинным в контексте подбора цветов для композиции?"
+            "Zamierzasz stworzyć kompozycję florystyczną, która będzie zawierać różne rodzaje kwiatów. Które z poniższych stwierdzeń jest prawdziwe w kontekście doboru kwiatów do kompozycji?": "Ты собираешься создать флористическую композицию, которая будет содержать различные виды цветов. Какое из следующих утверждений является истинным в контексте подбора цветов для композиции?",
+            "Wszystkie kwiaty muszą być tego samego koloru": "Все цветы должны быть одного и того же цвета.",
+            "Wszystkie kwiaty muszą być tej samej wielkości": "Все цветы должны быть одного размера.",
+            "Wszystkie kwiaty muszą być tego samego rodzaju": "Все цветы должны быть одного и того же вида.",
+            "Różne kwiaty mogą być użyte do tworzenia kontrastu i zróżnicowania w kompozycji": "Разные цветы могут быть использованы для создания контраста и разнообразия в композиции.",
+            "Różne kwiaty mogą być użyte do tworzenia kontrastu i zróżnicowania w kompozycji. Nie ma reguły mówiącej, że wszystkie kwiaty muszą być tego samego rodzaju, koloru czy wielkości": "Разные цветы могут быть использованы для создания контраста и разнообразия в композиции. Нет правила, что все цветы должны быть одного и того же вида, цвета или размера."
         }
     },
     "not_approved": {
@@ -4412,10 +4417,6 @@
         "Nawóz o wysokiej zawartości potasu": "Удобрение с высоким содержанием калия",
         "Nawóz o wysokiej zawartości magnezu": "Удобрение с высоким содержанием магния",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Wybierz, który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie wiosennym": "Планируешь композицию флористическую из растений клумбовых. Выбери, какое из нижеперечисленных удобрений наиболее подходит для использования в весенний период.",
-        "Wszystkie kwiaty muszą być tego samego koloru": "Все цветы должны быть одного и того же цвета.",
-        "Wszystkie kwiaty muszą być tej samej wielkości": "Все цветы должны быть одного размера.",
-        "Różne kwiaty mogą być użyte do tworzenia kontrastu i zróżnicowania w kompozycji": "Разные цветы могут быть использованы для создания контраста и разнообразия в композиции.",
-        "Wszystkie kwiaty muszą być tego samego rodzaju": "Все цветы должны быть одного и того же вида.",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь композицию флористическую из растений рабаток. Какое из следующих удобрений наиболее подходит для применения в осенний период?",
         "Kompozycje z kwiatów ciętych - wysoka temperatura; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - высокая температура; Композиции из горшечных цветов - низкая температура.",
         "Kompozycje z kwiatów ciętych - temperatura pokojowa; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - комнатная температура; Композиции из горшечных цветов - низкая температура.",

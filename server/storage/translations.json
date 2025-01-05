@@ -1006,7 +1006,9 @@
             "Wybierz prawdziwe stwierdzenie dotyczące wiązanek ciężkich (zwartych)": "Выберите верное утверждение, касающееся цветочных связок тяжелых (компактных).",
             "Są luźno upakowane z kwiatami rozmieszczonymi nierównomiernie": "Они свободно упакованы с цветами, расположенными неравномерно.",
             "Są ciężkie i zwarte, z kwiatami ułożonymi blisko siebie": "Они тяжелые и компактные, с цветами, расположенными близко друг к другу.",
-            "Są gęsto upakowane z kwiatami, tworząc okrągły kształt": "Они плотно упакованы с цветами, создавая круглую форму."
+            "Są gęsto upakowane z kwiatami, tworząc okrągły kształt": "Они плотно упакованы с цветами, создавая круглую форму.",
+            "Są asymetryczne, z kwiatami ułożonymi w nieregularne wzory": "Они асимметричные, с цветами, расположенными в неправильные узоры.",
+            "Wiązanki ciężkie (zwarte) są charakterystyczne ze względu na swoją ciężką i zwartą strukturę, gdzie kwiaty są ułożone blisko siebie": "Цветочные связки тяжёлые (плотные) характерны из-за своей тяжёлой и плотной структуры, где цветы расположены близко друг к другу."
         }
     },
     "not_approved": {
@@ -5716,7 +5718,6 @@
         "mikoryza": "Микориза.",
         "etiolacja": "Этиоляция.",
         "symbioza": "Симбиоз.",
-        "Zjawisko wzajemnego korzystnego lub szkodliwego oddziaływania roślin na siebie to": "Явление взаимного благоприятного или вредного воздействия растений друг на друга это",
-        "Są asymetryczne, z kwiatami ułożonymi w nieregularne wzory": "Они асимметричные, с цветами, расположенными в неправильные узоры."
+        "Zjawisko wzajemnego korzystnego lub szkodliwego oddziaływania roślin na siebie to": "Явление взаимного благоприятного или вредного воздействия растений друг на друга это"
     }
 }

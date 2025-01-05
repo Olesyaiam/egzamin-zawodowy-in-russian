@@ -5367,6 +5367,11 @@
         "TFTP": "TFTP",
         "Aby zabezpieczyć komunikację terminalową z serwerem, należy użyć połączenia z wykorzystaniem protokołu": "Чтобы обеспечить терминальное соединение с сервером, необходимо использовать соединение с использованием протокола",
         "Telnet": "Telnet",
-        "SFTP": "SFTP"
+        "SFTP": "SFTP",
+        "biało-zielony i zielony z biało-brązowym i brązowym": "бело-зеленый и зеленый с бело-коричневым и коричневым.",
+        "biało-zielony i zielony z biało-niebieskim i niebieskim": "бело-зеленый и зеленый с бело-синим и синим.",
+        "biało-pomarańczowy i pomarańczowy z biało-zielonym i zielonym": "бело-оранжевый и оранжевый с бело-зеленым и зеленым.",
+        "biało-pomarańczowy i pomarańczowy z biało-brązowym i brązowym": "бело-оранжевый и оранжевый с бело-коричневым и коричневым.",
+        "Zgodnie z normą TIA\/EIA-568-B.1 kabel UTP 5e z przeplotem jest tworzony poprzez zamianę ułożenia we wtyczce 8P8C następujących par przewodów (odpowiednio według kolorów):": "В соответствии со стандартом TIA\/EIA-568-B.1 кабель UTP 5e с перекрещиванием создается путем замены расположения в разъеме 8P8C следующих пар проводов (соответственно по цветам):"
     }
 }

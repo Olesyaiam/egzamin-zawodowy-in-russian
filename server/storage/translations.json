@@ -1136,7 +1136,8 @@
             "Aloes": "Алоэ.",
             "piłki ręcznej": "ручной пилы.",
             "Do cięcia łodyg Hippeastrum należy użyć noża, ponieważ umożliwi to precyzyjne i czyste cięcie, które wspomoże proces gojenia rany": "Для обрезки стеблей гиппеаструма следует использовать нож, поскольку это позволит сделать точный и чистый срез, который поможет процессу заживления раны.",
-            "Gerbera": "Гербера."
+            "Gerbera": "Гербера.",
+            "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать."
         }
     },
     "not_approved": {
@@ -1149,7 +1150,6 @@
         "Odczyn Wartość pH Kwaśny 4,5-5,5 Lekko kwaśny 5,6-6,5 Obojętny 6,6-7,2 Zasadowy &gt;7,3": "Показатель Значение pH Кислый 4,5-5,5 Слегка кислый 5,6-6,5 Нейтральный 6,6-7,2 Щелочной >7,3",
         "Poziomy pH dla różnych typów środowiska: Środowisko kwaśne: pH poniżej 7 Silnie kwaśne: pH 0-3 Umiarkowanie kwaśne: pH 3-5 Słabo kwaśne: pH 5-7 Środowisko neutralne: pH 7 Środowisko zasadowe: pH powyżej 7 Słabo zasadowe: pH 7-8 Umiarkowanie zasadowe: pH 8-10 Silnie zasadowe: pH 10-14": "Уровни pH для различных типов среды: Кислая среда: pH ниже 7 Сильно кислая: pH 0-3 Умеренно кислая: pH 3-5 Слабо кислая: pH 5-7 Нейтральная среда: pH 7 Щелочная среда: pH выше 7 Слабо щелочная: pH 7-8 Умеренно щелочная: pH 8-10 Сильно щелочная: pH 10-14",
         "Rzeczywista długość girlandy wynosi 2 m, a na rysunku 5 cm. W jakiej skali wykonano rysunek?": "Реальная длина гирлянды составляет 2 м, а на рисунке 5 см. В каком масштабе выполнен рисунок?",
-        "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
         "bo są to rośliny, które zakwitają wiosną": "потому что это растения, которые цветут весной",
         "ANSWER KEY SEPARATELY": "КЛЮЧ ОТВЕТА ОТДЕЛЬНО",
         "legitymacji ubezpieczeniowej": "страхового удостоверения.",
@@ -5824,6 +5824,14 @@
         "Florysta, chcąc uzyskać kontrast w kompozycji kwiatowej zastosuje następujące barwy dopełniające": "Флорист, желая создать контраст в цветочной композиции, применяет следующие дополнительные расцветки.",
         "żółtą i fioletową": "жёлтую и фиолетовую.",
         "niebieską i czerwoną": "синий и красный.",
-        "Na przedstawionym rysunku widać dwa prostokąty w różnych odcieniach zieleni. Barwy analogiczne to takie, które są obok siebie na kole barw, czyli są podobne, ale różnią się odcieniem lub nasyceniem. W tym przypadku obie zielenie są podobne, więc można je uznać za barwy analogiczne": "На представленном рисунке видно два прямоугольника в разных оттенках зелени. Аналогичные расцветки - это те, которые находятся рядом друг с другом на коле расцветок, то есть они похожи, но отличаются оттенком или насыщенностью. В этом случае обе зелени похожи, поэтому их можно считать аналогичными расцветками."
+        "Na przedstawionym rysunku widać dwa prostokąty w różnych odcieniach zieleni. Barwy analogiczne to takie, które są obok siebie na kole barw, czyli są podobne, ale różnią się odcieniem lub nasyceniem. W tym przypadku obie zielenie są podobne, więc można je uznać za barwy analogiczne": "На представленном рисунке видно два прямоугольника в разных оттенках зелени. Аналогичные расцветки - это те, которые находятся рядом друг с другом на коле расцветок, то есть они похожи, но отличаются оттенком или насыщенностью. В этом случае обе зелени похожи, поэтому их можно считать аналогичными расцветками.",
+        "Cosmos bipinnatus i Calendula officmalis": "Космея дваждыперистая и Calendula officmalis.",
+        "Papaver somniferum i Kochia scoparia": "Мак снотворный и Кохия веничная.",
+        "Które z wymienionych gatunków roślin jednorocznych charakteryzują się pachnącymi kwiatami?": "Какие из перечисленных видов однолетних растений характеризуются ароматными цветами?",
+        "Amaranthus paniculatus i Helianthus annuus": "Амарант метельчатый и подсолнечник однолетний",
+        "Matlhiola bicornis i Lathyrus odoratus": "Matthiola bicornis и душистый горошек.",
+        "róży": "розы.",
+        "bzu": "бузины.",
+        "Niewielkiej ilości wody w naczyniu wymagają pędy": "Небольшого количества воды в сосуде требуют побеги."
     }
 }

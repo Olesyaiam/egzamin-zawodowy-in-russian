@@ -972,7 +972,11 @@
             "Storczyk": "Орхидея",
             "Tulipan": "Тюльпан",
             "Goździk": "Гвоздика.",
-            "Róża jest najczęściej wykorzystywana w bukietach ślubnych, co wynika z jej wysokiej popularności we florystyce, częstego kwitnienia i średniego stopnia trudności pielęgnacji": "Роза чаще всего используется в свадебных букетах, что объясняется ее высокой популярностью во флористике, частым цветением и средней степенью сложности ухода."
+            "Róża jest najczęściej wykorzystywana w bukietach ślubnych, co wynika z jej wysokiej popularności we florystyce, częstego kwitnienia i średniego stopnia trudności pielęgnacji": "Роза чаще всего используется в свадебных букетах, что объясняется ее высокой популярностью во флористике, частым цветением и средней степенью сложности ухода.",
+            "Kompozycje z kwiatów ciętych - temperatura pokojowa; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - комнатная температура; Композиции из горшечных цветов - низкая температура.",
+            "Kompozycje z kwiatów ciętych - niska temperatura; Kompozycje z kwiatów doniczkowych - temperatura pokojowa": "Композиции из срезанных цветов - низкая температура; Композиции из горшечных цветов - комнатная температура.",
+            "Kompozycje z kwiatów ciętych - wysoka temperatura; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - высокая температура; Композиции из горшечных цветов - низкая температура.",
+            "Kompozycje z kwiatów ciętych - niska temperatura; Kompozycje z kwiatów doniczkowych - wysoka temperatura": "Композиции из срезанных цветов - низкая температура; Композиции из горшечных цветов - высокая температура."
         }
     },
     "not_approved": {
@@ -4423,11 +4427,7 @@
         "Nawóz o wysokiej zawartości magnezu": "Удобрение с высоким содержанием магния",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Wybierz, który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie wiosennym": "Планируешь композицию флористическую из растений клумбовых. Выбери, какое из нижеперечисленных удобрений наиболее подходит для использования в весенний период.",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь композицию флористическую из растений рабаток. Какое из следующих удобрений наиболее подходит для применения в осенний период?",
-        "Kompozycje z kwiatów ciętych - wysoka temperatura; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - высокая температура; Композиции из горшечных цветов - низкая температура.",
-        "Kompozycje z kwiatów ciętych - temperatura pokojowa; Kompozycje z kwiatów doniczkowych - niska temperatura": "Композиции из срезанных цветов - комнатная температура; Композиции из горшечных цветов - низкая температура.",
-        "Kompozycje z kwiatów ciętych - niska temperatura; Kompozycje z kwiatów doniczkowych - wysoka temperatura": "Композиции из срезанных цветов - низкая температура; Композиции из горшечных цветов - высокая температура.",
         "Rodzaj kompozycji Temperatura przechowywania Kompozycje z kwiatów ciętych ? Kompozycje z kwiatów doniczkowych ? Uzupełnij powyższą tabelę. Która z poniższych odpowiedzi jest prawidłowa?": "Тип композиции Температура хранения Композиции из срезанных цветов ? Композиции из горшечных растений ? Заполни приведенную выше таблицу. Какой из нижеприведенных ответов является правильным?",
-        "Kompozycje z kwiatów ciętych - niska temperatura; Kompozycje z kwiatów doniczkowych - temperatura pokojowa": "Композиции из срезанных цветов - низкая температура; Композиции из горшечных цветов - комнатная температура.",
         "Róża, hortensja, peonia": "Роза, гортензия, пион",
         "Geranium, petunia, begonia": "Герань, петуния, бегония",
         "Azalia, rododendron, magnolia": "Рододендрон, рододендрон, магнолия",

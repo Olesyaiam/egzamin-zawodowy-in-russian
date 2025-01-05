@@ -966,7 +966,11 @@
             "Kształt i kolor kwiatów": "Форма и цвет цветов",
             "Cena i dostępność kwiatów": "Цена и доступность цветов",
             "Kształt i cena kwiatów": "Форма и цена цветов",
-            "Podczas przygotowywania materiału florystycznego do kompozycji, najważniejsze jest zwrócenie uwagi na świeżość i kondycję kwiatów. To one decydują o trwałości i estetyce kompozycji": "Во время подготовки флористического материала для композиции самое важное - обратить внимание на свежесть и состояние цветов. Именно они определяют долговечность и эстетику композиции."
+            "Podczas przygotowywania materiału florystycznego do kompozycji, najważniejsze jest zwrócenie uwagi na świeżość i kondycję kwiatów. To one decydują o trwałości i estetyce kompozycji": "Во время подготовки флористического материала для композиции самое важное - обратить внимание на свежесть и состояние цветов. Именно они определяют долговечность и эстетику композиции.",
+            "Róża": "Роза.",
+            "Storczyk": "Орхидея",
+            "Tulipan": "Тюльпан",
+            "Goździk": "Гвоздика."
         }
     },
     "not_approved": {
@@ -4163,9 +4167,7 @@
         "oplątwa": "тилландсия",
         "fitonia": "фиттония.",
         "pędy winobluszczu": "Побеги девичьего винограда.",
-        "Róża": "Роза.",
         "Gerbera": "Гербера.",
-        "Goździk": "Гвоздика.",
         "Hortensja": "Гортензия.",
         "Pojawiająca się na spodniej stronie liści pajęczynka jest objawem żerowania": "Появляющаяся на нижней стороне листьев паутинка является симптомом пожирания.",
         "fiołek afrykański": "Сенполия.",
@@ -4445,8 +4447,6 @@
         "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania": "Разные виды срезанных цветов требуют разных условий хранения.",
         "Kwiaty cięte nie wymagają specjalnych warunków przechowywania": "Срезанные цветы не требуют особых условий хранения.",
         "Wszystkie kwiaty cięte powinny być przechowywane w temperaturze pokojowej": "Все срезанные цветы должны храниться при комнатной температуре.",
-        "Tulipan": "Тюльпан",
-        "Storczyk": "Орхидея",
         "Porównaj poniższe rośliny na podstawie tabeli i wskaż, która z nich jest najczęściej wykorzystywana w bukietach ślubnych. Roślina Trudność pielęgnacji Częstotliwość kwitnienia Popularność we florystyce A. Róża Średnia Wysoka Wysoka B. Storczyk Wysoka Średnia Średnia C. Tulipan Niska Średnia Średnia D. Goździk Niska Wysoka Niska": "Сравните приведенные ниже растения на основе таблицы и укажите, какое из них чаще всего используется в свадебных букетах. Растение Сложность ухода Частота цветения Популярность во флористике A. Роза Средняя Высокая Высокая B. Орхидея Высокая Средняя Средняя C. Тюльпан Низкая Средняя Средняя D. Гвоздика Низкая Высокая Низкая",
         "Podłoże uniwersalne": "Универсальная подложка",
         "Podłoże do roślin akwariowych": "Подложка для аквариумных растений",
@@ -5600,6 +5600,7 @@
         "kwiaty ciemiernika cuchnącego": "цветы морозника вонючего.",
         "liście begonii królewskiej": "листья бегонии королевской.",
         "liście czyśćca wełnistego": "листья чистеца византийского.",
-        "Brokatową strukturę (fakturę) posiadają": "Блестящую структуру (текстуру) обладают"
+        "Brokatową strukturę (fakturę) posiadają": "Блестящую структуру (текстуру) обладают",
+        "Róża jest najczęściej wykorzystywana w bukietach ślubnych, co wynika z jej wysokiej popularności we florystyce, częstego kwitnienia i średniego stopnia trudności pielęgnacji": "Роза чаще всего используется в свадебных букетах, что объясняется ее высокой популярностью во флористике, частым цветением и средней степенью сложности ухода."
     }
 }

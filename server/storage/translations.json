@@ -5378,6 +5378,23 @@
         "ipconfig \/renew": "ipconfig \/renew",
         "ipconfig \/release": "ipconfig \/release",
         "Które polecenie systemu z rodziny Windows pozwala sprawdzić, przechowywane w pamięci podręcznej komputera, zapamiętane tłumaczenia nazw DNS na adresy IP?": "Какое системное командное приложение из семейства Windows позволяет проверить сохраненные в кэше компьютера переводные записи имен DNS на IP-адреса?",
-        "Gliceryna działa jako środek konserwujący, ale jest zbyt gęsta do zastosowania samodzielnie. Dodanie wody w proporcji 1:2 pozwala na rozcieńczenie gliceryny i ułatwia jej penetrację do drewna roślin": "Глицерин действует как консервирующее средство, но он слишком густой для самостоятельного использования. Добавление воды в пропорции 1:2 позволяет разбавить глицерин и облегчает его проникновение в древесину растений."
+        "Gliceryna działa jako środek konserwujący, ale jest zbyt gęsta do zastosowania samodzielnie. Dodanie wody w proporcji 1:2 pozwala na rozcieńczenie gliceryny i ułatwia jej penetrację do drewna roślin": "Глицерин действует как консервирующее средство, но он слишком густой для самостоятельного использования. Добавление воды в пропорции 1:2 позволяет разбавить глицерин и облегчает его проникновение в древесину растений.",
+        "2001:1000:0db8:0000:0000:0000:1410:80ab": "2001:1000:0db8:0000:0000:0000:1410:80ab",
+        "2001:0000:db80:0000:0000:0000:1410:80ab": "2001:0000:db80:0000:0000:0000:1410:80ab",
+        "2001:0001:0db8:0000:0000:0000:1410:80ab": "2001:0001:0db8:0000:0000:0000:1410:80ab",
+        "2001:0000:0db8:0000:0000:0000:1410:80ab": "2001:0000:0db8:0000:0000:0000:1410:80ab",
+        "Pełna postać adresu IPv6 2001:0:db8::1410:80ab to": "Полная форма адреса IPv6 2001:0:db8::1410:80ab это",
+        "Wysoka temperatura powietrza przyspiesza procesy metaboliczne, co powoduje szybsze zużycie zasobów rośliny i jej szybsze więdnienie": "Высокая температура воздуха ускоряет метаболические процессы, что вызывает более быстрое потребление ресурсов растения и его более быстрое завядание.",
+        "Skala 1:4 oznacza, że każdy centymetr na rysunku projektowym odpowiada czterem centymetrom w rzeczywistości. Z tego wynika, że gdy średnica w rysunku wynosi 5 cm, to w rzeczywistości będzie wynosić 20 cm": "Масштаб 1:4 означает, что каждый сантиметр на проектном чертеже соответствует четырем сантиметрам в реальности. Из этого следует, что если диаметр на чертеже составляет 5 см, то в реальности он будет составлять 20 см.",
+        "100Base–T": "100Base-T",
+        "1000Base–TX": "1000Base-TX",
+        "100Base–FX": "100Base–FX",
+        "Który standard specyfikacji IEEE 802.3 należy zastosować w środowisku, w którym występują zakłócenia elektromagnetyczne, jeśli odległość od punktu dystrybucyjnego do punktu abonenckiego wynosi 200 m?": "Какой стандарт спецификации IEEE 802.3 следует применить в среде, где присутствуют электромагнитные помехи, если расстояние от точки распределения до абонентской точки составляет 200 м?",
+        "Linie horyzontalne kojarzą się z równowagą i spokojem, natomiast barwy pastelowe z delikatnością i subtelnością, co wprowadza do kompozycji kwiatowej nastrój spokoju": "Горизонтальные линии ассоциируются с равновесием и спокойствием, тогда как пастельные расцветки с нежностью и утонченностью, что привносит в цветочную композицию настроение спокойствия.",
+        "Hyper-V": "Hyper-V",
+        "Virtual PC": "Virtual PC",
+        "VMware": "VMware",
+        "Virtual Box": "Virtual Box",
+        "Oprogramowanie do wirtualizacji dostępne jako rola w systemie Windows Serwer 2019 to": "Программное обеспечение для виртуализации, доступное в качестве роли в Windows Server 2019, это"
     }
 }

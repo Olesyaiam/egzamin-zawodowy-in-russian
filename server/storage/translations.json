@@ -970,7 +970,8 @@
             "Róża": "Роза.",
             "Storczyk": "Орхидея",
             "Tulipan": "Тюльпан",
-            "Goździk": "Гвоздика."
+            "Goździk": "Гвоздика.",
+            "Róża jest najczęściej wykorzystywana w bukietach ślubnych, co wynika z jej wysokiej popularności we florystyce, częstego kwitnienia i średniego stopnia trudności pielęgnacji": "Роза чаще всего используется в свадебных букетах, что объясняется ее высокой популярностью во флористике, частым цветением и средней степенью сложности ухода."
         }
     },
     "not_approved": {
@@ -5600,7 +5601,6 @@
         "kwiaty ciemiernika cuchnącego": "цветы морозника вонючего.",
         "liście begonii królewskiej": "листья бегонии королевской.",
         "liście czyśćca wełnistego": "листья чистеца византийского.",
-        "Brokatową strukturę (fakturę) posiadają": "Блестящую структуру (текстуру) обладают",
-        "Róża jest najczęściej wykorzystywana w bukietach ślubnych, co wynika z jej wysokiej popularności we florystyce, częstego kwitnienia i średniego stopnia trudności pielęgnacji": "Роза чаще всего используется в свадебных букетах, что объясняется ее высокой популярностью во флористике, частым цветением и средней степенью сложности ухода."
+        "Brokatową strukturę (fakturę) posiadają": "Блестящую структуру (текстуру) обладают"
     }
 }

@@ -995,7 +995,9 @@
             "Cena wstążki": "Цена ленты",
             "Dostępność wstążki": "Доступность ленты",
             "Szerokość wstążki": "Ширина ленты",
-            "Dopasowanie koloru i stylu wstążki do kompozycji jest kluczowe dla tworzenia harmonijnej i estetycznej kompozycji florystycznej. Wstążka powinna komplementować, a nie dominować nad kwiatami": "Подбор цвета и стиля ленты к композиции является ключевым для создания гармоничной и эстетичной флористической композиции. Лента должна дополнять, а не доминировать над цветами."
+            "Dopasowanie koloru i stylu wstążki do kompozycji jest kluczowe dla tworzenia harmonijnej i estetycznej kompozycji florystycznej. Wstążka powinna komplementować, a nie dominować nad kwiatami": "Подбор цвета и стиля ленты к композиции является ключевым для создания гармоничной и эстетичной флористической композиции. Лента должна дополнять, а не доминировать над цветами.",
+            "Zarówno technika spiralnego, jak i równoległego układania łodyg wymaga dokładnego planowania i precyzyjnego wykonania, aby osiągnąć zamierzony efekt estetyczny": "Как техника спиральной, так и параллельной укладки стеблей требует тщательного планирования и точного выполнения, чтобы достичь задуманный эстетический эффект.",
+            "Podczas przygotowywania kompozycji florystycznej zauważasz, że liście jednego z kwiatów są zwiędłe. Co powinieneś zrobić?": "Во время подготовки флористической композиции замечаешь, что листья одного из цветов увядшие. Что ты должен сделать?"
         }
     },
     "not_approved": {
@@ -4392,7 +4394,6 @@
         "Zignorować problem, ponieważ liście nie wpływają na ogólny wygląd kompozycji": "Проигнорировать проблему, поскольку листья не влияют на общий вид композиции",
         "Podlać kwiat więcej, aby liście odzyskały świeżość": "Полить цветок больше, чтобы листья восстановили свежесть.",
         "Przesadzić kwiat do nowego doniczki": "Пересадить цветок в новый горшок.",
-        "Podczas przygotowywania kompozycji florystycznej zauważasz, że liście jednego z kwiatów są zwiędłe. Co powinieneś zrobić?": "Во время подготовки флористической композиции замечаешь, что листья одного из цветов увядшие. Что ты должен сделать?",
         "Usunąć zwiędłe liście, aby nie zabierały wody i składników odżywczych innym częściom rośliny": "Удалить увядшие листья, чтобы они не забирали воду и питательные вещества у других частей растения.",
         "Wysoka wilgotność powoduje szybsze więdnięcie kwiatów": "Высокая влажность вызывает более быстрое увядание цветов.",
         "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych": "Высокая влажность может помочь в поддержании свежести срезанных цветов.",

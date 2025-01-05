@@ -997,7 +997,12 @@
             "Szerokość wstążki": "Ширина ленты",
             "Dopasowanie koloru i stylu wstążki do kompozycji jest kluczowe dla tworzenia harmonijnej i estetycznej kompozycji florystycznej. Wstążka powinna komplementować, a nie dominować nad kwiatami": "Подбор цвета и стиля ленты к композиции является ключевым для создания гармоничной и эстетичной флористической композиции. Лента должна дополнять, а не доминировать над цветами.",
             "Zarówno technika spiralnego, jak i równoległego układania łodyg wymaga dokładnego planowania i precyzyjnego wykonania, aby osiągnąć zamierzony efekt estetyczny": "Как техника спиральной, так и параллельной укладки стеблей требует тщательного планирования и точного выполнения, чтобы достичь задуманный эстетический эффект.",
-            "Podczas przygotowywania kompozycji florystycznej zauważasz, że liście jednego z kwiatów są zwiędłe. Co powinieneś zrobić?": "Во время подготовки флористической композиции замечаешь, что листья одного из цветов увядшие. Что ты должен сделать?"
+            "Podczas przygotowywania kompozycji florystycznej zauważasz, że liście jednego z kwiatów są zwiędłe. Co powinieneś zrobić?": "Во время подготовки флористической композиции замечаешь, что листья одного из цветов увядшие. Что ты должен сделать?",
+            "Podlać kwiat więcej, aby liście odzyskały świeżość": "Полить цветок больше, чтобы листья восстановили свежесть.",
+            "Zignorować problem, ponieważ liście nie wpływają na ogólny wygląd kompozycji": "Проигнорировать проблему, поскольку листья не влияют на общий вид композиции",
+            "Usunąć zwiędłe liście, aby nie zabierały wody i składników odżywczych innym częściom rośliny": "Удалить увядшие листья, чтобы они не забирали воду и питательные вещества у других частей растения.",
+            "Przesadzić kwiat do nowego doniczki": "Пересадить цветок в новый горшок.",
+            "Zwiędłe liście powinny być usunięte, ponieważ mogą one zabierać wodę i składniki odżywcze, które mogłyby być wykorzystane przez inne, zdrowe części rośliny": "Увядшие листья следует удалять, потому что они могут забирать воду и питательные вещества, которые могли бы быть использованы другими, здоровыми частями растения."
         }
     },
     "not_approved": {
@@ -4391,10 +4396,6 @@
         "Tworzysz kompozycję florystyczną zgodnie z aktualnym trendem \"Zero Waste\". Które z poniższych stwierdzeń jest prawdziwe na temat tego trendu?": "Вы создаете флористическую композицию в соответствии с текущим трендом \"Zero Waste\". Какое из следующих утверждений является верным по поводу этого тренда?",
         "Trend \"Zero Waste\" polega na tworzeniu kompozycji z wykorzystaniem tylko sztucznych kwiatów": "Тренд \"Zero Waste\" заключается в создании композиций с использованием только искусственных цветов.",
         "Przygotowujesz kompozycję florystyczną na specjalne zamówienie. Klient prosi o użycie roślin doniczkowych, które wymagają minimalnej pielęgnacji. Którą z poniższych roślin wybierzesz?": "Ты готовишь флористическую композицию на специальный заказ. Клиент просит использовать горшечные растения, которые требуют минимального ухода. Какое из нижеперечисленных растений ты выберешь?",
-        "Zignorować problem, ponieważ liście nie wpływają na ogólny wygląd kompozycji": "Проигнорировать проблему, поскольку листья не влияют на общий вид композиции",
-        "Podlać kwiat więcej, aby liście odzyskały świeżość": "Полить цветок больше, чтобы листья восстановили свежесть.",
-        "Przesadzić kwiat do nowego doniczki": "Пересадить цветок в новый горшок.",
-        "Usunąć zwiędłe liście, aby nie zabierały wody i składników odżywczych innym częściom rośliny": "Удалить увядшие листья, чтобы они не забирали воду и питательные вещества у других частей растения.",
         "Wysoka wilgotność powoduje szybsze więdnięcie kwiatów": "Высокая влажность вызывает более быстрое увядание цветов.",
         "Wysoka wilgotność może pomóc w utrzymaniu świeżości kwiatów ciętych": "Высокая влажность может помочь в поддержании свежести срезанных цветов.",
         "Wilgotność nie ma wpływu na trwałość materiału roślinnego": "Влажность не влияет на долговечность растительного материала.",

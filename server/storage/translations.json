@@ -5328,6 +5328,14 @@
         "komputera": "компьютера.",
         "pętli zwrotnej": "обратной петли.",
         "rozgłoszeniowym": "Широковещательным.",
-        "Na rysunku jest przedstawiony komunikat pojawiający się po wpisaniu adresu IP podczas konfiguracji połączenia sieciowego na komputerze. Adres IP wprowadzony przez administratora jest adresem IP": "На рисунке представлен сообщение, появляющееся после ввода IP-адреса при настройке сетевого соединения на компьютере. IP-адрес, введённый администратором, является IP-адресом."
+        "Na rysunku jest przedstawiony komunikat pojawiający się po wpisaniu adresu IP podczas konfiguracji połączenia sieciowego na komputerze. Adres IP wprowadzony przez administratora jest adresem IP": "На рисунке представлен сообщение, появляющееся после ввода IP-адреса при настройке сетевого соединения на компьютере. IP-адрес, введённый администратором, является IP-адресом.",
+        "eventvwr": "eventvwr",
+        "gpupdate": "gpupdate",
+        "gpedit": "gpedit",
+        "Rysunek przedstawia topologię": "Рисунок представляет топологию",
+        "rozszerzonej gwiazdy": "расширенной звезды.",
+        "podwójnego pierścienia": "двойного кольца.",
+        "magistrali": "шины.",
+        "gwiazdy": "звезды."
     }
 }

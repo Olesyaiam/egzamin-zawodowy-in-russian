@@ -1116,7 +1116,9 @@
             "Symetryczny układ": "Симметричный уклад",
             "Asymetryczny układ": "Асимметричный уклад",
             "Układ radialny": "Радиальный уклад",
-            "Układ równoległy": "Параллельный уклад"
+            "Układ równoległy": "Параллельный уклад",
+            "Asymetryczny układ jest najlepszy do stworzenia poczucia ruchu i dynamiki w kompozycji florystycznej. Asymetria dodaje napięcia i ekscytacji do kompozycji, co przekłada się na poczucie ruchu": "Асимметричный уклад является лучшим для создания ощущения движения и динамики в флористической композиции. Асимметрия добавляет напряжения и возбуждения в композицию, что переводится на ощущение движения.",
+            "Zdecydowałeś się na stworzenie kompozycji roślinnej w pojemniku na tarasie. Wybierz zestaw roślin, które dobrze będą ze sobą współgrały pod względem wymagań dotyczących podlewania": "Вы решили создать растительную композицию в контейнере на террасе. Выберите набор растений, которые будут хорошо сочетаться друг с другом с точки зрения требований к поливу."
         }
     },
     "not_approved": {
@@ -1261,7 +1263,6 @@
         "12 MIESIĘCY": "12 МЕСЯЦЕВ",
         "6 MIESIĘCY": "6 МЕСЯЦЕВ",
         "3 MIESIĄCE": "3 МЕСЯЦА",
-        "Asymetryczny układ jest najlepszy do stworzenia poczucia ruchu i dynamiki w kompozycji florystycznej. Asymetria dodaje napięcia i ekscytacji do kompozycji, co przekłada się na poczucie ruchu": "Асимметричный уклад является лучшим для создания ощущения движения и динамики в флористической композиции. Асимметрия добавляет напряжения и возбуждения в композицию, что переводится на ощущение движения.",
         "Tulipa": "Tulipa",
         "Orchidaceae": "Орхидные",
         "Rosa": "Rosa",
@@ -4472,7 +4473,6 @@
         "przed użyciem zanurza się w wodzie na około 60 sekund": "перед использованием погружают в воду примерно на 60 секунд.",
         "Fuksja, kaktus, sukulent": "Фуксия, кактус, суккулент",
         "Begonia, sukulent, storczyk": "Бегония, суккулент, орхидея",
-        "Zdecydowałeś się na stworzenie kompozycji roślinnej w pojemniku na tarasie. Wybierz zestaw roślin, które dobrze będą ze sobą współgrały pod względem wymagań dotyczących podlewania": "Вы решили создать растительную композицию в контейнере на террасе. Выберите набор растений, которые будут хорошо сочетаться друг с другом с точки зрения требований к поливу.",
         "Storczyk, kaktus, pelargonia": "Орхидея, кактус, пеларгония",
         "Pelargonia, fuksja, begonia": "Пеларгония, фуксия, бегония",
         "Przygotowujesz kompozycję florystyczną na specjalne zamówienie. Klient prosi o użycie roślin doniczkowych, które wymagają minimalnej pielęgnacji. Którą z poniższych roślin wybierzesz?": "Ты готовишь флористическую композицию на специальный заказ. Клиент просит использовать горшечные растения, которые требуют минимального ухода. Какое из нижеперечисленных растений ты выберешь?",

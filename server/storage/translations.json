@@ -1132,7 +1132,8 @@
             "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь флористическую композицию из клумбовых растений. Какое из указанных удобрений наиболее подходит для применения в осенний период?",
             "W okresie jesieni, kiedy rośliny przygotowują się do zimy, najbardziej odpowiedni jest nawóz o wysokiej zawartości potasu, który wzmacnia rośliny i pomaga im przetrwać zimę": "В период осени, когда растения готовятся к зиме, наиболее подходящим является удобрение с высоким содержанием калия, которое укрепляет растения и помогает им пережить зиму.",
             "Krótkie gałązki jodły na wianku ze słomy powinno się układać": "Короткие веточки пихты на венке из соломы следует укладывать.",
-            "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения букета на день рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основании данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов."
+            "Do wykonania bukietu urodzinowego florysta wykorzystał następujący materiał florystyczny: rośliny, kryzę i inne dodatki. Na podstawie danych zamieszczonych w tabeli oblicz koszt całkowity wykonania kompozycji, jeśli robocizna stanowi 30% wykorzystanych materiałów florystycznych": "Для выполнения букета на день рождения флорист использовал следующий флористический материал: растения, декоративный воротник и другие добавки. На основании данных, приведенных в таблице, рассчитайте общую стоимость выполнения композиции, если затраты на работу составляют 30% от использованных флористических материалов.",
+            "Aloes": "Алоэ."
         }
     },
     "not_approved": {
@@ -4306,7 +4307,6 @@
         "zielistka Sternberga": "хлорофитум хохлатый",
         "echmea wstęgowata": "эхмея полосатая.",
         "Cissus": "Циссус.",
-        "Aloes": "Алоэ.",
         "Syngonium": "Сингониум.",
         "nasturcję większą": "настурция большая.",
         "tojeść rozesłaną": "вербейник монетный",
@@ -5765,6 +5765,10 @@
         "Długość 80 cm, szerokość 100 cm": "Длина 80 см, ширина 100 см.",
         "średniowiecznych": "средневековых.",
         "Tulipany \"papuzie\" o postrzępionych płatkach i rozszczepionych barwach chętnie wykorzystywano w historycznych bukietach": "Тюльпаны \"попугайные\" с рваными лепестками и неоднородной расцветкой охотно использовали в исторических букетах.",
-        "Do wykonania wiązanki pogrzebowej florysta wykorzystał materiał roślinny za 150 zł, floret za 6 zł, czarną wstążkę za 4 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения похоронной композиции флорист использовал растительный материал за 150 злотых, рапиру за 6 злотых, черную ленту за 4 злотых. Вычислите общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов."
+        "Do wykonania wiązanki pogrzebowej florysta wykorzystał materiał roślinny za 150 zł, floret za 6 zł, czarną wstążkę za 4 zł. Oblicz koszt całkowity wykonania kompozycji, jeżeli robocizna stanowi 30% zużytych materiałów": "Для выполнения похоронной композиции флорист использовал растительный материал за 150 злотых, рапиру за 6 злотых, черную ленту за 4 злотых. Вычислите общую стоимость выполнения композиции, если затраты на работу составляют 30% использованных материалов.",
+        "pogrzebowego": "похоронного.",
+        "Dodatkowy element konstrukcyjny w kształcie litery T dokłada się do obręczy wieńca": "Дополнительный элемент конструкционного в форме буквы Т добавляется к обручу венка.",
+        "insektycydy": "инсектициды",
+        "Środki roztoczobójcze to": "Средства против клещей это"
     }
 }

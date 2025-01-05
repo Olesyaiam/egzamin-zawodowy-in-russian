@@ -5324,6 +5324,10 @@
         "VLAN (Virtual Lan Area Network)": "VLAN (Virtual Lan Area Network).",
         "VoIP (Voice over Internet Protocol)": "VoIP (Voice over Internet Protocol).",
         "Zestawienie połączenia między dwoma odległymi hostami, za pośrednictwem publicznej sieci, np. Internet, w taki sposób, że węzły tej sieci są przezroczyste dla przesyłanych w ten sposób pakietów, to": "Установление соединения между двумя удаленными узлами через общественную сеть, например, Интернет, таким образом, что узлы этой сети являются прозрачными для передаваемых таким образом пакетов, это",
-        "VPN (Virtual Private Network)": "VPN (Виртуальная частная сеть)."
+        "VPN (Virtual Private Network)": "VPN (Виртуальная частная сеть).",
+        "komputera": "компьютера.",
+        "pętli zwrotnej": "обратной петли.",
+        "rozgłoszeniowym": "Широковещательным.",
+        "Na rysunku jest przedstawiony komunikat pojawiający się po wpisaniu adresu IP podczas konfiguracji połączenia sieciowego na komputerze. Adres IP wprowadzony przez administratora jest adresem IP": "На рисунке представлен сообщение, появляющееся после ввода IP-адреса при настройке сетевого соединения на компьютере. IP-адрес, введённый администратором, является IP-адресом."
     }
 }

@@ -1002,7 +1002,11 @@
             "Zignorować problem, ponieważ liście nie wpływają na ogólny wygląd kompozycji": "Проигнорировать проблему, поскольку листья не влияют на общий вид композиции",
             "Usunąć zwiędłe liście, aby nie zabierały wody i składników odżywczych innym częściom rośliny": "Удалить увядшие листья, чтобы они не забирали воду и питательные вещества у других частей растения.",
             "Przesadzić kwiat do nowego doniczki": "Пересадить цветок в новый горшок.",
-            "Zwiędłe liście powinny być usunięte, ponieważ mogą one zabierać wodę i składniki odżywcze, które mogłyby być wykorzystane przez inne, zdrowe części rośliny": "Увядшие листья следует удалять, потому что они могут забирать воду и питательные вещества, которые могли бы быть использованы другими, здоровыми частями растения."
+            "Zwiędłe liście powinny być usunięte, ponieważ mogą one zabierać wodę i składniki odżywcze, które mogłyby być wykorzystane przez inne, zdrowe części rośliny": "Увядшие листья следует удалять, потому что они могут забирать воду и питательные вещества, которые могли бы быть использованы другими, здоровыми частями растения.",
+            "Wybierz prawdziwe stwierdzenie dotyczące wiązanek ciężkich (zwartych)": "Выберите верное утверждение, касающееся цветочных связок тяжелых (компактных).",
+            "Są luźno upakowane z kwiatami rozmieszczonymi nierównomiernie": "Они свободно упакованы с цветами, расположенными неравномерно.",
+            "Są ciężkie i zwarte, z kwiatami ułożonymi blisko siebie": "Они тяжелые и компактные, с цветами, расположенными близко друг к другу.",
+            "Są gęsto upakowane z kwiatami, tworząc okrągły kształt": "Они плотно упакованы с цветами, создавая круглую форму."
         }
     },
     "not_approved": {
@@ -4379,11 +4383,6 @@
         "przed użyciem zanurza się w wodzie na 5-10 sekund": "перед использованием погружают в воду на 5-10 секунд.",
         "obficie spryskuje się wodą dopiero po ułożeniu kwiatów": "обильнo опрыскивают водой только после размещения цветов.",
         "przed użyciem zanurza się w wodzie na około 60 sekund": "перед использованием погружают в воду примерно на 60 секунд.",
-        "Są ciężkie i zwarte, z kwiatami ułożonymi blisko siebie": "Они тяжелые и компактные, с цветами, расположенными близко друг к другу.",
-        "Są gęsto upakowane z kwiatami, tworząc okrągły kształt": "Они плотно упакованы с цветами, создавая круглую форму.",
-        "Są luźno upakowane z kwiatami rozmieszczonymi nierównomiernie": "Они плотно упакованы, с цветами, расположенными неравномерно.",
-        "Wybierz prawdziwe stwierdzenie dotyczące wiązanek ciężkich (zwartych)": "Выберите верное утверждение, касающееся цветочных связок тяжелых (компактных).",
-        "Są asymetryczne, z kwiatami ułożonymi w nieregularne wzory": "Они асимметричные, с цветами, уложенными в нерегулярные узоры.",
         "Fuksja, kaktus, sukulent": "Фуксия, кактус, суккулент",
         "Begonia, sukulent, storczyk": "Бегония, суккулент, орхидея",
         "Zdecydowałeś się na stworzenie kompozycji roślinnej w pojemniku na tarasie. Wybierz zestaw roślin, które dobrze będą ze sobą współgrały pod względem wymagań dotyczących podlewania": "Вы решили создать растительную композицию в контейнере на террасе. Выберите набор растений, которые будут хорошо сочетаться друг с другом с точки зрения требований к поливу.",
@@ -5717,6 +5716,7 @@
         "mikoryza": "Микориза.",
         "etiolacja": "Этиоляция.",
         "symbioza": "Симбиоз.",
-        "Zjawisko wzajemnego korzystnego lub szkodliwego oddziaływania roślin na siebie to": "Явление взаимного благоприятного или вредного воздействия растений друг на друга это"
+        "Zjawisko wzajemnego korzystnego lub szkodliwego oddziaływania roślin na siebie to": "Явление взаимного благоприятного или вредного воздействия растений друг на друга это",
+        "Są asymetryczne, z kwiatami ułożonymi w nieregularne wzory": "Они асимметричные, с цветами, расположенными в неправильные узоры."
     }
 }

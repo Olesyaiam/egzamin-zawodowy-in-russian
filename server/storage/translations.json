@@ -1069,7 +1069,15 @@
             "Jesienna kompozycja florystyczna powinna odzwierciedlać kolory sezonu, takie jak czerwień, pomarańcz i brąz. Wiosenne i tropikalne kwiaty nie są zgodne z tym sezonem": "Осенняя флористическая композиция должна отражать цвета сезона, такие как красный, оранжевый и коричневый. Весенние и тропические цветы не соответствуют этому сезону.",
             "Przygotowujesz kompozycję florystyczną z wykorzystaniem techniki \"Pave\". Które z poniższych stwierdzeń jest prawdziwe na temat tej techniki?": "Вы готовите флористическую композицию с использованием техники \"Pave\". Какое из следующих утверждений является истинным относительно этой техники?",
             "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор.",
-            "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze, przypominającym brukowane powierzchnie (stąd nazwa - \"Pave\" z francuskiego oznacza \"brukowany\")": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор, напоминающий мощёные поверхности (отсюда и название - \"Pave\" с французского означает \"мощёный\")."
+            "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze, przypominającym brukowane powierzchnie (stąd nazwa - \"Pave\" z francuskiego oznacza \"brukowany\")": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор, напоминающий мощёные поверхности (отсюда и название - \"Pave\" с французского означает \"мощёный\").",
+            "Technika \"Pave\" polega na tworzeniu kompozycji z jednego rodzaju kwiatu": "Техника \"Pave\" заключается в создании композиции из одного вида цветка.",
+            "Technika \"Pave\" polega na tworzeniu wysokich, pionowych kompozycji": "Техника \"Pave\" заключается в создании высоких вертикальных композиций.",
+            "Technika \"Pave\" polega na tworzeniu kompozycji z kwiatów ułożonych w kształcie serca": "Техника \"Pave\" заключается в создании композиции из цветов, уложенных в форме сердца.",
+            "Rozważ kompozycję kwiatową składającą się z róż, goździków i tulipanów. Który z tych kwiatów powinien być dominujący, jeśli chcesz stworzyć kompozycję o silnym punkcie centralnym?": "Рассмотри цветочную композицию, состоящую из роз, гвоздик и тюльпанов. Какой из этих цветов должен быть доминирующим, если ты хочешь создать композицию с сильной центральной точкой?",
+            "Wszystkie kwiaty powinny być równomiernie rozłożone": "Все цветы должны быть равномерно распределены.",
+            "Dianthus": "Гвоздика",
+            "Tulipany": "Тюльпаны",
+            "Róże": "Розы"
         }
     },
     "not_approved": {
@@ -1222,7 +1230,6 @@
         "Tulipa": "Tulipa",
         "Orchidaceae": "Орхидные",
         "Rosa": "Rosa",
-        "Dianthus": "Гвоздика",
         "W tabeli przedstawiono nazwy polskie i łacińskie różnych gatunków roślin. Dopasuj odpowiednią nazwę łacińską do polskiej nazwy rośliny \"Storczyk\". Nazwa Polska Nazwa Łacińska Róża Rosa Storczyk ? Tulipan Tulipa Goździk Dianthus": "В таблице представлены польские и латинские названия различных видов растений. Подберите соответствующее латинское название к польскому названию растения «Орхидея». Название Польское Название Латинское Роза Rosa Орхидея ? Тюльпан Tulipa Гвоздика Dianthus.",
         "Układ równoległy": "Параллельный уклад",
         "Pomiar ciśnienia krwi należy wykonać": "Измерение артериального давления следует выполнить.",
@@ -4446,9 +4453,6 @@
         "Podcięcie łodygi pod kątem 45 stopni": "Подрезка стебля под углом 45 градусов",
         "Usunięcie cierni": "Удаление шипов",
         "Załóżmy, że tworzysz kompozycję florystyczną, której głównym elementem są róże. Które z poniższych działań jest niezalecane podczas przygotowywania róż do kompozycji?": "Предположим, что вы создаете флористическую композицию, главным элементом которой являются розы. Какое из следующих действий не рекомендуется при подготовке роз в композиции?",
-        "Technika \"Pave\" polega na tworzeniu kompozycji z jednego rodzaju kwiatu": "Техника \"Pave\" заключается в создании композиции из одного вида цветка.",
-        "Technika \"Pave\" polega na tworzeniu kompozycji z kwiatów ułożonych w kształcie serca": "Техника \"Pave\" заключается в создании композиции из цветов, уложенных в форме сердца.",
-        "Technika \"Pave\" polega na tworzeniu wysokich, pionowych kompozycji": "Техника \"Pave\" заключается в создании высоких вертикальных композиций.",
         "Wielkość i kolor": "Размер и цвет",
         "Zastanów się nad kompozycją kwiatową, która ma być symetryczna. Jakie elementy powinny być zgodne, aby zachować symetrię?": "Подумайте о цветочной композиции, которая должна быть симметричной. Какие элементы должны совпадать, чтобы сохранить симметрию?",
         "Wysokość i kolor": "Высота и цвет",
@@ -4460,10 +4464,6 @@
         "Arkusz kalkulacyjny": "Табличный процессор",
         "Zastanów się, jakie narzędzie programowe byłoby najbardziej odpowiednie do wizualizacji kompozycji roślinnej, która ma być wykonana w stylu minimalizmu": "Подумайте, какой программный инструмент был бы наиболее подходящим для визуализации растительной композиции, которая должна быть выполнена в стиле минимализма.",
         "Goździki": "Гвоздика",
-        "Wszystkie kwiaty powinny być równomiernie rozłożone": "Все цветы должны быть равномерно распределены.",
-        "Rozważ kompozycję kwiatową składającą się z róż, goździków i tulipanów. Który z tych kwiatów powinien być dominujący, jeśli chcesz stworzyć kompozycję o silnym punkcie centralnym?": "Рассмотри цветочную композицию, состоящую из роз, гвоздик и тюльпанов. Какой из этих цветов должен быть доминирующим, если ты хочешь создать композицию с сильной центральной точкой?",
-        "Tulipany": "Тюльпаны",
-        "Róże": "Розы",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь композицию флористическую из растений рабаток. Какое из следующих удобрений наиболее подходит для применения в осенний период?",
         "Rodzaj kompozycji Temperatura przechowywania Kompozycje z kwiatów ciętych ? Kompozycje z kwiatów doniczkowych ? Uzupełnij powyższą tabelę. Która z poniższych odpowiedzi jest prawidłowa?": "Тип композиции Температура хранения Композиции из срезанных цветов ? Композиции из горшечных растений ? Заполни приведенную выше таблицу. Какой из нижеприведенных ответов является правильным?",
         "A-2, B-1, C-3, D-4": "A-2, B-1, C-3, D-4",
@@ -5742,6 +5742,7 @@
         "Stosowanie środków chemicznych o działaniu systemicznym jest skutecznym sposobem na zwalczanie tarczników i miseczników, ponieważ takie środki są wchłaniane przez roślinę i rozprowadzane po całej jej tkance, co pozwala na skuteczne zniszczenie szkodników, które żywią się sokiem roślinnym. To rozwiązanie jest także skuteczne, ponieważ tarczniki i miseczniki są trudne do zwalczania mechanicznego lub biologicznego, dlatego konieczne jest zastosowanie silniejszych metod, jakimi są środki chemiczne": "Применение химических средств системного действия является эффективным способом борьбы с щитовками и полушаровками, поскольку такие средства поглощаются растением и распределяются по всей его ткани, что позволяет эффективно уничтожать вредителей, которые питаются растительным соком. Это решение также эффективно, потому что щитовки и полушаровки трудно поддаются механическому или биологическому контролю, поэтому необходимо применять более сильные методы, такие как химические средства.",
         "Nazwa łacińska dla storczyka to Orchidaceae, co jest poprawną odpowiedzią": "Латинское название орхидеи - Orchidaceae, что является правильным ответом.",
         "Czyli pomniejszenie o 10razy": "То есть уменьшение в 10 раз",
-        "Skala 1:10 oznacza że 1 cm na rysunku to 10 cm w rzeczywistości. Skoro na rysunku są zmniejszone wymiary 10 razy w stosunku do stanu rzeczywistego to jest ta skala 1:10.. Skala 1:100 to zmniejszenie 100 razy, skala 1:1 to taki sam stan wymiar. Skala 10:1 to zwiększenie 10 razy rysunku w stosunku do wymiaru rzeczywistego": "Шкала 1:10 означает, что 1 см на рисунке соответствует 10 см в реальности. Так как на рисунке размеры уменьшены в 10 раз по сравнению с реальным состоянием, это шкала 1:10. Шкала 1:100 — это уменьшение в 100 раз, шкала 1:1 — это такое же состояние размера. Шкала 10:1 — это увеличение рисунка в 10 раз по сравнению с реальным размером."
+        "Skala 1:10 oznacza że 1 cm na rysunku to 10 cm w rzeczywistości. Skoro na rysunku są zmniejszone wymiary 10 razy w stosunku do stanu rzeczywistego to jest ta skala 1:10.. Skala 1:100 to zmniejszenie 100 razy, skala 1:1 to taki sam stan wymiar. Skala 10:1 to zwiększenie 10 razy rysunku w stosunku do wymiaru rzeczywistego": "Шкала 1:10 означает, что 1 см на рисунке соответствует 10 см в реальности. Так как на рисунке размеры уменьшены в 10 раз по сравнению с реальным состоянием, это шкала 1:10. Шкала 1:100 — это уменьшение в 100 раз, шкала 1:1 — это такое же состояние размера. Шкала 10:1 — это увеличение рисунка в 10 раз по сравнению с реальным размером.",
+        "Róże są często używane jako punkt centralny w kompozycjach kwiatowych ze względu na ich duże, wyraziste kwiaty. Umieszczenie ich w centrum kompozycji pomoże przyciągnąć uwagę i stworzyć silny punkt centralny": "Розы часто используются как центральный пункт в цветочных композициях из-за их крупных, выразительных цветов. Размещение их в центре композиции поможет привлечь внимание и создать сильный центральный пункт."
     }
 }

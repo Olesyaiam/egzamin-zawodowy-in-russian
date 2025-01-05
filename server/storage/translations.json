@@ -983,7 +983,13 @@
             "Azalia, rododendron, magnolia": "Рододендрон, рододендрон, магнолия",
             "Storczyk, kaktus, aloes": "Орхидея, кактус, алоэ",
             "Geranium, petunia, begonia": "Герань, петуния, бегония",
-            "Geranium, petunia i begonia są roślinami odpornymi na warunki miejskie. Są one odporne na zanieczyszczenia powietrza i mogą przetrwać w różnych warunkach świetlnych, co czyni je idealnym wyborem do uprawy na balkonie": "Герань, петуния и бегония являются растениями, устойчивыми к городским условиям. Они устойчивы к загрязнению воздуха и могут выживать в различных условиях освещения, что делает их идеальным выбором для выращивания на балконе."
+            "Geranium, petunia i begonia są roślinami odpornymi na warunki miejskie. Są one odporne na zanieczyszczenia powietrza i mogą przetrwać w różnych warunkach świetlnych, co czyni je idealnym wyborem do uprawy na balkonie": "Герань, петуния и бегония являются растениями, устойчивыми к городским условиям. Они устойчивы к загрязнению воздуха и могут выживать в различных условиях освещения, что делает их идеальным выбором для выращивания на балконе.",
+            "Planujesz kompozycję florystyczną z roślin rabatowych. Wybierz, który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie wiosennym": "Планируешь композицию флористическую из растений клумбовых. Выбери, какое из нижеперечисленных удобрений наиболее подходит для использования в весенний период.",
+            "Nawóz o wysokiej zawartości azotu": "Удобрение с высоким содержанием азота",
+            "Nawóz o wysokiej zawartości potasu": "Удобрение с высоким содержанием калия",
+            "Nawóz o wysokiej zawartości fosforu": "Удобрение с высоким содержанием фосфора",
+            "Nawóz o wysokiej zawartości magnezu": "Удобрение с высоким содержанием магния",
+            "W okresie wiosennym, kiedy rośliny intensywnie rosną, najbardziej odpowiedni jest nawóz o wysokiej zawartości azotu, który stymuluje wzrost i rozwój roślin": "В весенний период, когда растения интенсивно растут, наиболее подходящим является удобрение с высоким содержанием азота, которое стимулирует рост и развитие растений."
         }
     },
     "not_approved": {
@@ -4428,11 +4434,6 @@
         "Przygotowujesz kompozycję florystyczną z wykorzystaniem roślin o różnej twardości łodyg. Które z poniższych stwierdzeń jest prawdziwe?": "Готовите флористическую композицию с использованием растений с различной жесткостью стеблей. Какое из следующих утверждений является верным?",
         "Twardsze łodygi nie powinny być podcinane": "Более твёрдые стебли не должны подрезаться.",
         "Twardsze łodygi powinny być podcinane pod mniejszym kątem": "Более твердые стебли следует подрезать под меньшим углом.",
-        "Nawóz o wysokiej zawartości azotu": "Удобрение с высоким содержанием азота",
-        "Nawóz o wysokiej zawartości fosforu": "Удобрение с высоким содержанием фосфора",
-        "Nawóz o wysokiej zawartości potasu": "Удобрение с высоким содержанием калия",
-        "Nawóz o wysokiej zawartości magnezu": "Удобрение с высоким содержанием магния",
-        "Planujesz kompozycję florystyczną z roślin rabatowych. Wybierz, który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie wiosennym": "Планируешь композицию флористическую из растений клумбовых. Выбери, какое из нижеперечисленных удобрений наиболее подходит для использования в весенний период.",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь композицию флористическую из растений рабаток. Какое из следующих удобрений наиболее подходит для применения в осенний период?",
         "Rodzaj kompozycji Temperatura przechowywania Kompozycje z kwiatów ciętych ? Kompozycje z kwiatów doniczkowych ? Uzupełnij powyższą tabelę. Która z poniższych odpowiedzi jest prawidłowa?": "Тип композиции Температура хранения Композиции из срезанных цветов ? Композиции из горшечных растений ? Заполни приведенную выше таблицу. Какой из нижеприведенных ответов является правильным?",
         "A-2, B-1, C-3, D-4": "A-2, B-1, C-3, D-4",

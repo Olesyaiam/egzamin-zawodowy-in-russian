@@ -5336,6 +5336,16 @@
         "rozszerzonej gwiazdy": "расширенной звезды.",
         "podwójnego pierścienia": "двойного кольца.",
         "magistrali": "шины.",
-        "gwiazdy": "звезды."
+        "gwiazdy": "звезды.",
+        "DDOS": "DDOS",
+        "flooding": "флудинг",
+        "mail bombing": "атомарная бомбардировка",
+        "Dyn, firma, której serwery DNS zaatakowano, przyznała, że część ataku …. nastąpiła za pomocą różnych urządzeń połączonych z siecią. Ekosystem kamer, czujników, kontrolerów nazywany ogólnie \"Internetem rzeczy\" został użyty przez przestępców jako botnet − sieć maszyn-zombie. Do tej pory taką rolę pełniły głównie komputery. Cytat opisuje atak typu": "Dyn, компания, на серверы DNS которой было совершено нападение, признала, что часть атаки … произошла с использованием различных устройств, подключенных к сети. Экосистема камер, датчиков, контроллеров, называемая в общем \"Интернетом вещей\", была использована преступниками в качестве ботнета — сети машин-зомби. До сих пор такую роль в основном выполняли компьютеры. Цитата описывает атаку типа",
+        "W trakcie obserwacji pakietów za pomocą sniffera zauważono, że urządzenia komunikują się na portach 20 oraz 21. Oznacza to, zakładając domyślną konfigurację, że obserwowanym protokołem jest protokół": "Во время наблюдения за пакетами с помощью сниффера было замечено, что устройства обмениваются данными на портах 20 и 21. Это означает, что, предполагая использование стандартной конфигурации, наблюдаемым протоколом является протокол.",
+        "10.191.255.255": "10.191.255.255",
+        "10.192.255.255": "10.192.255.255",
+        "10.127.255.255": "10.127.255.255",
+        "10.160.255.255": "10.160.255.255",
+        "Który z adresów jest adresem hosta należącego do sieci 10.128.0.0\/10?": "Какой из адресов является адресом хостa, принадлежащего к сети 10.128.0.0\/10?"
     }
 }

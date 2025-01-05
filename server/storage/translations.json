@@ -943,7 +943,12 @@
             "Roślinę egzotyczną o wysokich wymaganiach pielęgnacyjnych": "Экзотическое растение с высокими требованиями к уходу",
             "Roślinę, która wymaga codziennego podlewania": "Растение, которое требует ежедневного полива",
             "Sansewieria, znana również jako język teściowej, jest rośliną doniczkową o niskich wymaganiach pielęgnacyjnych, która dobrze radzi sobie w różnych warunkach środowiskowych. Jest to idealny wybór dla klienta, który szuka rośliny wymagającej minimalnej pielęgnacji": "Сансевиерия, известная также как тёщин язык, является комнатным растением с низкими требованиями к уходу, которое хорошо справляется в различных условиях окружающей среды. Это идеальный выбор для клиента, который ищет растение, требующее минимального ухода.",
-            "Przygotowujesz dekorację roślinną na jesienne wydarzenie. Które z poniższych technik florystycznych byłoby najbardziej odpowiednie do użycia, biorąc pod uwagę dostępność materiałów i klimat wydarzenia?": "Ты готовишь растительное украшение для осеннего события. Какая из перечисленных флористических техник будет наиболее подходящей для использования, учитывая доступность материалов и климат события?"
+            "Przygotowujesz dekorację roślinną na jesienne wydarzenie. Które z poniższych technik florystycznych byłoby najbardziej odpowiednie do użycia, biorąc pod uwagę dostępność materiałów i klimat wydarzenia?": "Ты готовишь растительное украшение для осеннего события. Какая из перечисленных флористических техник будет наиболее подходящей для использования, учитывая доступность материалов и климат события?",
+            "Technika suchego bukietu": "Техника сухого букета",
+            "Technika bukietu wodnego": "Техника водяного букета",
+            "Technika bukietu z papieru": "Техника букета из бумаги",
+            "Technika bukietu z balonów": "Техника букета из воздушных шаров",
+            "Technika suchego bukietu jest najbardziej odpowiednia do tworzenia dekoracji na jesienne wydarzenia. Pozwala na wykorzystanie dostępnych w tym sezonie materiałów, takich jak suche liście i kwiaty, a także podkreśla klimat wydarzenia": "Техника сухого букета является наиболее подходящей для создания декораций на осенние мероприятия. Она позволяет использовать доступные в этом сезоне материалы, такие как сухие листья и цветы, а также подчеркивает атмосферу мероприятия."
         }
     },
     "not_approved": {
@@ -4433,10 +4438,6 @@
         "Rozmiar otworu wazona": "Размер отверстия вазона",
         "Materiał, z którego jest wykonany wazon": "Материал, из которого выполнен вазон",
         "Przygotowujesz do sprzedaży wazon z roślinami doniczkowymi. Który z poniższych czynników jest najważniejszy przy wyborze wazona?": "Вы готовите к продаже вазон с комнатными растениями. Какой из следующих факторов является самым важным при выборе вазона?",
-        "Technika suchego bukietu": "Техника сухого букета",
-        "Technika bukietu z papieru": "Техника букета из бумаги",
-        "Technika bukietu z balonów": "Техника букета из воздушных шаров",
-        "Technika bukietu wodnego": "Техника водяного букета",
         "Wszystkie kwiaty cięte powinny być przechowywane w lodówce": "Все срезанные цветы должны храниться в холодильнике.",
         "Które z poniższych twierdzeń jest prawdziwe w odniesieniu do przechowywania kwiatów ciętych?": "Какое из следующих утверждений является верным в отношении хранения срезанных цветов?",
         "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania": "Разные виды срезанных цветов требуют разных условий хранения.",

@@ -981,7 +981,9 @@
             "Rozważasz stworzenie kompozycji roślinnej w pojemniku na balkonie. Które z poniższych roślin będą najlepszym wyborem, jeśli chodzi o ich zdolność do przetrwania w warunkach miejskich?": "Вы рассматриваете создание растительной композиции в контейнере на балконе. Какие из перечисленных растений будут лучшим выбором, если говорить о их способности выживать в городских условиях?",
             "Róża, hortensja, peonia": "Роза, гортензия, пион",
             "Azalia, rododendron, magnolia": "Рододендрон, рододендрон, магнолия",
-            "Storczyk, kaktus, aloes": "Орхидея, кактус, алоэ"
+            "Storczyk, kaktus, aloes": "Орхидея, кактус, алоэ",
+            "Geranium, petunia, begonia": "Герань, петуния, бегония",
+            "Geranium, petunia i begonia są roślinami odpornymi na warunki miejskie. Są one odporne na zanieczyszczenia powietrza i mogą przetrwać w różnych warunkach świetlnych, co czyni je idealnym wyborem do uprawy na balkonie": "Герань, петуния и бегония являются растениями, устойчивыми к городским условиям. Они устойчивы к загрязнению воздуха и могут выживать в различных условиях освещения, что делает их идеальным выбором для выращивания на балконе."
         }
     },
     "not_approved": {
@@ -4433,7 +4435,6 @@
         "Planujesz kompozycję florystyczną z roślin rabatowych. Wybierz, który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie wiosennym": "Планируешь композицию флористическую из растений клумбовых. Выбери, какое из нижеперечисленных удобрений наиболее подходит для использования в весенний период.",
         "Planujesz kompozycję florystyczną z roślin rabatowych. Który z poniższych nawozów jest najbardziej odpowiedni do zastosowania w okresie jesieni?": "Планируешь композицию флористическую из растений рабаток. Какое из следующих удобрений наиболее подходит для применения в осенний период?",
         "Rodzaj kompozycji Temperatura przechowywania Kompozycje z kwiatów ciętych ? Kompozycje z kwiatów doniczkowych ? Uzupełnij powyższą tabelę. Która z poniższych odpowiedzi jest prawidłowa?": "Тип композиции Температура хранения Композиции из срезанных цветов ? Композиции из горшечных растений ? Заполни приведенную выше таблицу. Какой из нижеприведенных ответов является правильным?",
-        "Geranium, petunia, begonia": "Герань, петуния, бегония",
         "A-2, B-1, C-3, D-4": "A-2, B-1, C-3, D-4",
         "A-1, B-2, C-3, D-4": "A-1, B-2, C-3, D-4",
         "A-2, B-4, C-1, D-3": "A-2, B-4, C-1, D-3",

@@ -943,7 +943,7 @@
             "Roślinę egzotyczną o wysokich wymaganiach pielęgnacyjnych": "Экзотическое растение с высокими требованиями к уходу",
             "Roślinę, która wymaga codziennego podlewania": "Растение, которое требует ежедневного полива",
             "Sansewieria, znana również jako język teściowej, jest rośliną doniczkową o niskich wymaganiach pielęgnacyjnych, która dobrze radzi sobie w różnych warunkach środowiskowych. Jest to idealny wybór dla klienta, który szuka rośliny wymagającej minimalnej pielęgnacji": "Сансевиерия, известная также как тёщин язык, является комнатным растением с низкими требованиями к уходу, которое хорошо справляется в различных условиях окружающей среды. Это идеальный выбор для клиента, который ищет растение, требующее минимального ухода.",
-            "Przygotowujesz dekorację roślinną na jesienne wydarzenie. Które z poniższych technik florystycznych byłoby najbardziej odpowiednie do użycia, biorąc pod uwagę dostępność materiałów i klimat wydarzenia?": "Ты готовишь растительное украшение для осеннего события. Какая из перечисленных флористических техник будет наиболее подходящей для использования, учитывая доступность материалов и климат события?",
+            "Przygotowujesz dekorację roślinną na jesienne wydarzenie. Które z poniższych technik florystycznych byłoby najbardziej odpowiednie do użycia, biorąc pod uwagę dostępność materiałów i klimat wydarzenia?": "Ты готовишь растительное украшение для осеннего события. Какая из перечисленных флористических техник будет наиболее подходящей для использования, учитывая доступность материалов и атмосферу мероприятия?",
             "Technika suchego bukietu": "Техника сухого букета",
             "Technika bukietu wodnego": "Техника водяного букета",
             "Technika bukietu z papieru": "Техника букета из бумаги",
@@ -5591,11 +5591,6 @@
         "preparować w cukrze": "Подготовить в сахаре.",
         "suszyć w boraksie": "сушить в бораксе",
         "preparować w roztworach soli": "Подготовить в растворах соли.",
-        "Aby pędy w kompozycji bożonarodzeniowej uzyskały efekt \"oszronionych\", należy je": "Чтобы побеги в рождественской композиции получили эффект \"инея\", необходимо их",
-        "kwiaty gardenii jaśminowatej": "цветы гардении жасминовидной.",
-        "liście begonii królewskiej": "листья бегонии королевской",
-        "kwiaty ciemiernika cuchnącego": "Цветы морозника вонючего.",
-        "liście czyśćca wełnistego": "листья чистеца византийского.",
-        "Brokatową strukturę (fakturę) posiadają": "Блестящую структуру (фактуру) имеют"
+        "Aby pędy w kompozycji bożonarodzeniowej uzyskały efekt \"oszronionych\", należy je": "Чтобы побеги в рождественской композиции получили эффект \"инея\", необходимо их"
     }
 }

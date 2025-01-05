@@ -1066,7 +1066,10 @@
             "Kwiaty w odcieniach niebieskiego i białego": "Цветы в оттенках синего и белого",
             "Tropikalne kwiaty, takie jak hibiskus i orchidee": "Тропические цветы, такие как гибискус и орхидеи",
             "Wiosenne kwiaty, takie jak tulipany i narcyzy": "Весенние цветы, такие как тюльпаны и нарциссы",
-            "Jesienna kompozycja florystyczna powinna odzwierciedlać kolory sezonu, takie jak czerwień, pomarańcz i brąz. Wiosenne i tropikalne kwiaty nie są zgodne z tym sezonem": "Осенняя флористическая композиция должна отражать цвета сезона, такие как красный, оранжевый и коричневый. Весенние и тропические цветы не соответствуют этому сезону."
+            "Jesienna kompozycja florystyczna powinna odzwierciedlać kolory sezonu, takie jak czerwień, pomarańcz i brąz. Wiosenne i tropikalne kwiaty nie są zgodne z tym sezonem": "Осенняя флористическая композиция должна отражать цвета сезона, такие как красный, оранжевый и коричневый. Весенние и тропические цветы не соответствуют этому сезону.",
+            "Przygotowujesz kompozycję florystyczną z wykorzystaniem techniki \"Pave\". Które z poniższych stwierdzeń jest prawdziwe na temat tej techniki?": "Вы готовите флористическую композицию с использованием техники \"Pave\". Какое из следующих утверждений является истинным относительно этой техники?",
+            "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор.",
+            "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze, przypominającym brukowane powierzchnie (stąd nazwa - \"Pave\" z francuskiego oznacza \"brukowany\")": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор, напоминающий мощёные поверхности (отсюда и название - \"Pave\" с французского означает \"мощёный\")."
         }
     },
     "not_approved": {
@@ -4445,8 +4448,6 @@
         "Załóżmy, że tworzysz kompozycję florystyczną, której głównym elementem są róże. Które z poniższych działań jest niezalecane podczas przygotowywania róż do kompozycji?": "Предположим, что вы создаете флористическую композицию, главным элементом которой являются розы. Какое из следующих действий не рекомендуется при подготовке роз в композиции?",
         "Technika \"Pave\" polega na tworzeniu kompozycji z jednego rodzaju kwiatu": "Техника \"Pave\" заключается в создании композиции из одного вида цветка.",
         "Technika \"Pave\" polega na tworzeniu kompozycji z kwiatów ułożonych w kształcie serca": "Техника \"Pave\" заключается в создании композиции из цветов, уложенных в форме сердца.",
-        "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор.",
-        "Przygotowujesz kompozycję florystyczną z wykorzystaniem techniki \"Pave\". Które z poniższych stwierdzeń jest prawdziwe na temat tej techniki?": "Вы готовите флористическую композицию с использованием техники \"Pave\". Какое из следующих утверждений является истинным относительно этой техники?",
         "Technika \"Pave\" polega na tworzeniu wysokich, pionowych kompozycji": "Техника \"Pave\" заключается в создании высоких вертикальных композиций.",
         "Wielkość i kolor": "Размер и цвет",
         "Zastanów się nad kompozycją kwiatową, która ma być symetryczna. Jakie elementy powinny być zgodne, aby zachować symetrię?": "Подумайте о цветочной композиции, которая должна быть симметричной. Какие элементы должны совпадать, чтобы сохранить симметрию?",

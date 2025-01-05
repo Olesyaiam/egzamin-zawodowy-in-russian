@@ -5646,6 +5646,11 @@
         "gąbkę florystyczną dla suchych roślin": "флористическую губку для сухих растений.",
         "zieloną gąbkę florystyczną": "зеленую флористическую губку.",
         "konstrukcję z aluminiowego drutu": "конструкцию из алюминиевой проволоки.",
-        "Do wykonania wiązanki ślubnej z żywych kwiatów w formie kuli najczęściej jako bazę stosuje się": "Для создания свадебной цветочной связки из живых цветов в форме шара чаще всего в качестве основы используется"
+        "Do wykonania wiązanki ślubnej z żywych kwiatów w formie kuli najczęściej jako bazę stosuje się": "Для создания свадебной цветочной связки из живых цветов в форме шара чаще всего в качестве основы используется",
+        "niska wilgotność powietrza i niska temperatura": "низкая влажность воздуха и низкая температура.",
+        "wysoka wilgotność powietrza i niska temperatura": "высокая влажность воздуха и низкая температура.",
+        "niska wilgotność powietrza i wysoka temperatura": "низкая влажность воздуха и высокая температура.",
+        "wysoka wilgotność powietrza i wysoka temperatura": "высокая влажность воздуха и высокая температура.",
+        "Wzrostowi populacji przędziorka sprzyja": "Увеличению популяции паутинного клеща способствует"
     }
 }

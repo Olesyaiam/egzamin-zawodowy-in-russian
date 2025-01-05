@@ -5259,6 +5259,11 @@
         "Elementem dekoracyjnym rośliny widocznej na zdjęciu są": "Элементом декоративным растения, видимого на фотографии, являются",
         "Na zdjęciu przedstawiono sposób umieszczania kwiatów": "На фотографии представлен способ размещения цветов.",
         "Cięte róże należy transportować w temperaturze": "Срезанные розы следует транспортировать при температуре",
-        "Na rysunkach przedstawiono różne sposoby postępowania z kwiatami ciętymi. Wskaż, który z nich należy zastosować w przypadku poinsecji": "На рисунках показаны различные способы обращения с срезанными цветами. Укажите, какой из них следует применить в случае с пуансеттией."
+        "Na rysunkach przedstawiono różne sposoby postępowania z kwiatami ciętymi. Wskaż, który z nich należy zastosować w przypadku poinsecji": "На рисунках показаны различные способы обращения с срезанными цветами. Укажите, какой из них следует применить в случае с пуансеттией.",
+        "Samba": "Samba",
+        "Postfix": "Postfix",
+        "CUPS": "CUPS",
+        "Usługa serwerowa, która umożliwia udostępnianie linuksowych usług drukowania oraz serwera plików stacjom roboczym Windows, to": "Серверная услуга, которая позволяет предоставлять линуксовые услуги печати, а также сервер файлов рабочим станциям Windows, это",
+        "Vsftpd": "Vsftpd"
     }
 }

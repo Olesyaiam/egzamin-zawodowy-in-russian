@@ -5299,6 +5299,16 @@
         "dobrać urządzenia sieciowe": "выбрать сетевые устройства",
         "sporządzić dokumentację powykonawczą": "составить исполнительную документацию.",
         "sporządzić kosztorys": "составить смету.",
-        "W trakcie tworzenia projektu sieci komputerowej należy w pierwszej kolejności": "Во время создания проекта компьютерной сети необходимо в первую очередь"
+        "W trakcie tworzenia projektu sieci komputerowej należy w pierwszej kolejności": "Во время создания проекта компьютерной сети необходимо в первую очередь",
+        "ISO (International Organization for Standarization)": "ISO (Международная организация по стандартизации).",
+        "IEEE (The Institute of Electrical and Electronics Engineers)": "IEEE (Институт инженеров электротехники и электроники).",
+        "ANSI (American National Standards Institute)": "ANSI (Американский национальный институт стандартов).",
+        "Organizacją publikującą dokumenty RFC (Request For Comments) regulujące rozwój Internetu jest": "Организацией, публикующей документы RFC (Request For Comments), регулирующие развитие Интернета, является",
+        "IETF (Internet Engineering Task Force)": "IETF (Internet Engineering Task Force).",
+        "1022 adresy": "1022 адреса.",
+        "512 adresów": "512 адресов",
+        "510 adresów": "510 адресов.",
+        "1024 adresy": "1024 адреса.",
+        "Ile maksymalnie adresów można przydzielić hostom w sieci 10.0.0.0\/22?": "Сколько максимально адресов можно выделить хостам в сети 10.0.0.0\/22?"
     }
 }

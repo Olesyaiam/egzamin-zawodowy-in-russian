@@ -1020,7 +1020,12 @@
             "Podłoże dla kaktusów": "Подложка для кактусов",
             "Podłoże uniwersalne": "Универсальная подложка",
             "Podłoże do roślin akwariowych": "Подложка для аквариумных растений",
-            "Podłoże uniwersalne jest najbardziej odpowiednie dla większości roślin cieniolubnych, które można uprawiać na balkonie. Jest to podłoże o zrównoważonym składzie, które zapewnia roślinom wszystkie niezbędne składniki odżywcze": "Универсальная подложка является наиболее подходящей для большинства тенелюбивых растений, которые можно выращивать на балконе. Это подложка с сбалансированным составом, которая обеспечивает растения всеми необходимыми питательными веществами."
+            "Podłoże uniwersalne jest najbardziej odpowiednie dla większości roślin cieniolubnych, które można uprawiać na balkonie. Jest to podłoże o zrównoważonym składzie, które zapewnia roślinom wszystkie niezbędne składniki odżywcze": "Универсальная подложка является наиболее подходящей для большинства тенелюбивых растений, которые можно выращивать на балконе. Это подложка с сбалансированным составом, которая обеспечивает растения всеми необходимыми питательными веществами.",
+            "Które z poniższych narzędzi jest używane do tworzenia otworów w gąbce florystycznej?": "Какой из следующих инструментов используется для создания отверстий в флористической губке?",
+            "Nożyczki do kwiatów": "Ножницы для цветов",
+            "Sonda florystyczna": "Флористический щуп",
+            "Kombinerki florystyczne": "Флористические пассатижи",
+            "Sekator": "Секатор."
         }
     },
     "not_approved": {
@@ -3510,7 +3515,6 @@
         "Opalanie nasady łodyg nad płomieniem powoduje zamknięcie naczyń i wiązek przewodzących, co zapobiega wydzielaniu soków mlecznych i utrudnianiu pobierania wody": "Обжигание оснований стеблей над пламенем приводит к закрытию сосудов и проводящих пучков, что предотвращает выделение молочных соков и затрудняет поглощение воды.",
         "Kamelia jest krzewem doniczkowym, który zachowuje zielone liście przez cały rok i kwitnie wczesną wiosną, co spełnia wymagania zamówienia florysty do dekoracji ogrodu zimowego": "Камелия является горшечным кустарником, который сохраняет зеленые листья на протяжении всего года и цветет ранней весной, что соответствует требованиям заказа флориста для украшения зимнего сада.",
         "Cążki": "Кусачки.",
-        "Sekator": "Секатор.",
         "Nóż": "Нож.",
         "Okulizak": "Прививочный глазок.",
         "wyjąć kwiaty z kartonów i umieścić w naczyniach bez wody": "вынуть цветы из коробок и поместить в сосуды без воды.",
@@ -4425,10 +4429,6 @@
         "Technika \"Pave\" polega na tworzeniu kompozycji z różnych kwiatów ułożonych w gęstym, płaskim wzorze": "Техника \"Pave\" заключается в создании композиции из различных цветов, уложенных в плотный, плоский узор.",
         "Przygotowujesz kompozycję florystyczną z wykorzystaniem techniki \"Pave\". Które z poniższych stwierdzeń jest prawdziwe na temat tej techniki?": "Вы готовите флористическую композицию с использованием техники \"Pave\". Какое из следующих утверждений является истинным относительно этой техники?",
         "Technika \"Pave\" polega na tworzeniu wysokich, pionowych kompozycji": "Техника \"Pave\" заключается в создании высоких вертикальных композиций.",
-        "Nożyczki do kwiatów": "Ножницы для цветов",
-        "Kombinerki florystyczne": "Флористические пассатижи",
-        "Sonda florystyczna": "Флористический щуп",
-        "Które z poniższych narzędzi jest używane do tworzenia otworów w gąbce florystycznej?": "Какой из следующих инструментов используется для создания отверстий в флористической губке?",
         "Wielkość i kolor": "Размер и цвет",
         "Zastanów się nad kompozycją kwiatową, która ma być symetryczna. Jakie elementy powinny być zgodne, aby zachować symetrię?": "Подумайте о цветочной композиции, которая должна быть симметричной. Какие элементы должны совпадать, чтобы сохранить симметрию?",
         "Wysokość i kolor": "Высота и цвет",
@@ -5730,6 +5730,7 @@
         "Na rysunku A przedstawiono przedmiot z przyssawką, który jest zgodny z opisem auto corso, czyli Floret mokry z podstawką na przyssawce specjalny do strojenia aut. Pozostałe rysunki nie przedstawiają przedmiotu z przyssawką, która jest charakterystyczna dla auto corso": "На рисунке A представлен предмет с присоской, который соответствует описанию auto corso, то есть рапира мокрая с подставкой на присоске, специально для украшения автомобилей. Остальные рисунки не изображают предмет с присоской, которая характерна для auto corso.",
         "Roślina przedstawiona na zdjęciu D to Spathiphyllum, znane również jako kwiat żeński szczęścia lub spatifil. Jest to roślina, która dobrze rośnie w słabo oświetlonych pomieszczeniach i często jest polecana do uprawy wewnątrz pomieszczeń z uwagi na jej zdolność do adaptacji do niższych poziomów światła": "Растение, представленное на фото D, это спатифиллюм, также известный как цветок женского счастья или спатифил. Это растение хорошо растет в слабо освещенных помещениях и часто рекомендуется для выращивания внутри помещений из-за его способности адаптироваться к более низким уровням света.",
         "Na zdjęciu widać kompozycję z pustymi w środku pędami rośliny, które są wyprostowane, pojedyncze lub nieco rozgałęzione, o zielonkawej barwie, przypominające łodygi bambusa. Opis ten pasuje do Fallopia sachalinensis, czyli rdesowca sachalińskiego, który jest byliną dorastającą do 1,5–4 m wysokości z charakterystycznymi pędami przypominającymi bambus": "На фото видна композиция с пустыми внутри стеблями растения, которые выпрямленные, одиночные или слегка разветвленные, зеленоватой расцветки, напоминающие стебли бамбука. Это описание подходит для Fallopia sachalinensis, то есть сахалинской гречишки, которая является многолетником, достигающим 1,5–4 м в высоту с характерными стеблями, напоминающими бамбук.",
-        "Stosowanie środków chemicznych o działaniu systemicznym jest skutecznym sposobem na zwalczanie tarczników i miseczników, ponieważ takie środki są wchłaniane przez roślinę i rozprowadzane po całej jej tkance, co pozwala na skuteczne zniszczenie szkodników, które żywią się sokiem roślinnym. To rozwiązanie jest także skuteczne, ponieważ tarczniki i miseczniki są trudne do zwalczania mechanicznego lub biologicznego, dlatego konieczne jest zastosowanie silniejszych metod, jakimi są środki chemiczne": "Применение химических средств системного действия является эффективным способом борьбы с щитовками и полушаровками, поскольку такие средства поглощаются растением и распределяются по всей его ткани, что позволяет эффективно уничтожать вредителей, которые питаются растительным соком. Это решение также эффективно, потому что щитовки и полушаровки трудно поддаются механическому или биологическому контролю, поэтому необходимо применять более сильные методы, такие как химические средства."
+        "Stosowanie środków chemicznych o działaniu systemicznym jest skutecznym sposobem na zwalczanie tarczników i miseczników, ponieważ takie środki są wchłaniane przez roślinę i rozprowadzane po całej jej tkance, co pozwala na skuteczne zniszczenie szkodników, które żywią się sokiem roślinnym. To rozwiązanie jest także skuteczne, ponieważ tarczniki i miseczniki są trudne do zwalczania mechanicznego lub biologicznego, dlatego konieczne jest zastosowanie silniejszych metod, jakimi są środki chemiczne": "Применение химических средств системного действия является эффективным способом борьбы с щитовками и полушаровками, поскольку такие средства поглощаются растением и распределяются по всей его ткани, что позволяет эффективно уничтожать вредителей, которые питаются растительным соком. Это решение также эффективно, потому что щитовки и полушаровки трудно поддаются механическому или биологическому контролю, поэтому необходимо применять более сильные методы, такие как химические средства.",
+        "Sonda florystyczna jest narzędziem używanym do tworzenia otworów w gąbce florystycznej, co jest niezbędne do umieszczenia kwiatów w kompozycjach florystycznych": "Флористический зонд является инструментом, используемым для создания отверстий в флористической губке, что необходимо для размещения цветов в флористических композициях."
     }
 }

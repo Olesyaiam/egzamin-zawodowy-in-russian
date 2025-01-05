@@ -954,7 +954,9 @@
             "Wszystkie kwiaty muszą być tej samej wielkości": "Все цветы должны быть одного размера.",
             "Wszystkie kwiaty muszą być tego samego rodzaju": "Все цветы должны быть одного и того же вида.",
             "Różne kwiaty mogą być użyte do tworzenia kontrastu i zróżnicowania w kompozycji": "Разные цветы могут быть использованы для создания контраста и разнообразия в композиции.",
-            "Różne kwiaty mogą być użyte do tworzenia kontrastu i zróżnicowania w kompozycji. Nie ma reguły mówiącej, że wszystkie kwiaty muszą być tego samego rodzaju, koloru czy wielkości": "Разные цветы могут быть использованы для создания контраста и разнообразия в композиции. Нет правила, что все цветы должны быть одного и того же вида, цвета или размера."
+            "Różne kwiaty mogą być użyte do tworzenia kontrastu i zróżnicowania w kompozycji. Nie ma reguły mówiącej, że wszystkie kwiaty muszą być tego samego rodzaju, koloru czy wielkości": "Разные цветы могут быть использованы для создания контраста и разнообразия в композиции. Нет правила, что все цветы должны быть одного и того же вида, цвета или размера.",
+            "Przygotowujesz kompozycję z róż. W jaki sposób powinieneś przygotować łodygi róż przed umieszczeniem ich w gąbce florystycznej?": "Готовишь композицию из роз. Каким образом следует подготовить стебли роз перед их размещением в флористической губке?",
+            "Zostawić liście na łodydze i nie ciąć końcówki": "Оставить листья на стебле и не обрезать кончик."
         }
     },
     "not_approved": {
@@ -1101,9 +1103,7 @@
         "3 MIESIĄCE": "3 МЕСЯЦА",
         "Usunąć wszystkie liście i nie ciąć końcówki": "Удалить все листья и не обрезать кончик.",
         "Zostawić liście na łodydze i ciąć końcówkę pod kątem 45 stopni": "Оставить листья на стебле и срезать кончик под углом 45 градусов.",
-        "Przygotowujesz kompozycję z róż. W jaki sposób powinieneś przygotować łodygi róż przed umieszczeniem ich w gąbce florystycznej?": "Готовишь композицию из роз. Каким образом следует подготовить стебли роз перед их размещением в флористической губке?",
         "Usunąć wszystkie liście i ciąć końcówkę pod kątem 45 stopni": "Удалить все листья и обрезать кончик под углом 45 градусов",
-        "Zostawić liście na łodydze i nie ciąć końcówki": "Оставить листья на стебле и не обрезать кончик.",
         "Przygotowując różę do umieszczenia w gąbce florystycznej, należy usunąć wszystkie liście z łodygi i przyciąć jej końcówkę pod kątem 45 stopni. To zapewni lepsze pobieranie wody przez kwiat": "Приготавливая розу для размещения в флористической губке, необходимо удалить все листья с стебля и обрезать ее кончик под углом 45 градусов. Это обеспечит лучшее поглощение воды цветком.",
         "Niska temperatura, wysoka wilgotność, z dala od bezpośredniego światła słonecznego": "Низкая температура, высокая влажность, вдали от прямого солнечного света.",
         "Jakie są zalecane warunki przechowywania dla kompozycji z kwiatów ciętych?": "Каковы рекомендуемые условия хранения для композиций из срезанных цветов?",

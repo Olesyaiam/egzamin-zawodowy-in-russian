@@ -5279,6 +5279,16 @@
         "Maskę w adresie dla K2": "Маску в адресе для K2.",
         "Adres bramy dla K2": "Адрес шлюза для K2.",
         "Maskę w adresie dla K1": "Маску в адресе для K1.",
-        "Komputery K1 i K2 nie mogą się komunikować. Adresacja urządzeń jest podana w tabeli. Co należy zmienić, aby przywrócić komunikację w sieci?": "Компьютеры K1 и K2 не могут общаться. Адресация устройств указана в таблице. Что необходимо изменить, чтобы восстановить связь в сети?"
+        "Komputery K1 i K2 nie mogą się komunikować. Adresacja urządzeń jest podana w tabeli. Co należy zmienić, aby przywrócić komunikację w sieci?": "Компьютеры K1 и K2 не могут общаться. Адресация устройств указана в таблице. Что необходимо изменить, чтобы восстановить связь в сети?",
+        "Koncentrator": "Концентратор.",
+        "Most": "Мост.",
+        "Ruter": "Маршрутизатор.",
+        "Przełącznik": "Переключатель.",
+        "Które urządzenie należy podłączyć do sieci lokalnej w miejscu wskazanym na rysunku, aby komputery miały dostęp do Internetu?": "Какое устройство следует подключить к локальной сети в месте, указанном на рисунке, чтобы компьютеры имели доступ к Интернету?",
+        "169.254.0.1 ÷ 169.254.255.254": "169.254.0.1 ÷ 169.254.255.254",
+        "224.0.0.1 ÷ 224.255.255.254": "224.0.0.1 ÷ 224.255.255.254",
+        "127.0.0.1 ÷ 127.255.255.254": "127.0.0.1 ÷ 127.255.255.254",
+        "192.168.0.1 ÷ 192.168.255.254": "192.168.0.1 ÷ 192.168.255.254",
+        "Host automatycznie pobiera adres IP z serwera DHCP. W przypadku gdy serwer DHCP ulegnie uszkodzeniu, karcie sieciowej zostanie przypisany adres IP z zakresu": "Хост автоматически получает IP-адрес с сервера DHCP. В случае, если сервер DHCP выйдет из строя, сетевой карте будет присвоен IP-адрес из диапазона."
     }
 }

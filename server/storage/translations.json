@@ -5414,6 +5414,23 @@
         "DHCP – warstwa dostępu do sieci": "DHCP – слой доступа к сети.",
         "Kenzan służy do stabilizowania roślin w ikebanie poprzez umieszczanie ich w specjalnej metalowej siatce z ostrokrawędziami, która utrzymuje je w miejscu. Dzięki temu rośliny nie przesuwają się ani nie przewracają, co pozwala na precyzyjne układanie kompozycji kwiatowych": "Кэнзан служит для стабилизации растений в икэбане посредством размещения их в специальной металлической сетке с острыми краями, которая удерживает их на месте. Благодаря этому растения не сдвигаются и не опрокидываются, что позволяет на точную укладку цветочных композиций.",
         "Figowiec pnący jest rośliną, która dobrze rośnie w miejscach zacienionych, ma zdolność do wspinania się i przyczepiania się do powierzchni oraz tworzenia gęstych, zielonych liści, co czyni go idealnym wyborem do wykonania ogrodu wertykalnego we wnętrzu": "Фикус лазящий является растением, которое хорошо растет в затененных местах, имеет способность к вьющимся росту и прикреплению к поверхностям, а также образованию густых, зеленых листьев, что делает его идеальным выбором для создания вертикального сада в интерьере.",
-        "Krótkotrwałe umieszczanie łodyg w gorącej wodzie zwiększa ich wchłanianie wody i pozwala na usunięcie powietrza z wnętrza. To z kolei zapobiega blokowaniu się naczyń i przedłuża trwałość kwiatów": "Кратковременное помещение стеблей в горячую воду увеличивает их поглощение воды и позволяет удалить воздух изнутри. Это, в свою очередь, предотвращает блокирование сосудов и продлевает долговечность цветов."
+        "Krótkotrwałe umieszczanie łodyg w gorącej wodzie zwiększa ich wchłanianie wody i pozwala na usunięcie powietrza z wnętrza. To z kolei zapobiega blokowaniu się naczyń i przedłuża trwałość kwiatów": "Кратковременное помещение стеблей в горячую воду увеличивает их поглощение воды и позволяет удалить воздух изнутри. Это, в свою очередь, предотвращает блокирование сосудов и продлевает долговечность цветов.",
+        "Wi-Fi": "Wi-Fi",
+        "Znak towarowy dla certyfikowanych produktów opartych na standardach IEEE 802.11 to": "Товарный знак для сертифицированных продуктов, основанных на стандартах IEEE 802.11, это",
+        "unicast": "юникаст.",
+        "multicast": "мультикаст",
+        "anycast": "аникаст",
+        "Typ transmisji danych do jednego bądź kilku komputerów w jednej chwili, w której odbiorcy są widziani dla nadawcy jako pojedynczy grupowy odbiorca, to": "Тип передачи данных на один или несколько компьютеров в одно мгновение, в котором получатели видны передатчику как единый групповой получатель, это",
+        "broadcast": "Широковещательная передача",
+        "K2 z K4": "К2 с К4",
+        "K1 z K3": "К1 с К3",
+        "K1 z K2": "K1 с K2",
+        "K1 z K4": "K1 с K4",
+        "Komputery K1, K2, K3, K4 są podłączone do interfejsów przełącznika przypisanych do VLAN-ów podanych w tabeli. Które komputery mogą się ze sobą komunikować?": "Компьютеры K1, K2, K3, K4 подключены к интерфейсам коммутатора, назначенным VLAN, указанным в таблице. Какие компьютеры могут взаимодействовать друг с другом?",
+        "Naparstnica purpurowa ma strzelisty pokrój, charakteryzujący się wzniesioną łodygą i wąskimi liśćmi": "Наперстянка пурпурная имеет стреловидное строение, характеризующееся вертикальным стеблем и узкими листьями.",
+        "ruter": "маршрутизатор.",
+        "Na przedstawionym rysunku urządzeniem, poprzez które połączone są komputery, jest": "На представленном рисунке устройством, через которое соединены компьютеры, является",
+        "Na rysunku projektowym łodyga strelicji ma długość 5 cm w skali 1:20, co oznacza, że rzeczywista długość łodygi wynosi 5 cm x 20 = 100 cm = 1,00 m": "На чертеже стебель стрелиции имеет длину 5 см в масштабе 1:20, что означает, что фактическая длина стебля составляет 5 см x 20 = 100 см = 1,00 м.",
+        "Narzędzie systemów z rodziny Windows stosowane do modyfikowania parametrów pracy interfejsów sieciowych, np. zmiana dynamicznej konfiguracji karty sieciowej na statyczną, to": "Инструмент систем семейства Windows, используемый для модификации параметров работы сетевых интерфейсов, например, изменение динамической конфигурации сетевой карты на статическую, это"
     }
 }

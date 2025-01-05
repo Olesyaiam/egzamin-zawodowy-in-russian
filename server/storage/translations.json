@@ -5372,6 +5372,12 @@
         "biało-zielony i zielony z biało-niebieskim i niebieskim": "бело-зеленый и зеленый с бело-синим и синим.",
         "biało-pomarańczowy i pomarańczowy z biało-zielonym i zielonym": "бело-оранжевый и оранжевый с бело-зеленым и зеленым.",
         "biało-pomarańczowy i pomarańczowy z biało-brązowym i brązowym": "бело-оранжевый и оранжевый с бело-коричневым и коричневым.",
-        "Zgodnie z normą TIA\/EIA-568-B.1 kabel UTP 5e z przeplotem jest tworzony poprzez zamianę ułożenia we wtyczce 8P8C następujących par przewodów (odpowiednio według kolorów):": "В соответствии со стандартом TIA\/EIA-568-B.1 кабель UTP 5e с перекрещиванием создается путем замены расположения в разъеме 8P8C следующих пар проводов (соответственно по цветам):"
+        "Zgodnie z normą TIA\/EIA-568-B.1 kabel UTP 5e z przeplotem jest tworzony poprzez zamianę ułożenia we wtyczce 8P8C następujących par przewodów (odpowiednio według kolorów):": "В соответствии со стандартом TIA\/EIA-568-B.1 кабель UTP 5e с перекрещиванием создается путем замены расположения в разъеме 8P8C следующих пар проводов (соответственно по цветам):",
+        "Które z poleceń systemu Windows należy zastosować, aby otrzymać wynik jak na przedstawionym rysunku?": "Которую из команд системы Windows следует применить, чтобы получить результат, как на представленном рисунке?",
+        "ipconfig \/flushdns": "ipconfig \/flushdns",
+        "ipconfig \/renew": "ipconfig \/renew",
+        "ipconfig \/release": "ipconfig \/release",
+        "Które polecenie systemu z rodziny Windows pozwala sprawdzić, przechowywane w pamięci podręcznej komputera, zapamiętane tłumaczenia nazw DNS na adresy IP?": "Какое системное командное приложение из семейства Windows позволяет проверить сохраненные в кэше компьютера переводные записи имен DNS на IP-адреса?",
+        "Gliceryna działa jako środek konserwujący, ale jest zbyt gęsta do zastosowania samodzielnie. Dodanie wody w proporcji 1:2 pozwala na rozcieńczenie gliceryny i ułatwia jej penetrację do drewna roślin": "Глицерин действует как консервирующее средство, но он слишком густой для самостоятельного использования. Добавление воды в пропорции 1:2 позволяет разбавить глицерин и облегчает его проникновение в древесину растений."
     }
 }

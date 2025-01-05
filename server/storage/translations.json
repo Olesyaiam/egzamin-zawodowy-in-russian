@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Pinholder jest przeznaczony do zamocowania gąbki florystycznej w płaskim pojemniku, ponieważ posiada wiele małych ząbków, które trzymają gąbkę na swoim miejscu": "Пинхолдер предназначен для закрепления флористической губки в плоском контейнере, поскольку он имеет множество маленьких зубцов, которые удерживают губку на месте."
+        "Pinholder jest przeznaczony do zamocowania gąbki florystycznej w płaskim pojemniku, ponieważ posiada wiele małych ząbków, które trzymają gąbkę na swoim miejscu": "Пинхолдер предназначен для закрепления флористической губки в плоском контейнере, поскольку он имеет множество маленьких зубцов, которые удерживают губку на месте.",
+        "Sansewierię": "Сансевиерия"
     },
     "approved": {
         "others": {
@@ -937,7 +938,10 @@
             "bordowym": "бордовым.",
             "niebieskim": "синим.",
             "Kolor pomarańczowy przyciąga uwagę i jest bardzo widoczny w tłumie, co sprawia, że kwiaty w tym kolorze są doskonałym wyborem dla stoiska wystawowego": "Оранжевый цвет привлекает внимание и очень заметен в толпе, что делает цветы такого цвета отличным выбором для выставочного стенда.",
-            "rustykalnym": "деревенском."
+            "rustykalnym": "деревенском.",
+            "Orchideę": "Орхидею",
+            "Roślinę egzotyczną o wysokich wymaganiach pielęgnacyjnych": "Экзотическое растение с высокими требованиями к уходу",
+            "Roślinę, która wymaga codziennego podlewania": "Растение, которое требует ежедневного полива"
         }
     },
     "not_approved": {
@@ -4344,10 +4348,6 @@
         "Trend \"Zero Waste\" polega na tworzeniu kompozycji z minimalnym zużyciem materiałów i maksymalnym wykorzystaniem naturalnych, odnawialnych lub recyklingowych materiałów": "Тренд \"Zero Waste\" заключается в создании композиций с минимальным использованием материалов и максимальным использованием натуральных, возобновляемых или перерабатываемых материалов.",
         "Tworzysz kompozycję florystyczną zgodnie z aktualnym trendem \"Zero Waste\". Które z poniższych stwierdzeń jest prawdziwe na temat tego trendu?": "Вы создаете флористическую композицию в соответствии с текущим трендом \"Zero Waste\". Какое из следующих утверждений является верным по поводу этого тренда?",
         "Trend \"Zero Waste\" polega na tworzeniu kompozycji z wykorzystaniem tylko sztucznych kwiatów": "Тренд \"Zero Waste\" заключается в создании композиций с использованием только искусственных цветов.",
-        "Orchideę": "Орхидею",
-        "Roślinę egzotyczną o wysokich wymaganiach pielęgnacyjnych": "Экзотическое растение с высокими требованиями к уходу",
-        "Roślinę, która wymaga codziennego podlewania": "Растение, которое требует ежедневного полива",
-        "Sansewierię": "Сансевиерия",
         "Przygotowujesz kompozycję florystyczną na specjalne zamówienie. Klient prosi o użycie roślin doniczkowych, które wymagają minimalnej pielęgnacji. Którą z poniższych roślin wybierzesz?": "Ты готовишь флористическую композицию на специальный заказ. Клиент просит использовать горшечные растения, которые требуют минимального ухода. Какое из нижеперечисленных растений ты выберешь?",
         "Zignorować problem, ponieważ liście nie wpływają na ogólny wygląd kompozycji": "Проигнорировать проблему, поскольку листья не влияют на общий вид композиции",
         "Podlać kwiat więcej, aby liście odzyskały świeżość": "Полить цветок больше, чтобы листья восстановили свежесть.",
@@ -5589,6 +5589,7 @@
         "preparować w cukrze": "Подготовить в сахаре.",
         "suszyć w boraksie": "сушить в бораксе",
         "preparować w roztworach soli": "Подготовить в растворах соли.",
-        "Aby pędy w kompozycji bożonarodzeniowej uzyskały efekt \"oszronionych\", należy je": "Чтобы побеги в рождественской композиции получили эффект \"инея\", необходимо их"
+        "Aby pędy w kompozycji bożonarodzeniowej uzyskały efekt \"oszronionych\", należy je": "Чтобы побеги в рождественской композиции получили эффект \"инея\", необходимо их",
+        "Sansewieria, znana również jako język teściowej, jest rośliną doniczkową o niskich wymaganiach pielęgnacyjnych, która dobrze radzi sobie w różnych warunkach środowiskowych. Jest to idealny wybór dla klienta, który szuka rośliny wymagającej minimalnej pielęgnacji": "Сансевиерия, известная также как тёщин язык, является комнатным растением с низкими требованиями к уходу, которое хорошо справляется в различных условиях окружающей среды. Это идеальный выбор для клиента, который ищет растение, требующее минимального ухода."
     }
 }

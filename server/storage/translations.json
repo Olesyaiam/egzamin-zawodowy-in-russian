@@ -5309,6 +5309,21 @@
         "512 adresów": "512 адресов",
         "510 adresów": "510 адресов.",
         "1024 adresy": "1024 адреса.",
-        "Ile maksymalnie adresów można przydzielić hostom w sieci 10.0.0.0\/22?": "Сколько максимально адресов можно выделить хостам в сети 10.0.0.0\/22?"
+        "Ile maksymalnie adresów można przydzielić hostom w sieci 10.0.0.0\/22?": "Сколько максимально адресов можно выделить хостам в сети 10.0.0.0\/22?",
+        "16 bitów \/ 112 bitów": "16 бит \/ 112 бит",
+        "64 bity \/ 64 bity": "64 бита \/ 64 бита.",
+        "96 bitów \/ 32 bity": "96 битов \/ 32 бита.",
+        "W adresacji IPv6 typowy podział długości związanej z adresem sieci i identyfikatorem hosta wynosi odpowiednio": "В адресации IPv6 типичное разделение длины, связанной с адресом сети и идентификатором хоста, соответственно составляет",
+        "32 bity \/ 96 bitów": "32 бита \/ 96 битов.",
+        "usługi zarządzania prawami": "услуги управления правами.",
+        "rolę serwera Web": "роль веб-сервера.",
+        "rolę serwera DHCP": "роль сервера DHCP.",
+        "Aby serwer Windows mógł zarządzać usługami katalogowymi, należy zainstalować": "Чтобы сервер Windows мог управлять каталоговыми службами, необходимо установить",
+        "kontroler domeny": "контроллер домена.",
+        "VM (Virtual Machine)": "ВМ (виртуальная машина)",
+        "VLAN (Virtual Lan Area Network)": "VLAN (Virtual Lan Area Network).",
+        "VoIP (Voice over Internet Protocol)": "VoIP (Voice over Internet Protocol).",
+        "Zestawienie połączenia między dwoma odległymi hostami, za pośrednictwem publicznej sieci, np. Internet, w taki sposób, że węzły tej sieci są przezroczyste dla przesyłanych w ten sposób pakietów, to": "Установление соединения между двумя удаленными узлами через общественную сеть, например, Интернет, таким образом, что узлы этой сети являются прозрачными для передаваемых таким образом пакетов, это",
+        "VPN (Virtual Private Network)": "VPN (Виртуальная частная сеть)."
     }
 }

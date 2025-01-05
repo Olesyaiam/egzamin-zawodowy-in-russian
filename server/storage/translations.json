@@ -990,7 +990,12 @@
             "Nawóz o wysokiej zawartości fosforu": "Удобрение с высоким содержанием фосфора",
             "Nawóz o wysokiej zawartości magnezu": "Удобрение с высоким содержанием магния",
             "W okresie wiosennym, kiedy rośliny intensywnie rosną, najbardziej odpowiedni jest nawóz o wysokiej zawartości azotu, który stymuluje wzrost i rozwój roślin": "В весенний период, когда растения интенсивно растут, наиболее подходящим является удобрение с высоким содержанием азота, которое стимулирует рост и развитие растений.",
-            "Wybierasz wstążkę do kompozycji florystycznej. Który z poniższych czynników jest najważniejszy przy wyborze wstążki?": "Вы выбираете ленту для флористической композиции. Какой из следующих факторов является самым важным при выборе ленты?"
+            "Wybierasz wstążkę do kompozycji florystycznej. Który z poniższych czynników jest najważniejszy przy wyborze wstążki?": "Вы выбираете ленту для флористической композиции. Какой из следующих факторов является самым важным при выборе ленты?",
+            "Dopasowanie koloru i stylu wstążki do kompozycji": "Подбор цвета и стиля ленты к композиции",
+            "Cena wstążki": "Цена ленты",
+            "Dostępność wstążki": "Доступность ленты",
+            "Szerokość wstążki": "Ширина ленты",
+            "Dopasowanie koloru i stylu wstążki do kompozycji jest kluczowe dla tworzenia harmonijnej i estetycznej kompozycji florystycznej. Wstążka powinna komplementować, a nie dominować nad kwiatami": "Подбор цвета и стиля ленты к композиции является ключевым для создания гармоничной и эстетичной флористической композиции. Лента должна дополнять, а не доминировать над цветами."
         }
     },
     "not_approved": {
@@ -4009,9 +4014,6 @@
         "Na zdjęciu przedstawiono kompozycję kwiatową w białym kolorze umieszczoną w czarnym pudełku. Barwy achromatyczne to takie, które nie mają barwy, czyli są to odcienie szarości, bieli i czerni. W tym przypadku kompozycja składa się z barw achromatycznych - bieli (kwiaty) i czerni (pudełko)": "На фотографии представлена цветочная композиция в белом цвете, размещённая в чёрной коробке. Оттенки чёрно-белые — это такие, которые не имеют расцветки, то есть это оттенки серого, белого и чёрного. В данном случае композиция состоит из оттенков чёрно-белых - белого (цветы) и чёрного (коробка).",
         "anturium": "антуриум",
         "КЛЮЧ ОТВЕТА ОТДЕЛЬНО": "Ключ ответа отдельно",
-        "Cena wstążki": "Цена ленты",
-        "Szerokość wstążki": "Ширина ленты",
-        "Dopasowanie koloru i stylu wstążki do kompozycji jest kluczowe dla tworzenia harmonijnej i estetycznej kompozycji florystycznej. Wstążka powinna komplementować, a nie dominować nad kwiatami": "Подбор цвета и стиля ленты к композиции является ключевым для создания гармоничной и эстетичной флористической композиции. Лента должна дополнять, а не доминировать над цветами.",
         "Którą z wymienionych roślin najlepiej suszyć w pozycji naturalnej (do góry)?": "Какое из перечисленных растений лучше сушить в естественном положении (вверх)?",
         "Dodajemy wszystko oprócz kosztów transportu i robocizny": "Добавляем всё, кроме затрат на транспорт и работу.",
         "Z wykonaniem kompozycji związana jest także robocizna - przecież jakoś trzeba tę kompozycję zrobić": "С выполнением композиции связана также работа - ведь как-то нужно сделать эту композицию.",
@@ -4047,8 +4049,6 @@
         "Trójkąt różnoboczny": "Треугольник разносторонний.",
         "Wskaż kształt charakterystyczny dla ślubnej wiązanki angielskiej": "Укажите форму, характерную для английской свадебной цветочной связки.",
         "Trójkąt równoramienny": "Равнобедренный треугольник.",
-        "Dostępność wstążki": "Доступность ленты",
-        "Dopasowanie koloru i stylu wstążki do kompozycji": "Подбор цвета и стиля ленты к композиции",
         "Арбузы": "Арбузы",
         "Виноград": "Winogrona.",
         "Какие из следующих фруктов производят большое количество этилена?": "Które z następujących owoców wytwarzają dużą ilość etylenu?",

@@ -5264,6 +5264,16 @@
         "Postfix": "Postfix",
         "CUPS": "CUPS",
         "Usługa serwerowa, która umożliwia udostępnianie linuksowych usług drukowania oraz serwera plików stacjom roboczym Windows, to": "Серверная услуга, которая позволяет предоставлять линуксовые услуги печати, а также сервер файлов рабочим станциям Windows, это",
-        "Vsftpd": "Vsftpd"
+        "Vsftpd": "Vsftpd",
+        "sieci": "сети.",
+        "aplikacji": "приложений.",
+        "łącza danych": "канала передачи данных.",
+        "transportowej": "транспортном.",
+        "W modelu ISO\/OSI protokoły TCP i UDP pracują w warstwie": "В модели ISO\/OSI протоколы TCP и UDP работают в слое",
+        "kampusowe": "кампусное.",
+        "pionowe": "вертикальное.",
+        "poziome": "горизонтальное.",
+        "szkieletowe zewnętrzne": "Скелетное внешнее.",
+        "Strzałka na rysunku przedstawiającym schemat systemu sieciowego według normy PN-EN 50173 wskazuje okablowanie": "Стрелолист на рисунке, показывающем схему сетевой системы по стандарту PN-EN 50173, указывает на кабелизацию."
     }
 }

@@ -1060,7 +1060,13 @@
             "Wszystkie kwiaty cięte powinny być przechowywane w lodówce": "Все срезанные цветы должны храниться в холодильнике.",
             "Kwiaty cięte nie wymagają specjalnych warunków przechowywania": "Срезанные цветы не требуют особых условий хранения.",
             "Wszystkie kwiaty cięte powinny być przechowywane w temperaturze pokojowej": "Все срезанные цветы должны храниться при комнатной температуре.",
-            "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania. Niektóre z nich najlepiej przechowywać w chłodni, inne natomiast w temperaturze pokojowej. Ważne jest, aby dostosować warunki do konkretnego gatunku": "Различные виды срезанных цветов требуют разных условий хранения. Некоторые из них лучше всего хранить в холодильной камере, другие же при комнатной температуре. Важно подбирать условия в соответствии с конкретным видом."
+            "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania. Niektóre z nich najlepiej przechowywać w chłodni, inne natomiast w temperaturze pokojowej. Ważne jest, aby dostosować warunki do konkretnego gatunku": "Различные виды срезанных цветов требуют разных условий хранения. Некоторые из них лучше всего хранить в холодильной камере, другие же при комнатной температуре. Важно подбирать условия в соответствии с конкретным видом.",
+            "Tworzysz kompozycję florystyczną na jesień. Które z poniższych elementów powinieneś uwzględnić, aby twoja kompozycja była zgodna z sezonem?": "Вы создаете флористическую композицию на осень. Какие из перечисленных элементов вы должны включить, чтобы ваша композиция соответствовала сезону?",
+            "Kwiaty w odcieniach czerwieni, pomarańczu i brązu": "Цветы оттенков красного, оранжевого и коричневого",
+            "Kwiaty w odcieniach niebieskiego i białego": "Цветы в оттенках синего и белого",
+            "Tropikalne kwiaty, takie jak hibiskus i orchidee": "Тропические цветы, такие как гибискус и орхидеи",
+            "Wiosenne kwiaty, takie jak tulipany i narcyzy": "Весенние цветы, такие как тюльпаны и нарциссы",
+            "Jesienna kompozycja florystyczna powinna odzwierciedlać kolory sezonu, takie jak czerwień, pomarańcz i brąz. Wiosenne i tropikalne kwiaty nie są zgodne z tym sezonem": "Осенняя флористическая композиция должна отражать цвета сезона, такие как красный, оранжевый и коричневый. Весенние и тропические цветы не соответствуют этому сезону."
         }
     },
     "not_approved": {
@@ -1983,11 +1989,6 @@
         "Muszelki morskie": "Морские раковины",
         "Drewniane gałęzie": "Деревянные ветки",
         "Zastanów się nad poniższą tabelą, która przedstawia różne materiały dekoracyjne i ich cechy. Który z nich będzie najbardziej odpowiedni do stworzenia kompozycji florystycznej na wiosnę? Materiał dekoracyjnyKolorWaga Drewniane gałęzieBrunatnyŚrednia Muszelki morskieRóżne odcienie niebieskiegoMała Żwir kolorowyRóżne koloryDuża Wstążki satynoweRóżne odcienie pasteloweMała": "Подумайте о нижеприведенной таблице, которая представляет различные декоративные материалы и их характеристики. Какой из них будет наиболее подходящим для создания весенней флористической композиции? Декоративный материалЦветВес Деревянные ветвиКоричневыйСредняя Морские ракушкиРазные оттенки синегоМалая Цветной гравийРазные цветаБольшая Атласные лентыРазные пастельные оттенкиМалая",
-        "Kwiaty w odcieniach niebieskiego i białego": "Цветы в оттенках синего и белого",
-        "Wiosenne kwiaty, takie jak tulipany i narcyzy": "Весенние цветы, такие как тюльпаны и нарциссы",
-        "Tworzysz kompozycję florystyczną na jesień. Które z poniższych elementów powinieneś uwzględnić, aby twoja kompozycja była zgodna z sezonem?": "Вы создаете флористическую композицию на осень. Какие из перечисленных элементов вы должны включить, чтобы ваша композиция соответствовала сезону?",
-        "Kwiaty w odcieniach czerwieni, pomarańczu i brązu": "Цветы оттенков красного, оранжевого и коричневого",
-        "Tropikalne kwiaty, takie jak hibiskus i orchidee": "Тропические цветы, такие как гибискус и орхидеи",
         "W systemach telewizyjnych stosuje się kable o impedancji falowej": "В телевизионных системах используются кабели с волновым сопротивлением",
         "mostka prostowniczego": "мостикового выпрямителя.",
         "elementów biernych": "пассивных элементов.",

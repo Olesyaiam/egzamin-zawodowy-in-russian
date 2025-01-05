@@ -1046,7 +1046,9 @@
             "Przygotowujesz do sprzedaży kompozycję florystyczną. Jaki materiał do pakowania jest najbardziej odpowiedni, aby zachować świeżość i estetykę roślin?": "Готовите к продаже флористическую композицию. Какой упаковочный материал наиболее подходит, чтобы сохранить свежесть и эстетику растений?",
             "Papier kraft": "Крафт-бумага",
             "Papier z folią aluminiową": "Бумага с алюминиевой фольгой",
-            "Czysta folia bąbelkowa": "Чистая пузырчатая пленка"
+            "Czysta folia bąbelkowa": "Чистая пузырчатая пленка",
+            "Papier cellofanowy": "Целлофановая бумага",
+            "Papier cellofanowy jest najbardziej odpowiedni do pakowania kompozycji florystycznych, ponieważ jest lekki, przezroczysty i pozwala na utrzymanie wilgotności, co pomaga w zachowaniu świeżości roślin": "Целлофановая бумага является наиболее подходящей для упаковки флористических композиций, поскольку она легкая, прозрачная и позволяет сохранять влажность, что помогает в сохранении свежести растений."
         }
     },
     "not_approved": {
@@ -1969,7 +1971,6 @@
         "Muszelki morskie": "Морские раковины",
         "Drewniane gałęzie": "Деревянные ветки",
         "Zastanów się nad poniższą tabelą, która przedstawia różne materiały dekoracyjne i ich cechy. Który z nich będzie najbardziej odpowiedni do stworzenia kompozycji florystycznej na wiosnę? Materiał dekoracyjnyKolorWaga Drewniane gałęzieBrunatnyŚrednia Muszelki morskieRóżne odcienie niebieskiegoMała Żwir kolorowyRóżne koloryDuża Wstążki satynoweRóżne odcienie pasteloweMała": "Подумайте о нижеприведенной таблице, которая представляет различные декоративные материалы и их характеристики. Какой из них будет наиболее подходящим для создания весенней флористической композиции? Декоративный материалЦветВес Деревянные ветвиКоричневыйСредняя Морские ракушкиРазные оттенки синегоМалая Цветной гравийРазные цветаБольшая Атласные лентыРазные пастельные оттенкиМалая",
-        "Papier cellofanowy": "Целлофановая бумага",
         "Kwiaty w odcieniach niebieskiego i białego": "Цветы в оттенках синего и белого",
         "Wiosenne kwiaty, takie jak tulipany i narcyzy": "Весенние цветы, такие как тюльпаны и нарциссы",
         "Tworzysz kompozycję florystyczną na jesień. Które z poniższych elementów powinieneś uwzględnić, aby twoja kompozycja była zgodna z sezonem?": "Вы создаете флористическую композицию на осень. Какие из перечисленных элементов вы должны включить, чтобы ваша композиция соответствовала сезону?",

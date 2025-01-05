@@ -1090,7 +1090,12 @@
             "Materiał, z którego jest wykonany wazon": "Материал, из которого выполнен вазон",
             "Kolor wazona": "Цвет вазона",
             "Rozmiar otworu wazona": "Размер отверстия вазона",
-            "Rozmiar otworu wazona jest kluczowy, ponieważ musi on być odpowiedni do rozmiaru rośliny. Kolor, wysokość i materiał wazona są również ważne, ale to rozmiar otworu decyduje, czy roślina będzie pasować do wazona": "Размер отверстия вазона имеет ключевое значение, потому что он должен быть подходящим для размера растения. Цвет, высота и материал вазона также важны, но именно размер отверстия определяет, подойдет ли растение для вазона."
+            "Rozmiar otworu wazona jest kluczowy, ponieważ musi on być odpowiedni do rozmiaru rośliny. Kolor, wysokość i materiał wazona są również ważne, ale to rozmiar otworu decyduje, czy roślina będzie pasować do wazona": "Размер отверстия вазона имеет ключевое значение, потому что он должен быть подходящим для размера растения. Цвет, высота и материал вазона также важны, но именно размер отверстия определяет, подойдет ли растение для вазона.",
+            "Żółty i pomarańczowy są kolorami sąsiadującymi na kole kolorów, co oznacza, że dobrze ze sobą współgrają i tworzą harmonijną kombinację": "Жёлтый и оранжевый являются цветами, соседствующими на коле цветов, что означает, что они хорошо сочетаются друг с другом и создают гармоничную комбинацию.",
+            "Tulipan i Gerbera": "Тюльпан и гербера",
+            "Gerbera i Goździk": "Гербера и гвоздика",
+            "Róża i Tulipan": "Роза и тюльпан",
+            "Róża i Goździk": "Роза и гвоздика"
         }
     },
     "not_approved": {
@@ -4481,10 +4486,6 @@
         "A-2, B-3, C-1, D-4": "A-2, B-3, C-1, D-4",
         "Porównaj poniższe rośliny na podstawie tabeli i wskaż, która z nich jest najczęściej wykorzystywana w bukietach ślubnych. Roślina Trudność pielęgnacji Częstotliwość kwitnienia Popularność we florystyce A. Róża Średnia Wysoka Wysoka B. Storczyk Wysoka Średnia Średnia C. Tulipan Niska Średnia Średnia D. Goździk Niska Wysoka Niska": "Сравните приведенные ниже растения на основе таблицы и укажите, какое из них чаще всего используется в свадебных букетах. Растение Сложность ухода Частота цветения Популярность во флористике A. Роза Средняя Высокая Высокая B. Орхидея Высокая Средняя Средняя C. Тюльпан Низкая Средняя Средняя D. Гвоздика Низкая Высокая Низкая",
         "Na podstawie powyższej tabeli, ile roślin różnych gatunków powinieneś użyć do stworzenia kompozycji florystycznej?": "На основании вышеуказанной таблицы, сколько растений различных видов ты должен использовать для создания флористической композиции?",
-        "Gerbera i Goździk": "Гербера и гвоздика",
-        "Róża i Goździk": "Роза и гвоздика",
-        "Tulipan i Gerbera": "Тюльпан и гербера",
-        "Róża i Tulipan": "Роза и тюльпан",
         "Używając poniższej tabeli, określ, które z kwiatów można umieścić razem w jednym bukiecie, aby zachować harmonię kolorystyczną. Kwiat Kolor Róża Czerwony Tulipan Żółty Gerbera Pomarańczowy Goździk Fioletowy": "Используя приведенную ниже таблицу, определите, какие из цветов можно разместить вместе в одном букете, чтобы сохранить цветовую гармонию. Цветок Цвет Роза Красный Тюльпан Желтый Гербера Оранжевый Гвоздика Фиолетовый",
         "Podczas planowania kompozycji florystycznej, musisz zdecydować o odpowiedniej technice układania łodyg. Wskaż, które z poniższych stwierdzeń jest prawdziwe dla obu technik - spiralnego i równoległego układania łodyg. ABCD Obie techniki wymagają dokładnego planowania i precyzyjnego wykonania.Obie techniki dają efekt lekkości i swobody.Obie techniki pozwalają na stworzenie kompozycji o dowolnym kształcie.Obie techniki wymagają użycia tych samych rodzajów kwiatów": "При планировании флористической композиции необходимо решить, какую технику укладки стеблей применить. Укажите, какое из следующих утверждений является верным для обеих техник - спиральной и параллельной укладки стеблей. ABCD Обе техники требуют тщательного планирования и точного выполнения. Обе техники дают эффект легкости и свободы. Обе техники позволяют создать композицию любой формы. Обе техники требуют использования одинаковых видов цветов.",
         "Symbol Liczba sztuk ○ 3 □ 2 △ 1 Na podstawie powyższej tabeli, ile roślin różnych gatunków powinieneś użyć do stworzenia kompozycji florystycznej?": "Символ Количество штук ○ 3 □ 2 △ 1 На основе вышеуказанной таблицы, сколько растений разных видов ты должен использовать для создания флористической композиции?",

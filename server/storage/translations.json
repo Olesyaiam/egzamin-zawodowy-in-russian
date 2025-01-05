@@ -1040,7 +1040,13 @@
             "Jakie są zalecane warunki przechowywania dla kompozycji z kwiatów ciętych?": "Каковы рекомендуемые условия хранения для композиций из срезанных цветов?",
             "Niska temperatura, wysoka wilgotność, z dala od bezpośredniego światła słonecznego": "Низкая температура, высокая влажность, вдали от прямого солнечного света.",
             "Niska temperatura, niska wilgotność, bez dostępu do światła": "Низкая температура, низкая влажность, без доступа к свету.",
-            "Niska temperatura, wysoka wilgotność, bezpośrednie światło słoneczne": "Низкая температура, высокая влажность, прямой солнечный свет."
+            "Niska temperatura, wysoka wilgotność, bezpośrednie światło słoneczne": "Низкая температура, высокая влажность, прямой солнечный свет.",
+            "Wysoka temperatura, niska wilgotność, bez dostępu do światła": "Высокая температура, низкая влажность, без доступа к свету",
+            "Kompozycje z kwiatów ciętych powinny być przechowywane w chłodnym miejscu z wysoką wilgotnością i z dala od bezpośredniego światła słonecznego. To zapewnia dłuższą świeżość i trwałość kompozycji": "Композиции из срезанных цветов следует хранить в прохладном месте с высокой влажностью и вдали от прямого солнечного света. Это обеспечивает более долгую свежесть и долговечность композиции.",
+            "Przygotowujesz do sprzedaży kompozycję florystyczną. Jaki materiał do pakowania jest najbardziej odpowiedni, aby zachować świeżość i estetykę roślin?": "Готовите к продаже флористическую композицию. Какой упаковочный материал наиболее подходит, чтобы сохранить свежесть и эстетику растений?",
+            "Papier kraft": "Крафт-бумага",
+            "Papier z folią aluminiową": "Бумага с алюминиевой фольгой",
+            "Czysta folia bąbelkowa": "Чистая пузырчатая пленка"
         }
     },
     "not_approved": {
@@ -1185,7 +1191,6 @@
         "12 MIESIĘCY": "12 МЕСЯЦЕВ",
         "6 MIESIĘCY": "6 МЕСЯЦЕВ",
         "3 MIESIĄCE": "3 МЕСЯЦА",
-        "Kompozycje z kwiatów ciętych powinny być przechowywane w chłodnym miejscu z wysoką wilgotnością i z dala od bezpośredniego światła słonecznego. To zapewnia dłuższą świeżość i trwałość kompozycji": "Композиции из срезанных цветов следует хранить в прохладном месте с высокой влажностью и вдали от прямого солнечного света. Это обеспечивает более долгую свежесть и долговечность композиции.",
         "Układ radialny": "Радиальный уклад",
         "Asymetryczny układ": "Асимметричный уклад",
         "Symetryczny układ": "Симметричный уклад",
@@ -1197,7 +1202,6 @@
         "Dianthus": "Гвоздика",
         "W tabeli przedstawiono nazwy polskie i łacińskie różnych gatunków roślin. Dopasuj odpowiednią nazwę łacińską do polskiej nazwy rośliny \"Storczyk\". Nazwa Polska Nazwa Łacińska Róża Rosa Storczyk ? Tulipan Tulipa Goździk Dianthus": "В таблице представлены польские и латинские названия различных видов растений. Подберите соответствующее латинское название к польскому названию растения «Орхидея». Название Польское Название Латинское Роза Rosa Орхидея ? Тюльпан Tulipa Гвоздика Dianthus.",
         "Układ równoległy": "Параллельный уклад",
-        "Wysoka temperatura, niska wilgotność, bez dostępu do światła": "Высокая температура, низкая влажность, без доступа к свету",
         "Pomiar ciśnienia krwi należy wykonać": "Измерение артериального давления следует выполнить.",
         "w pozycji stojącej pacjenta": "в положении стоя пациента.",
         "co najmniej po 5 minutach odpoczynku pacjenta": "не менее чем спустя 5 минут после отдыха пациента.",
@@ -1965,11 +1969,7 @@
         "Muszelki morskie": "Морские раковины",
         "Drewniane gałęzie": "Деревянные ветки",
         "Zastanów się nad poniższą tabelą, która przedstawia różne materiały dekoracyjne i ich cechy. Który z nich będzie najbardziej odpowiedni do stworzenia kompozycji florystycznej na wiosnę? Materiał dekoracyjnyKolorWaga Drewniane gałęzieBrunatnyŚrednia Muszelki morskieRóżne odcienie niebieskiegoMała Żwir kolorowyRóżne koloryDuża Wstążki satynoweRóżne odcienie pasteloweMała": "Подумайте о нижеприведенной таблице, которая представляет различные декоративные материалы и их характеристики. Какой из них будет наиболее подходящим для создания весенней флористической композиции? Декоративный материалЦветВес Деревянные ветвиКоричневыйСредняя Морские ракушкиРазные оттенки синегоМалая Цветной гравийРазные цветаБольшая Атласные лентыРазные пастельные оттенкиМалая",
-        "Papier kraft": "Крафт-бумага",
         "Papier cellofanowy": "Целлофановая бумага",
-        "Papier z folią aluminiową": "Бумага с алюминиевой фольгой",
-        "Przygotowujesz do sprzedaży kompozycję florystyczną. Jaki materiał do pakowania jest najbardziej odpowiedni, aby zachować świeżość i estetykę roślin?": "Готовите к продаже флористическую композицию. Какой упаковочный материал наиболее подходит, чтобы сохранить свежесть и эстетику растений?",
-        "Czysta folia bąbelkowa": "Чистая пузырчатая пленка",
         "Kwiaty w odcieniach niebieskiego i białego": "Цветы в оттенках синего и белого",
         "Wiosenne kwiaty, takie jak tulipany i narcyzy": "Весенние цветы, такие как тюльпаны и нарциссы",
         "Tworzysz kompozycję florystyczną na jesień. Które z poniższych elementów powinieneś uwzględnić, aby twoja kompozycja była zgodna z sezonem?": "Вы создаете флористическую композицию на осень. Какие из перечисленных элементов вы должны включить, чтобы ваша композиция соответствовала сезону?",

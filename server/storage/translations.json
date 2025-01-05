@@ -5289,6 +5289,16 @@
         "224.0.0.1 ÷ 224.255.255.254": "224.0.0.1 ÷ 224.255.255.254",
         "127.0.0.1 ÷ 127.255.255.254": "127.0.0.1 ÷ 127.255.255.254",
         "192.168.0.1 ÷ 192.168.255.254": "192.168.0.1 ÷ 192.168.255.254",
-        "Host automatycznie pobiera adres IP z serwera DHCP. W przypadku gdy serwer DHCP ulegnie uszkodzeniu, karcie sieciowej zostanie przypisany adres IP z zakresu": "Хост автоматически получает IP-адрес с сервера DHCP. В случае, если сервер DHCP выйдет из строя, сетевой карте будет присвоен IP-адрес из диапазона."
+        "Host automatycznie pobiera adres IP z serwera DHCP. W przypadku gdy serwer DHCP ulegnie uszkodzeniu, karcie sieciowej zostanie przypisany adres IP z zakresu": "Хост автоматически получает IP-адрес с сервера DHCP. В случае, если сервер DHCP выйдет из строя, сетевой карте будет присвоен IP-адрес из диапазона.",
+        "FTP (File Transfer Protocol)": "FTP (протокол передачи файлов)",
+        "DNS (Domain Name System)": "DNS (система доменных имен)",
+        "Który protokół służy do przesyłania plików na serwer?": "Какой протокол используется для передачи файлов на сервер?",
+        "DHCP (Dynamic Host Configuration Protocol)": "DHCP (Протокол динамической конфигурации узла).",
+        "HTTP (Hyper Text Transfer Protocol)": "HTTP (Протокол передачи гипертекста).",
+        "przeprowadzić analizę biznesową": "провести бизнес-анализ.",
+        "dobrać urządzenia sieciowe": "выбрать сетевые устройства",
+        "sporządzić dokumentację powykonawczą": "составить исполнительную документацию.",
+        "sporządzić kosztorys": "составить смету.",
+        "W trakcie tworzenia projektu sieci komputerowej należy w pierwszej kolejności": "Во время создания проекта компьютерной сети необходимо в первую очередь"
     }
 }

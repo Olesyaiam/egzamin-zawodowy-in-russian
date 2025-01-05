@@ -1055,7 +1055,12 @@
             "Tylko temperatura, wilgotność, oświetlenie i jakość wody": "Только температура, влажность, освещение и качество воды",
             "Tylko temperatura, wilgotność i oświetlenie": "Только температура, влажность и освещение",
             "Trwałość kwiatów i zieleni ciętej jest wpływana przez wiele czynników, w tym temperaturę, wilgotność, oświetlenie, jakość wody, a także czynniki biologiczne, takie jak wiek kwiatu i stan zdrowia rośliny. Wszystkie te czynniki mają wpływ na procesy metaboliczne rośliny i mogą skrócić lub przedłużyć jej żywotność": "Долговечность цветов и срезанной зелени зависит от многих факторов, включая температуру, влажность, освещение, качество воды, а также биологические факторы, такие как возраст цветка и состояние здоровья растения. Все эти факторы влияют на метаболические процессы растения и могут сократить или продлить его жизненный срок.",
-            "Które z poniższych twierdzeń jest prawdziwe w odniesieniu do przechowywania kwiatów ciętych?": "Какое из следующих утверждений является верным в отношении хранения срезанных цветов?"
+            "Które z poniższych twierdzeń jest prawdziwe w odniesieniu do przechowywania kwiatów ciętych?": "Какое из следующих утверждений является верным в отношении хранения срезанных цветов?",
+            "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania": "Разные виды срезанных цветов требуют разных условий хранения.",
+            "Wszystkie kwiaty cięte powinny być przechowywane w lodówce": "Все срезанные цветы должны храниться в холодильнике.",
+            "Kwiaty cięte nie wymagają specjalnych warunków przechowywania": "Срезанные цветы не требуют особых условий хранения.",
+            "Wszystkie kwiaty cięte powinny być przechowywane w temperaturze pokojowej": "Все срезанные цветы должны храниться при комнатной температуре.",
+            "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania. Niektóre z nich najlepiej przechowywać w chłodni, inne natomiast w temperaturze pokojowej. Ważne jest, aby dostosować warunki do konkretnego gatunku": "Различные виды срезанных цветов требуют разных условий хранения. Некоторые из них лучше всего хранить в холодильной камере, другие же при комнатной температуре. Важно подбирать условия в соответствии с конкретным видом."
         }
     },
     "not_approved": {
@@ -4469,10 +4474,6 @@
         "Rozmiar otworu wazona": "Размер отверстия вазона",
         "Materiał, z którego jest wykonany wazon": "Материал, из которого выполнен вазон",
         "Przygotowujesz do sprzedaży wazon z roślinami doniczkowymi. Który z poniższych czynników jest najważniejszy przy wyborze wazona?": "Вы готовите к продаже вазон с комнатными растениями. Какой из следующих факторов является самым важным при выборе вазона?",
-        "Wszystkie kwiaty cięte powinny być przechowywane w lodówce": "Все срезанные цветы должны храниться в холодильнике.",
-        "Różne gatunki kwiatów ciętych wymagają różnych warunków przechowywania": "Разные виды срезанных цветов требуют разных условий хранения.",
-        "Kwiaty cięte nie wymagają specjalnych warunków przechowywania": "Срезанные цветы не требуют особых условий хранения.",
-        "Wszystkie kwiaty cięte powinny być przechowywane w temperaturze pokojowej": "Все срезанные цветы должны храниться при комнатной температуре.",
         "Porównaj poniższe rośliny na podstawie tabeli i wskaż, która z nich jest najczęściej wykorzystywana w bukietach ślubnych. Roślina Trudność pielęgnacji Częstotliwość kwitnienia Popularność we florystyce A. Róża Średnia Wysoka Wysoka B. Storczyk Wysoka Średnia Średnia C. Tulipan Niska Średnia Średnia D. Goździk Niska Wysoka Niska": "Сравните приведенные ниже растения на основе таблицы и укажите, какое из них чаще всего используется в свадебных букетах. Растение Сложность ухода Частота цветения Популярность во флористике A. Роза Средняя Высокая Высокая B. Орхидея Высокая Средняя Средняя C. Тюльпан Низкая Средняя Средняя D. Гвоздика Низкая Высокая Низкая",
         "Na podstawie powyższej tabeli, ile roślin różnych gatunków powinieneś użyć do stworzenia kompozycji florystycznej?": "На основании вышеуказанной таблицы, сколько растений различных видов ты должен использовать для создания флористической композиции?",
         "Gerbera i Goździk": "Гербера и гвоздика",

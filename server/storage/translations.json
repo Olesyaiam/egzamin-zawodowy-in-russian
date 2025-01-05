@@ -5274,6 +5274,11 @@
         "pionowe": "вертикальное.",
         "poziome": "горизонтальное.",
         "szkieletowe zewnętrzne": "Скелетное внешнее.",
-        "Strzałka na rysunku przedstawiającym schemat systemu sieciowego według normy PN-EN 50173 wskazuje okablowanie": "Стрелолист на рисунке, показывающем схему сетевой системы по стандарту PN-EN 50173, указывает на кабелизацию."
+        "Strzałka na rysunku przedstawiającym schemat systemu sieciowego według normy PN-EN 50173 wskazuje okablowanie": "Стрелолист на рисунке, показывающем схему сетевой системы по стандарту PN-EN 50173, указывает на кабелизацию.",
+        "Adres bramy dla K1": "Адрес шлюза для K1.",
+        "Maskę w adresie dla K2": "Маску в адресе для K2.",
+        "Adres bramy dla K2": "Адрес шлюза для K2.",
+        "Maskę w adresie dla K1": "Маску в адресе для K1.",
+        "Komputery K1 i K2 nie mogą się komunikować. Adresacja urządzeń jest podana w tabeli. Co należy zmienić, aby przywrócić komunikację w sieci?": "Компьютеры K1 и K2 не могут общаться. Адресация устройств указана в таблице. Что необходимо изменить, чтобы восстановить связь в сети?"
     }
 }

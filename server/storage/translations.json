@@ -1048,7 +1048,13 @@
             "Papier z folią aluminiową": "Бумага с алюминиевой фольгой",
             "Czysta folia bąbelkowa": "Чистая пузырчатая пленка",
             "Papier cellofanowy": "Целлофановая бумага",
-            "Papier cellofanowy jest najbardziej odpowiedni do pakowania kompozycji florystycznych, ponieważ jest lekki, przezroczysty i pozwala na utrzymanie wilgotności, co pomaga w zachowaniu świeżości roślin": "Целлофановая бумага является наиболее подходящей для упаковки флористических композиций, поскольку она легкая, прозрачная и позволяет сохранять влажность, что помогает в сохранении свежести растений."
+            "Papier cellofanowy jest najbardziej odpowiedni do pakowania kompozycji florystycznych, ponieważ jest lekki, przezroczysty i pozwala na utrzymanie wilgotności, co pomaga w zachowaniu świeżości roślin": "Целлофановая бумага является наиболее подходящей для упаковки флористических композиций, поскольку она легкая, прозрачная и позволяет сохранять влажность, что помогает в сохранении свежести растений.",
+            "Jakie czynniki wpływają na trwałość kwiatów i zieleni ciętej?": "Какие факторы влияют на долговечность цветов и срезанной зелени?",
+            "Temperatura, wilgotność, oświetlenie, jakość wody, a także czynniki biologiczne, takie jak wiek kwiatu i stan zdrowia rośliny": "Температура, влажность, освещение, качество воды, а также биологические факторы, такие как возраст цветка и состояние здоровья растения.",
+            "Tylko temperatura i wilgotność": "Только температура и влажность",
+            "Tylko temperatura, wilgotność, oświetlenie i jakość wody": "Только температура, влажность, освещение и качество воды",
+            "Tylko temperatura, wilgotność i oświetlenie": "Только температура, влажность и освещение",
+            "Trwałość kwiatów i zieleni ciętej jest wpływana przez wiele czynników, w tym temperaturę, wilgotność, oświetlenie, jakość wody, a także czynniki biologiczne, takie jak wiek kwiatu i stan zdrowia rośliny. Wszystkie te czynniki mają wpływ na procesy metaboliczne rośliny i mogą skrócić lub przedłużyć jej żywotność": "Долговечность цветов и срезанной зелени зависит от многих факторов, включая температуру, влажность, освещение, качество воды, а также биологические факторы, такие как возраст цветка и состояние здоровья растения. Все эти факторы влияют на метаболические процессы растения и могут сократить или продлить его жизненный срок."
         }
     },
     "not_approved": {
@@ -4469,11 +4475,6 @@
         "Wszystkie kwiaty cięte powinny być przechowywane w temperaturze pokojowej": "Все срезанные цветы должны храниться при комнатной температуре.",
         "Porównaj poniższe rośliny na podstawie tabeli i wskaż, która z nich jest najczęściej wykorzystywana w bukietach ślubnych. Roślina Trudność pielęgnacji Częstotliwość kwitnienia Popularność we florystyce A. Róża Średnia Wysoka Wysoka B. Storczyk Wysoka Średnia Średnia C. Tulipan Niska Średnia Średnia D. Goździk Niska Wysoka Niska": "Сравните приведенные ниже растения на основе таблицы и укажите, какое из них чаще всего используется в свадебных букетах. Растение Сложность ухода Частота цветения Популярность во флористике A. Роза Средняя Высокая Высокая B. Орхидея Высокая Средняя Средняя C. Тюльпан Низкая Средняя Средняя D. Гвоздика Низкая Высокая Низкая",
         "Na podstawie powyższej tabeli, ile roślin różnych gatunków powinieneś użyć do stworzenia kompozycji florystycznej?": "На основании вышеуказанной таблицы, сколько растений различных видов ты должен использовать для создания флористической композиции?",
-        "Tylko temperatura i wilgotność": "Только температура и влажность",
-        "Tylko temperatura, wilgotność i oświetlenie": "Только температура, влажность и освещение",
-        "Tylko temperatura, wilgotność, oświetlenie i jakość wody": "Только температура, влажность, освещение и качество воды",
-        "Jakie czynniki wpływają na trwałość kwiatów i zieleni ciętej?": "Какие факторы влияют на долговечность цветов и срезанной зелени?",
-        "Temperatura, wilgotność, oświetlenie, jakość wody, a także czynniki biologiczne, takie jak wiek kwiatu i stan zdrowia rośliny": "Температура, влажность, освещение, качество воды, а также биологические факторы, такие как возраст цветка и состояние здоровья растения.",
         "Gerbera i Goździk": "Гербера и гвоздика",
         "Róża i Goździk": "Роза и гвоздика",
         "Tulipan i Gerbera": "Тюльпан и гербера",

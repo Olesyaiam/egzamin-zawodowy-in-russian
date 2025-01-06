@@ -5911,6 +5911,7 @@
         "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений",
         "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin, ceny roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений, цены на растения",
         "Przygotowujesz ulotki reklamowe dla swojej kwiaciarni. Które z poniższych elementów są niezbędne do uwzględnienia na ulotce?": "Готовишь рекламные листовки для своей цветочной лавки. Какие из нижеперечисленных элементов необходимо учесть в листовке?",
-        "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin, ceny roślin, instrukcje pielęgnacji roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений, цены растений, инструкции по уходу за растениями"
+        "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin, ceny roślin, instrukcje pielęgnacji roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений, цены растений, инструкции по уходу за растениями",
+        "Jako florysta korzystasz z programu komputerowego do obsługi klienta. Program ten pozwala na dodanie marży do kosztu usługi. Jeśli marża wynosi 20%, a koszt usługi wynosi 100 PLN, jaką wartość powinien wyświetlić program jako końcową cenę usługi?": "Как флорист, вы используете компьютерную программу для обслуживания клиентов. Эта программа позволяет добавлять наценку к стоимости услуги. Если наценка составляет 20%, а стоимость услуги составляет 100 злотых, какое значение должна показать программа как конечную цену услуги?"
     }
 }

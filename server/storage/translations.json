@@ -5896,6 +5896,21 @@
         "Uzyskanie jednorazowego szkolenia na temat norm i procedur": "Получение одноразового обучения по нормам и процедурам",
         "Poleganie wyłącznie na swojej pamięci do przestrzegania norm i procedur": "Полагание исключительно на свою память для соблюдения норм и процедур",
         "Ignorowanie wszelkich zmian w normach i procedurach": "Игнорирование любых изменений в нормах и процедурах",
-        "Tworzysz kompozycję florystyczną zgodnie z określonymi normami i procedurami. Jakie działanie najlepiej pomoże Ci w utrzymaniu zgodności z tymi normami?": "Вы создаёте флористическую композицию в соответствии с определёнными нормами и процедурами. Какое действие лучше всего поможет вам в поддержании соответствия этим нормам?"
+        "Tworzysz kompozycję florystyczną zgodnie z określonymi normami i procedurami. Jakie działanie najlepiej pomoże Ci w utrzymaniu zgodności z tymi normami?": "Вы создаёте флористическую композицию в соответствии с определёнными нормами и процедурами. Какое действие лучше всего поможет вам в поддержании соответствия этим нормам?",
+        "Bukiet standardowy jest zawsze symetryczny": "Стандартный букет всегда симметричен.",
+        "Bukiet standardowy jest zawsze asymetryczny": "Стандартный букет всегда асимметричный.",
+        "Bukiet standardowy zawsze zawiera różnorodne gatunki kwiatów": "Стандартный букет всегда содержит разнообразные виды цветов.",
+        "Wybierz prawidłowe stwierdzenie dotyczące bukietu standardowego": "Выберите правильное утверждение, касающееся стандартного букета.",
+        "Bukiet standardowy zawsze zawiera dodatki w postaci liści i gałązek": "Стандартный букет всегда содержит добавки в виде листьев и веточек.",
+        "Wielkość": "Размер",
+        "Minimalizm": "Минимализм",
+        "Symetria": "Симметрия",
+        "Rozważasz stworzenie kompozycji florystycznej w stylu japońskim Ikebana. Wybierz element, który jest najważniejszy w tym stylu": "Рассматриваешь создание флористической композиции в японском стиле Икебана. Выбери элемент, который является самым важным в этом стиле.",
+        "Kolor": "Цвет",
+        "Nazwa kwiaciarni, adres, godziny otwarcia": "Название цветочной лавки, адрес, часы работы",
+        "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений",
+        "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin, ceny roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений, цены на растения",
+        "Przygotowujesz ulotki reklamowe dla swojej kwiaciarni. Które z poniższych elementów są niezbędne do uwzględnienia na ulotce?": "Готовишь рекламные листовки для своей цветочной лавки. Какие из нижеперечисленных элементов необходимо учесть в листовке?",
+        "Nazwa kwiaciarni, adres, godziny otwarcia, lista dostępnych roślin, ceny roślin, instrukcje pielęgnacji roślin": "Название цветочной лавки, адрес, часы работы, список доступных растений, цены растений, инструкции по уходу за растениями"
     }
 }

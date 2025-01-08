@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "stokrotki": "маргаритки"
+    },
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -3384,7 +3386,6 @@
         "aksamitki": "бархатцы.",
         "helikonie": "геликония.",
         "kosaćce": "Ирисы.",
-        "stokrotki": "маргаритки",
         "Do form o dużym znaczeniu w układzie kompozycyjnym zaliczane są": "К формам, имеющим большое значение в укладе композиции, относятся",
         "piki": "Пики",
         "drut na kołeczku": "проволока на деревянном колышке.",
@@ -5953,6 +5954,10 @@
         "w nylonowe siateczki": "в нейлоновые сеточки.",
         "w sizal": "в сизаль",
         "Aby chronić kwiatostany gerbery przed uszkodzeniami należy pakować je w celofan, ponieważ celofan zapewnia ochronę przed wilgocią, zanieczyszczeniami i zmarszczkami": "Чтобы защитить соцветия герберы от повреждений, следует упаковывать их в целлофан, так как целлофан обеспечивает защиту от влаги, загрязнений и морщин.",
-        "Na załączonym rysunku przedstawiono kształt i strukturę, która jest charakterystyczna dla wieńca warszawskiego, czyli okrągłego wianka z liści lub kwiatów, który jest elementem dekoracyjnym. Pozostałe odpowiedzi nie pasują do przedstawionego rysunku: wianek komunijny zazwyczaj jest mniejszy i delikatniejszy, girlanda świąteczna ma inną formę, a diadem ślubny to ozdoba głowy, która ma zupełnie inną konstrukcję": "На приложенном рисунке представлена форма и структура, которая характерна для венка варшавского, то есть круглого венка из листьев или цветов, который является декоративным элементом. Остальные ответы не подходят к представленному рисунку: венок на первое причастие обычно меньше и нежнее, рождественская гирлянда имеет другую форму, а свадебная диадема - это украшение головы, которое имеет совершенно другую конструкцию."
+        "Na załączonym rysunku przedstawiono kształt i strukturę, która jest charakterystyczna dla wieńca warszawskiego, czyli okrągłego wianka z liści lub kwiatów, który jest elementem dekoracyjnym. Pozostałe odpowiedzi nie pasują do przedstawionego rysunku: wianek komunijny zazwyczaj jest mniejszy i delikatniejszy, girlanda świąteczna ma inną formę, a diadem ślubny to ozdoba głowy, która ma zupełnie inną konstrukcję": "На приложенном рисунке представлена форма и структура, которая характерна для венка варшавского, то есть круглого венка из листьев или цветов, который является декоративным элементом. Остальные ответы не подходят к представленному рисунку: венок на первое причастие обычно меньше и нежнее, рождественская гирлянда имеет другую форму, а свадебная диадема - это украшение головы, которое имеет совершенно другую конструкцию.",
+        "Rezeda jest rośliną pachnącą, która może być dodatkiem do bukietu, podczas gdy pozostałe wymienione rośliny nie posiadają wyraźnego zapachu": "Резеда является ароматным растением, которое может быть добавлено в букет, тогда как остальные перечисленные растения не имеют выраженного аромата.",
+        "Szałwie są często wykorzystywane do obsadzenia balkonów w sezonie letnim, ponieważ są roślinami bardzo odpornymi na suszę i ciepło. Dodatkowo, ich liście i kwiaty mają przyjemny zapach, a także są używane w kuchni jako przyprawa": "Шалфей часто используется для озеленения балконов в летний сезон, так как это растения, очень устойчивые к засухе и теплу. Кроме того, их листья и цветы имеют приятный запах, а также используются в кулинарии как пряность.",
+        "szyfonowe wstążki": "Шифоновые ленты.",
+        "Pawie pióra są elementem dekoracyjnym charakterystycznym dla bukietu makartowskiego, który jest ozdobą w makramańskim stylu": "Павлиньи перья являются декоративным элементом, характерным для макартовского букета, который является украшением в макраманском стиле."
     }
 }

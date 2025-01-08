@@ -5984,6 +5984,17 @@
         "Styl wiejski": "Сельский стиль",
         "Styl minimalistyczny": "Стиль минималистичный",
         "Styl orientalny": "Восточный стиль",
-        "Wybierz styl kompozycji roślinnej, który jest często stosowany w ceremoniach takich jak śluby i chrzciny ze względu na jego formalność i elegancję": "Выберите стиль растительной композиции, который часто используется на церемониях, таких как свадьбы и крестины, из-за его формальности и элегантности."
+        "Wybierz styl kompozycji roślinnej, który jest często stosowany w ceremoniach takich jak śluby i chrzciny ze względu na jego formalność i elegancję": "Выберите стиль растительной композиции, который часто используется на церемониях, таких как свадьбы и крестины, из-за его формальности и элегантности.",
+        "Klientka prosi o doradzenie w wyborze kwiatów do sypialni. Które z poniższych roślin będzie najodpowiedniejsze do tego pomieszczenia ze względu na właściwości poprawiające jakość snu?": "Клиентка просит посоветовать в выборе цветов для спальни. Какое из перечисленных растений будет наиболее подходящим для этого помещения с учетом свойств, улучшающих качество сна?",
+        "Begonia": "Бегония",
+        "Wybierasz rośliny doniczkowe do dekoracji wnętrza salonu. Która z poniższych roślin będzie najlepszym wyborem ze względu na jej zdolność do oczyszczania powietrza?": "Выбираешь комнатные растения для декорации интерьера гостиной. Какое из следующих растений будет наилучшим выбором из-за его способности очищать воздух?",
+        "Cięte róże wymagają temperatury transportu w przedziale od 1°C do 4°C, ponieważ w takiej temperaturze zapobiega się ich szybkiemu usychaniu i powstawaniu szkodliwych mikroorganizmów": "Срезанные розы требуют температуры транспортировки в диапазоне от 1°C до 4°C, поскольку при такой температуре предотвращается их быстрое усыхание и образование вредных микроорганизмов.",
+        "Podłaźniczka to tradycyjna polska dekoracja": "Подлазничка - это традиционное польское украшение.",
+        "na Boże Narodzenie": "на Рождество",
+        "Dodaje ceny wszystkich kwiatów, mnoży przez ilość, a następnie dodaje marżę": "Добавляет цены всех цветов, умножает на количество, а затем добавляет наценку.",
+        "Mnoży ceny wszystkich kwiatów przez ilość, a następnie dodaje marżę": "Умножает цены всех цветов на количество, а затем добавляет наценку.",
+        "Mnoży ceny wszystkich kwiatów przez ilość, a następnie odejmuje marżę": "Умножает цены всех цветов на количество, а затем вычитает наценку.",
+        "Dodaje ceny wszystkich kwiatów i mnoży przez ilość": "Добавляет цены всех цветов и умножает на количество.",
+        "Załóż, że jesteś florystą i korzystasz z programu komputerowego do obliczania kosztów usług. Otrzymujesz zamówienie na bukiet, który składa się z różnych kwiatów. W programie wprowadzasz ilość i rodzaj kwiatów, a następnie program automatycznie oblicza koszt. W jaki sposób program komputerowy najprawdopodobniej oblicza koszt usługi?": "Предположим, что вы флорист и используете компьютерную программу для расчета стоимости услуг. Вы получаете заказ на букет, который состоит из различных цветов. В программе вы вводите количество и вид цветов, а затем программа автоматически рассчитывает стоимость. Каким образом компьютерная программа, вероятнее всего, рассчитывает стоимость услуги?"
     }
 }

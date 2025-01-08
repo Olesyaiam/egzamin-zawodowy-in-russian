@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "stokrotki": "маргаритки"
+        "stokrotki": "маргаритки",
+        "Rdest sachaliński": "Рейнутрия сахалинская."
     },
     "approved": {
         "others": {
@@ -5115,7 +5116,6 @@
         "Głóg jednoszyjkowy": "Боярышник однопестичный.",
         "Magnolia gwiaździsta": "Магнолия звёздчатая.",
         "Wierzba mandżurska": "Ива матсуды.",
-        "Rdest sachaliński": "Рейнутрия сахалинская.",
         "zwisające pędy": "свисающие побеги.",
         "palczaste odrosty korzeniowe": "пальцевидные корневые отростки.",
         "strzępiasto zakończone rozłogi": "Края котиледона с бахромой.",
@@ -5958,6 +5958,9 @@
         "Rezeda jest rośliną pachnącą, która może być dodatkiem do bukietu, podczas gdy pozostałe wymienione rośliny nie posiadają wyraźnego zapachu": "Резеда является ароматным растением, которое может быть добавлено в букет, тогда как остальные перечисленные растения не имеют выраженного аромата.",
         "Szałwie są często wykorzystywane do obsadzenia balkonów w sezonie letnim, ponieważ są roślinami bardzo odpornymi na suszę i ciepło. Dodatkowo, ich liście i kwiaty mają przyjemny zapach, a także są używane w kuchni jako przyprawa": "Шалфей часто используется для озеленения балконов в летний сезон, так как это растения, очень устойчивые к засухе и теплу. Кроме того, их листья и цветы имеют приятный запах, а также используются в кулинарии как пряность.",
         "szyfonowe wstążki": "Шифоновые ленты.",
-        "Pawie pióra są elementem dekoracyjnym charakterystycznym dla bukietu makartowskiego, który jest ozdobą w makramańskim stylu": "Павлиньи перья являются декоративным элементом, характерным для макартовского букета, который является украшением в макраманском стиле."
+        "Pawie pióra są elementem dekoracyjnym charakterystycznym dla bukietu makartowskiego, który jest ozdobą w makramańskim stylu": "Павлиньи перья являются декоративным элементом, характерным для макартовского букета, который является украшением в макраманском стиле.",
+        "Metoda zielnikowa polega na prasowaniu roślin między arkuszami papieru, co pozwala na ich długotrwałe zachowanie. Na załączonym obrazie widać kwiat bratka umieszczony w ramce, co sugeruje, że został on utrwalony właśnie tą metodą. Pozostałe odpowiedzi nie pasują do sposobu prezentacji rośliny na rysunku": "Метод гербаризации заключается в прессовании растений между листами бумаги, что позволяет их долговременно сохранить. На приложенном изображении видно цветок анютиных глазок, помещенный в рамку, что предполагает, что он был сохранен именно этим методом. Остальные ответы не соответствуют способу презентации растения на рисунке.",
+        "Rdest sachaliński jest bardzo elastyczny i wytrzymały, co umożliwia jego wykorzystanie do wykonania konstrukcji choinki. Ponadto, jego igiełki są trwałe i nie opadają łatwo": "Рейнутрия сахалинская очень эластичная и прочная, что позволяет использовать её для создания конструкции ёлки. Кроме того, её иголочки долговечны и не опадают легко.",
+        "Wskaż rysunek, na którym do usztywnienia pędu zastosowano najcieńszy drut florystyczny": "Укажите рисунок, на котором для укрепления побега использована самая тонкая флористическая проволока."
     }
 }

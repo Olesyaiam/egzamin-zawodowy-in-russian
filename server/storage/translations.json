@@ -1137,7 +1137,8 @@
             "W temperaturze 6°C można schładzać": "При температуре 6°C можно охлаждать.",
             "cantedeskie": "зантедескию",
             "w gąbce flory stycznej": "в пене флоры стыковой.",
-            "wieńca warszawskiego": "варшавского венка."
+            "wieńca warszawskiego": "варшавского венка.",
+            "do stabilizowania kokard w bukiecie": "для стабилизации бантов в букете."
         }
     },
     "not_approved": {
@@ -6000,7 +6001,10 @@
         "do mocowania świec w gąbce": "для закрепления свечей в губке.",
         "do zakładania bombek na girlandzie": "для размещения шариков на гирлянде.",
         "do przypinania liści w wieńcu": "для прикрепления листьев в венке.",
-        "do stabilizowania kokard w bukiecie": "для стабилизации бантов в букете.",
-        "Bolce do mocowania gąbki florystycznej tzw. pinholdery, można również zastosować": "Штыри для крепления флористической губки, так называемые пинхолдеры, можно также использовать."
+        "Bolce do mocowania gąbki florystycznej tzw. pinholdery, można również zastosować": "Штыри для крепления флористической губки, так называемые пинхолдеры, можно также использовать.",
+        "Styl naturalistyczny": "Стиль натуралистический",
+        "Styl rustykalny": "Деревенский стиль",
+        "Zidentyfikuj styl kompozycji roślinnej, który charakteryzuje się używaniem naturalnych, surowych materiałów, z naciskiem na prostotę i autentyczność": "Идентифицируйте стиль растительной композиции, который характеризуется использованием натуральных, необработанных материалов, с акцентом на простоту и аутентичность.",
+        "Bolce do mocowania gąbki florystycznej tzw. pinholdery, można również zastosować do mocowania świec w gąbce, ponieważ posiadają one ostre końce, które umożliwiają przyciągnięcie i utrzymanie świecy w gąbce": "Штифты для крепления флористической губки, так называемые пинхолдеры, можно также использовать для крепления свечей в губке, поскольку они имеют острые концы, которые позволяют удерживать свечу в губке."
     }
 }

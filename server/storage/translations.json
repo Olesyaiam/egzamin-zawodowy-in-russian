@@ -1,8 +1,5 @@
 {
-    "incorrect": {
-        "stokrotki": "маргаритки",
-        "Rdest sachaliński": "Рейнутрия сахалинская."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "Formalno-linearny": "Формально-линеарный.",
@@ -5995,6 +5992,15 @@
         "Mnoży ceny wszystkich kwiatów przez ilość, a następnie dodaje marżę": "Умножает цены всех цветов на количество, а затем добавляет наценку.",
         "Mnoży ceny wszystkich kwiatów przez ilość, a następnie odejmuje marżę": "Умножает цены всех цветов на количество, а затем вычитает наценку.",
         "Dodaje ceny wszystkich kwiatów i mnoży przez ilość": "Добавляет цены всех цветов и умножает на количество.",
-        "Załóż, że jesteś florystą i korzystasz z programu komputerowego do obliczania kosztów usług. Otrzymujesz zamówienie na bukiet, który składa się z różnych kwiatów. W programie wprowadzasz ilość i rodzaj kwiatów, a następnie program automatycznie oblicza koszt. W jaki sposób program komputerowy najprawdopodobniej oblicza koszt usługi?": "Предположим, что вы флорист и используете компьютерную программу для расчета стоимости услуг. Вы получаете заказ на букет, который состоит из различных цветов. В программе вы вводите количество и вид цветов, а затем программа автоматически рассчитывает стоимость. Каким образом компьютерная программа, вероятнее всего, рассчитывает стоимость услуги?"
+        "Załóż, że jesteś florystą i korzystasz z programu komputerowego do obliczania kosztów usług. Otrzymujesz zamówienie na bukiet, który składa się z różnych kwiatów. W programie wprowadzasz ilość i rodzaj kwiatów, a następnie program automatycznie oblicza koszt. W jaki sposób program komputerowy najprawdopodobniej oblicza koszt usługi?": "Предположим, что вы флорист и используете компьютерную программу для расчета стоимости услуг. Вы получаете заказ на букет, который состоит из различных цветов. В программе вы вводите количество и вид цветов, а затем программа автоматически рассчитывает стоимость. Каким образом компьютерная программа, вероятнее всего, рассчитывает стоимость услуги?",
+        "Podłaźniczka jest tradycyjną polską dekoracją wykorzystywaną na Boże Narodzenie, ponieważ w czasie świąt Bożego Narodzenia jest ona najczęściej stosowana": "Подлазничка является традиционным польским украшением, используемым на Рождество, так как во время рождественских праздников она используется чаще всего.",
+        "stokrotki": "маргаритка.",
+        "Rdest sachaliński": "Рейнутрия сахалинская.",
+        "W celu przedłużenia trwałości kwiatów ciętych w kwiaciarni, nie należy": "В целях продления стойкости срезанных цветов в цветочной лавке, не следует",
+        "do mocowania świec w gąbce": "для закрепления свечей в губке.",
+        "do zakładania bombek na girlandzie": "для размещения шариков на гирлянде.",
+        "do przypinania liści w wieńcu": "для прикрепления листьев в венке.",
+        "do stabilizowania kokard w bukiecie": "для стабилизации бантов в букете.",
+        "Bolce do mocowania gąbki florystycznej tzw. pinholdery, można również zastosować": "Штыри для крепления флористической губки, так называемые пинхолдеры, можно также использовать."
     }
 }

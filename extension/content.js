@@ -397,22 +397,39 @@
             let fieldset = document.querySelector('#question_form > fieldset');
 
             if (fieldset && fieldset.innerHTML.trim() !== '') {
+                // Создаем массив для хранения всех текстовых узлов
+                let textNodes = [];
+
                 // Проходим по всем дочерним узлам fieldset
                 for (let node of fieldset.childNodes) {
                     // Проверяем, является ли узел текстовым и содержит ли текст
                     if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
-                        // Создаем новый div элемент
-                        const wrapper = document.createElement('div');
-                        // Добавляем ID
-                        wrapper.id = selectors['question'].slice(1)
-                        // Перемещаем текстовый узел внутрь div
-                        wrapper.textContent = node.textContent.trim();
-                        // Заменяем текстовый узел на div
-                        fieldset.replaceChild(wrapper, node);
-
-                        break;
+                        // Добавляем текстовый узел в массив
+                        textNodes.push(node);
                     }
-                };
+                }
+
+                // Если найдены текстовые узлы
+                if (textNodes.length > 0) {
+                    // Создаем новый div элемент
+                    const wrapper = document.createElement('div');
+                    // Добавляем ID
+                    wrapper.id = selectors['question'].slice(1);
+
+                    // Объединяем текст всех найденных узлов
+                    const combinedText = textNodes.map(node => node.textContent.trim()).join(' ');
+
+                    // Устанавливаем объединенный текст в div
+                    wrapper.textContent = combinedText;
+
+                    // Заменяем первый найденный текстовый узел на div
+                    fieldset.replaceChild(wrapper, textNodes[0]);
+
+                    // Удаляем остальные текстовые узлы
+                    for (let i = 1; i < textNodes.length; i++) {
+                        fieldset.removeChild(textNodes[i]);
+                    }
+                }
             }
         }
 

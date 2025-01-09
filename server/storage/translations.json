@@ -1345,7 +1345,8 @@
             "Jest to punkt, który jest najbardziej oddalony od obserwatora": "Это точка, которая находится дальше всего от наблюдателя.",
             "Jest to punkt, który przyciąga uwagę obserwatora": "Это точка, которая привлекает внимание наблюдателя.",
             "Jest to punkt, który jest najbliżej obserwatora": "Это точка, которая находится ближе всего к наблюдателю.",
-            "Jest to punkt, który jest najmniej widoczny dla obserwatora": "Это точка, которая наименее заметна для наблюдателя."
+            "Jest to punkt, który jest najmniej widoczny dla obserwatora": "Это точка, которая наименее заметна для наблюдателя.",
+            "Punkt focalny w kompozycjach florystycznych to miejsce, które naturalnie przyciąga uwagę obserwatora. Może to być efekt uzyskany poprzez kontrast kolorów, nietypowy kształt czy rozmiar elementu wyróżniającego się na tle pozostałych": "Фокусная точка в флористических композициях — это место, которое естественным образом привлекает внимание наблюдателя. Это может быть эффект, достигнутый за счет контраста цветов, необычной формы или размера элемента, выделяющегося на фоне остальных."
         }
     },
     "not_approved": {
@@ -6887,6 +6888,9 @@
         "Orchidea": "Орхидея",
         "Zamiokulkas": "Замиокулькас",
         "Wybierz odpowiedź, która najlepiej opisuje zasadę \"punkt focalny\" w kompozycjach florystycznych": "Выберите ответ, который лучше всего описывает принцип \"фокальная точка\" в флористических композициях.",
-        "Punkt focalny w kompozycjach florystycznych to miejsce, które naturalnie przyciąga uwagę obserwatora. Może to być efekt uzyskany poprzez kontrast kolorów, nietypowy kształt czy rozmiar elementu wyróżniającego się na tle pozostałych": "Фокусная точка в флористических композициях — это место, которое естественным образом привлекает внимание наблюдателя. Это может быть эффект, достигнутый за счет контраста цветов, необычной формы или размера элемента, выделяющегося на фоне остальных."
+        "Piła do metalu": "Пила по металлу",
+        "Nożyczki do papieru": "Ножницы для бумаги",
+        "Ostrze do tapet": "Лезвие для обоев",
+        "Przygotowujesz kompozycję florystyczną i musisz przyciąć kilka gałązek. Które narzędzie będzie najbardziej odpowiednie do tego zadania?": "Вы готовите флористическую композицию и должны обрезать несколько веточек. Какой инструмент будет наиболее подходящим для этой задачи?"
     }
 }

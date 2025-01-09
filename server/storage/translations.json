@@ -1340,7 +1340,12 @@
             "Europejska Norma (EN)": "Европейская норма (EN)",
             "Międzynarodowa Norma (ISO)": "Международный стандарт (ISO)",
             "Polska Norma (PN)": "Польская норма (PN)",
-            "Kodeks pracy": "Трудовой кодекс"
+            "Kodeks pracy": "Трудовой кодекс",
+            "Polska Norma (PN), Europejska Norma (EN) i Międzynarodowa Norma (ISO) to przykłady dokumentów normalizacyjnych stosowanych w różnych dziedzinach, w tym w florystyce. Kodeks pracy natomiast jest aktem prawnym regulującym stosunki pracy, nie jest dokumentem normalizacyjnym": "Польская Норма (PN), Европейская Норма (EN) и Международная Норма (ISO) — это примеры нормализующих документов, применяемых в различных областях, в том числе в флористике. Трудовой кодекс, напротив, является правовым актом, регулирующим трудовые отношения, он не является нормализующим документом.",
+            "Jest to punkt, który jest najbardziej oddalony od obserwatora": "Это точка, которая находится дальше всего от наблюдателя.",
+            "Jest to punkt, który przyciąga uwagę obserwatora": "Это точка, которая привлекает внимание наблюдателя.",
+            "Jest to punkt, który jest najbliżej obserwatora": "Это точка, которая находится ближе всего к наблюдателю.",
+            "Jest to punkt, który jest najmniej widoczny dla obserwatora": "Это точка, которая наименее заметна для наблюдателя."
         }
     },
     "not_approved": {
@@ -6880,6 +6885,8 @@
         "Zaparzanie usuwa powietrze, które utrudnia turgor": "Заваривание удаляет воздух, который затрудняет тургор.",
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
-        "Zamiokulkas": "Замиокулькас"
+        "Zamiokulkas": "Замиокулькас",
+        "Wybierz odpowiedź, która najlepiej opisuje zasadę \"punkt focalny\" w kompozycjach florystycznych": "Выберите ответ, который лучше всего описывает принцип \"фокальная точка\" в флористических композициях.",
+        "Punkt focalny w kompozycjach florystycznych to miejsce, które naturalnie przyciąga uwagę obserwatora. Może to być efekt uzyskany poprzez kontrast kolorów, nietypowy kształt czy rozmiar elementu wyróżniającego się na tle pozostałych": "Фокусная точка в флористических композициях — это место, которое естественным образом привлекает внимание наблюдателя. Это может быть эффект, достигнутый за счет контраста цветов, необычной формы или размера элемента, выделяющегося на фоне остальных."
     }
 }

@@ -1302,7 +1302,11 @@
             "Samochód osobowy jest najbezpieczniejszym sposobem transportu dla delikatnych roślin doniczkowych na długie dystanse, ponieważ pozwala na kontrolę warunków podczas całego transportu, takich jak temperatura, wilgotność i ilość światła": "Легковой автомобиль является самым безопасным способом транспортировки деликатных комнатных растений на длинные дистанции, поскольку позволяет контролировать условия в течение всего транспортировки, такие как температура, влажность и количество света.",
             "Zidentyfikuj, które z poniższych stwierdzeń dotyczących normy jakości w florystyce jest prawdziwe": "Идентифицируйте, какое из следующих утверждений касательно стандарта качества во флористике является истинным.",
             "Norma jakości określa tylko wygląd końcowy kompozycji florystycznej": "Стандарт качества определяет только конечный вид флористической композиции.",
-            "Norma jakości obejmuje zarówno proces tworzenia kompozycji florystycznej, jak i jej wygląd końcowy": "Стандарт качества охватывает как процесс создания флористической композиции, так и её конечный вид."
+            "Norma jakości obejmuje zarówno proces tworzenia kompozycji florystycznej, jak i jej wygląd końcowy": "Стандарт качества охватывает как процесс создания флористической композиции, так и её конечный вид.",
+            "Norma jakości nie ma wpływu na proces tworzenia kompozycji florystycznej": "Стандарт качества не влияет на процесс создания флористической композиции.",
+            "Norma jakości jest nieistotna dla profesjonalnego florysty": "Стандарт качества не имеет значения для профессионального флориста.",
+            "Norma jakości w florystyce obejmuje zarówno proces tworzenia kompozycji florystycznej, jak i jej wygląd końcowy. Wpływa na wybór materiałów, technik i stylów, a także na ostateczny rezultat pracy florysty": "Стандарт качества во флористике охватывает как процесс создания флористической композиции, так и её окончательный вид. Влияет на выбор материалов, техник и стилей, а также на конечный результат работы флориста.",
+            "Planujesz dekoracje wnętrza za pomocą roślin doniczkowych. Chcesz wybrać roślinę, która będzie dobrze rosła w cieniu i miała niskie wymagania wilgotnościowe. Która z poniższych roślin będzie najlepszym wyborem?": "Вы планируете декор интерьера с помощью комнатных растений. Хотите выбрать растение, которое будет хорошо расти в тени и будет иметь низкие требования к влажности. Какое из приведенных ниже растений будет лучшим выбором?"
         }
     },
     "not_approved": {
@@ -6838,8 +6842,6 @@
         "Wiązanie w pęczki to technika wiązania gałęzi, która jest później formowana w kształt girlandy": "Связывание в пучки - это техника связывания веточек, которая затем формируется в гирлянду.",
         "Poprawną odpowiedzią jest \"Kwiaty gerbery, liście fatsji, kwiaty gipsówki.\" ponieważ w opisie wiadomości wymienione są poszczególne rośliny i ich nazwy, a z nich wynika, jakie elementy ozdobne zostały wykorzystane w całej kompozycji": "Правильным ответом является \"Цветы герберы, листья фатсии, цветы гипсофилы.\", потому что в описании сообщения перечислены отдельные растения и их названия, и из них вытекает, какие декоративные элементы были использованы во всей композиции.",
         "Zgodnie z tabelą, pierwiastek K (potas) odpowiada za rozwój kwiatów i owoców, co bezpośrednio wpływa na walory dekoracyjne psianki. Pozostałe pierwiastki mają wpływ na inne aspekty wzrostu i rozwoju rośliny, ale nie są one bezpośrednio związane z walorami dekoracyjnymi": "Согласно таблице, элемент K (калий) отвечает за развитие цветов и плодов, что непосредственно влияет на декоративные качества паслёна. Остальные элементы влияют на другие аспекты роста и развития растения, но не связаны напрямую с декоративными качествами.",
-        "Norma jakości jest nieistotna dla profesjonalnego florysty": "Стандарт качества не имеет значения для профессионального флориста.",
-        "Norma jakości nie ma wpływu na proces tworzenia kompozycji florystycznej": "Стандарт качества не влияет на процесс создания флористической композиции.",
         "Odpowiedź jest prosta,wszystkie inne wymienione rosliny mają duże liście i nie nadają się do wianuszka": "Ответ прост, все другие перечисленные растения имеют большие листья и не подходят для венка.",
         "asparagus ,mirt i ruszczyk pasują najlepiej do wianka komunijnego": "Спаржа, мирт и иглица подходят лучше всего для венка на первое причастие.",
         "Przydatne do wykonania wianka komunijnego są; Szparag modrzewiowy, mirt pospolity i ruszczyk": "Полезны для изготовления венка на первое причастие; спаржа лиственничная, мирт обыкновенный и иглица.",
@@ -6847,6 +6849,8 @@
         "1\/4 kwiaty żółte , 3\/4 kwiaty fioletowe": "1\/4 цветы жёлтые, 3\/4 цветы фиолетовые",
         "Zaparzanie przedłuża trwałość słoneczników": "Заваривание продлевает долговечность подсолнечников.",
         "Zaparzanie usuwa powietrze, które utrudnia turgor": "Заваривание удаляет воздух, который затрудняет тургор.",
-        "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ."
+        "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
+        "Orchidea": "Орхидея",
+        "Zamiokulkas": "Замиокулькас"
     }
 }

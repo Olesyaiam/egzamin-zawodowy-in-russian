@@ -22,6 +22,7 @@ class DatabaseManager extends Base
                 if (preg_match($regex, $polishTextLower)) {
                     $results['flowers'][$flowerName] = array(
                         'ru' => $cacheAndTime['data'][$dataKey][0],
+                        'pl' => $cacheAndTime['data'][$dataKey][1],
                         'wiki_pl' => 'https://pl.wikipedia.org/wiki/' . $cacheAndTime['data'][$dataKey][1],
                         'img' => $cacheAndTime['data'][$dataKey][2] ? self::IMAGES_BASE_URL . $cacheAndTime['data'][$dataKey][2] : null
                     );

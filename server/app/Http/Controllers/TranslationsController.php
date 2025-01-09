@@ -49,9 +49,10 @@ class TranslationsController extends BaseController
 
         $databaseManager = new DatabaseManager();
         $flowers = $databaseManager->findFlowers($prepared['text']);
-        $flowerTranslations = array_filter(array_map(function ($info) {
-            return $info['ru'];
-        }, $flowers['flowers']));
+        $flowerTranslations = array_filter(array_combine(
+            array_column($flowers['flowers'], 'pl'),
+            array_column($flowers['flowers'], 'ru')
+        ));
 
         $result = $translator->performTranslation(
             $prepared['text'],

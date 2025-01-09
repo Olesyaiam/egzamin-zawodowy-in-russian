@@ -1306,7 +1306,9 @@
             "Norma jakości nie ma wpływu na proces tworzenia kompozycji florystycznej": "Стандарт качества не влияет на процесс создания флористической композиции.",
             "Norma jakości jest nieistotna dla profesjonalnego florysty": "Стандарт качества не имеет значения для профессионального флориста.",
             "Norma jakości w florystyce obejmuje zarówno proces tworzenia kompozycji florystycznej, jak i jej wygląd końcowy. Wpływa na wybór materiałów, technik i stylów, a także na ostateczny rezultat pracy florysty": "Стандарт качества во флористике охватывает как процесс создания флористической композиции, так и её окончательный вид. Влияет на выбор материалов, техник и стилей, а также на конечный результат работы флориста.",
-            "Planujesz dekoracje wnętrza za pomocą roślin doniczkowych. Chcesz wybrać roślinę, która będzie dobrze rosła w cieniu i miała niskie wymagania wilgotnościowe. Która z poniższych roślin będzie najlepszym wyborem?": "Вы планируете декор интерьера с помощью комнатных растений. Хотите выбрать растение, которое будет хорошо расти в тени и будет иметь низкие требования к влажности. Какое из приведенных ниже растений будет лучшим выбором?"
+            "Planujesz dekoracje wnętrza za pomocą roślin doniczkowych. Chcesz wybrać roślinę, która będzie dobrze rosła w cieniu i miała niskie wymagania wilgotnościowe. Która z poniższych roślin będzie najlepszym wyborem?": "Вы планируете декор интерьера с помощью комнатных растений. Хотите выбрать растение, которое будет хорошо расти в тени и будет иметь низкие требования к влажности. Какое из приведенных ниже растений будет лучшим выбором?",
+            "Zamiokulkas jest doskonałym wyborem dla miejsc o niskim nasłonecznieniu i niskiej wilgotności, ponieważ jest to roślina bardzo odporna i łatwa w uprawie": "Замиокулькас является отличным выбором для мест с низким уровнем освещённости и влажности, поскольку это растение очень устойчиво и легко в выращивании.",
+            "Przygotowujesz kompozycję florystyczną na ślub. Poniżej przedstawiono tabelę z różnymi elementami dekoracyjnymi. Wybierz zestaw, który jest najbardziej odpowiedni dla tego typu okazji": "Подготавливаешь цветочную композицию на свадьбу. Ниже представлена таблица с различными декоративными элементами. Выбери набор, который наиболее подходит для этого типа случая."
         }
     },
     "not_approved": {
@@ -6851,6 +6853,10 @@
         "Zaparzanie usuwa powietrze, które utrudnia turgor": "Заваривание удаляет воздух, который затрудняет тургор.",
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
-        "Zamiokulkas": "Замиокулькас"
+        "Zamiokulkas": "Замиокулькас",
+        "Zestaw D": "Набор D",
+        "Zestaw B": "Набор B",
+        "Zestaw C": "Набор C",
+        "Zestaw A": "Набор A"
     }
 }

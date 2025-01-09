@@ -6987,7 +6987,6 @@
         "BS 5502-50:1993": "BS 5502-50:1993",
         "Zidentyfikuj, które z poniższych oznaczeń odpowiada normie międzynarodowej": "Идентифицируйте, какое из следующих обозначений соответствует международному стандарту.",
         "DIN 58953-6:2003": "DIN 58953-6:2003",
-        "Goździki białe": "Гвоздика белая",
         "Określ styl kompozycji roślinnej, który skupia się na prostocie i minimalizmie, często wykorzystując tylko jedną lub dwie rośliny lub kwiaty": "Определите стиль растительной композиции, который фокусируется на простоте и минимализме, часто используя только одно или два растения или цветка.",
         "Storczyki różowe, magnolie różowe, lilie różowe": "Орхидея розиды, магнолия розиды, лилия розиды",
         "Narcyzy żółte, tulipany różne kolory, bazie zielone": "Нарциссы жёлтые, тюльпаны разных цветов, сережки зелёные",
@@ -7023,6 +7022,12 @@
         "Zabezpieczenie przed uszkodzeniem mechanicznym": "Защита от механических повреждений",
         "Zabezpieczenie przed światłem słonecznym": "Защита от солнечного света",
         "Zabezpieczenie przed wilgocią": "Защита от влаги",
-        "Jakie jest główne zastosowanie siatki florystycznej podczas przygotowywania kompozycji do transportu?": "Каково основное применение флористической сетки при подготовке композиции к транспортировке?"
+        "Jakie jest główne zastosowanie siatki florystycznej podczas przygotowywania kompozycji do transportu?": "Каково основное применение флористической сетки при подготовке композиции к транспортировке?",
+        "Gerbera, storczyk, kaktus": "Гербера, орхидея, кактус",
+        "Sansewieria, zamiokulkas, paproć": "Сансевиерия, замиокулькас, папоротник.",
+        "Róża, hortensja, lawenda": "Роза, гортензия, лаванда",
+        "Planujesz stworzyć kompozycję roślinną w pojemniku. Wybierz zestaw roślin, który będzie najodpowiedniejszy dla miejsca z niewielkim nasłonecznieniem": "Планируешь создать растительную композицию в контейнере. Выбери набор растений, который будет наиболее подходящим для места с небольшим солнечным освещением.",
+        "Pelargonia, petunia, begonia": "Пеларгония, петуния, бегония",
+        "Goździki białe": "Гвоздика белая"
     }
 }

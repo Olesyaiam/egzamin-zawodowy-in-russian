@@ -1,6 +1,5 @@
 {
-    "incorrect": {
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -1356,5 +1355,25 @@
         }
     },
     "not_approved": {
+        "mchu": "мха.",
+        "kwiatów": "цветов",
+        "zasuszonych owoców": "высушенных плодов.",
+        "delikatnych pędów": "нежных побегов.",
+        "Haftki rzymskie wykorzystuje się do mocowania": "Римские крючки используются для крепления.",
+        "lilii": "Лилии.",
+        "nawłoci": "золотарника",
+        "hortensji": "гортензии",
+        "piwonii": "пиона.",
+        "\"Dolne pąki wybarwione i otwierające się\" to właściwe stadium zbioru dla": "«Нижние бутоны окрашенные и раскрывающиеся» — это правильная стадия сбора для",
+        "czerwonej, żółtej, niebieskiej": "красного, жёлтого, синего.",
+        "czerwonej, białej, niebieskiej": "красного, белого, синего.",
+        "czerwonej, pomarańczowej, niebieskiej": "красного, оранжевого, синего.",
+        "żółtej, fioletowej, pomarańczowej": "жёлтой, фиолетовой, оранжевой.",
+        "Największy kontrast barw uzyskuje się zestawiając kwiaty w barwach": "Наибольший контраст расцветки достигается, когда цветы составляются в расцветках",
+        "Floksy": "Флоксы",
+        "Maki": "Маки.",
+        "Słoneczniki": "Подсолнечники.",
+        "Narcyzy": "Нарциссы.",
+        "Które rośliny zawierające sok mleczny zaparza się przed zastosowaniem w kompozycji?": "Какие растения, содержащие млечный сок, заваривают перед использованием в композиции?"
     }
 }

@@ -1351,7 +1351,8 @@
             "Nożyczki do papieru": "Ножницы для бумаги",
             "Ostrze do tapet": "Лезвие для обоев",
             "Sekator jest narzędziem przeznaczonym do przycinania gałęzi i pędów roślin. Pozwala na dokładne, proste cięcie, które jest mniej szkodliwe dla rośliny niż niewłaściwe narzędzie": "Секатор является инструментом, предназначенным для обрезки веток и побегов растений. Он позволяет выполнять точный, прямой срез, который наносит меньше вреда растению, чем неправильный инструмент.",
-            "Leżą naprzeciwko siebie": "Лежат напротив друг друга."
+            "Leżą naprzeciwko siebie": "Лежат напротив друг друга.",
+            "Przygotowujesz kompozycję florystyczną na specjalne zamówienie. Klientka chce, aby kompozycja była utrzymana w kolorach czerwieni i białego. Które z poniższych roślin nie będą pasować do tej koncepcji?": "Готовите флористическую композицию по специальному заказу. Клиентка хочет, чтобы композиция была выдержана в цветах красного и белого. Какие из перечисленных ниже растений не подойдут для этой концепции?"
         }
     },
     "not_approved": {
@@ -6853,7 +6854,6 @@
         "Koszt materiału wynosi 150 zł, koszt środków technicznych i dekoracyjnych wynosi 25 zł, a robocizna wynosi 30% całkowitego kosztu, czyli 0,3*(150 zł + 25 zł) = 52,50 zł. Całkowity koszt zamówienia będzie wynosił 150 zł + 25 zł + 52,50 zł = 227,50 zł": "Стоимость материала составляет 150 зл, стоимость технических и декоративных средств составляет 25 зл, а затраты на работу составляют 30% от общей стоимости, то есть 0,3*(150 зл + 25 зл) = 52,50 зл. Общая стоимость заказа будет составлять 150 зл + 25 зл + 52,50 зл = 227,50 зл.",
         "Optymalną temperaturą do przechowywania róż i chryzantem jest 0-1°C, ponieważ pozwala to na utrzymanie odpowiedniego poziomu wilgoci oraz hamuje proces starzenia się kwiatów. W takiej temperaturze kwiaty nie tracą swojego świeżego wyglądu i dłużej zachowują swoją atrakcyjność": "Оптимальной температурой для хранения роз и хризантем является 0-1°C, поскольку это позволяет поддерживать соответствующий уровень влажности и замедляет процесс старения цветов. При такой температуре цветы не теряют своего свежего вида и дольше сохраняют свою привлекательность.",
         "Metal jest uznawany za nowoczesny materiał dekoracyjny, pasuje do stylu modern. Różnego typu donice, pojemniki będą idealnie komponowały się z roślinami typu Yukka": "Металл считается современным декоративным материалом, подходит к стилю модерн. Различные типы цветочных горшков, контейнеры будут идеально сочетаться с такими растениями, как юкка.",
-        "Przygotowujesz kompozycję florystyczną na specjalne zamówienie. Klientka chce, aby kompozycja była utrzymana w kolorach czerwieni i białego. Które z poniższych roślin nie będą pasować do tej koncepcji?": "Готовите флористическую композицию по специальному заказу. Клиентка хочет, чтобы композиция была выдержана в цветах красного и белого. Какие из перечисленных ниже растений не подойдут для этой концепции?",
         "Spray ten tworzy cienką warstwę na powierzchni rośliny, która zapobiega odparowywaniu wilgoci": "Этот спрей создает тонкий слой на поверхности растения, который предотвращает испарение влаги.",
         "Która z poniższych metod jest najmniej skuteczna w przedłużaniu trwałości kompozycji florystycznych z roślin ciętych?": "Какой из перечисленных методов наименее эффективен в продлении долговечности цветочных композиций из срезанных растений?",
         "Dopasuj epokę do charakterystyki dekoracji florystycznych": "Подберите эпоху к характеристике цветочных украшений.",
@@ -6893,7 +6893,6 @@
         "Zamiokulkas": "Замиокулькас",
         "Wybierz odpowiedź, która najlepiej opisuje zasadę \"punkt focalny\" w kompozycjach florystycznych": "Выберите ответ, который лучше всего описывает принцип \"фокальная точка\" в флористических композициях.",
         "Przygotowujesz kompozycję florystyczną i musisz przyciąć kilka gałązek. Które narzędzie będzie najbardziej odpowiednie do tego zadania?": "Вы готовите флористическую композицию и должны обрезать несколько веточек. Какой инструмент будет наиболее подходящим для этой задачи?",
-        "Goździki białe": "Гвоздика белая",
         "Pominąć normę B i skupić się tylko na normach A i C": "Пропустить стандарт B и сосредоточиться только на стандартах A и C.",
         "Goździki są rośliną, której potrzeba najmniej do wykonania kompozycji": "Гвоздики — это растение, которому требуется меньше всего для выполнения композиции.",
         "Goździki - symbolizują odrzut i lekceważenie": "Гвоздики - символизируют отвращение и пренебрежение",
@@ -6975,6 +6974,19 @@
         "1-A, 2-B, 3-C": "1-A, 2-B, 3-C",
         "1-A, 2-C, 3-B": "1-А, 2-С, 3-В",
         "1-C, 2-A, 3-B": "1-C, 2-A, 3-B",
-        "RoślinaMetoda utrwalania 1. RóżeA. Suszenie w powietrzu 2. GipsówkaB. Suszenie w piasku 3. LawendaC. Suszenie w żelu krzemionkowym Dopasuj odpowiednie metody utrwalania do poszczególnych roślin": "РастениеМетод сохранения 1. РозыA. Сушка на воздухе 2. ГипсофилаB. Сушка в песке 3. ЛавандаC. Сушка в силикагелевом геле Соотнесите соответствующие методы сохранения с конкретными растениями."
+        "RoślinaMetoda utrwalania 1. RóżeA. Suszenie w powietrzu 2. GipsówkaB. Suszenie w piasku 3. LawendaC. Suszenie w żelu krzemionkowym Dopasuj odpowiednie metody utrwalania do poszczególnych roślin": "РастениеМетод сохранения 1. РозыA. Сушка на воздухе 2. ГипсофилаB. Сушка в песке 3. ЛавандаC. Сушка в силикагелевом геле Соотнесите соответствующие методы сохранения с конкретными растениями.",
+        "Zidentyfikuj, która z poniższych roślin jest najczęściej wykorzystywana w kompozycjach florystycznych ze względu na swoją trwałość i różnorodność kolorów": "Идентифицируйте, какое из следующих растений чаще всего используется в флористических композициях из-за своей устойчивости и разнообразия цветов.",
+        "Patrząc na powyższą tabelę, która prezentuje ocenę zgodności różnych norm, określ, co powinieneś zrobić jako florysta, jeśli klient chce użyć rośliny, która nie jest zgodna z normą B": "Глядя на приведенную выше таблицу, которая представляет оценку соответствия различных норм, определите, что вы должны сделать как флорист, если клиент хочет использовать растение, которое не соответствует норме B.",
+        "Nowoczesne naczynia": "Современные сосуды",
+        "Asymetryczne układy": "Асимметричные уклады",
+        "Kwiaty egzotyczne": "Экзотические цветы",
+        "Kwiaty polne": "Полевые цветы",
+        "Zastanawiasz się nad stworzeniem kompozycji florystycznej dla klienta, który chce coś nowoczesnego i nietypowego. Który z poniższych elementów byłby najmniej odpowiedni do użycia w takim projekcie?": "Думаешь над созданием флористической композиции для клиента, который хочет что-то современное и необычное. Какой из следующих элементов был бы наименее подходящим для использования в таком проекте?",
+        "Goździki białe": "Гвоздика белая",
+        "SS-EN 13485:2016": "SS-EN 13485:2016",
+        "PN-EN ISO 9001:2015": "PN-EN ISO 9001:2015",
+        "BS 5502-50:1993": "BS 5502-50:1993",
+        "Zidentyfikuj, które z poniższych oznaczeń odpowiada normie międzynarodowej": "Идентифицируйте, какое из следующих обозначений соответствует международному стандарту.",
+        "DIN 58953-6:2003": "DIN 58953-6:2003"
     }
 }

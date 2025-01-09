@@ -6921,6 +6921,12 @@
         "Java": "Java",
         "Python": "Python",
         "HTML\/CSS": "HTML\/CSS",
-        "Zamierzasz stworzyć stronę internetową dla swojej kwiaciarni. Który z poniższych języków programowania jest najbardziej odpowiedni do tego celu?": "Вы собираетесь создать веб-сайт для своей цветочной лавки. Какой из следующих языков программирования наиболее подходит для этой цели?"
+        "Zamierzasz stworzyć stronę internetową dla swojej kwiaciarni. Który z poniższych języków programowania jest najbardziej odpowiedni do tego celu?": "Вы собираетесь создать веб-сайт для своей цветочной лавки. Какой из следующих языков программирования наиболее подходит для этой цели?",
+        "Rośliny o małych, ciemnozielonych liściach": "Растения с маленькими, темно-зелеными листьями.",
+        "Rośliny o intensywnie kolorowych kwiatach": "Растения с ярко окрашенными цветками",
+        "Rośliny o dużych, jasnozielonych liściach": "Растения с большими, светло-зелеными листьями",
+        "Podczas tworzenia kompozycji florystycznej, jakiego rodzaju rośliny ozdobne są najczęściej wykorzystywane jako tło?": "При создании флористической композиции, какие виды декоративных растений чаще всего используются в качестве фона?",
+        "Rośliny o delikatnych, pastelowych kwiatach": "Растения с нежными, пастельными цветами.",
+        "Oblicz całkowity koszt wykonania kompozycji florystycznej, na podstawie poniższej tabeli. Zakładamy, że nie ma dodatkowych kosztów. MateriałCena za sztukęIlość sztuk Róża5 zł10 Goździk2 zł5 Wstążka dekoracyjna10 zł1 Podłoże florystyczne15 zł1": "Рассчитайте общую стоимость выполнения флористической композиции на основе приведенной ниже таблицы. Предполагаем, что дополнительных расходов нет. МатериалЦена за штукуКоличество штук Роза5 злотых10 Гвоздика2 злотых5 Лента декоративная10 злотых1 Подложка флористическая15 злотых1"
     }
 }

@@ -1308,7 +1308,13 @@
             "Norma jakości w florystyce obejmuje zarówno proces tworzenia kompozycji florystycznej, jak i jej wygląd końcowy. Wpływa na wybór materiałów, technik i stylów, a także na ostateczny rezultat pracy florysty": "Стандарт качества во флористике охватывает как процесс создания флористической композиции, так и её окончательный вид. Влияет на выбор материалов, техник и стилей, а также на конечный результат работы флориста.",
             "Planujesz dekoracje wnętrza za pomocą roślin doniczkowych. Chcesz wybrać roślinę, która będzie dobrze rosła w cieniu i miała niskie wymagania wilgotnościowe. Która z poniższych roślin będzie najlepszym wyborem?": "Вы планируете декор интерьера с помощью комнатных растений. Хотите выбрать растение, которое будет хорошо расти в тени и будет иметь низкие требования к влажности. Какое из приведенных ниже растений будет лучшим выбором?",
             "Zamiokulkas jest doskonałym wyborem dla miejsc o niskim nasłonecznieniu i niskiej wilgotności, ponieważ jest to roślina bardzo odporna i łatwa w uprawie": "Замиокулькас является отличным выбором для мест с низким уровнем освещённости и влажности, поскольку это растение очень устойчиво и легко в выращивании.",
-            "Przygotowujesz kompozycję florystyczną na ślub. Poniżej przedstawiono tabelę z różnymi elementami dekoracyjnymi. Wybierz zestaw, który jest najbardziej odpowiedni dla tego typu okazji": "Подготавливаешь цветочную композицию на свадьбу. Ниже представлена таблица с различными декоративными элементами. Выбери набор, который наиболее подходит для этого типа случая."
+            "Przygotowujesz kompozycję florystyczną na ślub. Poniżej przedstawiono tabelę z różnymi elementami dekoracyjnymi. Wybierz zestaw, który jest najbardziej odpowiedni dla tego typu okazji": "Подготавливаешь цветочную композицию на свадьбу. Ниже представлена таблица с различными декоративными элементами. Выбери набор, который наиболее подходит для этого типа случая.",
+            "Zestaw B": "Набор B",
+            "Zestaw A": "Набор A",
+            "Zestaw C": "Набор C",
+            "Zestaw D": "Набор D",
+            "Białe orchidee symbolizują czystość i niewinność, co jest często kojarzone z ceremonią ślubną. Białe wstążki i perły są klasycznymi dodatkami do ślubnych kompozycji florystycznych": "Белые орхидеи символизируют чистоту и невинность, что часто ассоциируется со свадебной церемонией. Белые ленты и жемчуг являются классическими аксессуарами к свадебным флористическим композициям.",
+            "Zidentyfikuj, które z poniższych oznaczeń odpowiada normie krajowej Niemiec": "Определите, какое из нижеприведённых обозначений соответствует государственному стандарту Германии."
         }
     },
     "not_approved": {
@@ -6854,9 +6860,8 @@
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
         "Zamiokulkas": "Замиокулькас",
-        "Zestaw D": "Набор D",
-        "Zestaw B": "Набор B",
-        "Zestaw C": "Набор C",
-        "Zestaw A": "Набор A"
+        "BS EN 12591:2009": "BS EN 12591:2009",
+        "ANSI\/ASME B1.20.1-1983": "ANSI\/ASME B1.20.1-1983",
+        "Oznaczenie \"DIN EN ISO 9001:2015\" odpowiada normie krajowej Niemiec. \"DIN\" to Deutsches Institut für Normung, czyli Niemiecki Instytut Normalizacji": "Обозначение \"DIN EN ISO 9001:2015\" соответствует национальному стандарту Германии. \"DIN\" — это Deutsches Institut für Normung, то есть Немецкий институт стандартизации."
     }
 }

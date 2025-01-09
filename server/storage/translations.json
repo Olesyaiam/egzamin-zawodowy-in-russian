@@ -1352,7 +1352,10 @@
             "Patrząc na powyższą tabelę, która prezentuje ocenę zgodności różnych norm, określ, co powinieneś zrobić jako florysta, jeśli klient chce użyć rośliny, która nie jest zgodna z normą B": "Смотря на вышеуказанную таблицу, которая представляет оценку соответствия различных норм, определи, что ты должен сделать как флорист, если клиент хочет использовать растение, которое не соответствует стандарту B.",
             "Która z poniższych metod jest najmniej skuteczna w przedłużaniu trwałości kompozycji florystycznych z roślin ciętych?": "Какой из следующих методов является наименее эффективным в продлении стойкости флористических композиций из срезанных растений?",
             "Dopasuj epokę do charakterystyki dekoracji florystycznych": "Соотнесите эпоху с характеристикой флористических декораций.",
-            "Załóż, że musisz przygotować kompozycję florystyczną na specjalne wydarzenie. Wybierz rośliny z poniższej tabeli, które są najbardziej odpowiednie do stworzenia kompozycji na wiosenny ślub": "Предположи, что ты должен подготовить флористическую композицию для особого события. Выбери растения из приведенной ниже таблицы, которые наиболее подходящие для создания композиции на весеннюю свадьбу."
+            "Załóż, że musisz przygotować kompozycję florystyczną na specjalne wydarzenie. Wybierz rośliny z poniższej tabeli, które są najbardziej odpowiednie do stworzenia kompozycji na wiosenny ślub": "Предположи, что ты должен подготовить флористическую композицию для особого события. Выбери растения из приведенной ниже таблицы, которые наиболее подходящие для создания композиции на весеннюю свадьбу.",
+            "Podczas realizacji zadań zawodowych, florysta musi przestrzegać norm i procedur oceny zgodności. Wskaż, który z poniższych celów NIE jest celem normalizacji krajowej": "Во время выполнения профессиональных задач флорист должен соблюдать нормы и процедуры оценки соответствия. Укажите, какая из следующих целей НЕ является целью государственной стандартизации.",
+            "Rozpoznaj, które z poniższych oznaczeń odpowiada normie krajowej": "Распознайте, какое из следующих обозначений соответствует государственной стандартизации.",
+            "ANSI Z41.1-1999": "ANSI Z41.1-1999"
         }
     },
     "not_approved": {
@@ -1482,7 +1485,6 @@
         "Na tarasie o charakterze śródziemnomorskim posadzono": "На террасе средиземноморского характера высажены",
         "Wskaż sposób postępowania z kwiatostanami lilaka po zbiorze": "Укажите способ обращения с соцветиями сирени после сбора.",
         "W jesiennej dekoracji wnętrza wykorzystano pędy krzewu o czarnych owocach. Który krzew użyto do wykonania tej dekoracji?": "В осенней декорации интерьера использованы побеги кустарника с черными плодами. Какой кустарник использован для выполнения этой декорации?",
-        "ANSI Z41.1-1999": "ANSI Z41.1-1999",
         "Goździki": "Гвоздики",
         "Lilie": "Лилии",
         "Goździki są rośliną, której potrzeba najmniej do wykonania kompozycji": "Гвоздики — это растение, которому нужно меньше всего для выполнения композиции.",
@@ -1490,9 +1492,12 @@
         "Sansewieria": "Сансевиерия",
         "Orchidea": "Орхидея",
         "Zamiokulkas": "Замиокулькас",
-        "Rozpoznaj, które z poniższych oznaczeń odpowiada normie krajowej": "Распознайте, какое из следующих обозначений соответствует государственной стандартизации.",
-        "Podczas realizacji zadań zawodowych, florysta musi przestrzegać norm i procedur oceny zgodności. Wskaż, który z poniższych celów NIE jest celem normalizacji krajowej": "Во время выполнения профессиональных задач флорист должен соблюдать нормы и процедуры оценки соответствия. Укажите, какая из следующих целей НЕ является целью государственной стандартизации.",
         "Wybierz odpowiedź, która najlepiej opisuje zasadę \"punkt focalny\" w kompozycjach florystycznych": "Выберите ответ, который лучше всего описывает принцип \"фокальная точка\" в флористических композициях.",
-        "Przygotowujesz kompozycję florystyczną i musisz przyciąć kilka gałązek. Które narzędzie będzie najbardziej odpowiednie do tego zadania?": "Готовишь флористическую композицию и должен подрезать несколько веточек. Какой инструмент будет наиболее подходящим для этой задачи?"
+        "Przygotowujesz kompozycję florystyczną i musisz przyciąć kilka gałązek. Które narzędzie będzie najbardziej odpowiednie do tego zadania?": "Готовишь флористическую композицию и должен подрезать несколько веточек. Какой инструмент будет наиболее подходящим для этой задачи?",
+        "Miejsca cięcia łodyg kwiatów w ozdobie ślubnej zabezpiecza się": "Места среза стеблей цветов в свадебном украшении защищаются",
+        "taśmą plastelinową": "пластилиновой лентой",
+        "białą farbą florystyczną": "белой флористической краской.",
+        "taśmą kauczukową": "лентой каучуковой.",
+        "bezbarwnym lakierem": "бесцветным лаком."
     }
 }

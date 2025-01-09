@@ -489,38 +489,52 @@
         let answerElements = document.querySelectorAll('div.widget-content > div.answers_element');
 
         // Проходим по каждому найденному элементу
-        answerElements.forEach(answersElement => {
+        answerElements.forEach(answerElement => {
             // Проверяем, есть ли уже внутри div.answer_block
-            if (!answersElement.querySelector(selectors['answer_block'])) {
-                // Находим элементы <br> и <table>
-                let brElement = answersElement.querySelector('br');
-                let tableElement = answersElement.querySelector('table.table_answers');
+            if (!answerElement.querySelector(selectors['answer_block'])) {
+                // Создаем массив для хранения всех текстовых узлов
+                let textNodes = [];
+                let brFound = false;
 
-                // Проверяем, что оба элемента найдены
-                if (brElement && tableElement) {
-                    // Создаем новый <div class="answer_block">
-                    let answerBlockDiv = document.createElement('div');
-                    answerBlockDiv.className = 'answer_block';
+                // Проходим по всем дочерним узлам
+                for (let node of answerElement.childNodes) {
+                    let tag = node.tagName
+                    let type = node.nodeType
 
-                    // Получаем все элементы между <br> и <table>
-                    let currentElement = brElement.nextSibling;
-                    while (currentElement && currentElement !== tableElement) {
-                        let nextElement = currentElement.nextSibling; // Сохраняем следующий элемент
-                        answerBlockDiv.appendChild(currentElement); // Перемещаем текущий элемент в answer_block
-                        currentElement = nextElement; // Переходим к следующему элементу
+                    if (tag === 'BR') {
+                        brFound = true
+                    } else if (
+                        brFound &&
+                        node.textContent.trim() !== '' &&
+                        (type === Node.TEXT_NODE ||
+                        (type === Node.ELEMENT_NODE &&
+                        (tag === 'B' || tag === 'I')))
+                    ) {
+                        // Добавляем узел в массив
+                        textNodes.push(node);
                     }
+                }
 
-                    // Вставляем новый div перед таблицей
-                    answersElement.insertBefore(answerBlockDiv, tableElement);
+                // Если найдены текстовые узлы
+                if (textNodes.length > 0) {
+                    // Создаем новый div элемент
+                    const wrapper = document.createElement('div');
+                    // Добавляем className
+                    wrapper.className = 'answer_block';
 
-                    // Проверяем, есть ли div.image_test внутри answer_block
-                    let imageTestDiv = answerBlockDiv.querySelector('div.image_test');
-                    if (imageTestDiv) {
-                        // Перемещаем div.image_test после answer_block
-                        answersElement.insertBefore(imageTestDiv, answerBlockDiv.nextSibling);
+                    // Объединяем текст всех найденных узлов
+                    const combinedText = textNodes.map(node => node.textContent.trim()).join(' ');
+
+                    // Устанавливаем объединенный текст в div
+                    wrapper.textContent = combinedText;
+
+                    // Заменяем первый найденный текстовый узел на div
+                    answerElement.replaceChild(wrapper, textNodes[0]);
+
+                    // Удаляем остальные текстовые узлы
+                    for (let i = 1; i < textNodes.length; i++) {
+                        answerElement.removeChild(textNodes[i]);
                     }
-                } else {
-                    console.error('Не найдены необходимые элементы: <br> или <table>');
                 }
             }
         });

@@ -1317,7 +1317,12 @@
             "Zidentyfikuj, które z poniższych oznaczeń odpowiada normie krajowej Niemiec": "Определите, какое из нижеприведённых обозначений соответствует государственному стандарту Германии.",
             "Oznaczenie \"DIN EN ISO 9001:2015\" odpowiada normie krajowej Niemiec. \"DIN\" to Deutsches Institut für Normung, czyli Niemiecki Instytut Normalizacji": "Обозначение \"DIN EN ISO 9001:2015\" соответствует национальному стандарту Германии. \"DIN\" — это Deutsches Institut für Normung, то есть Немецкий институт стандартизации.",
             "ANSI\/ASME B1.20.1-1983": "ANSI\/ASME B1.20.1-1983",
-            "BS EN 12591:2009": "BS EN 12591:2009"
+            "BS EN 12591:2009": "BS EN 12591:2009",
+            "Które z poniższych opakowań jest najmniej odpowiednie do transportu kompozycji florystycznej zawierającej rośliny wrażliwe na niskie temperatury?": "Которая из перечисленных упаковок является наименее подходящей для транспортировки флористической композиции, содержащей растения, чувствительные к низким температурам?",
+            "Opakowanie foliowe": "Упаковка из фольги",
+            "Opakowanie styropianowe": "Упаковка из пенопласта",
+            "Opakowanie z tworzywa sztucznego": "Упаковка из пластика",
+            "Opakowanie z tektury falistej": "Упаковка из гофрированного картона"
         }
     },
     "not_approved": {
@@ -6552,11 +6557,6 @@
         "Klej z tuby na zimno jest najlepszy do wykonywania biżuterii floralnej, ponieważ nie wymaga wysokiej temperatury i nie uszkadza delikatnych materiałów takich jak kwiaty czy listki. Jest także wytrzymały i pozwala na precyzyjne klejenie różnych elementów": "Клей из тюбика на холодное нанесение лучше всего подходит для изготовления цветочной бижутерии, поскольку не требует высокой температуры и не повреждает такие деликатные материалы, как цветы или листики. Он также прочный и позволяет точно склеивать различные элементы.",
         "Taka aranżacja odpowiada klimatowi tropikalnemu, gdzie gałęzie, bromelie i storczyki są powszechnie spotykane. Dodatkowo, zastosowanie tych elementów tworzy przyjemną atmosferę i wprowadza naturalny element do pomieszczenia": "Такая аранжировка соответствует тропическому климату, где ветки, бромелии и орхидеи широко распространены. Кроме того, использование этих элементов создает приятную атмосферу и вводит природный элемент в помещение.",
         "Rysunek techniczny stosuje się do ukazania szczegółowego przekroju konstrukcji dekoracji ściany, ponieważ pozwala na zobrazowanie wszystkich elementów wewnętrznych konstrukcji oraz ich położenia względem siebie. Dzięki temu można dokładnie zaplanować i wykonać dekorację, uwzględniając wszystkie szczegóły i zapewniając jej stabilność oraz bezpieczeństwo użytkowania": "Технический рисунок используется для показа детального разреза конструкции украшения стены, так как позволяет изобразить все внутренние элементы конструкции и их расположение относительно друг друга. Благодаря этому можно точно запланировать и выполнить украшение, учитывая все детали и обеспечивая его стабильность и безопасность использования.",
-        "Opakowanie z tektury falistej": "Упаковка из гофрированного картона",
-        "Opakowanie foliowe": "Упаковка из фольги",
-        "Opakowanie styropianowe": "Упаковка из пенопласта",
-        "Opakowanie z tworzywa sztucznego": "Упаковка из пластика",
-        "Które z poniższych opakowań jest najmniej odpowiednie do transportu kompozycji florystycznej zawierającej rośliny wrażliwe na niskie temperatury?": "Которая из перечисленных упаковок является наименее подходящей для транспортировки флористической композиции, содержащей растения, чувствительные к низким температурам?",
         "Rozważ poniższą tabelę prezentującą różne style florystyczne wraz z ich charakterystycznymi cechami:": "Рассмотрите нижеприведенную таблицу, представляющую различные флористические стили вместе с их характерными чертами:",
         "Na podstawie powyższej tabeli, określ styl, który najlepiej pasuje do kompozycji składającej się z prostych form, ograniczonej palety barw i materiałów": "На основе приведенной выше таблицы, определите стиль, который лучше всего подходит для композиции, состоящей из простых форм, ограниченной палитры расцветок и материалов.",
         "Liść fatsji japońskiej charakteryzuje się dużymi, ciemnozielonymi, dłoniasto złożonymi blaszkami liściowymi z kilkoma głębokimi wcięciami. Na przedstawionych rysunkach, liść fatsji japońskiej jest widoczny na rysunku numer 4, ponieważ posiada charakterystyczne cechy morfologiczne tej rośliny": "Лист фатсии японской характеризуется большими, темно-зелеными, пальчато сложенными листовыми пластинами с несколькими глубокими вырезами. На представленных рисунках лист фатсии японской виден на рисунке номер 4, поскольку обладает характерными морфологическими чертами этого растения.",
@@ -6862,6 +6862,7 @@
         "Zaparzanie usuwa powietrze, które utrudnia turgor": "Заваривание удаляет воздух, который затрудняет тургор.",
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
-        "Zamiokulkas": "Замиокулькас"
+        "Zamiokulkas": "Замиокулькас",
+        "Opakowanie foliowe jest najmniej odpowiednie dla roślin wrażliwych na niskie temperatury, ponieważ nie zapewnia wystarczającej izolacji termicznej, co może prowadzić do przemrożenia roślin": "Упаковка из фольги наименее подходит для растений, чувствительных к низким температурам, поскольку не обеспечивает достаточной термоизоляции, что может привести к подмерзанию растений."
     }
 }

@@ -1322,7 +1322,12 @@
             "Opakowanie foliowe": "Упаковка из фольги",
             "Opakowanie styropianowe": "Упаковка из пенопласта",
             "Opakowanie z tworzywa sztucznego": "Упаковка из пластика",
-            "Opakowanie z tektury falistej": "Упаковка из гофрированного картона"
+            "Opakowanie z tektury falistej": "Упаковка из гофрированного картона",
+            "Opakowanie foliowe jest najmniej odpowiednie dla roślin wrażliwych na niskie temperatury, ponieważ nie zapewnia wystarczającej izolacji termicznej, co może prowadzić do przemrożenia roślin": "Упаковка из фольги наименее подходит для растений, чувствительных к низким температурам, поскольку не обеспечивает достаточной термоизоляции, что может привести к подмерзанию растений.",
+            "Wybierając rośliny do kompozycji florystycznej, zwracasz uwagę na ich kształt i teksturę. Jakie inne elementy powinieneś uwzględnić, aby twoja kompozycja była harmonijna i spójna?": "Выбирая растения для флористической композиции, обращаете внимание на их форму и текстуру. Какие другие элементы следует учитывать, чтобы ваша композиция была гармоничной и цельной?",
+            "Kolor i światło": "Цвет и свет",
+            "Wiek i rodzaj rośliny": "Возраст и тип растения",
+            "Wielkość i wagę": "Величину и вес"
         }
     },
     "not_approved": {
@@ -6863,6 +6868,6 @@
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
         "Zamiokulkas": "Замиокулькас",
-        "Opakowanie foliowe jest najmniej odpowiednie dla roślin wrażliwych na niskie temperatury, ponieważ nie zapewnia wystarczającej izolacji termicznej, co może prowadzić do przemrożenia roślin": "Упаковка из фольги наименее подходит для растений, чувствительных к низким температурам, поскольку не обеспечивает достаточной термоизоляции, что может привести к подмерзанию растений."
+        "Cenę i dostępność": "Цену и доступность"
     }
 }

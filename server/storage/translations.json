@@ -1287,7 +1287,18 @@
             "Program musi mieć wiele funkcji i narzędzi": "Программа должна иметь много функций и инструментов.",
             "Program musi umożliwiać tworzenie realistycznych wizualizacji": "Программа должна обеспечивать создание реалистичных визуализаций.",
             "Program musi być darmowy": "Программа должна быть бесплатной",
-            "Choć wszystkie wymienione cechy są ważne, najważniejszym aspektem jest umożliwienie tworzenia realistycznych wizualizacji. Dzięki temu klient będzie mógł dokładnie zobaczyć, jak będzie wyglądać końcowa dekoracja": "Хотя все перечисленные черты важны, самым важным аспектом является возможность создания реалистичных визуализаций. Благодаря этому клиент сможет точно увидеть, как будет выглядеть конечная декорация."
+            "Choć wszystkie wymienione cechy są ważne, najważniejszym aspektem jest umożliwienie tworzenia realistycznych wizualizacji. Dzięki temu klient będzie mógł dokładnie zobaczyć, jak będzie wyglądać końcowa dekoracja": "Хотя все перечисленные черты важны, самым важным аспектом является возможность создания реалистичных визуализаций. Благодаря этому клиент сможет точно увидеть, как будет выглядеть конечная декорация.",
+            "Które z poniższych stwierdzeń najlepiej opisuje rolę normy jakości w florystyce?": "Какое из следующих утверждений лучше всего описывает роль стандарта качества во флористике?",
+            "Norma jakości nie ma znaczenia w florystyce": "Стандарт качества не имеет значения в флористике.",
+            "Norma jakości służy tylko do oceny pracy florysty przez klienta": "Стандарт качества служит только для оценки работы флориста клиентом.",
+            "Norma jakości służy tylko do oceny pracy florysty przez innych florystów": "Стандарт качества служит только для оценки работы флориста другими флористами.",
+            "Norma jakości służy do oceny pracy florysty przez klienta i innych florystów oraz do utrzymania wysokiego standardu usług florystycznych": "Стандарт качества служит для оценки работы флориста клиентом и другими флористами, а также для поддержания высокого уровня флористических услуг.",
+            "Norma jakości w florystyce służy do oceny pracy florysty zarówno przez klienta, jak i innych florystów. Pomaga również utrzymać wysoki standard usług florystycznych poprzez określenie oczekiwań dotyczących procesu tworzenia i wyglądu końcowego kompozycji florystycznej": "Стандарт качества во флористике служит для оценки работы флориста как клиентом, так и другими флористами. Он также помогает поддерживать высокий стандарт флористических услуг, определяя ожидания относительно процесса создания и внешнего вида конечной флористической композиции.",
+            "Jaki jest najbezpieczniejszy sposób transportu dla delikatnych roślin doniczkowych na długie dystanse?": "Какой самый безопасный способ транспортировки для деликатных комнатных растений на длинные расстояния?",
+            "Pociąg": "Поезд",
+            "Ciężarówka": "Грузовик",
+            "Samolot": "Самолет",
+            "Samochód osobowy": "Легковой автомобиль"
         }
     },
     "not_approved": {
@@ -6823,10 +6834,6 @@
         "Wiązanie w pęczki to technika wiązania gałęzi, która jest później formowana w kształt girlandy": "Связывание в пучки - это техника связывания веточек, которая затем формируется в гирлянду.",
         "Poprawną odpowiedzią jest \"Kwiaty gerbery, liście fatsji, kwiaty gipsówki.\" ponieważ w opisie wiadomości wymienione są poszczególne rośliny i ich nazwy, a z nich wynika, jakie elementy ozdobne zostały wykorzystane w całej kompozycji": "Правильным ответом является \"Цветы герберы, листья фатсии, цветы гипсофилы.\", потому что в описании сообщения перечислены отдельные растения и их названия, и из них вытекает, какие декоративные элементы были использованы во всей композиции.",
         "Zgodnie z tabelą, pierwiastek K (potas) odpowiada za rozwój kwiatów i owoców, co bezpośrednio wpływa na walory dekoracyjne psianki. Pozostałe pierwiastki mają wpływ na inne aspekty wzrostu i rozwoju rośliny, ale nie są one bezpośrednio związane z walorami dekoracyjnymi": "Согласно таблице, элемент K (калий) отвечает за развитие цветов и плодов, что непосредственно влияет на декоративные качества паслёна. Остальные элементы влияют на другие аспекты роста и развития растения, но не связаны напрямую с декоративными качествами.",
-        "Norma jakości nie ma znaczenia w florystyce": "Стандарт качества не имеет значения в флористике.",
-        "Które z poniższych stwierdzeń najlepiej opisuje rolę normy jakości w florystyce?": "Какое из следующих утверждений лучше всего описывает роль стандарта качества во флористике?",
-        "Norma jakości służy tylko do oceny pracy florysty przez innych florystów": "Стандарт качества служит только для оценки работы флориста другими флористами.",
-        "Norma jakości służy tylko do oceny pracy florysty przez klienta": "Стандарт качества служит только для оценки работы флориста клиентом.",
-        "Norma jakości służy do oceny pracy florysty przez klienta i innych florystów oraz do utrzymania wysokiego standardu usług florystycznych": "Стандарт качества служит для оценки работы флориста клиентом и другими флористами, а также для поддержания высокого уровня флористических услуг."
+        "Samochód osobowy jest najbezpieczniejszym sposobem transportu dla delikatnych roślin doniczkowych na długie dystanse, ponieważ pozwala na kontrolę warunków podczas całego transportu, takich jak temperatura, wilgotność i ilość światła": "Легковой автомобиль является самым безопасным способом транспортировки деликатных комнатных растений на длинные дистанции, поскольку позволяет контролировать условия в течение всего транспортировки, такие как температура, влажность и количество света."
     }
 }

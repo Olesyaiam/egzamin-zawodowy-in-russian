@@ -1350,7 +1350,8 @@
             "Piła do metalu": "Пила по металлу",
             "Nożyczki do papieru": "Ножницы для бумаги",
             "Ostrze do tapet": "Лезвие для обоев",
-            "Sekator jest narzędziem przeznaczonym do przycinania gałęzi i pędów roślin. Pozwala na dokładne, proste cięcie, które jest mniej szkodliwe dla rośliny niż niewłaściwe narzędzie": "Секатор является инструментом, предназначенным для обрезки веток и побегов растений. Он позволяет выполнять точный, прямой срез, который наносит меньше вреда растению, чем неправильный инструмент."
+            "Sekator jest narzędziem przeznaczonym do przycinania gałęzi i pędów roślin. Pozwala na dokładne, proste cięcie, które jest mniej szkodliwe dla rośliny niż niewłaściwe narzędzie": "Секатор является инструментом, предназначенным для обрезки веток и побегов растений. Он позволяет выполнять точный, прямой срез, который наносит меньше вреда растению, чем неправильный инструмент.",
+            "Leżą naprzeciwko siebie": "Лежат напротив друг друга."
         }
     },
     "not_approved": {
@@ -4426,7 +4427,6 @@
         "Dla którego z wymienionych biomów charakterystyczne są rośliny storczykowate?": "Для какой из перечисленных биом характерны орхидные растения?",
         "bambusowe naczynie do sporządzania ikebany": "бамбуковая посуда для приготовления икебаны.",
         "Leżą obok siebie": "Лежат рядом друг с другом.",
-        "Leżą naprzeciwko siebie": "Лежат напротив друг друга.",
         "Są oddalone od siebie o kąt 90o": "Находятся на расстоянии 90 градусов друг от друга.",
         "Określ położenie barw komplementarnych na kole barw": "Определи расположение дополнительных расцветок на коле расцветок.",
         "Są oddalone od siebie o kąt 60o": "Находятся на расстоянии 60 градусов друг от друга.",

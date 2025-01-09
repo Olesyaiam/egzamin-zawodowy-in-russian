@@ -1314,7 +1314,10 @@
             "Zestaw C": "Набор C",
             "Zestaw D": "Набор D",
             "Białe orchidee symbolizują czystość i niewinność, co jest często kojarzone z ceremonią ślubną. Białe wstążki i perły są klasycznymi dodatkami do ślubnych kompozycji florystycznych": "Белые орхидеи символизируют чистоту и невинность, что часто ассоциируется со свадебной церемонией. Белые ленты и жемчуг являются классическими аксессуарами к свадебным флористическим композициям.",
-            "Zidentyfikuj, które z poniższych oznaczeń odpowiada normie krajowej Niemiec": "Определите, какое из нижеприведённых обозначений соответствует государственному стандарту Германии."
+            "Zidentyfikuj, które z poniższych oznaczeń odpowiada normie krajowej Niemiec": "Определите, какое из нижеприведённых обозначений соответствует государственному стандарту Германии.",
+            "Oznaczenie \"DIN EN ISO 9001:2015\" odpowiada normie krajowej Niemiec. \"DIN\" to Deutsches Institut für Normung, czyli Niemiecki Instytut Normalizacji": "Обозначение \"DIN EN ISO 9001:2015\" соответствует национальному стандарту Германии. \"DIN\" — это Deutsches Institut für Normung, то есть Немецкий институт стандартизации.",
+            "ANSI\/ASME B1.20.1-1983": "ANSI\/ASME B1.20.1-1983",
+            "BS EN 12591:2009": "BS EN 12591:2009"
         }
     },
     "not_approved": {
@@ -6859,9 +6862,6 @@
         "Zaparzanie usuwa powietrze, które utrudnia turgor": "Заваривание удаляет воздух, который затрудняет тургор.",
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
-        "Zamiokulkas": "Замиокулькас",
-        "BS EN 12591:2009": "BS EN 12591:2009",
-        "ANSI\/ASME B1.20.1-1983": "ANSI\/ASME B1.20.1-1983",
-        "Oznaczenie \"DIN EN ISO 9001:2015\" odpowiada normie krajowej Niemiec. \"DIN\" to Deutsches Institut für Normung, czyli Niemiecki Instytut Normalizacji": "Обозначение \"DIN EN ISO 9001:2015\" соответствует национальному стандарту Германии. \"DIN\" — это Deutsches Institut für Normung, то есть Немецкий институт стандартизации."
+        "Zamiokulkas": "Замиокулькас"
     }
 }

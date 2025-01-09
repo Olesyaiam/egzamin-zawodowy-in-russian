@@ -1355,7 +1355,11 @@
             "Załóż, że musisz przygotować kompozycję florystyczną na specjalne wydarzenie. Wybierz rośliny z poniższej tabeli, które są najbardziej odpowiednie do stworzenia kompozycji na wiosenny ślub": "Предположи, что ты должен подготовить флористическую композицию для особого события. Выбери растения из приведенной ниже таблицы, которые наиболее подходящие для создания композиции на весеннюю свадьбу.",
             "Podczas realizacji zadań zawodowych, florysta musi przestrzegać norm i procedur oceny zgodności. Wskaż, który z poniższych celów NIE jest celem normalizacji krajowej": "Во время выполнения профессиональных задач флорист должен соблюдать нормы и процедуры оценки соответствия. Укажите, какая из следующих целей НЕ является целью государственной стандартизации.",
             "Rozpoznaj, które z poniższych oznaczeń odpowiada normie krajowej": "Распознайте, какое из следующих обозначений соответствует государственной стандартизации.",
-            "ANSI Z41.1-1999": "ANSI Z41.1-1999"
+            "ANSI Z41.1-1999": "ANSI Z41.1-1999",
+            "Goździki": "Гвоздики",
+            "Lilie": "Лилии",
+            "Goździki są rośliną, której potrzeba najmniej do wykonania kompozycji": "Гвоздики — это растение, которому нужно меньше всего для выполнения композиции.",
+            "Goździki - symbolizują odrzut i lekceważenie": "Гвоздики - символизируют отторжение и пренебрежение"
         }
     },
     "not_approved": {
@@ -1485,10 +1489,6 @@
         "Na tarasie o charakterze śródziemnomorskim posadzono": "На террасе средиземноморского характера высажены",
         "Wskaż sposób postępowania z kwiatostanami lilaka po zbiorze": "Укажите способ обращения с соцветиями сирени после сбора.",
         "W jesiennej dekoracji wnętrza wykorzystano pędy krzewu o czarnych owocach. Który krzew użyto do wykonania tej dekoracji?": "В осенней декорации интерьера использованы побеги кустарника с черными плодами. Какой кустарник использован для выполнения этой декорации?",
-        "Goździki": "Гвоздики",
-        "Lilie": "Лилии",
-        "Goździki są rośliną, której potrzeba najmniej do wykonania kompozycji": "Гвоздики — это растение, которому нужно меньше всего для выполнения композиции.",
-        "Goździki - symbolizują odrzut i lekceważenie": "Гвоздики - символизируют отторжение и пренебрежение",
         "Sansewieria": "Сансевиерия",
         "Orchidea": "Орхидея",
         "Zamiokulkas": "Замиокулькас",

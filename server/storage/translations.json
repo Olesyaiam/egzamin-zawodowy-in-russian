@@ -1334,7 +1334,8 @@
             "Aloes i orchidea": "Алоэ и орхидея",
             "Gerbera i paproć": "Гербера и папоротник",
             "Aloes i gerbera": "Алоэ и гербера",
-            "Orchidea i paproć": "Орхидея и папоротник"
+            "Orchidea i paproć": "Орхидея и папоротник",
+            "Aloes i orchidea mają umiarkowane wymagania dotyczące podlewania, co oznacza, że lepiej poradzą sobie w warunkach, które mogą powodować szybsze wysychanie podłoża, takie jak ogrzewanie podłogowe": "Алоэ и орхидея имеют умеренные требования к поливу, что означает, что они лучше справятся в условиях, которые могут способствовать более быстрому высыханию подложки, таких как напольное отопление."
         }
     },
     "not_approved": {
@@ -6874,7 +6875,6 @@
         "Zaparzanie usuwa powietrze, które utrudnia turgor": "Заваривание удаляет воздух, который затрудняет тургор.",
         "Poprawna odpowiedź, czyli \"zaparzanie\", wynika z faktu, że umożliwia ono przywrócenie turgoru poprzez pobudzenie komórek roślinnych do aktywności metabolicznej i przyspieszenie przemiany wody oraz składników odżywczych": "Правильный ответ, то есть \"запаривание\", вытекает из того факта, что оно позволяет восстановить тургор, стимулируя растительные клетки к метаболической активности и ускоряя обмен воды и питательных веществ.",
         "Orchidea": "Орхидея",
-        "Zamiokulkas": "Замиокулькас",
-        "Aloes i orchidea mają umiarkowane wymagania dotyczące podlewania, co oznacza, że lepiej poradzą sobie w warunkach, które mogą powodować szybsze wysychanie podłoża, takie jak ogrzewanie podłogowe": "Алоэ и орхидея имеют умеренные требования к поливу, что означает, что они лучше справятся в условиях, которые могут способствовать более быстрому высыханию подложки, таких как напольное отопление."
+        "Zamiokulkas": "Замиокулькас"
     }
 }

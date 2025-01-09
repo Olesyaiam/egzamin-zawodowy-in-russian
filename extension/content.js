@@ -402,9 +402,14 @@
 
                 // Проходим по всем дочерним узлам fieldset
                 for (let node of fieldset.childNodes) {
-                    // Проверяем, является ли узел текстовым и содержит ли текст
-                    if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== '') {
-                        // Добавляем текстовый узел в массив
+                    // Проверяем, является ли узел текстовым или элементом <b>/<i> с текстом внутри
+                    if (
+                        node.textContent.trim() !== '' &&
+                        (node.nodeType === Node.TEXT_NODE ||
+                        (node.nodeType === Node.ELEMENT_NODE &&
+                        (node.tagName === 'B' || node.tagName === 'I')))
+                    ) {
+                        // Добавляем узел в массив
                         textNodes.push(node);
                     }
                 }

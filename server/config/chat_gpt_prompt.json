@@ -34,6 +34,12 @@
         ]
     },
     "dictionary_by_search_word": {
+        "norm": [
+            "normy techniczne: технические стандарты",
+            "norma jakości: стандарт качества",
+            "normalizacja krajowa: государственная стандартизация",
+            "normalna praca: нормальная работа"
+        ],
         "okn": [
             "okno o wystawie północnej: окно, выходящее на север",
             "północne okno: северное окно",

@@ -1409,7 +1409,15 @@
             "Astry i wrzosy": "Астры и верески.",
             "Astry i wrzosy kwitną jesienią, co odpowiada wymaganiom klienta dotyczącym jesiennych roślin do dekoracji stołu": "Астры и верески цветут осенью, что отвечает требованиям клиента относительно осенних растений для декорации стола.",
             "Pomarańczowa i żółta nie są względem siebie komplementarne, ponieważ nie tworzą pary barw dopełniających, czyli dwóch barw, które razem dają białą (lub szarą) mieszankę świetlną. W przypadku pomarańczowej i żółtej mieszanka świetlna daje kolor brązowy, a nie biały": "Оранжевая и жёлтая не подходят друг к другу, потому что не образуют пары дополнительных расцветок, то есть двух расцветок, которые вместе дают белую (или серую) световую смесь. В случае оранжевой и жёлтой световая смесь даёт коричневый цвет, а не белый.",
-            "Które z wymienionych roślin poleca się do tworzenia kompozycji florystycznych w stylu formalno-linearnym?": "Какие из перечисленных растений рекомендуются для создания флористических композиций в стиле формально-линеарном?"
+            "Które z wymienionych roślin poleca się do tworzenia kompozycji florystycznych w stylu formalno-linearnym?": "Какие из перечисленных растений рекомендуются для создания флористических композиций в стиле формально-линеарном?",
+            "Pędy leszczyny 'Contorta' mają charakterystyczne, pełne zwoje, które dobrze sprawdzają się w kompozycjach formalno-linearnych, natomiast strelicje to rośliny o prostych, pionowych łodygach, które również pasują do tego stylu aranżacji": "Побеги лещины 'Contorta' имеют характерные, полные завитки, которые хорошо смотрятся в композициях формально-линеарных, тогда как стрелиции — это растения с прямыми, вертикальными стеблями, которые также подходят для этого стиля оформления.",
+            "Pędy leszczyny 'Contorta', strelicje": "Побеги лещины 'Contorta', стрелиции.",
+            "Trawę niedźwiedzią, tulipany": "Медвежью траву, тюльпаны.",
+            "Paproć skórzastą, gipsówkę, róże": "Кожаный папоротник, гипсофилу, розы.",
+            "Kłosy zbóż, owocostany miechunki, cynie": "Колосья злаков, соплодия физалиса, циннии.",
+            "Preparaty Floralife służą do": "Препараты Floralife служат для",
+            "przedłużania trwałości kwiatów ciętych": "продления стойкости срезанных цветов.",
+            "umieszczania ich między kwiatami w celu absorbowania etylenu z powietrza": "размещения их между цветами с целью поглощения этилена из воздуха."
         }
     },
     "not_approved": {
@@ -2587,7 +2595,6 @@
         "Technika drutowania jest stosowana do wzmacniania pustych łodyg kwiatów, takich jak gerbery, od środka. Polega na delikatnym wprowadzeniu cienkiego drutu do wnętrza łodygi, co zapobiega jej zginaniu i łamaniu, a tym samym przedłuża trwałość i estetykę kwiatów w kompozycjach florystycznych. Pozostałe wymienione techniki, takie jak szynowanie, taśmowanie i maskowanie, służą innym celom w florystyce i nie są odpowiednie do wzmacniania pustych łodyg kwiatów": "Техника проволочного укрепления применяется для укрепления полых стеблей цветов, таких как герберы, изнутри. Она заключается в аккуратном введении тонкой проволоки внутрь стебля, что предотвращает его сгибание и ломку, а также продлевает долговечность и эстетику цветов в цветочных композициях. Остальные перечисленные техники, такие как рельсоподобное укрепление, обмотка лентой и маскировка, служат другим целям во флористике и не подходят для укрепления полых стеблей цветов.",
         "Pędy leszczyny \"Contorta\", strelicje": "Побеги лещины \"Contorta\", стрелиции.",
         "Trawa niedźwiedzia, tulipany": "Медвежья трава, тюльпаны.",
-        "Kłosy zbóż, owocostany miechunki, cynie": "Колосья злаков, соплодия физалиса, циннии.",
         "Paproć skórzasta, gipsówka, róże": "Папоротник кожистый, гипсофила, розы.",
         "Przedwczesne starzenie się gerber w wazonie spowodowane jest": "Преждевременное старение гербер в вазоне вызвано",
         "Oblicz wymiary rzeczywiste stołu urodzinowego, który na rysunkach projektowych sporządzonych w skali 1:20 ma 16 cm długości i 7,5 cm szerokości": "Рассчитайте реальные размеры праздничного стола, который на проектных чертежах, выполненных в масштабе 1:20, имеет длину 16 см и ширину 7,5 см.",
@@ -4170,10 +4177,6 @@
         "Pylniki powodują, że lilie szybciej opadają płatkami i wydzielają silny zapach, co utrudnia utrzymanie ich świeżości i estetyki w wiązance pogrzebowej": "Пыльники вызывают, что лилии быстрее опадают лепестками и выделяют сильный запах, что затрудняет поддержание их свежести и эстетики в похоронной композиции.",
         "W celu wykonania wysokiej (pionowej) kompozycji stosuje się gąbkę florystyczną typu": "С целью выполнения высокой (вертикальной) композиции используется флористическая губка типа",
         "Gabbia jest odpowiednim typem gąbki florystycznej do utrzymania kwiatów i gałązek w pionowej pozycji w wysokiej kompozycji. Jej specjalna konstrukcja i mocne druty pozwala na stabilne zamocowanie roślin i zapewnia im odpowiednie podparcie": "Gabbia является подходящим типом флористической губки для удержания цветов и веточек в вертикальном положении в высокой композиции. Ее специальная конструкция и крепкие проволоки позволяют стабильно закрепить растения и обеспечивают им соответствующую опору.",
-        "Pędy leszczyny 'Contorta', strelicje": "Побеги лещины 'Contorta', стрелиции.",
-        "Paproć skórzastą, gipsówkę, róże": "Кожаный папоротник, гипсофилу, розы.",
-        "Trawę niedźwiedzią, tulipany": "Медвежью траву, тюльпаны.",
-        "Pędy leszczyny 'Contorta' mają charakterystyczne, pełne zwoje, które dobrze sprawdzają się w kompozycjach formalno-linearnych, natomiast strelicje to rośliny o prostych, pionowych łodygach, które również pasują do tego stylu aranżacji": "Побеги лещины 'Contorta' имеют характерные, полные завитки, которые хорошо смотрятся в композициях формально-линеарных, тогда как стрелиции — это растения с прямыми, вертикальными стеблями, которые также подходят для этого стиля оформления.",
         "Na rysunku przedstawiono schemat wykonania wiązanki": "На рисунке представлен схема выполнения цветочной связки.",
         "Frezja posiada kwiatostan typu kłos, co jest zgodne z informacjami dostępnymi w literaturze ogrodniczej i florystycznej. Zgodnie z tabelą, kwiatostany typu kłos powinny być przechowywane w temperaturze 1°C-2°C, co odpowiada odpowiedzi \"C\"": "Фрезия обладает соцветием типа колос, что соответствует информации, доступной в садоводческой и флористической литературе. Согласно таблице, соцветия типа колос должны храниться при температуре 1°C-2°C, что соответствует ответу \"C\".",
         "Na rysunku przedstawiono schemat wykonania wiązanki w stylu angielskim, który charakteryzuje się symetrycznym i promienistym układem kwiatów oraz równomiernym rozmieszczeniem materiału roślinnego wokół centralnego punktu": "На рисунке представлен схематичный план выполнения цветочной связки в английском стиле, который характеризуется симметричным и лучеобразным укладом цветов, а также равномерным распределением растительного материала вокруг центральной точки.",
@@ -4193,9 +4196,6 @@
         "pnącza": "вьющиеся растения",
         "Wiązanka ślubna wykonana na sznurze ozdobnym z dowiązanymi drobnymi pęczkami kwiatów i zieleni to wiązanka w formie": "Свадебная цветочная связка, выполненная на декоративном шнуре с привязанными мелкими пучками цветов и зелени, это связка в форме",
         "Wiązanka ślubna wykonana na sznurze ozdobnym z drobnymi pęczkami kwiatów i zieleni ma formę pnącza, ponieważ wierzchołki kwiatów są ukierunkowane do góry, a łodygi rozgałęziają się i pną się w górę": "Цветочная связка, выполненная на декоративной веревке с мелкими пучками цветов и зелени, имеет форму вьющегося растения, поскольку вершины цветов направлены вверх, а стебли разветвляются и стремятся вверх.",
-        "przedłużania trwałości kwiatów ciętych": "продления стойкости срезанных цветов.",
-        "Preparaty Floralife służą do": "Препараты Floralife служат для",
-        "umieszczania ich między kwiatami w celu absorbowania etylenu z powietrza": "размещения их между цветами с целью поглощения этилена из воздуха.",
         "Preparaty Floralife zawierają składniki odżywcze i środki antybakteryjne, które zapobiegają rozwojowi bakterii w wodzie i dostarczają kwiatom ciętym niezbędne składniki odżywcze, przedłużając trwałość kwiatów": "Препараты Floralife содержат питательные вещества и антибактериальные средства, которые препятствуют развитию бактерий в воде и доставляют срезанным цветам необходимые питательные вещества, продлевая стойкость цветов.",
         "Goździk gałązkowy": "Гвоздика веточная.",
         "Amarylis": "Амариллис.",
@@ -4671,6 +4671,12 @@
         "drut florystyczny o grubości 0,8 mm": "Флористическую проволоку толщиной 0,8 мм.",
         "Aby znaleźć średnicę otworu wieńca, należy zastosować proporcję przedstawioną na rysunku. Proporcja ta wynosi 1:1,6, co oznacza, że na każdy 1 cm szerokości korpusu przypada 1,6 cm średnicy otworu. Mnożąc szerokość korpusu wieńca (15 cm) przez współczynnik proporcji (1,6), otrzymujemy średnicę otworu równą 24 cm": "Чтобы найти диаметр отверстия венка, необходимо применить пропорцию, представленную на рисунке. Эта пропорция составляет 1:1,6, что означает, что на каждый 1 см ширины каркаса приходится 1,6 см диаметра отверстия. Умножая ширину каркаса венка (15 см) на коэффициент пропорции (1,6), получаем диаметр отверстия равный 24 см.",
         "\"Dziewanny i ostróżki\" są roślinami, które charakteryzują się wzniesionym pokrojem w swojej kompozycji.\"": "\"Коровяки и дельфиниумы\" - это растения, которые характеризуются вертикальным строением в своей композиции.",
-        "Kompozycja wegetatywna, o charakterze jesiennym, może być wykonana": "Композиция вегетативная, осеннего характера, может быть выполнена"
+        "Kompozycja wegetatywna, o charakterze jesiennym, może być wykonana": "Композиция вегетативная, осеннего характера, может быть выполнена",
+        "Wykonanie kompozycji wegetatywnej z gałęzi ognika w glinianej misie jest możliwe ze względu na to, że jesień to czas, kiedy wiele drzew i krzewów wyrzuca swoje liście, co oznacza obecność dostępnych surowców roślinnych. Ognik natomiast to roślina, która zachowuje swoje liście przez większość roku, co czyni go dobrym wyborem na składnik kompozycji jesiennych. Umieszczenie gałęzi ognika w glinianej misie pozwala na stworzenie spójnej, estetycznej całości": "Выполнение вегетативной композиции из веток пираканты в глиняной чаше возможно благодаря тому, что осень — это время, когда многие деревья и кустарники сбрасывают свои листья, что означает наличие доступных растительных сырьёв. Пираканта же — это растение, которое сохраняет свои листья большую часть года, что делает её хорошим выбором для составления осенних композиций. Размещение веток пираканты в глиняной чаше позволяет создать цельное, эстетичное целое.",
+        "Anturium, strclicja, orchidea": "Антуриум, стрелиция, орхидея.",
+        "Gerbera, róża, szarłat": "Гербера, роза, амарант.",
+        "Anturium, szarłat, róża": "Антуриум, амарант, роза.",
+        "Wskaż, który zestaw roślin jest odpowiedni do wykonania wiązanki graficznej typu paralel": "Укажите, какой набор растений подходит для выполнения графической цветочной связки параллельного типа.",
+        "Peonia, róża, strelicja": "Пион, роза, стрелиция."
     }
 }

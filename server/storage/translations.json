@@ -1367,7 +1367,11 @@
             "korpus z pędów": "каркас из побегов.",
             "podkład styropianowy": "Пенополистирольная подкладка.",
             "oczyszczania łodyg róż": "очистки стеблей роз",
-            "czerwoną, żółtą i niebieską": "красный, желтый и синий."
+            "czerwoną, żółtą i niebieską": "красный, желтый и синий.",
+            "dynamicznym": "динамичном.",
+            "rytmicznym": "ритмичном.",
+            "asymetrycznym": "асимметричном",
+            "swobodnym": "свободном."
         }
     },
     "not_approved": {
@@ -2034,7 +2038,6 @@
         "Świerk, wilczomlecz i jemioła są typowymi roślinami dekoracyjnymi w okresie Bożego Narodzenia, co sprawia, że są najlepszym zestawem do wykonania dekoracji florystycznej": "Ель, молочай и омела являются типичными декоративными растениями в период Рождества, что делает их лучшим набором для создания флористической декорации.",
         "Kotwica": "Армированная влагостойкая лента",
         "dowolnym": "любом",
-        "asymetrycznym": "асимметричном",
         "nieregularnym": "нерегулярном",
         "Aranżację do dekoracji wnętrza barokowego kościoła najlepiej wykonać w porządku": "«Аранжировку для декорации интерьера барочной церкви лучше всего выполнить в порядке»",
         "symetrycznym": "симметричном",
@@ -3104,10 +3107,7 @@
         "na siatce": "на сетке.",
         "Technikę wiązania w pęczki stosuje się przy suszeniu roślin": "Технику связки в пучки применяют при сушке растений.",
         "w pozycji naturalnej": "в естественном положении.",
-        "dynamicznym": "динамичном.",
         "Na rysunku przedstawiono kompozycję w układzie": "На рисунке представлена композиция в укладе",
-        "rytmicznym": "ритмичном.",
-        "swobodnym": "свободном.",
         "Do wykonania bukietu urodzinowego florysta wykorzystał materiał roślinny za 85,00 zł, kryzę za 15,00 zł, inne dodatki dekoracyjne za 10,00 zł. Oblicz koszt całkowity wykonanej kompozycji, jeżeli robocizna stanowi 30% wszystkich zużytych materiałów": "Для создания букета на день рождения флорист использовал растительный материал на 85,00 злотых, декоративный воротник на 15,00 злотых, другие декоративные дополнения на 10,00 злотых. Рассчитай общую стоимость выполненной композиции, если затраты на работу составляют 30% всех использованных материалов.",
         "miechunka rozdęta i ognik szkarłatny": "физалис обыкновенный и пираканта ярко-красная.",
         "Do wykonania kompozycji przedstawionej na rysunku zastosowano owoce roślin z gatunków": "Для выполнения композиции, представленной на рисунке, использованы плоды растений из видов.",
@@ -3585,6 +3585,12 @@
         "W kompozycji florystycznej uzyskuje się najsilniejszy kontrast przez połączenie barw": "Во флористической композиции достигается самый сильный контраст за счет сочетания расцветок.",
         "komplementarnych": "комплементарных.",
         "Pęd ma długość 11 cm, a pąk kwiatowy 3 cm. Na podstawie danych zamieszczonych w tabeli określ, jakiemu kodowi odpowiada ta roślina": "Побег имеет длину 11 см, а цветочная почка 3 см. На основе данных, размещенных в таблице, определи, какому коду соответствует это растение.",
-        "Przedstawiony na zdjęciu owoc należy do rośliny z rodzaju czarnuszka (Nigella). Charakterystyczny wygląd owocu, przypominający nadmuchany mieszki z licznymi komorami powietrznymi, jest typowy dla czarnuszki. Owoce te są bardzo dekoracyjne i często wykorzystywane w suchych bukietach. Czarnuszka jest rośliną z rodziny jaskrowatych, cenioną zarówno w celach ozdobnych, jak i dla jej nasion o właściwościach leczniczych i kulinarnych. Warto zauważyć, że owoce czarnuszki po dojrzeniu pękają, uwalniając drobne, czarne nasiona, które są najbardziej wartościową częścią rośliny": "Представленный на фотографии плод принадлежит к растению из рода чернушка (Nigella). Характерный вид плода, напоминающий надутые стручки с многочисленными воздушными камерами, типичен для чернушки. Эти плоды очень декоративны и часто используются в сухих букетах. Чернушка является растением из семейства лютиковых, ценится как в декоративных целях, так и за её семена с лечебными и кулинарными свойствами. Стоит отметить, что плоды чернушки после созревания трескаются, освобождая мелкие, черные семена, которые являются наиболее ценной частью растения."
+        "Przedstawiony na zdjęciu owoc należy do rośliny z rodzaju czarnuszka (Nigella). Charakterystyczny wygląd owocu, przypominający nadmuchany mieszki z licznymi komorami powietrznymi, jest typowy dla czarnuszki. Owoce te są bardzo dekoracyjne i często wykorzystywane w suchych bukietach. Czarnuszka jest rośliną z rodziny jaskrowatych, cenioną zarówno w celach ozdobnych, jak i dla jej nasion o właściwościach leczniczych i kulinarnych. Warto zauważyć, że owoce czarnuszki po dojrzeniu pękają, uwalniając drobne, czarne nasiona, które są najbardziej wartościową częścią rośliny": "Представленный на фотографии плод принадлежит к растению из рода чернушка (Nigella). Характерный вид плода, напоминающий надутые стручки с многочисленными воздушными камерами, типичен для чернушки. Эти плоды очень декоративны и часто используются в сухих букетах. Чернушка является растением из семейства лютиковых, ценится как в декоративных целях, так и за её семена с лечебными и кулинарными свойствами. Стоит отметить, что плоды чернушки после созревания трескаются, освобождая мелкие, черные семена, которые являются наиболее ценной частью растения.",
+        "Na podstawie dołączonego zdjęcia można zauważyć, że szyszki są ściśle przymocowane do siebie, tworząc stabilną konstrukcję, co sugeruje użycie mocnego kleju. Klej na gorąco jest często stosowany w pracach rękodzielniczych i florystycznych do tworzenia tego typu dekoracji, ponieważ szybko twardnieje i zapewnia mocne połączenie. Pozostałe opcje, takie jak klej na zimno, haftek rzymskich, czy taśma jednostronna, nie zapewniałyby takiej samej stabilności i trwałości połączenia": "На основе приложенной фотографии можно заметить, что шишки плотно прикреплены друг к другу, образуя стабильную конструкцию, что предполагает использование сильного клея. Клей горячего плавления часто используется в рукодельных и флористических работах для создания этого типа декораций, так как он быстро твердеет и обеспечивает прочное соединение. Остальные варианты, такие как холодный клей, римские крючки или односторонний скотч, не обеспечили бы такой же стабильности и прочности соединения.",
+        "Elementem dekoracyjnym anturium są": "Элементом декоративным антуриума являются",
+        "wielobarwne baldachy": "многоцветные зонтики",
+        "koszyczki kwiatowe": "цветочные корзинки",
+        "pochwy kwiatostanowe": "покрывала соцветий.",
+        "barwne wiechy": "Расцветка метёлок."
     }
 }

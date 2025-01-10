@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "horyzontalne i barwy pastelowe": "горизонтальные и пастельные расцветки."
+    },
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -3287,7 +3289,6 @@
         "symetryczna, o horyzontalnych paralelnych liniach": "симметричная, с горизонтальными параллельными линиями.",
         "Do wnętrza gotyckiego kościoła pasuje dekoracja": "К интерьеру готического костела подходит декорация.",
         "asymetryczna, o promienistym układzie łodyg": "асимметричная, с лучеобразным укладом стеблей.",
-        "horyzontalne i barwy pastelowe": "горизонтальные и пастельные расцветки.",
         "wznoszące ukośnie i barwy achromatyczne": "восходящие по диагонали и оттенки чёрно-белые.",
         "ukośnie opadające i barwy podstawowe": "наискось опадающие и основные расцветки.",
         "Nastrój spokoju w kompozycji kwiatowej wprowadzają linie": "Настроение спокойствия в цветочной композиции вводят линии",

@@ -4455,6 +4455,11 @@
         "Kształt roślin": "Форма растений",
         "Liczba kółek lub kwadratów": "Количество кругов или квадратов",
         "Kolor roślin": "Цвет растений",
-        "Rozmiar roślin": "Размер растений"
+        "Rozmiar roślin": "Размер растений",
+        "Kolor oznacza wielkość rośliny": "Цвет означает размер растения",
+        "Kolor oznacza gatunek rośliny": "Цвет обозначает вид растения.",
+        "Kolor oznacza liczbę sztuk rośliny": "Цвет означает количество штук растения.",
+        "Kolor oznacza, że roślina jest kwitnąca": "Цвет означает, что растение цветущее.",
+        "Przygotowujesz kompozycję florystyczną na podstawie rysunku koncepcyjnego. Na rysunku zauważyłeś, że niektóre rośliny są przedstawione w szarości, a inne w kolorze. Co może oznaczać ta różnica?": "Вы готовите флористическую композицию на основе концептуального рисунка. На рисунке вы заметили, что некоторые растения представлены в сером, а другие в цвете. Что может означать эта разница?"
     }
 }

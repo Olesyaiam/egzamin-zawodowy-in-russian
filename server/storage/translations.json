@@ -1417,7 +1417,9 @@
             "Kłosy zbóż, owocostany miechunki, cynie": "Колосья злаков, соплодия физалиса, циннии.",
             "Preparaty Floralife służą do": "Препараты Floralife служат для",
             "przedłużania trwałości kwiatów ciętych": "продления стойкости срезанных цветов.",
-            "umieszczania ich między kwiatami w celu absorbowania etylenu z powietrza": "размещения их между цветами с целью поглощения этилена из воздуха."
+            "umieszczania ich między kwiatami w celu absorbowania etylenu z powietrza": "размещения их между цветами с целью поглощения этилена из воздуха.",
+            "Preparaty Floralife zawierają składniki odżywcze i środki antybakteryjne, które zapobiegają rozwojowi bakterii w wodzie i dostarczają kwiatom ciętym niezbędne składniki odżywcze, przedłużając trwałość kwiatów": "Препараты Floralife содержат питательные вещества и антибактериальные средства, которые препятствуют развитию бактерий в воде и доставляют срезанным цветам необходимые питательные вещества, продлевая стойкость цветов.",
+            "Banany produkują dużo etylenu, co przyspiesza proces dojrzewania owoców w pobliżu, takich jak jabłka, kiwi czy awokado": "Бананы производят много этилена, что ускоряет процесс созревания плодов поблизости, таких как яблоки, киви или авокадо."
         }
     },
     "not_approved": {
@@ -4154,7 +4156,6 @@
         "w Londynie": "в Лондоне.",
         "Ponieważ pinholder to rodzaj narzędzia służącego do mocowania kwiatów w płaskim naczyniu z gąbką, dzięki czemu kompozycja florystyczna jest stabilna i trwała": "Поскольку пинхолдер - это вид инструмента, служащего для крепления цветов в плоском сосуде с губкой, благодаря чему флористическая композиция стабильна и долговечна.",
         "Międzynarodowe Targi Roślin (IPM) odbywają się w Essen, ponieważ to właśnie tam mieści się Messe Essen - centrum wystawiennicze, gdzie organizowane są największe targi branżowe w Niemczech. To miejsce, gdzie producenci i dystrybutorzy roślin oraz dekoracji florystycznych prezentują swoje produkty i trendy w branży": "Международная выставка растений (IPM) проходит в Эссене, потому что именно там находится Messe Essen - выставочный центр, где организуются крупнейшие отраслевые выставки в Германии. Это место, где производители и дистрибьюторы растений, а также флористических декораций представляют свои продукты и тенденции в отрасли.",
-        "Banany produkują dużo etylenu, co przyspiesza proces dojrzewania owoców w pobliżu, takich jak jabłka, kiwi czy awokado": "Бананы производят много этилена, что ускоряет процесс созревания плодов поблизости, таких как яблоки, киви или авокадо.",
         "W pojemniku przeznaczonym do ustawienia na cienistym tarasie poleca się posadzić": "В контейнере, предназначенном для размещения на тенистой террасе, рекомендуется посадить.",
         "Miodunka plamista to roślina, która preferuje miejsca zacienione i wilgotne. Cienisty taras zapewnia odpowiednie warunki dla jej wzrostu. Dodatkowo, miodunka plamista ma piękne kwiaty i jest ceniona przez pszczelarzy za swój miód": "Медуница лекарственная – это растение, которое предпочитает тенистые и влажные места. Тенистая терраса обеспечивает подходящие условия для ее роста. Кроме того, медуница лекарственная имеет красивые цветы и ценится пчеловодами за свой мед.",
         "tackera": "Степлера.",
@@ -4196,7 +4197,6 @@
         "pnącza": "вьющиеся растения",
         "Wiązanka ślubna wykonana na sznurze ozdobnym z dowiązanymi drobnymi pęczkami kwiatów i zieleni to wiązanka w formie": "Свадебная цветочная связка, выполненная на декоративном шнуре с привязанными мелкими пучками цветов и зелени, это связка в форме",
         "Wiązanka ślubna wykonana na sznurze ozdobnym z drobnymi pęczkami kwiatów i zieleni ma formę pnącza, ponieważ wierzchołki kwiatów są ukierunkowane do góry, a łodygi rozgałęziają się i pną się w górę": "Цветочная связка, выполненная на декоративной веревке с мелкими пучками цветов и зелени, имеет форму вьющегося растения, поскольку вершины цветов направлены вверх, а стебли разветвляются и стремятся вверх.",
-        "Preparaty Floralife zawierają składniki odżywcze i środki antybakteryjne, które zapobiegają rozwojowi bakterii w wodzie i dostarczają kwiatom ciętym niezbędne składniki odżywcze, przedłużając trwałość kwiatów": "Препараты Floralife содержат питательные вещества и антибактериальные средства, которые препятствуют развитию бактерий в воде и доставляют срезанным цветам необходимые питательные вещества, продлевая стойкость цветов.",
         "Goździk gałązkowy": "Гвоздика веточная.",
         "Amarylis": "Амариллис.",
         "Łyszczec wiechowaty": "Гипсофила метельчатая.",
@@ -4677,6 +4677,7 @@
         "Gerbera, róża, szarłat": "Гербера, роза, амарант.",
         "Anturium, szarłat, róża": "Антуриум, амарант, роза.",
         "Wskaż, który zestaw roślin jest odpowiedni do wykonania wiązanki graficznej typu paralel": "Укажите, какой набор растений подходит для выполнения графической цветочной связки параллельного типа.",
-        "Peonia, róża, strelicja": "Пион, роза, стрелиция."
+        "Peonia, róża, strelicja": "Пион, роза, стрелиция.",
+        "Wiązanka graficzna typu paralel powinna składać się z roślin o podobnych kształtach i kolorach, dlatego anturium, strclicja i orchidea są odpowiednie, ponieważ mają podobne kolory i podobne kształty liści": "Цветочная связка графического типа параллель должна состоять из растений с похожими формами и цветами, поэтому антуриум, стрелиция и орхидея подходят, так как имеют похожие цвета и подобные формы листьев."
     }
 }

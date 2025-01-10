@@ -1423,7 +1423,11 @@
             "Aby obliczyć koszt materiałów florystycznych niezbędnych do wykonania girlandy bożonarodzeniowej, należy pomnożyć ilość każdego materiału przez jego cenę jednostkową, a następnie zsumować otrzymane wartości. Po przeprowadzeniu obliczeń dla każdego z materiałów i zsumowaniu ich, otrzymujemy kwotę 95,50 zł, co jest zgodne z podaną poprawną odpowiedzią": "Чтобы рассчитать стоимость флористических материалов, необходимых для создания рождественской гирлянды, необходимо умножить количество каждого материала на его цену за единицу, а затем сложить полученные значения. После проведения расчетов для каждого из материалов и их сложения, мы получаем сумму 95,50 злотых, что соответствует указанному правильному ответу.",
             "Kwiatostany anturium na czas transportu pakuje się": "Соцветия антуриума на время транспортировки упаковываются",
             "w karton ze specjalną wkładką": "в картонную коробку со специальной вставкой.",
-            "Kwiatostany anturium są delikatne i łatwo ulegają uszkodzeniom podczas transportu. Karton z specjalną wkładką zapewnia ochronę dla kwiatostanów anturium": "Соцветия антуриума нежные и легко повреждаются во время транспортировки. Картон со специальной вставкой обеспечивает защиту для соцветий антуриума."
+            "Kwiatostany anturium są delikatne i łatwo ulegają uszkodzeniom podczas transportu. Karton z specjalną wkładką zapewnia ochronę dla kwiatostanów anturium": "Соцветия антуриума нежные и легко повреждаются во время транспортировки. Картон со специальной вставкой обеспечивает защиту для соцветий антуриума.",
+            "Aficydy są środkami ochrony roślin wykorzystywanymi do zwalczania mszyc ze względu na ich właściwości owadobójcze": "Противотлевые препараты являются средствами защиты растений, используемыми для борьбы с тлёй из-за их инсектицидных свойств.",
+            "Sekatory gąsiennicowe": "Секаторы гусеничные.",
+            "Szczypce okrągłe są narzędziem, które umożliwia wyginanie drutów florystycznych": "Круглогубцы являются инструментом, который позволяет сгибать флористическую проволоку.",
+            "Kompozycja kwiatowa ma 50 cm wysokości i została wykonana według proporcji przedstawionej na rysunku. Jaką wysokość ma naczynie zastosowane w kompozycji?": "Цветочная композиция имеет высоту 50 см и выполнена в соответствии с пропорциями, представленными на рисунке. Какова высота сосуда, использованного в композиции?"
         }
     },
     "not_approved": {
@@ -4138,7 +4142,6 @@
         "magnesu": "магнита.",
         "wiertarki": "дрели.",
         "Aby zawiesić girlandę na betonowej ścianie, należy wykonać otwory, do których przymocuje się haki lub kołki. Wiertarka jest narzędziem umożliwiającym wykonanie tych otworów": "Чтобы повесить гирлянду на бетонной стене, нужно сделать отверстия, в которые будут закреплены крюки или дюбели. Дрель - это инструмент, позволяющий выполнить эти отверстия.",
-        "Aficydy są środkami ochrony roślin wykorzystywanymi do zwalczania mszyc ze względu na ich właściwości owadobójcze": "Противотлевые препараты являются средствами защиты растений, используемыми для борьбы с тлёй из-за их инсектицидных свойств.",
         "Klejenie jest poprawną odpowiedzią, ponieważ pozwala na trwałe połączenie elementów kolażu i zapewnia jego trwałość": "Клеение является правильным ответом, потому что позволяет надежно соединить элементы коллажа и обеспечивает его долговечность.",
         "naturalnego": "натурального.",
         "rustykalnego": "деревенского.",
@@ -4161,12 +4164,9 @@
         "tackera": "Степлера.",
         "szlifierki": "шлифовальной машины.",
         "Aby zawiesić girlandę na betonowej ścianie, niezbędne jest użycie": "Чтобы повесить гирлянду на бетонной стене, необходимо использовать",
-        "Kompozycja kwiatowa ma 50 cm wysokości i została wykonana według proporcji przedstawionej na rysunku. Jaką wysokość ma naczynie zastosowane w kompozycji?": "Цветочная композиция имеет высоту 50 см и выполнена в соответствии с пропорциями, представленными на рисунке. Какова высота сосуда, использованного в композиции?",
         "Wysokość naczynia stanowi 2 części z 5 równych części, na które podzielono całą wysokość kompozycji kwiatowej. Obliczając wysokość jednej części (50 cm \/ 5 = 10 cm) i mnożąc ją przez liczbę części naczynia (10 cm * 2), otrzymujemy wysokość naczynia równą 20 cm": "Высота сосуда составляет 2 части из 5 равных частей, на которые разделена вся высота цветочной композиции. Вычисляя высоту одной части (50 см \/ 5 = 10 см) и умножая ее на количество частей сосуда (10 см * 2), получаем высоту сосуда равную 20 см.",
         "Przedwczesne starzenie się goździków w wazonie spowodowane jest": "Преждевременное старение гвоздик в вазоне вызвано",
         "Łączenie świeżych kwiatów z przekwitającymi powoduje wypływanie enzymów z przekwitających kwiatów, co w skutku przyspiesza proces starzenia się goździków w wazonie": "Соединение свежих цветов с увядающими приводит к выделению ферментов из увядающих цветов, что в итоге ускоряет процесс старения гвоздик в вазоне.",
-        "Sekatory gąsiennicowe": "Секаторы гусеничные.",
-        "Szczypce okrągłe są narzędziem, które umożliwia wyginanie drutów florystycznych": "Круглогубцы являются инструментом, который позволяет сгибать флористическую проволоку.",
         "Oblicz koszty robocizny związane z wykonaniem kompozycji urodzinowej, jeśli stanowią one 30% kosztów wykorzystanych materiałów florystycznych": "Рассчитай затраты на работу, связанные с выполнением подарочной композиции, если они составляют 30% расходов на использованные флористические материалы.",
         "Aby obliczyć koszty robocizny, należy zsumować wartość wszystkich materiałów florystycznych i obliczyć 30% z tej sumy. Suma wartości materiałów wynosi 232,00 zł, a 30% tej kwoty to 69,60 zł, co jest poprawną odpowiedzią": "Чтобы рассчитать затраты на работу, следует сложить стоимость всех флористических материалов и вычислить 30% из этой суммы. Сумма стоимости материалов составляет 232,00 зл, а 30% этой суммы составляет 69,60 зл, что является правильным ответом.",
         "Poprawną odpowiedzią jest 320 cm x 150 cm, ponieważ aby otrzymać wymiary rzeczywiste, należy pomnożyć wymiary rysunkowe przez skalę 1:20. Zatem 16 cm x 20 = 320 cm i 7,5 cm x 20 = 150 cm": "Правильный ответ - 320 см x 150 см, потому что чтобы получить реальные размеры, нужно умножить размеры на чертеже на масштаб 1:20. Итак, 16 см x 20 = 320 см и 7,5 см x 20 = 150 см.",

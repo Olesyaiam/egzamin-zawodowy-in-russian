@@ -1,7 +1,6 @@
 {
     "incorrect": {
-        "haftek rzymskich": "петелек римских.",
-        "bulionowy": "бульонный"
+        "haftek rzymskich": "петелек римских."
     },
     "approved": {
         "others": {
@@ -5056,6 +5055,7 @@
         "roślina na suche bukiety": "растение для сухих букетов.",
         "zieleń cięta": "срезанная зелень",
         "Do dekorowania nowoczesnych wnętrz najczęściej wykorzystuje się:": "Для декорирования современных интерьеров чаще всего используются:",
-        "Przegorzan kulisty stosowany jest w kompozycjach jako": "Мордовник шароголовый используется в композициях как"
+        "Przegorzan kulisty stosowany jest w kompozycjach jako": "Мордовник шароголовый используется в композициях как",
+        "bulionowy": "Булённый"
     }
 }

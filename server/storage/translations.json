@@ -1396,7 +1396,10 @@
             "gałęziaki": "веточки.",
             "owocostany": "Соплодия.",
             "Szparag jest rośliną ozdobną, która ma gałęzie podobne do igieł. Te gałęzie, zwane gałęziakami, są wykorzystywane w kompozycjach florystycznych, ponieważ nadają im elegancki wygląd i mogą być łatwo formowane": "Спаржа является декоративным растением, которое имеет ветви, похожие на иглы. Эти ветви, называемые веточками, используются в цветочных композициях, поскольку придают им элегантный вид и могут быть легко сформированы.",
-            "Aby zapewnić stały dostęp do wody pojedynczym kwiatom cymbidium, wykorzystuje się": "Чтобы обеспечить постоянный доступ к воде отдельным цветкам цимбидиума, используют"
+            "Aby zapewnić stały dostęp do wody pojedynczym kwiatom cymbidium, wykorzystuje się": "Чтобы обеспечить постоянный доступ к воде отдельным цветкам цимбидиума, используют",
+            "Do bielenia szyszek sosnowych stosuje się": "Для отбеливания сосновых шишек используют",
+            "roztwór gliceryny": "раствор глицерина.",
+            "Kwas azotowy jest stosowany do bielenia szyszek sosnowych ze względu na jego silne właściwości utleniające, które powodują rozjaśnienie ich koloru. Jest to również stosowany w celu usunięcia zanieczyszczeń i wzmocnienia struktury szyszek": "Азотная кислота используется для отбеливания сосновых шишек из-за её сильных окислительных свойств, которые приводят к осветлению их цвета. Она также используется для удаления загрязнений и укрепления структуры шишек."
         }
     },
     "not_approved": {
@@ -1435,7 +1438,6 @@
         "drutowania i watowania": "проволочного укрепления и обертывания ватой.",
         "klejenia i przypinania": "склеивания и прикрепления.",
         "Stosowaną w kompozycjach w naczyniu proporcję wielkości wg. złotego podziału przedstawia stosunek liczb": "Используемую в композициях в сосуде пропорцию размера по золотому сечению представляет отношение чисел",
-        "Do bielenia szyszek sosnowych stosuje się": "Для отбеливания сосновых шишек используют",
         "Na rysunku projektowym stół ma wymiary 18 cm x 36 cm, co odpowiada w rzeczywistości wymiarom 1,8 m x 3,6 m. W jakiej skali został wykonany rysunek?": "На чертеже стола размеры составляют 18 см x 36 см, что в действительности соответствует размерам 1,8 м x 3,6 м. В каком масштабе выполнен чертеж?",
         "w bukiecie biedermeierowskim": "в букете бидермейеровском.",
         "w bukiecie kaskadowym": "в каскадном букете.",
@@ -4174,8 +4176,6 @@
         "Irysy i narcyzy": "Ирисы и нарциссы.",
         "W pracowni florystycznej klient zamówił jesienną dekorację stołu z roślin kwitnących jesienią. Które z wymienionych roślin należy zastosować, aby wykonać jesienną dekorację stołu zgodnie z życzeniem klienta?": "В цветочной мастерской клиент заказал осеннее украшение стола из растений, цветущих осенью. Какие из перечисленных растений следует использовать, чтобы сделать осеннее украшение стола в соответствии с пожеланиями клиента?",
         "Astry i wrzosy kwitną jesienią, co odpowiada wymaganiom klienta dotyczącym jesiennych roślin do dekoracji stołu": "Астры и вереск цветут осенью, что соответствует требованиям клиента касательно осенних растений для украшения стола.",
-        "roztwór gliceryny": "раствор глицерина.",
-        "Kwas azotowy jest stosowany do bielenia szyszek sosnowych ze względu na jego silne właściwości utleniające, które powodują rozjaśnienie ich koloru. Jest to również stosowany w celu usunięcia zanieczyszczeń i wzmocnienia struktury szyszek": "Азотная кислота используется для отбеливания сосновых шишек из-за её сильных окислительных свойств, которые приводят к осветлению их цвета. Она также используется для удаления загрязнений и укрепления структуры шишек.",
         "Na rysunkach przedstawiono sposób wykonania wieńca": "На рисунках показан способ изготовления венка.",
         "Na rysunkach przedstawiono wieniec z charakterystycznym układem listków oraz dodatkową częścią w kształcie litery T, co jest typowe dla wieńca warszawskiego": "На рисунках представлен венок с характерным укладом листочков и дополнительной частью в форме буквы T, что типично для венка варшавского.",
         "od 5,6 do 6,5": "от 5,6 до 6,5.",
@@ -4655,6 +4655,15 @@
         "Metoda zielnikowa": "Метод гербаризации.",
         "Wskaż sposób utrwalania mikołajka i zatrwianu tatarskiego": "Укажи способ сохранения синеголовника и углостебельника татарского.",
         "Suszenie na siatce": "Сушка на сетке.",
-        "Podkład ze słomy jest typowym elementem wieńca rzymskiego, a liście salalu i haftki rzymskie są często używane jako ozdoby": "Подкладка из соломы является типичным элементом римского венка, а листья салала и римские крючки часто используются в качестве украшений."
+        "Podkład ze słomy jest typowym elementem wieńca rzymskiego, a liście salalu i haftki rzymskie są często używane jako ozdoby": "Подкладка из соломы является типичным элементом римского венка, а листья салала и римские крючки часто используются в качестве украшений.",
+        "Kwiaty nasturcji można preparować w cukrze, ponieważ mają one wysoką zawartość cukru i delikatny smak, co sprawia, że doskonale nadają się do kandyzowania": "Цветы настурции можно обрабатывать в сахаре, поскольку они имеют высокое содержание сахара и деликатный вкус, что делает их отлично подходящими для засахаривания.",
+        "Metoda zielarska jest skutecznym sposobem utrwalania roślin, w tym mikołajka i zatrwianu tatarskiego. Polega ona na suszeniu i przechowywaniu w suchym i zacienionym miejscu, co pozwala na zachowanie ich właściwości i walorów zdrowotnych. Jest to także najczęściej stosowana metoda wytwarzania ziół leczniczych": "Метод травничества является эффективным способом консервирования растений, в том числе синеголовника и углостебельника татарского. Он заключается в сушке и хранении в сухом и затемненном месте, что позволяет сохранить их свойства и целебные качества. Это также наиболее часто используемый метод получения лекарственных трав.",
+        "Należy zapakować wiązankę okolicznościową w gruby papier, ponieważ zapewni to odpowiednią ochronę przed niską temperaturą i wilgocią, które mogą uszkodzić kwiaty w trakcie transportu": "Необходимо упаковать цветочную связку в толстую бумагу, так как это обеспечит соответствующую защиту от низкой температуры и влаги, которые могут повредить цветы во время транспортировки.",
+        "Kwiaty miechunki, kwiaty czarnuszki, kwiaty zatrwianu": "Цветы физалиса, цветы чернушки, цветы кермека.",
+        "Kompozycję z roślin zasuszonych wykonano z miechunki, czarnuszki i zatrwianu. Wskaż, które elementy wykorzystano w tej kompozycji": "Композиция из засушенных растений выполнена из физалиса, чернушки и кермека. Укажите, какие элементы использованы в этой композиции.",
+        "Kwiaty miechunki, owoce czarnuszki, kwiaty zatrwianu": "Цветы физалиса, плоды чернушки, цветы кермека.",
+        "Owoce miechunki, owoce czarnuszki, kwiaty zatrwianu": "Плоды физалиса, плоды чернушки, цветы кермека.",
+        "Owoce miechunki, kwiaty czarnuszki, owoce zatrwianu": "Плоды физалиса, цветы чернушки, плоды кермека.",
+        "Owoce miechunki, owoce czarnuszki i kwiaty zatrwianu to trzy wymienione rośliny, z których wykonano kompozycję. Każda z tych roślin jest wykorzystana w postaci owoców lub kwiatów, co stanowi elementy tej kompozycji": "Плоды физалиса, плоды чернушки и цветы кермек — это три перечисленные растения, из которых выполнена композиция. Каждое из этих растений используется в виде плодов или цветов, что составляет элементы этой композиции."
     }
 }

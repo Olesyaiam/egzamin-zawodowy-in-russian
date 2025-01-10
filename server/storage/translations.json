@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Cissus australijski": "Циссус антарктический."
+    },
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -3420,7 +3422,6 @@
         "Pojawiająca się na spodniej stronie liści pajęczynka jest objawem żerowania": "Появляющаяся на нижней стороне листьев паутинка является симптомом пожирания.",
         "Kliwia pomarańczowa": "Кливия оранжевая.",
         "Bugenwilla gładka": "бугенвиллея голая",
-        "Cissus australijski": "Циссус антарктический.",
         "Monstera dziurawa": "монстера деликатесная",
         "wierzby sachalińskiej": "ивы сахалинской.",
         "berberysu pospolitego": "барбариса обыкновенного.",
@@ -4215,6 +4216,9 @@
         "Powoduje białe, mączyste plamy na liściach": "Вызывает белые, мучнистые пятна на листьях.",
         "Zakupiłeś 10 róż po 5 zł za sztukę i 5 goździków po 2 zł za sztukę. Jakie jest całkowite koszty materiału roślinnego, jeśli dodatkowo musisz uwzględnić koszt wstążki dekoracyjnej wynoszący 10 zł?": "Вы купили 10 роз по 5 злотых за штуку и 5 гвоздик по 2 злотых за штуку. Какова общая стоимость растительного материала, если дополнительно необходимо учесть стоимость декоративной ленты в размере 10 злотых?",
         "Kwiatostany anturium należy zapakować w folię przezroczystą podczas transportu na rynek krajowy, aby zabezpieczyć je przed uszkodzeniami mechanicznymi oraz utratą wilgoci i zapewnienia im odpowiednich warunków do przechowywania": "Соцветия антуриум следует упаковать в прозрачную пленку во время транспортировки на внутренний рынок, чтобы защитить их от механических повреждений и потери влаги, а также обеспечить им соответствующие условия для хранения.",
-        "Zwartnice to rośliny, które charakteryzują się zamkniętymi pąkami, które następnie otwierają się, tworząc kolorowe kwiaty. W stadium zamkniętych pąków, gdy roślina jest jeszcze zielona, należy je ścinać": "Гиппеаструмы — это растения, которые характеризуются закрытыми бутонами, которые затем открываются, образуя цветные цветы. На стадии закрытых бутонов, когда растение еще зеленое, их следует срезать."
+        "Zwartnice to rośliny, które charakteryzują się zamkniętymi pąkami, które następnie otwierają się, tworząc kolorowe kwiaty. W stadium zamkniętych pąków, gdy roślina jest jeszcze zielona, należy je ścinać": "Гиппеаструмы — это растения, которые характеризуются закрытыми бутонами, которые затем открываются, образуя цветные цветы. На стадии закрытых бутонов, когда растение еще зеленое, их следует срезать.",
+        "Cissus australijski jest rośliną pnącą, która w naturalnym środowisku wspina się po drzewach, dlatego potrzebuje podpór do prawidłowego wzrostu. Podpora przedstawiona na zdjęciu jest odpowiednia dla roślin pnących, co czyni Cissus australijski właściwym wyborem. Pozostałe rośliny nie są roślinami pnącymi w takim stopniu, aby wymagały podpory o takiej konstrukcji": "Циссус антарктический является вьющимся растением, которое в естественной среде обитания взбирается по деревьям, поэтому ему необходимы опоры для правильного роста. Опора, представленная на фотографии, подходит для вьющихся растений, что делает циссус антарктический правильным выбором. Остальные растения не являются вьющимися растениями в такой степени, чтобы требовать опоры такой конструкции.",
+        "Bukiety o wydłużonych kształtach i prostych łodygach najlepiej prezentują się w wazonach wąskich, ponieważ takie wazy utrzymują kwiaty w pionowej pozycji, co podkreśla ich elegancki kształt": "Букеты удлиненных форм и с прямыми стеблями лучше всего смотрятся в узких вазонах, потому что такие вазы удерживают цветы в вертикальном положении, что подчеркивает их элегантную форму.",
+        "Coryłus avellana 'Contorta' to odmiana leszczyny, która charakteryzuje się nietypowo wygiętymi pędami": "Corylus avellana 'Contorta' - это разновидность лещины, которая характеризуется нетипично изогнутыми побегами."
     }
 }

@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Cissus australijski": "Циссус антарктический."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -4251,6 +4249,14 @@
         "Podłaźniczka to tradycyjna polska dekoracja": "Подлазничка — это традиционное польское украшение.",
         "na Wielkanoc": "на Пасху.",
         "na Dożynki": "на дожинки",
-        "Czarnuszka damasceńska jest owocem, który jest często wykorzystywany do tworzenia suchych kompozycji ze względu na swoje aromatyczne i lekko korzenne właściwości": "Чернушка дамасская является плодом, который часто используется для создания сухих композиций из-за своих ароматических и слегка пряных свойств."
+        "Czarnuszka damasceńska jest owocem, który jest często wykorzystywany do tworzenia suchych kompozycji ze względu na swoje aromatyczne i lekko korzenne właściwości": "Чернушка дамасская является плодом, который часто используется для создания сухих композиций из-за своих ароматических и слегка пряных свойств.",
+        "Podłaźniczka jest tradycyjną polską dekoracją wykorzystywaną na Boże Narodzenie, ponieważ w czasie świąt Bożego Narodzenia jest ona najczęściej stosowana": "Подлазничка является традиционным польским украшением, используемым на Рождество, поскольку в период рождественских праздников она используется наиболее часто.",
+        "Jaskry i hiacynty są kwiatami, które kwitną w okresie wielkanocnym i są często wykorzystywane do tworzenia kompozycji związanych z tym świętem": "Лютики и гиацинты - это цветы, которые цветут в период пасхи и часто используются для создания композиций, связанных с этим праздником.",
+        "Cissus australijski": "циссус антарктический",
+        "do lejka rozety liściowej": "в воронку розетки листьев.",
+        "Rośliny doniczkowe z rodziny ananasowatych należy podlewać": "Комнатные растения из семейства бромелиевых следует поливать.",
+        "do doniczki": "в горшок",
+        "do podstawki": "в подставку.",
+        "zraszając liście": "опрыскивая листья."
     }
 }

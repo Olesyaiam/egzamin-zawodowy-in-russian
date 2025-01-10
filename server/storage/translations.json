@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "haftek rzymskich": "петелек римских."
+    },
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -3071,7 +3073,6 @@
         "wyłącznie południowej": "исключительно южной.",
         "Gąbka florystyczna zielona jest wykorzystywana w florystyce jako środek nawadniający. Wchłania wodę, którą następnie można dostarczyć do kwiatów poprzez umieszczenie gąbki w wazonie. W ten sposób kwiaty mają stały dostęp do wody, co pozwala na ich dłuższe zachowanie świeżości i piękna": "Флористическая губка зеленая используется в флористике как средство увлажнения. Она впитывает воду, которую затем можно доставить к цветам, путем размещения губки в вазоне. Таким образом, цветы имеют постоянный доступ к воде, что позволяет дольше сохранять их свежесть и красоту.",
         "Na rysunku przedstawiono żerowanie": "На рисунке представлено пожирание",
-        "haftek rzymskich": "петелек римских.",
         "kleju na zimno": "клея на холодно.",
         "Do kompozycji przedstawionej na rysunku szyszki przymocowano za pomocą": "Для композиции, представленной на рисунке, шишки закреплены с помощью",
         "kleju na gorąco": "горячего клея",

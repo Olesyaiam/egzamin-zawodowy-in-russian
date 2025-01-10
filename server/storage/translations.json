@@ -1399,7 +1399,8 @@
             "Aby zapewnić stały dostęp do wody pojedynczym kwiatom cymbidium, wykorzystuje się": "Чтобы обеспечить постоянный доступ к воде отдельным цветкам цимбидиума, используют",
             "Do bielenia szyszek sosnowych stosuje się": "Для отбеливания сосновых шишек используют",
             "roztwór gliceryny": "раствор глицерина.",
-            "Kwas azotowy jest stosowany do bielenia szyszek sosnowych ze względu na jego silne właściwości utleniające, które powodują rozjaśnienie ich koloru. Jest to również stosowany w celu usunięcia zanieczyszczeń i wzmocnienia struktury szyszek": "Азотная кислота используется для отбеливания сосновых шишек из-за её сильных окислительных свойств, которые приводят к осветлению их цвета. Она также используется для удаления загрязнений и укрепления структуры шишек."
+            "Kwas azotowy jest stosowany do bielenia szyszek sosnowych ze względu na jego silne właściwości utleniające, które powodują rozjaśnienie ich koloru. Jest to również stosowany w celu usunięcia zanieczyszczeń i wzmocnienia struktury szyszek": "Азотная кислота используется для отбеливания сосновых шишек из-за её сильных окислительных свойств, которые приводят к осветлению их цвета. Она также используется для удаления загрязнений и укрепления структуры шишек.",
+            "Na rysunkach przedstawiono sposób wykonania wieńca": "На рисунках показан способ изготовления венка."
         }
     },
     "not_approved": {
@@ -4176,7 +4177,6 @@
         "Irysy i narcyzy": "Ирисы и нарциссы.",
         "W pracowni florystycznej klient zamówił jesienną dekorację stołu z roślin kwitnących jesienią. Które z wymienionych roślin należy zastosować, aby wykonać jesienną dekorację stołu zgodnie z życzeniem klienta?": "В цветочной мастерской клиент заказал осеннее украшение стола из растений, цветущих осенью. Какие из перечисленных растений следует использовать, чтобы сделать осеннее украшение стола в соответствии с пожеланиями клиента?",
         "Astry i wrzosy kwitną jesienią, co odpowiada wymaganiom klienta dotyczącym jesiennych roślin do dekoracji stołu": "Астры и вереск цветут осенью, что соответствует требованиям клиента касательно осенних растений для украшения стола.",
-        "Na rysunkach przedstawiono sposób wykonania wieńca": "На рисунках показан способ изготовления венка.",
         "Na rysunkach przedstawiono wieniec z charakterystycznym układem listków oraz dodatkową częścią w kształcie litery T, co jest typowe dla wieńca warszawskiego": "На рисунках представлен венок с характерным укладом листочков и дополнительной частью в форме буквы T, что типично для венка варшавского.",
         "od 5,6 do 6,5": "от 5,6 до 6,5.",
         "od 7,0 do 7,2": "от 7,0 до 7,2.",
@@ -4664,6 +4664,11 @@
         "Kwiaty miechunki, owoce czarnuszki, kwiaty zatrwianu": "Цветы физалиса, плоды чернушки, цветы кермека.",
         "Owoce miechunki, owoce czarnuszki, kwiaty zatrwianu": "Плоды физалиса, плоды чернушки, цветы кермека.",
         "Owoce miechunki, kwiaty czarnuszki, owoce zatrwianu": "Плоды физалиса, цветы чернушки, плоды кермека.",
-        "Owoce miechunki, owoce czarnuszki i kwiaty zatrwianu to trzy wymienione rośliny, z których wykonano kompozycję. Każda z tych roślin jest wykorzystana w postaci owoców lub kwiatów, co stanowi elementy tej kompozycji": "Плоды физалиса, плоды чернушки и цветы кермек — это три перечисленные растения, из которых выполнена композиция. Каждое из этих растений используется в виде плодов или цветов, что составляет элементы этой композиции."
+        "Owoce miechunki, owoce czarnuszki i kwiaty zatrwianu to trzy wymienione rośliny, z których wykonano kompozycję. Każda z tych roślin jest wykorzystana w postaci owoców lub kwiatów, co stanowi elementy tej kompozycji": "Плоды физалиса, плоды чернушки и цветы кермек — это три перечисленные растения, из которых выполнена композиция. Каждое из этих растений используется в виде плодов или цветов, что составляет элементы этой композиции.",
+        "Jaskry i hiacynty kwitną w okresie wielkanocnym, co czyni je odpowiednimi kwiatami do wykonania kompozycji. Inne kwiaty, które również kwitną w tym czasie, takie jak narcyzy czy tulipany, mogą być dodatkami, ale nie są wymienione w pytaniu": "Лютики и гиацинты цветут в пасхальный период, что делает их подходящими цветами для выполнения композиции. Другие цветы, которые также цветут в это время, такие как нарциссы или тюльпаны, могут быть дополнениями, но не упоминаются в вопросе.",
+        "siatkę miedzianą": "медную сетку.",
+        "Wykonując wiązankę kameliową należy zastosować": "Выполняя букет-композит (гламелия) необходимо применить",
+        "drut florystyczny o grubości 0,8 mm": "Флористическую проволоку толщиной 0,8 мм.",
+        "Aby znaleźć średnicę otworu wieńca, należy zastosować proporcję przedstawioną na rysunku. Proporcja ta wynosi 1:1,6, co oznacza, że na każdy 1 cm szerokości korpusu przypada 1,6 cm średnicy otworu. Mnożąc szerokość korpusu wieńca (15 cm) przez współczynnik proporcji (1,6), otrzymujemy średnicę otworu równą 24 cm": "Чтобы найти диаметр отверстия венка, необходимо применить пропорцию, представленную на рисунке. Эта пропорция составляет 1:1,6, что означает, что на каждый 1 см ширины каркаса приходится 1,6 см диаметра отверстия. Умножая ширину каркаса венка (15 см) на коэффициент пропорции (1,6), получаем диаметр отверстия равный 24 см."
     }
 }

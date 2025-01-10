@@ -1400,7 +1400,9 @@
             "Do bielenia szyszek sosnowych stosuje się": "Для отбеливания сосновых шишек используют",
             "roztwór gliceryny": "раствор глицерина.",
             "Kwas azotowy jest stosowany do bielenia szyszek sosnowych ze względu na jego silne właściwości utleniające, które powodują rozjaśnienie ich koloru. Jest to również stosowany w celu usunięcia zanieczyszczeń i wzmocnienia struktury szyszek": "Азотная кислота используется для отбеливания сосновых шишек из-за её сильных окислительных свойств, которые приводят к осветлению их цвета. Она также используется для удаления загрязнений и укрепления структуры шишек.",
-            "Na rysunkach przedstawiono sposób wykonania wieńca": "На рисунках показан способ изготовления венка."
+            "Na rysunkach przedstawiono sposób wykonania wieńca": "На рисунках показан способ изготовления венка.",
+            "Na rysunkach przedstawiono wieniec z charakterystycznym układem listków oraz dodatkową częścią w kształcie litery T, co jest typowe dla wieńca warszawskiego": "На рисунках представлен венок с характерным укладом листочков и дополнительной частью в форме буквы T, что типично для венка варшавского.",
+            "W pracowni florystycznej klient zamówił jesienną dekorację stołu z roślin kwitnących jesienią. Które z wymienionych roślin należy zastosować, aby wykonać jesienną dekorację stołu zgodnie z życzeniem klienta?": "В цветочной мастерской клиент заказал осеннее украшение стола из растений, цветущих осенью. Какие из перечисленных растений следует использовать, чтобы сделать осеннее украшение стола в соответствии с пожеланиями клиента?"
         }
     },
     "not_approved": {
@@ -4175,9 +4177,7 @@
         "Astry i wrzosy": "Астры и верески.",
         "Piwonie i mieczyki": "Пионы и шпажники.",
         "Irysy i narcyzy": "Ирисы и нарциссы.",
-        "W pracowni florystycznej klient zamówił jesienną dekorację stołu z roślin kwitnących jesienią. Które z wymienionych roślin należy zastosować, aby wykonać jesienną dekorację stołu zgodnie z życzeniem klienta?": "В цветочной мастерской клиент заказал осеннее украшение стола из растений, цветущих осенью. Какие из перечисленных растений следует использовать, чтобы сделать осеннее украшение стола в соответствии с пожеланиями клиента?",
         "Astry i wrzosy kwitną jesienią, co odpowiada wymaganiom klienta dotyczącym jesiennych roślin do dekoracji stołu": "Астры и вереск цветут осенью, что соответствует требованиям клиента касательно осенних растений для украшения стола.",
-        "Na rysunkach przedstawiono wieniec z charakterystycznym układem listków oraz dodatkową częścią w kształcie litery T, co jest typowe dla wieńca warszawskiego": "На рисунках представлен венок с характерным укладом листочков и дополнительной частью в форме буквы T, что типично для венка варшавского.",
         "od 5,6 do 6,5": "от 5,6 до 6,5.",
         "od 7,0 do 7,2": "от 7,0 до 7,2.",
         "Podłoże przeznaczone do roślin wymagających lekko kwaśnego odczynu gleby ma wartość pH": "Подложка, предназначенная для растений, требующих слегка кислой реакции почвы, имеет pH значение.",
@@ -4669,6 +4669,7 @@
         "siatkę miedzianą": "медную сетку.",
         "Wykonując wiązankę kameliową należy zastosować": "Выполняя букет-композит (гламелия) необходимо применить",
         "drut florystyczny o grubości 0,8 mm": "Флористическую проволоку толщиной 0,8 мм.",
-        "Aby znaleźć średnicę otworu wieńca, należy zastosować proporcję przedstawioną na rysunku. Proporcja ta wynosi 1:1,6, co oznacza, że na każdy 1 cm szerokości korpusu przypada 1,6 cm średnicy otworu. Mnożąc szerokość korpusu wieńca (15 cm) przez współczynnik proporcji (1,6), otrzymujemy średnicę otworu równą 24 cm": "Чтобы найти диаметр отверстия венка, необходимо применить пропорцию, представленную на рисунке. Эта пропорция составляет 1:1,6, что означает, что на каждый 1 см ширины каркаса приходится 1,6 см диаметра отверстия. Умножая ширину каркаса венка (15 см) на коэффициент пропорции (1,6), получаем диаметр отверстия равный 24 см."
+        "Aby znaleźć średnicę otworu wieńca, należy zastosować proporcję przedstawioną na rysunku. Proporcja ta wynosi 1:1,6, co oznacza, że na każdy 1 cm szerokości korpusu przypada 1,6 cm średnicy otworu. Mnożąc szerokość korpusu wieńca (15 cm) przez współczynnik proporcji (1,6), otrzymujemy średnicę otworu równą 24 cm": "Чтобы найти диаметр отверстия венка, необходимо применить пропорцию, представленную на рисунке. Эта пропорция составляет 1:1,6, что означает, что на каждый 1 см ширины каркаса приходится 1,6 см диаметра отверстия. Умножая ширину каркаса венка (15 см) на коэффициент пропорции (1,6), получаем диаметр отверстия равный 24 см.",
+        "\"Dziewanny i ostróżki\" są roślinami, które charakteryzują się wzniesionym pokrojem w swojej kompozycji.\"": "\"Коровяки и дельфиниумы\" - это растения, которые характеризуются вертикальным строением в своей композиции."
     }
 }

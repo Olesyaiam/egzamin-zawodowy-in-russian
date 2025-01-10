@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Goździki i chryzantemy": "Гвоздики и хризантемы."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -3798,6 +3796,7 @@
         "łamanych": "ломаных.",
         "łukowatych": "дугообразных.",
         "pionowych": "вертикальных.",
-        "W dekoracji, dla podkreślenia uroczystego nastroju ślubu w gotyckim kościele, należy zastosować rośliny o liniach": "В декорации, для подчеркивания торжественного настроя свадьбы в готической церкви, следует использовать растения с линиями."
+        "W dekoracji, dla podkreślenia uroczystego nastroju ślubu w gotyckim kościele, należy zastosować rośliny o liniach": "В декорации, для подчеркивания торжественного настроя свадьбы в готической церкви, следует использовать растения с линиями.",
+        "Goździki i chryzantemy": "Гвоздики и хризантемы."
     }
 }

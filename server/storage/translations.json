@@ -1419,7 +1419,8 @@
             "przedłużania trwałości kwiatów ciętych": "продления стойкости срезанных цветов.",
             "umieszczania ich między kwiatami w celu absorbowania etylenu z powietrza": "размещения их между цветами с целью поглощения этилена из воздуха.",
             "Preparaty Floralife zawierają składniki odżywcze i środki antybakteryjne, które zapobiegają rozwojowi bakterii w wodzie i dostarczają kwiatom ciętym niezbędne składniki odżywcze, przedłużając trwałość kwiatów": "Препараты Floralife содержат питательные вещества и антибактериальные средства, которые препятствуют развитию бактерий в воде и доставляют срезанным цветам необходимые питательные вещества, продлевая стойкость цветов.",
-            "Banany produkują dużo etylenu, co przyspiesza proces dojrzewania owoców w pobliżu, takich jak jabłka, kiwi czy awokado": "Бананы производят много этилена, что ускоряет процесс созревания плодов поблизости, таких как яблоки, киви или авокадо."
+            "Banany produkują dużo etylenu, co przyspiesza proces dojrzewania owoców w pobliżu, takich jak jabłka, kiwi czy awokado": "Бананы производят много этилена, что ускоряет процесс созревания плодов поблизости, таких как яблоки, киви или авокадо.",
+            "Aby obliczyć koszt materiałów florystycznych niezbędnych do wykonania girlandy bożonarodzeniowej, należy pomnożyć ilość każdego materiału przez jego cenę jednostkową, a następnie zsumować otrzymane wartości. Po przeprowadzeniu obliczeń dla każdego z materiałów i zsumowaniu ich, otrzymujemy kwotę 95,50 zł, co jest zgodne z podaną poprawną odpowiedzią": "Чтобы рассчитать стоимость флористических материалов, необходимых для создания рождественской гирлянды, необходимо умножить количество каждого материала на его цену за единицу, а затем сложить полученные значения. После проведения расчетов для каждого из материалов и их сложения, мы получаем сумму 95,50 злотых, что соответствует указанному правильному ответу."
         }
     },
     "not_approved": {
@@ -4136,7 +4137,6 @@
         "Aby zawiesić girlandę na betonowej ścianie, należy wykonać otwory, do których przymocuje się haki lub kołki. Wiertarka jest narzędziem umożliwiającym wykonanie tych otworów": "Чтобы повесить гирлянду на бетонной стене, нужно сделать отверстия, в которые будут закреплены крюки или дюбели. Дрель - это инструмент, позволяющий выполнить эти отверстия.",
         "Aficydy są środkami ochrony roślin wykorzystywanymi do zwalczania mszyc ze względu na ich właściwości owadobójcze": "Противотлевые препараты являются средствами защиты растений, используемыми для борьбы с тлёй из-за их инсектицидных свойств.",
         "Klejenie jest poprawną odpowiedzią, ponieważ pozwala na trwałe połączenie elementów kolażu i zapewnia jego trwałość": "Клеение является правильным ответом, потому что позволяет надежно соединить элементы коллажа и обеспечивает его долговечность.",
-        "Aby obliczyć koszt materiałów florystycznych niezbędnych do wykonania girlandy bożonarodzeniowej, należy pomnożyć ilość każdego materiału przez jego cenę jednostkową, a następnie zsumować otrzymane wartości. Po przeprowadzeniu obliczeń dla każdego z materiałów i zsumowaniu ich, otrzymujemy kwotę 95,50 zł, co jest zgodne z podaną poprawną odpowiedzią": "Чтобы рассчитать стоимость флористических материалов, необходимых для создания рождественской гирлянды, необходимо умножить количество каждого материала на его цену за единицу, а затем сложить полученные значения. После проведения расчетов для каждого из материалов и их сложения, мы получаем сумму 95,50 злотых, что соответствует указанному правильному ответу.",
         "naturalnego": "натурального.",
         "rustykalnego": "деревенского.",
         "Wnętrza o kontrastujących barwach i powierzchniach charakterystyczne są dla stylu": "Интерьеры с контрастирующими расцветками и поверхностями характерны для стиля",
@@ -4678,6 +4678,11 @@
         "Anturium, szarłat, róża": "Антуриум, амарант, роза.",
         "Wskaż, który zestaw roślin jest odpowiedni do wykonania wiązanki graficznej typu paralel": "Укажите, какой набор растений подходит для выполнения графической цветочной связки параллельного типа.",
         "Peonia, róża, strelicja": "Пион, роза, стрелиция.",
-        "Wiązanka graficzna typu paralel powinna składać się z roślin o podobnych kształtach i kolorach, dlatego anturium, strclicja i orchidea są odpowiednie, ponieważ mają podobne kolory i podobne kształty liści": "Цветочная связка графического типа параллель должна состоять из растений с похожими формами и цветами, поэтому антуриум, стрелиция и орхидея подходят, так как имеют похожие цвета и подобные формы листьев."
+        "Wiązanka graficzna typu paralel powinna składać się z roślin o podobnych kształtach i kolorach, dlatego anturium, strclicja i orchidea są odpowiednie, ponieważ mają podobne kolory i podobne kształty liści": "Цветочная связка графического типа параллель должна состоять из растений с похожими формами и цветами, поэтому антуриум, стрелиция и орхидея подходят, так как имеют похожие цвета и подобные формы листьев.",
+        "Fuksję": "Фуксию.",
+        "Bacopę": "Бакопу.",
+        "Sanwitalię": "Санвиталия.",
+        "Właściciel balkonu o wystawie południowej zamówił obsadzenie ampli (pojemników podwieszanych) rośliną o żółtych kwiatach. Którą roślinę powinien wykorzystać florysta do obsadzenia pojemników?": "Владелец балкона с южной экспозицией заказал засадить подвесные контейнеры растением с жёлтыми цветами. Какое растение должен использовать флорист для засадки контейнеров?",
+        "Sanwitalia jest rośliną o żółtych kwiatach, dlatego właściciel balkonu o wystawie południowej powinien wykorzystać właśnie tę roślinę do obsadzenia pojemników": "Санвиталия является растением с желтыми цветами, поэтому владелец балкона с южной экспозицией должен использовать именно это растение для заполнения контейнеров."
     }
 }

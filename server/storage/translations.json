@@ -1392,7 +1392,10 @@
             "juki i agawy": "Юкки и агавы.",
             "bugenwille i kaktusy": "бугенвиллеи и кактусы.",
             "Aspidistry i paprocie to rośliny, które dobrze radzą sobie w słabo oświetlonych pomieszczeniach dzięki temu, że wymagają niewielkiej ilości światła do przeprowadzenia fotosyntezy. Ponadto, obie rośliny są łatwe w pielęgnacji i nie potrzebują zbyt częstego podlewania": "Аспидистры и папоротники — это растения, которые хорошо себя чувствуют в слабо освещенных помещениях благодаря тому, что им требуется небольшое количество света для проведения фотосинтеза. Кроме того, оба растения просты в уходе и не требуют слишком частого полива.",
-            "Szparag (Asparagus) wykorzystywany jest w kompozycjach ze względu na ozdobne": "Спаржа (Asparagus) используется в композициях из-за декоративных"
+            "Szparag (Asparagus) wykorzystywany jest w kompozycjach ze względu na ozdobne": "Спаржа (Asparagus) используется в композициях из-за декоративных",
+            "gałęziaki": "веточки.",
+            "owocostany": "Соплодия.",
+            "Szparag jest rośliną ozdobną, która ma gałęzie podobne do igieł. Te gałęzie, zwane gałęziakami, są wykorzystywane w kompozycjach florystycznych, ponieważ nadają im elegancki wygląd i mogą być łatwo formowane": "Спаржа является декоративным растением, которое имеет ветви, похожие на иглы. Эти ветви, называемые веточками, используются в цветочных композициях, поскольку придают им элегантный вид и могут быть легко сформированы."
         }
     },
     "not_approved": {
@@ -4189,10 +4192,7 @@
         "kulki": "шарики",
         "pnącza": "вьющиеся растения",
         "Wiązanka ślubna wykonana na sznurze ozdobnym z dowiązanymi drobnymi pęczkami kwiatów i zieleni to wiązanka w formie": "Свадебная цветочная связка, выполненная на декоративном шнуре с привязанными мелкими пучками цветов и зелени, это связка в форме",
-        "gałęziaki": "веточки.",
-        "owocostany": "Соплодия.",
         "Wiązanka ślubna wykonana na sznurze ozdobnym z drobnymi pęczkami kwiatów i zieleni ma formę pnącza, ponieważ wierzchołki kwiatów są ukierunkowane do góry, a łodygi rozgałęziają się i pną się w górę": "Цветочная связка, выполненная на декоративной веревке с мелкими пучками цветов и зелени, имеет форму вьющегося растения, поскольку вершины цветов направлены вверх, а стебли разветвляются и стремятся вверх.",
-        "Szparag jest rośliną ozdobną, która ma gałęzie podobne do igieł. Te gałęzie, zwane gałęziakami, są wykorzystywane w kompozycjach florystycznych, ponieważ nadają im elegancki wygląd i mogą być łatwo formowane": "Спаржа является декоративным растением, которое имеет ветви, похожие на иглы. Эти ветви, называемые веточками, используются в цветочных композициях, поскольку придают им элегантный вид и могут быть легко сформированы.",
         "przedłużania trwałości kwiatów ciętych": "продления стойкости срезанных цветов.",
         "Preparaty Floralife służą do": "Препараты Floralife служат для",
         "umieszczania ich między kwiatami w celu absorbowania etylenu z powietrza": "размещения их между цветами с целью поглощения этилена из воздуха.",
@@ -4643,6 +4643,9 @@
         "Pestycydy zaliczane do klasy IV charakteryzują się niskim stopniem toksyczności dla ludzi i zwierząt. Są one uważane za stosunkowo bezpieczne w użyciu": "Пестициды, относящиеся к классу IV, характеризуются низкой степенью токсичности для людей и животных. Они считаются относительно безопасными в использовании.",
         "Taśma kotwicowa jest najlepszym sposobem mocowania mokrej gąbki florystycznej do naczynia, ponieważ dzięki swojej klejącej powierzchni skutecznie utrzymuje gąbkę w miejscu, nawet w przypadku dużych aranżacji kwiatowych": "Армированная влагостойкая лента является лучшим способом крепления мокрой флористической губки к сосуду, поскольку благодаря своей клейкой поверхности эффективно удерживает губку на месте, даже в случае больших цветочных композиций.",
         "Ta odpowiedź jest błędna. Poprawną odpowiedzią jest \"abstrakcyjne obrazy, designerskie lampy, meble z metalu i szkła\"": "Этот ответ неправильный. Правильный ответ: \"абстрактные картины, дизайнерские лампы, мебель из металла и стекла\".",
-        "Chrysal Glory zawiera polimery, które tworzą warstwę ochronną na powierzchni roślin i zmniejszają parowanie wody. Preparat ten również dodaje kolorów kwiatom i zwiększa ich trwałość": "Chrysal Glory содержит полимеры, которые создают защитный слой на поверхности растений и уменьшают испарение воды. Этот препарат также добавляет цветов цветам и увеличивает их стойкость."
+        "Chrysal Glory zawiera polimery, które tworzą warstwę ochronną na powierzchni roślin i zmniejszają parowanie wody. Preparat ten również dodaje kolorów kwiatom i zwiększa ich trwałość": "Chrysal Glory содержит полимеры, которые создают защитный слой на поверхности растений и уменьшают испарение воды. Этот препарат также добавляет цветов цветам и увеличивает их стойкость.",
+        "Na podstawie danych zamieszczonych w tabeli określ który pierwiastek decyduje o walorach dekoracyjnych psianki": "На основе данных, приведенных в таблице, определите, какой элемент влияет на декоративные качества паслена.",
+        "Tradycyjna polska dekoracja bożonarodzeniowa, wieszana pod sufitem w wiejskich chatach, to podłaźniczka, ponieważ taki zwyczaj istniał w Polsce od dawna i to właśnie podłaźniczka była najczęściej używana jako dekoracja w okresie Bożego Narodzenia": "Традиционное польское рождественское украшение, подвешиваемое под потолком в деревенских избах, это подлазничка, поскольку такой обычай существовал в Польше издавна, и именно подлазничка использовалась чаще всего в качестве украшения в период Рождества.",
+        "Formy o dużym znaczeniu w układzie kompozycyjnym to te, które przyciągają uwagę i nadają strukturę całości. Helikonie są właśnie takimi formami, ze względu na swoją barwną i ozdobną naturę, oraz umiejscowienie na górze bukietu": "Формы, имеющие большое значение в укладе композиции, это те, которые привлекают внимание и придают структуру целому. Геликонии являются именно такими формами из-за своей яркой и декоративной природы, а также расположения в верхней части букета."
     }
 }

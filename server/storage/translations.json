@@ -1376,7 +1376,8 @@
             "wegetatywnym": "вегетативном.",
             "dekoracyjnym": "декоративном.",
             "Kwiaty nasturcji": "Цветы настурции.",
-            "Hortensja": "Гортензия."
+            "Hortensja": "Гортензия.",
+            "jaskry i hiacynty": "Лютики и гиацинты."
         }
     },
     "not_approved": {
@@ -2399,7 +2400,6 @@
         "preparowanie": "Обработка.",
         "Traktowanie kwiatów ciętych preparatami opóźniającymi ich starzenie to": "Обработка срезанных цветов препаратами, замедляющими их старение, это",
         "Aby zapewnić stały dostęp do wody pojedynczych kwiatów cymbidium, wykorzystuje się fiolki florystyczne. Fiolki te są małymi pojemnikami, które można napełnić wodą i zamocować bezpośrednio przy łodydze kwiatu, zapewniając mu ciągłe nawodnienie. Pozostałe opcje, takie jak kostki lodu, hydrożele, czy taśmy kauczukowe, nie są standardowymi metodami utrzymania wilgotności dla pojedynczych kwiatów w florystyce": "Чтобы обеспечить постоянный доступ к воде для отдельных цветов цимбидиума, используются флористические пробирки. Эти пробирки являются маленькими контейнерами, которые можно заполнить водой и закрепить непосредственно у стебля цветка, обеспечивая ему постоянное увлажнение. Остальные варианты, такие как кубики льда, гидрогели или ленты каучуковые, не являются стандартными методами поддержания влажности для отдельных цветов во флористике.",
-        "jaskry i hiacynty": "Лютики и гиацинты.",
         "pędy kamelii": "побеги камелии.",
         "ostróżki i konwalie": "Дельфиниумы и ландыши.",
         "słoneczniki i złocienie": "подсолнечники и хризантемы.",
@@ -4160,6 +4160,15 @@
         "Paproć skórzastą, gipsówkę, róże": "Кожаный папоротник, гипсофилу, розы.",
         "Które z wymienionych roślin poleca się do tworzenia kompozycji florystycznych w stylu formalno-linearnym?": "Какие из перечисленных растений рекомендуются для создания флористических композиций в стиле формально-линеарном?",
         "Trawę niedźwiedzią, tulipany": "Медвежью траву, тюльпаны.",
-        "Pędy leszczyny 'Contorta' mają charakterystyczne, pełne zwoje, które dobrze sprawdzają się w kompozycjach formalno-linearnych, natomiast strelicje to rośliny o prostych, pionowych łodygach, które również pasują do tego stylu aranżacji": "Побеги лещины 'Contorta' имеют характерные, полные завитки, которые хорошо смотрятся в композициях формально-линеарных, тогда как стрелиции — это растения с прямыми, вертикальными стеблями, которые также подходят для этого стиля оформления."
+        "Pędy leszczyny 'Contorta' mają charakterystyczne, pełne zwoje, które dobrze sprawdzają się w kompozycjach formalno-linearnych, natomiast strelicje to rośliny o prostych, pionowych łodygach, które również pasują do tego stylu aranżacji": "Побеги лещины 'Contorta' имеют характерные, полные завитки, которые хорошо смотрятся в композициях формально-линеарных, тогда как стрелиции — это растения с прямыми, вертикальными стеблями, которые также подходят для этого стиля оформления.",
+        "Na rysunku przedstawiono schemat wykonania wiązanki": "На рисунке представлен схема выполнения цветочной связки.",
+        "Frezja posiada kwiatostan typu kłos, co jest zgodne z informacjami dostępnymi w literaturze ogrodniczej i florystycznej. Zgodnie z tabelą, kwiatostany typu kłos powinny być przechowywane w temperaturze 1°C-2°C, co odpowiada odpowiedzi \"C\"": "Фрезия обладает соцветием типа колос, что соответствует информации, доступной в садоводческой и флористической литературе. Согласно таблице, соцветия типа колос должны храниться при температуре 1°C-2°C, что соответствует ответу \"C\".",
+        "Na rysunku przedstawiono schemat wykonania wiązanki w stylu angielskim, który charakteryzuje się symetrycznym i promienistym układem kwiatów oraz równomiernym rozmieszczeniem materiału roślinnego wokół centralnego punktu": "На рисунке представлен схематичный план выполнения цветочной связки в английском стиле, который характеризуется симметричным и лучеобразным укладом цветов, а также равномерным распределением растительного материала вокруг центральной точки.",
+        "Jaskry i hiacynty to kwiaty, które kwitną w okresie Wielkanocy. Dlatego właśnie należy wybrać je do wykonania kompozycji z kwiatów": "Лютики и гиацинты - это цветы, которые цветут в период Пасхи. Поэтому именно их следует выбрать для выполнения цветочной композиции.",
+        "Stokrotki i krokusy": "Маргаритки и крокусы.",
+        "Astry i wrzosy": "Астры и верески.",
+        "Piwonie i mieczyki": "Пионы и шпажники.",
+        "Irysy i narcyzy": "Ирисы и нарциссы.",
+        "W pracowni florystycznej klient zamówił jesienną dekorację stołu z roślin kwitnących jesienią. Które z wymienionych roślin należy zastosować, aby wykonać jesienną dekorację stołu zgodnie z życzeniem klienta?": "В цветочной мастерской клиент заказал осеннее украшение стола из растений, цветущих осенью. Какие из перечисленных растений следует использовать, чтобы сделать осеннее украшение стола в соответствии с пожеланиями клиента?"
     }
 }

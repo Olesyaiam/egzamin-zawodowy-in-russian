@@ -1433,7 +1433,8 @@
             "Kompozycja kwiatowa ma 50 cm wysokości i została wykonana według proporcji przedstawionej na rysunku. Jaką wysokość ma naczynie zastosowane w kompozycji?": "Цветочная композиция имеет высоту 50 см и выполнена в соответствии с пропорциями, представленными на рисунке. Какова высота сосуда, использованного в композиции?",
             "Wysokość naczynia stanowi 2 części z 5 równych części, na które podzielono całą wysokość kompozycji kwiatowej. Obliczając wysokość jednej części (50 cm \/ 5 = 10 cm) i mnożąc ją przez liczbę części naczynia (10 cm * 2), otrzymujemy wysokość naczynia równą 20 cm": "Высота сосуда составляет 2 части из 5 равных частей, на которые разделена вся высота цветочной композиции. Вычисляя высоту одной части (50 см \/ 5 = 10 см) и умножая ее на количество частей сосуда (10 см * 2), получаем высоту сосуда равную 20 см.",
             "Na podstawie danych zamieszczonych w tabeli wskaż temperaturę przechowywania w chłodni ściętych frezji": "На основании данных, размещённых в таблице, укажите температуру хранения срезанной фрезии в холодильной камере.",
-            "Frezja posiada kwiatostan typu kłos, co jest zgodne z informacjami dostępnymi w literaturze ogrodniczej i florystycznej. Zgodnie z tabelą, kwiatostany typu kłos powinny być przechowywane w temperaturze 1°C-2°C, co odpowiada odpowiedzi \"C\"": "Фрезия обладает соцветием типа колос, что соответствует информации, доступной в садоводческой и флористической литературе. Согласно таблице, соцветия типа колос должны храниться при температуре 1°C-2°C, что соответствует ответу \"C\"."
+            "Frezja posiada kwiatostan typu kłos, co jest zgodne z informacjami dostępnymi w literaturze ogrodniczej i florystycznej. Zgodnie z tabelą, kwiatostany typu kłos powinny być przechowywane w temperaturze 1°C-2°C, co odpowiada odpowiedzi \"C\"": "Фрезия обладает соцветием типа колос, что соответствует информации, доступной в садоводческой и флористической литературе. Согласно таблице, соцветия типа колос должны храниться при температуре 1°C-2°C, что соответствует ответу \"C\".",
+            "chromatyczne": "цветные."
         }
     },
     "not_approved": {
@@ -3496,7 +3497,6 @@
         "aralia japońska": "аралия японская",
         "echmea wstęgowata": "эхмея полосатая",
         "Kwiatostany anturium przeznaczone na rynek krajowy na czas transportu pakuje się": "Соцветия антуриума, предназначенные для внутреннего рынка, на время транспортировки упаковываются.",
-        "chromatyczne": "цветные.",
         "achromatyczne": "оттенки чёрно-белые",
         "Cissus": "Циссус.",
         "Syngonium": "Сингониум.",

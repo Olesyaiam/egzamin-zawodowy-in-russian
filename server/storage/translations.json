@@ -1372,7 +1372,12 @@
             "rytmicznym": "ритмичном.",
             "asymetrycznym": "асимметричном",
             "swobodnym": "свободном.",
-            "w pozycji naturalnej": "в естественном положении."
+            "w pozycji naturalnej": "в естественном положении.",
+            "masy": "массы.",
+            "formalnym": "формальном.",
+            "wegetatywnym": "вегетативном.",
+            "dekoracyjnym": "декоративном.",
+            "Kwiaty nasturcji": "Цветы настурции."
         }
     },
     "not_approved": {
@@ -2198,8 +2203,6 @@
         "groszek pachnący w kamionkowym pojemniku": "Душистый горошек в глиняном контейнере.",
         "Wstawienie do zimnej wody": "Постановка в холодную воду.",
         "Zestaw roślin składa się z ostróżki, zawilca i mikołajka, które mają kwiaty o barwie niebiesko-fioletowej": "Набор растений состоит из дельфиниума, ветреницы и синеголовника, которые имеют цветы с сине-фиолетовой расцветкой.",
-        "dekoracyjnym": "декоративном.",
-        "wegetatywnym": "вегетативном.",
         "Na zamieszczonym rysunku przedstawiono kompozycję w stylu": "На приведённом рисунке представлена композиция в стиле",
         "strukturalnym": "структурном.",
         "linearnym": "линейном.",
@@ -2993,8 +2996,6 @@
         "technicznego": "технического.",
         "miedzianego": "медного.",
         "Do wykonania biżuterii floralnej przedstawionej na rysunku użyto drutu": "Для изготовления цветочных украшений, представленных на рисунке, использовано проволоку.",
-        "masy": "массы.",
-        "formalnym": "формальном.",
         "lewkonia": "маттиола",
         "krwawnik": "тысячелистник",
         "gipsówka": "гипсофила.",
@@ -3669,6 +3670,17 @@
         "Florysta zmniejszył wymiary kompozycji 10 razy, co oznacza, że rysunek jest 10 razy mniejszy niż rzeczywista kompozycja. Skala określa stosunek między rysunkiem a rzeczywistym obiektem, więc w tym przypadku skala wynosi 1:10": "Флорист уменьшил размеры композиции в 10 раз, что означает, что рисунок в 10 раз меньше, чем реальная композиция. Масштаб определяет соотношение между рисунком и реальным объектом, поэтому в этом случае масштаб составляет 1:10.",
         "Kompozycja przedstawiona na rysunku ma wyraźnie określony kształt krzyża, co jest charakterystyczne dla stylu formalnego. Styl formalny charakteryzuje się uporządkowaną strukturą i symetrią, co jest widoczne w tej kompozycji. Elementy dekoracyjne są starannie rozmieszczone, co dodatkowo podkreśla formalny charakter tej kompozycji": "Композиция, представленная на рисунке, имеет явно выраженную форму креста, что характерно для формального стиля. Формальный стиль характеризуется упорядоченной структурой и симметрией, что видно в этой композиции. Декоративные элементы тщательно расположены, что дополнительно подчеркивает формальный характер этой композиции.",
         "Graficzny": "Графический.",
-        "Pracowania florystyczna otrzymała zlecenie na wykonanie okrągłego bukietu z róż, alstremerii i gloriozy na 50. urodziny. Który styl kompozycji wybierze florysta, realizując zamówienie?": "Флористическая мастерская получила заказ на создание круглого букета из роз, альстрёмерий и глориозы на 50-летний юбилей. Какой стиль композиции выберет флорист, выполняя заказ?"
+        "Pracowania florystyczna otrzymała zlecenie na wykonanie okrągłego bukietu z róż, alstremerii i gloriozy na 50. urodziny. Który styl kompozycji wybierze florysta, realizując zamówienie?": "Флористическая мастерская получила заказ на создание круглого букета из роз, альстрёмерий и глориозы на 50-летний юбилей. Какой стиль композиции выберет флорист, выполняя заказ?",
+        "Baza z gąbką ułatwia utrzymywanie kwiatów w odpowiedniej pozycji i kształcie, co jest istotne w przypadku bukietu w formie berła z kulistym zakończeniem. Tzw. mikrofon to inna nazwa dla takiej bazy, która jest specjalnie zaprojektowana do tworzenia tego typu bukietów ślubnych. Dzięki temu narzędziu praca nad stworzeniem takiego bukietu jest znacznie mniej pracochłonna": "Основа с флористической губкой облегчает удержание цветов в нужной позиции и форме, что важно в случае букета в форме скипетра с шаровидным окончанием. Так называемый микрофон — это другое название для такой основы, которая специально разработана для создания такого типа свадебных букетов. Благодаря этому инструменту работа над созданием такого букета становится значительно менее трудоемкой.",
+        "nieskończoność": "бесконечность.",
+        "przemijalność życia": "бренность жизни.",
+        "szczodrość": "щедрость",
+        "powodzenie": "успех",
+        "W czasach antycznych, renesansie i baroku chętnie używano motywu dekoracyjnego w formie rogu obfitości, który symbolizuje": "В античные времена, в эпоху Ренессанса и барокко охотно использовали декоративный мотив в форме рога изобилия, который символизирует",
+        "Kwiaty barwinka": "Цветы барвинка.",
+        "Liście konwalii": "Листья ландыша.",
+        "Liście bluszczu": "Листья плюща.",
+        "Które jadalne części rośliny można preparować w cukrze?": "Какие съедобные части растения можно обрабатывать в сахаре?",
+        "Aby obliczyć pole okna w rzeczywistości, należy pomnożyć jego wymiary w skali przez kwadrat skali. Wynik należy podzielić przez 10 000, aby uzyskać wartość w metrach kwadratowych. Dlatego 12 cm x 8 cm x (1\/50)^2 \/ 10000 = 24 m^2": "Чтобы вычислить площадь окна в действительности, следует умножить его размеры в масштабе на квадрат масштаба. Полученный результат необходимо разделить на 10 000, чтобы получить значение в квадратных метрах. Поэтому 12 см x 8 см x (1\/50)^2 \/ 10000 = 24 м²."
     }
 }

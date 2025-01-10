@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "horyzontalne i barwy pastelowe": "горизонтальные и пастельные расцветки."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -4075,6 +4073,8 @@
         "Amaranthus caudatus": "Amaranthus caudatus.",
         "Eryngium planum": "Синеголовник плосколистный",
         "Do wykonania bukietu ślubnego o charakterze spływającym stosuje się gatunek": "Для выполнения свадебного букета спадающего характера используется вид",
-        "od 3° C do 5° C": "от 3° C до 5° C"
+        "od 3° C do 5° C": "от 3° C до 5° C",
+        "horyzontalne i barwy pastelowe": "горизонтальные и пастельные расцветки.",
+        "Florysta, wykonując kompozycje na święta Bożego Narodzenia powinien wybrać następujący materiał roślinny:": "Флорист, создавая композиции на Рождество, должен выбрать следующий растительный материал:"
     }
 }

@@ -1379,7 +1379,11 @@
             "Hortensja": "Гортензия.",
             "jaskry i hiacynty": "Лютики и гиацинты.",
             "Wiązankę graficzną": "Графическую цветочную связку.",
-            "Trwałość ciętych kwiatów maku syberyjskiego przedłuża się przez": "Устойчивость срезанных цветов мака сибирского продлевается за счет"
+            "Trwałość ciętych kwiatów maku syberyjskiego przedłuża się przez": "Устойчивость срезанных цветов мака сибирского продлевается за счет",
+            "krótkotrwałe umieszczanie łodyg w gorącej wodzie": "Кратковременное помещение стеблей в горячую воду.",
+            "krótkotrwałe umieszczanie łodyg w wodzie z lodem": "Кратковременное помещение стеблей в воду со льдом.",
+            "taśmowanie końców łodyg po zbiorze": "Перевязку концов стеблей после сбора.",
+            "woskowanie końców łodyg zaraz po ścięciu": "Воскирование концов стеблей сразу после срезки."
         }
     },
     "not_approved": {
@@ -3339,11 +3343,8 @@
         "Oczyszczenie liści roślin pozwala na usunięcie z nich kurzu i brudu, co sprzyja lepszemu procesowi fotosyntezy. Podlewanie podłoża po posadzeniu sukulentów zapewnia im odpowiednie nawodnienie i umożliwia rozwój korzeni": "Очистка листьев растений позволяет удалить с них пыль и грязь, что способствует лучшему процессу фотосинтеза. Полив подложки после посадки суккулентов обеспечивает им соответствующее увлажнение и позволяет развиваться корням.",
         "Kompozycja w wysokim naczyniu powinna mieć zachowane proporcje wysokości wazonu do wysokości kwiatów użytych jak": "Композиция в высокой посуде должна иметь сохраненные пропорции высоты вазона к высоте использованных цветов, как",
         "Proporcje 3:5 pozwalają na zachowanie harmonii między wysokością kwiatów a wysokością naczynia, co sprawia, że kompozycja jest estetyczna i proporcjonalna": "Пропорции 3:5 позволяют сохранить гармонию между высотой цветов и высотой сосуда, что делает композицию эстетичной и пропорциональной.",
-        "krótkotrwałe umieszczanie łodyg w gorącej wodzie": "Кратковременное помещение стеблей в горячую воду.",
         "umieszczanie łodyg w wodzie z lodem": "помещение стеблей в воду со льдом.",
         "Trwałość ciętych kwiatów maka wschodniego przedłuża się przez": "Долговечность срезанных цветов мака восточного продлевается за счет",
-        "woskowanie końców łodyg zaraz po ścięciu": "Воскирование концов стеблей сразу после срезки.",
-        "taśmowanie końców łodyg po zbiorze": "Перевязку концов стеблей после сбора.",
         "Krótkotrwałe umieszczanie łodyg w gorącej wodzie zwiększa ich wchłanianie wody i pozwala na usunięcie powietrza z wnętrza. To z kolei zapobiega blokowaniu się naczyń i przedłuża trwałość kwiatów": "Кратковременное погружение стеблей в горячую воду увеличивает их поглощение воды и позволяет удалить воздух изнутри. Это, в свою очередь, предотвращает блокирование сосудов и продлевает срок жизни цветов.",
         "na szybkozłączki": "на быстросъемные соединения.",
         "na sznurek": "на шнурок.",
@@ -4145,7 +4146,6 @@
         "Poprawną odpowiedzią jest 320 cm x 150 cm, ponieważ aby otrzymać wymiary rzeczywiste, należy pomnożyć wymiary rysunkowe przez skalę 1:20. Zatem 16 cm x 20 = 320 cm i 7,5 cm x 20 = 150 cm": "Правильный ответ - 320 см x 150 см, потому что чтобы получить реальные размеры, нужно умножить размеры на чертеже на масштаб 1:20. Итак, 16 см x 20 = 320 см и 7,5 см x 20 = 150 см.",
         "Kwiatem o jedwabistej strukturze płatków jest": "Цветком с шелковистой структурой лепестков является",
         "Mak ma płatki o jedwabistej strukturze, co czyni go kwiatem pasującym do opisu": "Мак имеет лепестки шелковистой структуры, что делает его цветком, соответствующим описанию.",
-        "krótkotrwałe umieszczanie łodyg w wodzie z lodem": "Кратковременное помещение стеблей в воду со льдом.",
         "Krótkotrwałe umieszczanie łodyg w gorącej wodzie powoduje zamknięcie się naczyń wodnych, co wpływa na zmniejszenie strat wody przez kwiaty i przedłużenie ich trwałości": "Кратковременное помещение стеблей в горячую воду вызывает закрытие водяных сосудов, что влияет на уменьшение потерь воды цветами и продление их стойкости.",
         "Do słabo oświetlonych pomieszczeń poleca się": "Для плохо освещённых помещений рекомендуется",
         "Aspidistry i paprocie to rośliny, które dobrze radzą sobie w słabo oświetlonych pomieszczeniach dzięki temu, że wymagają niewielkiej ilości światła do przeprowadzenia fotosyntezy. Ponadto, obie rośliny są łatwe w pielęgnacji i nie potrzebują zbyt częstego podlewania": "Аспидистры и папоротники — это растения, которые хорошо себя чувствуют в слабо освещенных помещениях благодаря тому, что им требуется небольшое количество света для проведения фотосинтеза. Кроме того, оба растения просты в уходе и не требуют слишком частого полива.",
@@ -4635,6 +4635,8 @@
         "Fungicydy są substancjami chemicznymi, które zwalczają grzyby, w tym patogeny powodujące szarą pleśń. Dlatego są skutecznym sposobem na zwalczanie tej choroby roślin": "Фунгициды являются химическими веществами, которые борются с грибами, включая патогены, вызывающие серую плесень. Поэтому они являются эффективным способом борьбы с этой болезнью растений.",
         "Na zdjęciu widać roślinę zanurzoną w cieczy, która wygląda na wosk. Technika woskowania polega na zanurzeniu rośliny w roztopionym wosku w celu jej utrwalenia. Pozostałe odpowiedzi nie pasują do obrazu przedstawionego na zdjęciu: bielenie to proces wybielania roślin, szkieletowanie to usunięcie miękkich tkanek rośliny, a preparowanie w roztworze soli to metoda konserwacji przez nasycenie solą": "На фотографии видна растение, погруженное в жидкость, которая выглядит как воск. Техника воскового покрытия заключается в погружении растения в расплавленный воск с целью его закрепления. Остальные ответы не подходят к изображению, представленному на фотографии: отбеливание - это процесс отбеливания растений, формирование каркаса - это удаление мягких тканей растения, а приготовление в растворе соли - это метод консервирования путем насыщения солью.",
         "Pirimor jest preparatem owadobójczym, który działa na mszyce żerujące na liściach": "Пиримор является инсектицидным препаратом, который действует на тлей, пожирающих листья.",
-        "Poprawną odpowiedzią jest \"drut na kołeczku\", ponieważ drut pozwala na łatwe formowanie gałązek jodłowych, a kołeczki utrzymują je w odpowiedniej pozycji na sznurze": "Правильным ответом является \"проволока на деревянном колышке\", поскольку проволока позволяет легко формировать веточки пихты, а деревянные колышки удерживают их в соответствующем положении на шнуре."
+        "Poprawną odpowiedzią jest \"drut na kołeczku\", ponieważ drut pozwala na łatwe formowanie gałązek jodłowych, a kołeczki utrzymują je w odpowiedniej pozycji na sznurze": "Правильным ответом является \"проволока на деревянном колышке\", поскольку проволока позволяет легко формировать веточки пихты, а деревянные колышки удерживают их в соответствующем положении на шнуре.",
+        "Temperatura 0°C-1°C zapewnia właściwe warunki dla przechowywania kwiatów ciętych, ponieważ hamuje rozwój drobnoustrojów i wydłuża trwałość kwiatów. Przechowywanie na sucho natomiast zapobiega gniciu i pleśnieniu kwiatów": "Температура 0°C-1°C обеспечивает надлежащие условия для хранения срезанных цветов, поскольку замедляет развитие микроорганизмов и продлевает стойкость цветов. Хранение на сухую, напротив, предотвращает гниение и плесневение цветов.",
+        "Liście koleusa charakteryzują się brokatową teksturą, ponieważ na ich powierzchni występują małe, metaliczne plamki w różnych kolorach. To właśnie one dodają roślinie charakterystycznego blasku i sprawiają, że liście wyglądają jakby były pokryte brokatem": "Листья колеуса характеризуются блестящей текстурой, поскольку на их поверхности присутствуют маленькие, металлические пятна различных цветов. Именно они придают растению характерное сияние и создают впечатление, что листья покрыты блестками."
     }
 }

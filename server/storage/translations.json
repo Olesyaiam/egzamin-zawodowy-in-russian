@@ -1,8 +1,5 @@
 {
-    "incorrect": {
-        "haftek rzymskich": "петелек римских.",
-        "na drewniane patyki": "на деревянные палочки."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -5056,6 +5053,8 @@
         "zieleń cięta": "срезанная зелень",
         "Do dekorowania nowoczesnych wnętrz najczęściej wykorzystuje się:": "Для декорирования современных интерьеров чаще всего используются:",
         "Przegorzan kulisty stosowany jest w kompozycjach jako": "Мордовник шароголовый используется в композициях как",
-        "bulionowy": "Булённый"
+        "bulionowy": "Булённый",
+        "haftek rzymskich": "римских скоб.",
+        "na drewniane patyki": "на деревянные палочки."
     }
 }

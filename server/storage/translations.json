@@ -1431,7 +1431,8 @@
             "Wysokość naczynia stanowi 2 części z 5 równych części, na które podzielono całą wysokość kompozycji kwiatowej. Obliczając wysokość jednej części (50 cm \/ 5 = 10 cm) i mnożąc ją przez liczbę części naczynia (10 cm * 2), otrzymujemy wysokość naczynia równą 20 cm": "Высота сосуда составляет 2 части из 5 равных частей, на которые разделена вся высота цветочной композиции. Вычисляя высоту одной части (50 см \/ 5 = 10 см) и умножая ее на количество частей сосуда (10 см * 2), получаем высоту сосуда равную 20 см.",
             "Na podstawie danych zamieszczonych w tabeli wskaż temperaturę przechowywania w chłodni ściętych frezji": "На основании данных, размещённых в таблице, укажите температуру хранения срезанной фрезии в холодильной камере.",
             "Frezja posiada kwiatostan typu kłos, co jest zgodne z informacjami dostępnymi w literaturze ogrodniczej i florystycznej. Zgodnie z tabelą, kwiatostany typu kłos powinny być przechowywane w temperaturze 1°C-2°C, co odpowiada odpowiedzi \"C\"": "Фрезия обладает соцветием типа колос, что соответствует информации, доступной в садоводческой и флористической литературе. Согласно таблице, соцветия типа колос должны храниться при температуре 1°C-2°C, что соответствует ответу \"C\".",
-            "chromatyczne": "цветные."
+            "chromatyczne": "цветные.",
+            "o preferencjach panny młodej": "о предпочтениях невесты."
         }
     },
     "not_approved": {
@@ -3358,7 +3359,6 @@
         "Dalia ogrodowa i krwawnik wiązówkowaty to kwiaty o ciepłych barwach, które kwitną latem i są dostępne w tym czasie": "Георгина садовая и тысячелистник таволговый — это цветы с теплыми расцветками, которые цветут летом и доступны в это время.",
         "o rodzaju samochodu ślubnego": "о типе свадебного автомобиля.",
         "o liczbie druhen": "о количестве подружек невесты.",
-        "o preferencjach panny młodej": "о предпочтениях невесты.",
         "o wzroście pana młodego": "о росте жениха.",
         "W trakcie rozmowy z klientem, który zamawia ozdobę ślubną dla panny młodej, należy uzyskać informacje": "Во время разговора с клиентом, который заказывает свадебное украшение для невесты, необходимо получить информацию.",
         "W trakcie rozmowy z klientem, który zamawia ozdobę ślubną dla panny młodej, należy uzyskać informacje o preferencjach panny młodej, ponieważ to ona będzie nosiła ozdobę i powinna ona odpowiadać jej gustowi oraz stylowi ślubu": "В ходе разговора с клиентом, который заказывает свадебное украшение для невесты, необходимо получить информацию о предпочтениях невесты, так как именно она будет носить украшение, и оно должно соответствовать её вкусу и стилю свадьбы.",

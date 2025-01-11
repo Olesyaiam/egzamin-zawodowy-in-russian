@@ -5245,6 +5245,10 @@
         "Typha latifolia, Callistephus chinensis": "Рогоз широколистный, каллистефус китайский.",
         "Stachys lanata, Doronicum orientale": "Stachys lanata, дороникум восточный.",
         "Campanula persicifolia, Molucella laevis": "Колокольчик персиколистный, Молюцелла гладкая.",
-        "Amaranthus caudatus, Achillea filipendulina": "Амарант хвостатый, тысячелистник таволговый."
+        "Amaranthus caudatus, Achillea filipendulina": "Амарант хвостатый, тысячелистник таволговый.",
+        "odprowadzenie nadmiaru składników pokarmowych z sąsiedztwa korzeni": "отведение избытка питательных веществ от корней.",
+        "odprowadzenie nadmiaru wody z sąsiedztwa korzeni": "отведение избытка воды из окрестностей корней.",
+        "wprowadzenie wody w sąsiedztwo korzeni": "введение воды в соседство корней.",
+        "wprowadzenie składników pokarmowych do podłoża": "введение питательных веществ в подложку."
     }
 }

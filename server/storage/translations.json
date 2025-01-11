@@ -1432,7 +1432,8 @@
             "Na podstawie danych zamieszczonych w tabeli wskaż temperaturę przechowywania w chłodni ściętych frezji": "На основании данных, размещённых в таблице, укажите температуру хранения срезанной фрезии в холодильной камере.",
             "Frezja posiada kwiatostan typu kłos, co jest zgodne z informacjami dostępnymi w literaturze ogrodniczej i florystycznej. Zgodnie z tabelą, kwiatostany typu kłos powinny być przechowywane w temperaturze 1°C-2°C, co odpowiada odpowiedzi \"C\"": "Фрезия обладает соцветием типа колос, что соответствует информации, доступной в садоводческой и флористической литературе. Согласно таблице, соцветия типа колос должны храниться при температуре 1°C-2°C, что соответствует ответу \"C\".",
             "chromatyczne": "цветные.",
-            "o preferencjach panny młodej": "о предпочтениях невесты."
+            "o preferencjach panny młodej": "о предпочтениях невесты.",
+            "Kwiaty odgrywające rolę tła w kompozycji kwiatowej są zaliczane do form wypełniających, ponieważ ich głównym zadaniem jest wypełnienie przestrzeni i stworzenie tła dla kwiatów dominujących. Nie są one punktem centralnym uwagi, ale służą jako uzupełnienie i podkreślenie piękna kwiatów głównych. Formy szlachetne, dominujące czy królewskie odnoszą się do roli kwiatów, które są punktem centralnym kompozycji, a nie tłem": "Цветы, играющие роль фона в цветочной композиции, относятся к формам, заполняющим пространство, так как их основная задача заключается в заполнении пространства и создании фона для доминирующих цветов. Они не являются центральной точкой внимания, но служат дополнением и подчеркиванием красоты главных цветов. Благородные, доминантные или королевские формы относятся к роли цветов, которые являются центральной точкой композиции, а не фоном."
         }
     },
     "not_approved": {
@@ -2715,7 +2716,6 @@
         "woskowanie końcówek łodyg": "воскирование концов стеблей.",
         "zakwaszenie wody octem winnym": "подкисление воды винным уксусом.",
         "Begonia królewska ma matowe liście, nie błyszczące, co sprawia, że nie nabłyszcza się": "Бегония королевская имеет матовые листья, не блестящие, что делает её неблестящей.",
-        "Kwiaty odgrywające rolę tła w kompozycji kwiatowej są zaliczane do form wypełniających, ponieważ ich głównym zadaniem jest wypełnienie przestrzeni i stworzenie tła dla kwiatów dominujących. Nie są one punktem centralnym uwagi, ale służą jako uzupełnienie i podkreślenie piękna kwiatów głównych. Formy szlachetne, dominujące czy królewskie odnoszą się do roli kwiatów, które są punktem centralnym kompozycji, a nie tłem": "Цветы, играющие роль фона в цветочной композиции, относятся к формам, заполняющим пространство, так как их основная задача заключается в заполнении пространства и создании фона для доминирующих цветов. Они не являются центральной точкой внимания, но служат дополнением и подчеркиванием красоты главных цветов. Благородные, доминантные или королевские формы относятся к роли цветов, которые являются центральной точкой композиции, а не фоном.",
         "Trwałość bukietu umieszczonego w wazonie można przedłużyć przez": "Устойчивость букета, размещенного в вазоне, можно продлить с помощью",
         "proponowanego materiału roślinnego": "предлагаемого растительного материала.",
         "wszystkich materiałów flory stycznych": "всех материалов флоры касательных.",

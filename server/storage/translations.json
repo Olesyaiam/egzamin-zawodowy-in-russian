@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "lekko rozchylonych kwiatostanów": "слегка раскрытых соцветий."
-    },
+    "incorrect": [],
     "approved": {
         "others": {
             "systematycznego opryskiwania wodą": "систематического опрыскивания водой",
@@ -5216,6 +5214,7 @@
         "W chłodnym miejscu, żeby nie zwiędł, a nie w wilgotnym, żeby nie zgnił": "В прохладном месте, чтобы он не завял, а не во влажном, чтобы он не сгнил.",
         "Ponieważ nie ma dostępu światła i jeszcze to że jest w chłodnym miejscu to dłużej zachowa świeżość": "Так как нет доступа света и к тому же это находится в прохладном месте, то дольше сохранит свежесть.",
         "Poprawna odpowiedź, że Korsarz do sukni przechowuje się w kartonie, w chłodnym miejscu, ponieważ zapewnia to ochronę przed wilgocią i wysoką temperaturą, co może uszkodzić tkaninę i zniszczyć kolor": "Правильный ответ: корсажную бутоньерку для платья хранят в картонной коробке, в прохладном месте, потому что это обеспечивает защиту от влаги и высокой температуры, что может повредить ткань и уничтожить цвет.",
-        "KARTON PLUS CHŁODNE MIEJSCE TO IDEALNY MIKROKLIMAT ABY DEKORACJA UTRZYMAŁA ODPOWIEDNI POZIOM WILGOTNOŚCI ORAZ ODPOWIEDNIEJ TEMPERATURY": "КАРТОН ПЛЮС ПРОХЛАДНОЕ МЕСТО — ЭТО ИДЕАЛЬНЫЙ МИКРОКЛИМАТ, ЧТОБЫ ДЕКОРАЦИЯ ПОДДЕРЖИВАЛА ПОДХОДЯЩИЙ УРОВЕНЬ ВЛАЖНОСТИ И СООТВЕТСТВУЮЩУЮ ТЕМПЕРАТУРУ."
+        "KARTON PLUS CHŁODNE MIEJSCE TO IDEALNY MIKROKLIMAT ABY DEKORACJA UTRZYMAŁA ODPOWIEDNI POZIOM WILGOTNOŚCI ORAZ ODPOWIEDNIEJ TEMPERATURY": "КАРТОН ПЛЮС ПРОХЛАДНОЕ МЕСТО — ЭТО ИДЕАЛЬНЫЙ МИКРОКЛИМАТ, ЧТОБЫ ДЕКОРАЦИЯ ПОДДЕРЖИВАЛА ПОДХОДЯЩИЙ УРОВЕНЬ ВЛАЖНОСТИ И СООТВЕТСТВУЮЩУЮ ТЕМПЕРАТУРУ.",
+        "lekko rozchylonych kwiatostanów": "слегка приоткрытых соцветий."
     }
 }

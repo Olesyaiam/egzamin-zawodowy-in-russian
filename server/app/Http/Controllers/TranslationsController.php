@@ -121,8 +121,6 @@ class TranslationsController extends BaseController
         // Получение времени последнего коммита
         $gitCommand = 'cd ' . __DIR__ . '; /usr/bin/git log -1 --format=%ct';
         $lastCommitTimestamp = trim(shell_exec($gitCommand));
-        $stats['command'] = $gitCommand;
-        $stats['last_commit'] = $lastCommitTimestamp;
 
         if (is_numeric($lastCommitTimestamp)) {
             $timeSince = time() - (int)$lastCommitTimestamp;
@@ -143,7 +141,7 @@ class TranslationsController extends BaseController
     private function humanTimeDiff(int $seconds): string
     {
         if ($seconds < 60) {
-            return "$seconds секунд назад";
+            return "$seconds seconds ago";
         } elseif ($seconds < 3600) {
             return floor($seconds / 60) . " minutes ago";
         } elseif ($seconds < 86400) {

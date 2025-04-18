@@ -9,4 +9,5 @@ $router->get('/', function () use ($router) {
 $router->post('translations/get', 'TranslationsController@getTranslation');
 $router->post('translations/markCorrect', 'TranslationsController@markCorrect');
 $router->post('translations/markIncorrect', 'TranslationsController@markIncorrect');
+$router->get('translations/stats', 'TranslationsController@getTranslationStats');
 $router->post('menu/menu', 'MenuController@menu');

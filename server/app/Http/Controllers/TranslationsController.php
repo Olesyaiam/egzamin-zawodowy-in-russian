@@ -112,4 +112,12 @@ class TranslationsController extends BaseController
     {
         return $this->mark($request, 'markIncorrect');
     }
+
+    public function getTranslationStats(Request $request): JsonResponse
+    {
+        $translator = new Translator();
+        $stats = $translator->getStats();
+
+        return $this->response($stats);
+    }
 }

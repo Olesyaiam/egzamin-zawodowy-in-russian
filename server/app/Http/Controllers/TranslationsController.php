@@ -119,7 +119,7 @@ class TranslationsController extends BaseController
         $stats = $translator->getStats();
 
         // Получение времени последнего коммита
-        $gitCommand = 'cd ' . __DIR__ . '; git log -1 --format=%ct';
+        $gitCommand = 'cd ' . __DIR__ . '; /usr/bin/git log -1 --format=%ct';
         $lastCommitTimestamp = trim(shell_exec($gitCommand));
         $stats['command'] = $gitCommand;
         $stats['last_commit'] = $lastCommitTimestamp;

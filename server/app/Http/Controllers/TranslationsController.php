@@ -118,11 +118,8 @@ class TranslationsController extends BaseController
         $translator = new \App\Translator();
         $stats = $translator->getStats();
 
-        // Путь к директории с .git (корень проекта)
-        $repoPath = __DIR__ . '/../../../';
-
         // Получение времени последнего коммита
-        $gitCommand = 'cd ' . escapeshellarg($repoPath) . ' && git log -1 --format=%ct';
+        $gitCommand = 'cd ' . __DIR__ . '; git log -1 --format=%ct';
         $lastCommitTimestamp = trim(shell_exec($gitCommand));
         $stats['command'] = $gitCommand;
         $stats['last_commit'] = $lastCommitTimestamp;

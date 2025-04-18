@@ -115,9 +115,42 @@ class TranslationsController extends BaseController
 
     public function getTranslationStats(Request $request): JsonResponse
     {
-        $translator = new Translator();
+        $translator = new \App\Translator();
         $stats = $translator->getStats();
 
+        // Путь к директории с .git (корень проекта)
+        $repoPath = base_path(); // Или __DIR__ . '/../../../' если Lumen не настроен на base_path()
+
+        // Получение времени последнего коммита
+        $gitCommand = 'cd ' . escapeshellarg($repoPath) . ' && git log -1 --format=%ct';
+        $lastCommitTimestamp = trim(shell_exec($gitCommand));
+
+        if (is_numeric($lastCommitTimestamp)) {
+            $timeSince = time() - (int)$lastCommitTimestamp;
+
+            $stats['last_commit'] = [
+                'timestamp' => (int)$lastCommitTimestamp,
+                'seconds_ago' => $timeSince,
+                'human' => $this->humanTimeDiff($timeSince),
+            ];
+        } else {
+            $stats['last_commit'] = 'Could not determine last commit time';
+        }
+
         return $this->response($stats);
+    }
+
+    // Преобразует секунды в человекочитаемый формат
+    private function humanTimeDiff(int $seconds): string
+    {
+        if ($seconds < 60) {
+            return "$seconds секунд назад";
+        } elseif ($seconds < 3600) {
+            return floor($seconds / 60) . " минут назад";
+        } elseif ($seconds < 86400) {
+            return floor($seconds / 3600) . " часов назад";
+        } else {
+            return floor($seconds / 86400) . " дней назад";
+        }
     }
 }

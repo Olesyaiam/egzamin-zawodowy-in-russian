@@ -115,14 +115,19 @@ class TranslationsController extends BaseController
 
     public function getTranslationStats(Request $request): JsonResponse
     {
-        $translator = new \App\Translator();
-        $stats = $translator->getStats();
+        $repoPath = '/home/user/GitHub/egzamin-zawodowy-in-russian'; // корень, где .git реально есть
+        $cmd = 'cd ' . escapeshellarg($repoPath) . ' && /usr/bin/git log -1 --format=%ct 2>&1';
+        $output = shell_exec($cmd);
+        return response()->json(['cmd' => $cmd, 'output' => $output, 'user' => shell_exec('whoami')]);
 
-        // Получение времени последнего коммита
-        $gitCommand = 'cd ' . __DIR__ . '; /usr/bin/git log -1 --format=%ct';
-        $lastCommitTimestamp = trim(shell_exec($gitCommand));
-        $stats['command'] = $gitCommand;
-        $stats['last_commit'] = $lastCommitTimestamp;
+//        $translator = new \App\Translator();
+//        $stats = $translator->getStats();
+//
+//        // Получение времени последнего коммита
+//        $gitCommand = 'cd ' . __DIR__ . '; /usr/bin/git log -1 --format=%ct';
+//        $lastCommitTimestamp = trim(shell_exec($gitCommand));
+//        $stats['command'] = $gitCommand;
+//        $stats['last_commit'] = $lastCommitTimestamp;
 
 //        if (is_numeric($lastCommitTimestamp)) {
 //            $timeSince = time() - (int)$lastCommitTimestamp;

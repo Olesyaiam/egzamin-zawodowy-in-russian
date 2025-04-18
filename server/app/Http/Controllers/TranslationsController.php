@@ -119,23 +119,24 @@ class TranslationsController extends BaseController
         $stats = $translator->getStats();
 
         // Путь к директории с .git (корень проекта)
-        $repoPath = base_path(); // Или __DIR__ . '/../../../' если Lumen не настроен на base_path()
+        $repoPath = __DIR__ . '/../../../';
 
         // Получение времени последнего коммита
         $gitCommand = 'cd ' . escapeshellarg($repoPath) . ' && git log -1 --format=%ct';
         $lastCommitTimestamp = trim(shell_exec($gitCommand));
+        $stats['last_commit'] = $lastCommitTimestamp;
 
-        if (is_numeric($lastCommitTimestamp)) {
-            $timeSince = time() - (int)$lastCommitTimestamp;
-
-            $stats['last_commit'] = [
-                'timestamp' => (int)$lastCommitTimestamp,
-                'seconds_ago' => $timeSince,
-                'human' => $this->humanTimeDiff($timeSince),
-            ];
-        } else {
-            $stats['last_commit'] = 'Could not determine last commit time';
-        }
+//        if (is_numeric($lastCommitTimestamp)) {
+//            $timeSince = time() - (int)$lastCommitTimestamp;
+//
+//            $stats['last_commit'] = [
+//                'timestamp' => (int)$lastCommitTimestamp,
+//                'seconds_ago' => $timeSince,
+//                'human' => $this->humanTimeDiff($timeSince),
+//            ];
+//        } else {
+//            $stats['last_commit'] = 'Could not determine last commit time';
+//        }
 
         return $this->response($stats);
     }

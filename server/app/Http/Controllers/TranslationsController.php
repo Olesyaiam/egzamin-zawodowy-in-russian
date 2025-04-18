@@ -124,17 +124,17 @@ class TranslationsController extends BaseController
         $stats['command'] = $gitCommand;
         $stats['last_commit'] = $lastCommitTimestamp;
 
-//        if (is_numeric($lastCommitTimestamp)) {
-//            $timeSince = time() - (int)$lastCommitTimestamp;
-//
-//            $stats['last_commit'] = [
-//                'timestamp' => (int)$lastCommitTimestamp,
-//                'seconds_ago' => $timeSince,
-//                'human' => $this->humanTimeDiff($timeSince),
-//            ];
-//        } else {
-//            $stats['last_commit'] = 'Could not determine last commit time';
-//        }
+        if (is_numeric($lastCommitTimestamp)) {
+            $timeSince = time() - (int)$lastCommitTimestamp;
+
+            $stats['last_commit'] = [
+                'timestamp' => (int)$lastCommitTimestamp,
+                'seconds_ago' => $timeSince,
+                'human' => $this->humanTimeDiff($timeSince),
+            ];
+        } else {
+            $stats['last_commit'] = 'Could not determine last commit time';
+        }
 
         return $this->response($stats);
     }
@@ -145,11 +145,11 @@ class TranslationsController extends BaseController
         if ($seconds < 60) {
             return "$seconds секунд назад";
         } elseif ($seconds < 3600) {
-            return floor($seconds / 60) . " минут назад";
+            return floor($seconds / 60) . " minutes ago";
         } elseif ($seconds < 86400) {
-            return floor($seconds / 3600) . " часов назад";
+            return floor($seconds / 3600) . " hours ago";
         } else {
-            return floor($seconds / 86400) . " дней назад";
+            return floor($seconds / 86400) . " days ago";
         }
     }
 }

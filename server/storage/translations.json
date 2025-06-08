@@ -4,7 +4,8 @@
         "net localgroup jkowalski pracownicy \/ADD": "net localgroup jkowalski pracownicy \/ADD",
         "net localgroup pracownicy jkowalski \/ADD": "net localgroup pracownicy jkowalski \/ADD",
         "net group jkowalski pracownicy \/ADD": "net group jkowalski pracownicy \/ADD",
-        "Aby w systemie Windows dodać użytkownika jkowalski do grupy lokalnej pracownicy należy wykonać polecenie": "Чтобы в системе Windows добавить пользователя jkowalski в локальную группу сотрудники, необходимо выполнить команду"
+        "Aby w systemie Windows dodać użytkownika jkowalski do grupy lokalnej pracownicy należy wykonać polecenie": "Чтобы в системе Windows добавить пользователя jkowalski в локальную группу сотрудники, необходимо выполнить команду",
+        "w gruby papier": "в толстую бумагу."
     },
     "approved": {
         "others": {
@@ -3710,7 +3711,6 @@
         "Oblicz koszt transportu zamówionej kompozycji florystycznej": "Рассчитай стоимость транспортировки заказанной флористической композиции.",
         "Przecinak jest narzędziem przeznaczonym do cięcia różnego rodzaju materiałów, w tym sznurków i drutów. Dzięki swojej konstrukcji jest w stanie dokładnie i szybko przeciąć taki materiał": "Зубило является инструментом, предназначенным для резки различных материалов, включая шнуры и проволоки. Благодаря своей конструкции оно способно точно и быстро разрезать такой материал.",
         "Metodą zielarską stosuje się technikę wiązania w pęczki przy suszeniu roślin, ponieważ łatwiej jest wtedy zachować ich kształt i zapobiec przypadkowemu rozkruszeniu": "Методом травничества применяется техника связывания в пучки при сушке растений, поскольку тогда легче сохранить их форму и предотвратить случайное разрушение.",
-        "w gruby papier": "в толстую бумагу.",
         "w pudło kartonowe": "в картонную коробку.",
         "w sztywny celofan": "в жесткий целлофан.",
         "Przygotowując wiązankę okolicznościową w okresie zimowym do krótkiego transportu, należy zapakować ją": "Готовя цветочную связку для особого случая в зимний период для короткой транспортировки, необходимо упаковать ее",

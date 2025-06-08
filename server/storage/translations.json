@@ -4,8 +4,7 @@
         "net localgroup jkowalski pracownicy \/ADD": "net localgroup jkowalski pracownicy \/ADD",
         "net localgroup pracownicy jkowalski \/ADD": "net localgroup pracownicy jkowalski \/ADD",
         "net group jkowalski pracownicy \/ADD": "net group jkowalski pracownicy \/ADD",
-        "Aby w systemie Windows dodać użytkownika jkowalski do grupy lokalnej pracownicy należy wykonać polecenie": "Чтобы в системе Windows добавить пользователя jkowalski в локальную группу сотрудники, необходимо выполнить команду",
-        "w gruby papier": "в толстую бумагу."
+        "Aby w systemie Windows dodać użytkownika jkowalski do grupy lokalnej pracownicy należy wykonać polecenie": "Чтобы в системе Windows добавить пользователя jkowalski в локальную группу сотрудники, необходимо выполнить команду"
     },
     "approved": {
         "others": {
@@ -8411,6 +8410,7 @@
         "Gąbki florystyczne do maski samochodu mocuje się z wykorzystaniem przyssawki, jak w autorondelli": "Флористические губки для автомобильной маски крепят с использованием присоски, как в авторонделле.",
         "corylus avellana contorta czyli leszczyna o giętych pędach": "Corylus avellana contorta или лещина с изогнутыми побегами",
         "Coryłus avellana 'Contorta' Leszczyna pospolita 'Contorta'.Krzew wysokości do 2 m o pogiętych pędach i częściowo poskręcanych liściach. Zalecany do nasadzeń pojedynczych. Pędy mogą być wykorzystane do dekoracji&nbsp;": "Corylus avellana 'Contorta' Лещина обыкновенная 'Contorta'. Куст высотой до 2 м с изогнутыми побегами и частично скрученными листьями. Рекомендуется для одиночных посадок. Побеги могут быть использованы для украшения ...",
-        "Tapa, czyli zielona taśma florystyczna służy do maskowania drutów technicznych podczas drutowania": "Тапа, то есть зелёная флористическая лента, используется для маскировки технических проволок во время проволочного укрепления."
+        "Tapa, czyli zielona taśma florystyczna służy do maskowania drutów technicznych podczas drutowania": "Тапа, то есть зелёная флористическая лента, используется для маскировки технических проволок во время проволочного укрепления.",
+        "w gruby papier": "в толстую бумагу."
     }
 }

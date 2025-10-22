@@ -5,3 +5,6 @@ apache2_virtual_host.conf
 *.html
 logs/
 vendor/
+ramdisk_tmpfs/
+translations.json
+*.cache

@@ -39,12 +39,12 @@ class DatabaseManager extends Base
     }
 
     /**
-     * Гарантирует существование директории для кэша (на tmpfs),
-     * создаёт её при необходимости и проверяет доступность на запись.
+     * Гарантирует существование директории для кэша и проверяет доступность на запись.
+     * Корректно работает как с абсолютным, так и с относительным путём.
      */
     private function ensureCacheDir(): string
     {
-        $cachePath = $this->storagePath . '/' . $this->filenameCache;
+        $cachePath = $this->resolvePath($this->filenameCache);
         $cacheDirPath = dirname($cachePath);
 
         if (!is_dir($cacheDirPath)) {
@@ -55,7 +55,6 @@ class DatabaseManager extends Base
         }
 
         if (!is_writable($cacheDirPath)) {
-            // на prod/dev host bind может потребовать chown 33:33
             throw new \Exception("Cache directory is not writable: {$cacheDirPath}");
         }
 

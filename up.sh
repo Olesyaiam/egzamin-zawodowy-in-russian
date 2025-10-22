@@ -2,7 +2,8 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-mkdir -p server/storage/logs server/storage/ramdisk_tmpfs
+mkdir -p server/storage/
+chmod 777 server/translations.json
 chown -R 33:33 server/storage
 chmod -R u+rwX,g+rwX server/storage
 

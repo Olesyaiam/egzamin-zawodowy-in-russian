@@ -12,30 +12,48 @@ class Base
         $this->storagePath = app()->storagePath();
     }
 
-    protected function load(string $filename = null)
+    /**
+     * Если путь абсолютный (начинается с '/'), возвращаем как есть.
+     * Если относительный — склеиваем со storagePath.
+     */
+    protected function resolvePath(?string $name = null): string
     {
-        $filename = $filename ?? $this->filename;
+        $name = $name ?? $this->filename;
 
-        if (empty($filename)) {
-            return [];
+        if ($name === null || $name === '') {
+            return $this->storagePath . '/';
         }
 
-        $path = $this->storagePath . '/' . $filename;
+        if ($name[0] === '/') {
+            return $name; // абсолютный путь
+        }
+
+        return $this->storagePath . '/' . $name;
+    }
+
+    protected function load(string $filename = null)
+    {
+        $path = $this->resolvePath($filename);
 
         if (file_exists($path)) {
             return json_decode(file_get_contents($path), true) ?: [];
-        } else {
-            return [];
         }
+
+        return [];
     }
 
     protected function save($data): bool
     {
-        $res = (bool)file_put_contents(
-            $this->storagePath . '/' . $this->filename,
+        $path = $this->resolvePath($this->filename);
+        $dir = dirname($path);
+
+        if (!is_dir($dir)) {
+            @mkdir($dir, 0777, true);
+        }
+
+        return (bool) file_put_contents(
+            $path,
             json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
         );
-
-        return $res;
     }
 }

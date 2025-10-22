@@ -1,0 +1,36 @@
+services:
+  app:
+    build: .
+    container_name: egzamin-app
+    environment:
+      # Forward from compose-level .env or set here
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      APP_ENV: production
+      APP_TIMEZONE: Europe/Warsaw
+    volumes:
+      # persist translations.json etc.
+      - ./server/storage:/var/www/server/storage
+    tmpfs:
+      # fast cache; code expects this path to exist
+      - /var/www/server/storage/ramdisk_tmpfs:size=5m
+    networks: [web]
+
+  caddy:
+    image: caddy:2
+    container_name: egzamin-caddy
+    depends_on: [app]
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data        # certs stored here
+      - caddy-config:/config
+    networks: [web]
+
+networks:
+  web: {}
+
+volumes:
+  caddy-data: {}
+  caddy-config: {}

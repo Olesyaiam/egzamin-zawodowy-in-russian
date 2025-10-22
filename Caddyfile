@@ -1,0 +1,22 @@
+extensions.webscrapp.rocks {
+    encode zstd gzip
+
+    # CORS for your extension; adjust if you want to restrict origins
+    header {
+        Access-Control-Allow-Origin *
+        Access-Control-Allow-Methods "GET, POST, OPTIONS"
+        Access-Control-Allow-Headers "Content-Type, Authorization"
+    }
+
+    @options {
+        method OPTIONS
+    }
+
+    respond @options 204
+    reverse_proxy app:80
+
+    log {
+        output stdout
+        format console
+    }
+}

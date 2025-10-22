@@ -4,6 +4,8 @@ services:
     container_name: egzamin-app
     environment:
       APP_ENV: production
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      APP_TIMEZONE: ${APP_TIMEZONE}
     ports:
       - "8081:80"
     volumes:

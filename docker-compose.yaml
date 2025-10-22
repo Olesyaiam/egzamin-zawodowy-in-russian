@@ -10,3 +10,4 @@ services:
       - ./server/storage:/var/www/server/storage
     tmpfs:
       - /var/www/server/storage/ramdisk_tmpfs:size=5m
+    restart: unless-stopped

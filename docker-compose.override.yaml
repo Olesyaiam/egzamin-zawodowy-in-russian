@@ -5,9 +5,6 @@ services:
       - ./server:/var/www/server:delegated
       # keep Composer deps in a named volume (mounted AFTER the bind)
       - dev-vendor:/var/www/server/vendor
-      # tmpfs stays the same; fast cache path already expected by your code
-    tmpfs:
-      - /var/www/server/storage/ramdisk_tmpfs:size=5m
     environment:
       APP_ENV: local
     # Ensure storage dirs exist, fix permissions for host bind, auto-install deps once

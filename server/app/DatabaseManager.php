@@ -38,19 +38,38 @@ class DatabaseManager extends Base
         return $results;
     }
 
-    private function generateCache(): array
+    /**
+     * Гарантирует существование директории для кэша (на tmpfs),
+     * создаёт её при необходимости и проверяет доступность на запись.
+     */
+    private function ensureCacheDir(): string
     {
         $cachePath = $this->storagePath . '/' . $this->filenameCache;
         $cacheDirPath = dirname($cachePath);
 
         if (!is_dir($cacheDirPath)) {
-            throw new \Exception("add to /etc/fstab: tmpfs\t" . $cacheDirPath . "\tramfs\tdefaults,size=5M\t0\t0");
+            // создаём рекурсивно, если bind-монт перекрывает структуру
+            if (!@mkdir($cacheDirPath, 0777, true) && !is_dir($cacheDirPath)) {
+                throw new \Exception("Failed to create cache directory: {$cacheDirPath}");
+            }
         }
 
+        if (!is_writable($cacheDirPath)) {
+            // на prod/dev host bind может потребовать chown 33:33
+            throw new \Exception("Cache directory is not writable: {$cacheDirPath}");
+        }
+
+        return $cachePath;
+    }
+
+    private function generateCache(): array
+    {
+        $cachePath = $this->ensureCacheDir();
+
         $startTime = microtime(true);
-        $flowers = $this->load();
-        $data = array();
-        $index = array();
+        $flowers = $this->load(); // storage/flowers.json (персистентно)
+        $data = [];
+        $index = [];
 
         foreach ($flowers as $latinFlowerName => $flowerInfo) {
             $data[] = array(

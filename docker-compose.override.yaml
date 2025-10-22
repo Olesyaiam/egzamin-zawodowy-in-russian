@@ -1,0 +1,21 @@
+services:
+  app:
+    # bind-mount the whole server tree for live edits
+    volumes:
+      - ./server:/var/www/server:delegated
+      # keep Composer deps in a named volume (mounted AFTER the bind)
+      - dev-vendor:/var/www/server/vendor
+      # tmpfs stays the same; fast cache path already expected by your code
+    tmpfs:
+      - /var/www/server/storage/ramdisk_tmpfs:size=5m
+
+    # make the app reachable directly for local testing
+    ports:
+      - "8080:80"
+
+    environment:
+      APP_ENV: local
+
+
+volumes:
+  dev-vendor: {}

@@ -2,7 +2,7 @@ services:
   app:
     # bind-mount the whole server tree for live edits
     volumes:
-      - ./server:/var/www/server:delegated
+      - ./server:/var/www/server
       # keep Composer deps in a named volume (mounted AFTER the bind)
       - dev-vendor:/var/www/server/vendor
     environment:

@@ -5,7 +5,7 @@ namespace App;
 class DatabaseManager extends Base
 {
     protected string $filename = 'flowers.json';
-    protected string $filenameCache = 'ramdisk_tmpfs/flowers_cache.json';
+    protected string $filenameCache = '/ramdisk_tmpfs/flowers_cache.json';
     protected const IMAGES_BASE_URL = 'https://raw.githubusercontent.com/Olesyaiam/egzamin-zawodowy-in-russian/main/server/public/images/flowers/';
 
     public function findFlowers($polishText)

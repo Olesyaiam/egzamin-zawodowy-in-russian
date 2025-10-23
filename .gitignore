@@ -8,3 +8,4 @@ vendor/
 ramdisk_tmpfs/
 translations.json
 *.cache
+.env

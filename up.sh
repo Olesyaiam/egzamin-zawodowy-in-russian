@@ -50,5 +50,12 @@ echo "Starting containers (${MODE})..."
 
 echo
 "${COMPOSE[@]}" ps
-echo ""
-echo "=> APP: http://localhost:8081/translations/stats"
+echo
+
+# --- friendly endpoint hint (local HTTP port from compose) ---
+if [[ "$MODE" == "development" ]]; then
+  echo "=> DEV: http://localhost:8081/translations/stats"
+else
+  echo "=> PROD: service is up; if you front it with Caddy, use your HTTPS domain."
+  echo "   Possibly: https://egzamin.webscrapp.rocks/translations/stats"
+fi

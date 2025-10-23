@@ -13,7 +13,42 @@ else
   COMPOSE=(docker-compose)
 fi
 
+# --- require .env with needed keys (root-level .env used by Compose) ---
+if [[ ! -f .env ]]; then
+  cat >&2 <<'EOF'
+ERROR: .env file not found in project root.
+
+Create .env with at least:
+  OPENAI_API_KEY=sk-...
+  APP_TIMEZONE=Europe/Warsaw
+EOF
+  exit 1
+fi
+
+# shellcheck source=/dev/null
+set -a
+. ./.env
+set +a
+
+OPENAI="${OPENAI_API_KEY:-}"
+TZV="${APP_TIMEZONE:-}"
+
+[[ -n "$OPENAI" ]] || die "OPENAI_API_KEY is empty or missing in .env"
+[[ -n "$TZV"   ]] || die "APP_TIMEZONE is empty or missing in .env"
+
+# --- detect dev/prod mode by presence of override file ---
+MODE="production"
+if [[ -f docker-compose.override.yaml || -f docker-compose.override.yml ]]; then
+  MODE="development"
+  echo "Detected docker-compose.override.* → running in DEVELOPMENT mode (APP_ENV=local)."
+  echo "To run in production mode, temporarily move or remove the override file."
+else
+  echo "No override file detected → running in PRODUCTION mode (APP_ENV=production)."
+fi
+echo "Starting containers (${MODE})..."
 "${COMPOSE[@]}" up -d
+
+echo
 "${COMPOSE[@]}" ps
 echo ""
 echo "=> APP: http://localhost:8081/translations/stats"

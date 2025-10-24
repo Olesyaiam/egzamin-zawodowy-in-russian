@@ -19,8 +19,8 @@ COPY server /var/www/server
 # Provide an explicit vhost instead of .htaccess
 COPY apache-vhost.conf /etc/apache2/sites-available/vhost.conf
 
-# Ensure runtime dirs exist and are writable
-RUN mkdir /var/www/server/storage && chown -R www-data:www-data /var/www/server/storage
+# Ensure runtime dir is writable
+RUN chown -R www-data:www-data /var/www/server/storage
 
 # Enable our site, disable default one
 RUN a2dissite 000-default.conf && a2ensite vhost.conf

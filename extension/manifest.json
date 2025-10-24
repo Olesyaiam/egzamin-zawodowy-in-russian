@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Экзаменационные тесты полицеальных школ на русском - egzaminzawodowy.info",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Вопросы, ответы и пояснения профессионально переведены на русский, переводы появятся рядом с оригиналами. Убрана вся реклама с сайта",
     "content_scripts": [
         {
@@ -18,8 +18,13 @@
     "background": {
         "service_worker": "background.js"
     },
+
+    "action": {
+        "default_title": "Open README"
+    },
+
     "host_permissions": [
-        "https://webscrapp.rocks/egzamin-zawodowy/*",
+        "https://egzamin.webscrapp.rocks/*",
         "https://testy.egzaminzawodowy.info/*",
         "https://www.testy.egzaminzawodowy.info/*"
     ]

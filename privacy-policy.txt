@@ -10,7 +10,7 @@ The extension modifies the content of testy.egzaminzawodowy.info by adding trans
 The extension itself does not create, store, or manipulate cookies. However, it interacts with cookies already present on testy.egzaminzawodowy.info, which are used by the site for its functionality. The extension does not access, modify, or share cookies for any external purpose.
 
 4. External API Usage
-To provide translations, the extension connects to webscrapp.rocks, which delivers the translated content. No personal data is sent or received during this process.
+To provide translations, the extension connects to egzamin.webscrapp.rocks, which delivers the translated content. No personal data is sent or received during this process.
 
 5. Third-party Access
 We do not sell, share, or provide any user data to third-party companies or services.
@@ -37,7 +37,7 @@ If you have any questions or concerns about this privacy policy, feel free to co
 Расширение само по себе не создает, не сохраняет и не изменяет файлы cookie. Однако оно взаимодействует с файлами cookie, которые уже существуют на testy.egzaminzawodowy.info, и которые используются сайтом для его функциональности. Расширение не получает доступа, не изменяет и не передает файлы cookie в сторонние сервисы.
 
 4. Использование внешних API
-Для обеспечения перевода расширение подключается к webscrapp.rocks, который предоставляет переведенный контент. В ходе этого процесса не передаются и не обрабатываются никакие персональные данные.
+Для обеспечения перевода расширение подключается к egzamin.webscrapp.rocks, который предоставляет переведенный контент. В ходе этого процесса не передаются и не обрабатываются никакие персональные данные.
 
 5. Доступ третьих лиц
 Мы не продаем, не передаем и не предоставляем данные пользователей сторонним компаниям или сервисам.

@@ -17,3 +17,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         return true;
     }
 });
+// Открывать README по клику на иконку в тулбаре
+chrome.action.onClicked.addListener(() => {
+  chrome.tabs.create({
+    url: 'https://github.com/Olesyaiam/egzamin-zawodowy-in-russian#readme'
+  });
+});

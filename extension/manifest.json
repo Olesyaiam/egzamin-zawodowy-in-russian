@@ -1,8 +1,14 @@
 {
     "manifest_version": 3,
     "name": "Экзаменационные тесты полицеальных школ на русском - egzaminzawodowy.info",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Вопросы, ответы и пояснения профессионально переведены на русский, переводы появятся рядом с оригиналами. Убрана вся реклама с сайта",
+    "icons": {
+        "16":  "images/icon16.png",
+        "32":  "images/icon32.png",
+        "48":  "images/icon48.png",
+        "128": "images/icon128.png"
+    },
     "content_scripts": [
         {
             "matches": [
@@ -18,8 +24,18 @@
     "background": {
         "service_worker": "background.js"
     },
+
+    "action": {
+        "default_title": "Информация о расширении",
+        "default_icon": {
+            "16":  "images/icon16.png",
+            "32":  "images/icon32.png",
+            "48":  "images/icon48.png"
+        }
+    },
+
     "host_permissions": [
-        "https://webscrapp.rocks/egzamin-zawodowy/*",
+        "https://egzamin.webscrapp.rocks/*",
         "https://testy.egzaminzawodowy.info/*",
         "https://www.testy.egzaminzawodowy.info/*"
     ]

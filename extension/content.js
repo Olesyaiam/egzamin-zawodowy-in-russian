@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    const baseUrl = 'https://webscrapp.rocks/egzamin-zawodowy/'
+    const baseUrl = 'https://egzamin.webscrapp.rocks/'
     const selectors = {
         'question': '#question_text',
         'comment': '#question_comment',

@@ -33,7 +33,7 @@ class Translator extends Base
 
         $prompt = 'Фрагмент для перевода: "' . $userData . '"';
         $data = [
-            'model' => 'gpt-4o',
+            'model' => 'gpt-5-mini',
             'max_tokens' => 300,
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],

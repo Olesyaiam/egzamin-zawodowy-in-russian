@@ -17,9 +17,15 @@ class MenuController extends BaseController
             'items' => array(
                 [
                     'text' => mb_strtoupper('Поставьте нам звезду на GitHub'),
-                    'url' => 'https://github.com/Olesyaiam/egzamin-zawodowy-in-russian',
+                    'url' => 'https://github.com/Olesyaiam/egzamin-zawodowy-in-russian#readme',
                     'icon' => 'icon-retweet',
-                    'style' => 'color: green;'
+                    'style' => 'color: red;'
+                ],
+                [
+                    'text' => mb_strtoupper('Водительские права в Польше на русском'),
+                    'url' => 'https://github.com/pohape/polish-driving-exam-tests-prep-in-russian#readme',
+                    'icon' => 'icon-star',
+                    'style' => 'color: red;'
                 ]
             ),
             'remove' => array(

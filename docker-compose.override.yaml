@@ -10,7 +10,7 @@ services:
     # Ensure storage dirs exist, fix permissions for host bind, auto-install deps once
     command: >
       bash -lc '
-        /var/www/server/storage/ramdisk_tmpfs &&
+        mkdir /var/www/server/storage &&
         chown -R www-data:www-data /var/www/server/storage || true &&
         if [ ! -f /var/www/server/vendor/autoload.php ]; then
           cd /var/www/server && composer install --no-interaction --prefer-dist;

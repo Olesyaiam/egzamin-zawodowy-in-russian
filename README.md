@@ -1,8 +1,8 @@
 # Экзаменационные тесты полицеальных школ на русском — расширение Chrome
 
-> Перевод польских тестов с **testy.egzaminzawodowy.info** на русский язык — бесплатно, автоматически, контекстно и без рекламного мусора.
+Перевод польских тестов с **testy.egzaminzawodowy.info** на русский язык — бесплатно, автоматически, контекстно и без рекламного мусора.
 
-[Установить из Chrome Web Store](https://chromewebstore.google.com/detail/gegcmhooaioaleibmojcgihkiepnobij)
+## [Установить из Chrome Web Store](https://chromewebstore.google.com/detail/gegcmhooaioaleibmojcgihkiepnobij)
 
 ---
 

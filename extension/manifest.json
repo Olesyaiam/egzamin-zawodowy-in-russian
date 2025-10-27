@@ -24,7 +24,6 @@
     "background": {
         "service_worker": "background.js"
     },
-
     "action": {
         "default_title": "Информация о расширении",
         "default_icon": {
@@ -33,7 +32,6 @@
             "48":  "images/icon48.png"
         }
     },
-
     "host_permissions": [
         "https://egzamin.webscrapp.rocks/*",
         "https://testy.egzaminzawodowy.info/*",

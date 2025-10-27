@@ -23,7 +23,7 @@ class MenuController extends BaseController
                 ],
                 [
                     'text' => mb_strtoupper('Водительские права в Польше на русском'),
-                    'url' => 'https://github.com/pohape/polish-driving-exam-tests-prep-in-russian#readme',
+                    'url' => 'https://github.com/pohape/polish-driving-exam-tests-in-russian#readme',
                     'icon' => 'icon-star',
                     'style' => 'color: red;'
                 ]

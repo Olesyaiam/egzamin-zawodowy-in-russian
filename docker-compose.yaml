@@ -13,3 +13,12 @@ services:
     tmpfs:
       - /ramdisk_tmpfs:size=5m
     restart: unless-stopped
+    command: >
+      bash -lc '
+        echo "[ENTRYPOINT] Preparing writable dirs..." &&
+        mkdir -p /var/www/server/storage /ramdisk_tmpfs &&
+        chown -R www-data:www-data /var/www/server/storage /ramdisk_tmpfs || true &&
+        chmod 770 /ramdisk_tmpfs || true &&
+        echo "[ENTRYPOINT] Dirs ready, starting Apache" &&
+        exec apache2-foreground
+      '

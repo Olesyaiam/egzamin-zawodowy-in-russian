@@ -1,0 +1,14 @@
+#!/bin/sh
+set -e
+
+branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo "")
+if [ "$branch" = "release" ]; then
+  if [ -f "$(git rev-parse --git-dir)/MERGE_HEAD" ]; then
+    exit 0
+  fi
+
+  echo "ERROR: direct commits to 'release' are blocked; merge from 'main' instead." >&2
+  exit 1
+fi
+
+exit 0

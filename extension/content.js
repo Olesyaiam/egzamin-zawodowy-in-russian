@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    const baseUrl = 'https://egzamin.webscrapp.rocks/'
+    const baseUrl = 'https://egzamin.dobroedelo39.ru/'
     const selectors = {
         'question': '#question_text',
         'comment': '#question_comment',

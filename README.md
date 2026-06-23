@@ -88,6 +88,28 @@
 
 ---
 
+## Разработка (dev)
+
+Репозиторий разбит на две ветки: `main` (разработка) и `release` (деплой).
+Файл `docker-compose.override.yaml` (dev-дельта, режим `APP_ENV=local`) живёт
+**только** в `main` и не должен попадать в `release` — иначе прод поднимется в
+dev-режиме. Защита: `.gitattributes` (`docker-compose.override.yaml merge=ours`)
++ `.githooks/pre-commit`.
+
+Активация git-конфига per-clone не коммитится, поэтому после клонирования
+выполните **один раз**:
+
+```bash
+./scripts/setup-hooks.sh
+# эквивалент:
+#   git config core.hooksPath .githooks
+#   git config merge.ours.driver true
+```
+
+Деплой разворачивается из ветки `release` (см. `update.sh` / `up.sh`).
+
+---
+
 ## Юридическое
 
 Проект не аффилирован с владельцами сайта **testy.egzaminzawodowy.info**. Используйте с уважением к правилам ресурса и авторским правам. Назначение — учебное.

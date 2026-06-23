@@ -1,8 +1,20 @@
 #!/bin/sh
 set -e
 
+# Защита ветки release:
+#  - docker-compose.override.yaml (dev-дельта) НЕ должен попадать в release;
+#  - прямые коммиты в release запрещены — только merge из main.
+# Включается один раз: git config core.hooksPath .githooks
+#                      git config merge.ours.driver true   (для merge=ours, см. .gitattributes)
+
 branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo "")
 if [ "$branch" = "release" ]; then
+  if [ -e docker-compose.override.yaml ]; then
+    echo "ERROR: docker-compose.override.yaml must not exist on the release branch." >&2
+    exit 1
+  fi
+
+  # merge из main разрешаем (merge=ours уже оставил override за бортом)
   if [ -f "$(git rev-parse --git-dir)/MERGE_HEAD" ]; then
     exit 0
   fi
